@@ -1,0 +1,4 @@
+.env
+.python-version
+validation.log
+heurist.db
