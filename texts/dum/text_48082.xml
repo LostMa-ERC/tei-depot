@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title>Metadata encoding of "Lanceloet en het hert met de witte voet"</title>
+        </title>
+        <funder>European Research Council</funder>
+        <principal>Jean-Baptiste Camps</principal>
+        <respStmt>
+          <name>Elisabeth de Bruijn</name>
+          <resp>data entry and proof correction</resp>
+          <name>Cecile Vermaas</name>
+          <resp>data entry and proof correction</resp>
+          <name>Mike Kestemont</name>
+          <resp>data entry and proof correction</resp>
+          <name>Remco Sleiderink</name>
+          <resp>data entry and proof correction</resp>
+          <name>Kelly Christensen</name>
+          <resp>conversion of metadata to TEI markup</resp>
+          <name>Théo Moins</name>
+          <resp>conversion of text to TEI markup</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LostMa ERC Project</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date>2025-04-04</date>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl xml:id="text_48082">
+          <title type="full">
+            <title type="main">Lanceloet en het hert met de witte voet</title>
+          </title>
+        </bibl>
+        <listWit>
+          <witness xml:id="witness_48083"/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy>
+          <category xml:id="form" ref="https://www.wikidata.org/wiki/Q4263830">
+            <catDesc>Form</catDesc>
+            <category xml:id="verseForm">
+              <catDesc>verse</catDesc>
+            </category>
+            <category xml:id="proseForm">
+              <catDesc>prose</catDesc>
+            </category>
+            <category xml:id="mixedForm">
+              <catDesc>mixed</catDesc>
+            </category>
+            <category xml:id="unknownForm">
+              <catDesc>unknown</catDesc>
+            </category>
+          </category>
+          <category xml:id="traditionStatus">
+            <catDesc>Tradition status</catDesc>
+            <category xml:id="traditionFragmentary">
+              <catDesc>fragmentary</catDesc>
+              <desc>Surviving in only fragments. No complete witnesses survive.</desc>
+            </category>
+            <category xml:id="traditionLost">
+              <catDesc>lost</catDesc>
+              <desc>No witnesses of this text survive. It is a completely lost tradition.</desc>
+            </category>
+            <category xml:id="traditionSurviving">
+              <catDesc>surviving</catDesc>
+              <desc>Surviving in at least one (more or less) complete manuscript</desc>
+            </category>
+            <category xml:id="traditionUnknown">
+              <catDesc>unknown</catDesc>
+              <desc>The information is not ready to be input.</desc>
+            </category>
+          </category>
+          <category xml:id="genre" ref="https://www.wikidata.org/wiki/Q483394">
+            <catDesc>Genre</catDesc>
+            <category xml:id="genre_47768">
+              <catDesc>Arthurroman</catDesc>
+              <desc>'Arthurroman is een verzamelnaam voor ridderromans ontstaan in de tweede helft van de twaalfde eeuw aan Noord-Franse adellijke hoven. Centraal, zij het op de achtergrond, staat koning Arthur. De mode begon met vijf Arthurromans in de volkstaal (ca. 1160-1190) van Chrétien de Troyes.'</desc>
+            </category>
+            <category xml:id="genre_46304">
+              <catDesc>Karelepiek</catDesc>
+              <desc>Story about Charlemagne and his family.</desc>
+            </category>
+            <category xml:id="genre_47474">
+              <catDesc>Other</catDesc>
+              <desc>Any text that does not fit in with the main genres of Arthurian and Charlemagnian literature.</desc>
+            </category>
+            <category xml:id="genre_44167">
+              <catDesc>chanson de geste</catDesc>
+              <desc>Long epic poem from the Middle Ages.<bibl>
+                  <ptr target="https://www.wikidata.org/wiki/Q651019"/>
+                  <ptr target="https://catalogue.bnf.fr/ark:/12148/cb11947470n"/>
+                </bibl>
+              </desc>
+            </category>
+            <category xml:id="genre_47609">
+              <catDesc>chronique</catDesc>
+              <desc>'Chroniques' autodésignées, en prose, dérivées de chansons de geste et romans</desc>
+            </category>
+            <category xml:id="genre_47612">
+              <catDesc>mise en prose</catDesc>
+              <desc>mise en prose de chansons de geste ou romans en vers</desc>
+            </category>
+            <category xml:id="genre_46366">
+              <catDesc>riddarasögur</catDesc>
+              <desc>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.<name type="alt">chivalric sagas</name>
+              </desc>
+              <category xml:id="genre_46370">
+                <catDesc>riddarasögur translated</catDesc>
+                <desc>Norse translations of French chansons de geste and Latin romances and histories,</desc>
+              </category>
+              <category xml:id="genre_46367">
+                <catDesc>riddarasögur indigenous</catDesc>
+                <desc>Icelandic indigenous creations in a style of riddarasögur</desc>
+              </category>
+            </category>
+            <category xml:id="genre_44128">
+              <catDesc>roman</catDesc>
+              <desc>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)<name type="alt">chivalric romance</name>
+                <name type="alt">chivalric novel</name>
+                <bibl>
+                  <ptr target="http://fr.dbpedia.org/page/Roman_de_chevalerie"/>
+                  <ptr target="https://data.bnf.fr/16603707/roman_de_chevalerie/"/>
+                </bibl>
+              </desc>
+              <category xml:id="genre_44130">
+                <catDesc>roman lignager</catDesc>
+                <desc>Family history</desc>
+              </category>
+              <category xml:id="genre_46894">
+                <catDesc>Artusroman</catDesc>
+                <desc>Middle High German form of romance  or epic based on the Matière de Bretagne</desc>
+              </category>
+            </category>
+          </category>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date notBefore="1176-01-01" notAfter="1291-12-31" cert="conjecture">'wordt momenteel geda- teerd tussen de vermoedelijke voorbeeldtekst, de vroegdertiende-eeuwse Lay de Tyolet, en 1291 '</date>
+      </creation>
+      <langUsage>
+        <language ident="dum" ref="https://iso639-3.sil.org/code/dum" xml:id="lang_9728">Middle Dutch</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#form" target="#verseForm"/>
+        <catRef scheme="#traditionStatus" target="#traditionSurviving"/>
+        <catRef scheme="#genre" target="#genre_47768"/>
+        <keywords>
+          <term>Arthurroman</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <!-- Allignment of a text as a prep for an edition. -->
+      </p>
+    </body>
+  </text>
+</TEI>
