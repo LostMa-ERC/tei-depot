@@ -2,3 +2,4 @@
 .python-version
 validation.log
 heurist.db
+**/explorer.db
