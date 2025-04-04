@@ -22,6 +22,51 @@ When the text was saved with a language, the subdirectory has the name of the IS
 
 If the text was saved without a language, you can find it in the subdirectory [`null/`](./texts/null/).
 
+### Key metadata
+
+At this stage of the project, the following 2 sections are most relevant:
+
+The `sourceDesc` presents the text's title, authors (if available), and a list of its witnesses. In an upcoming phase, the `<witness>` element will have a lot more metadata, but its simple presence at least allows us to count the number of witnesses descending from a text.
+
+```xml
+    </fileDesc>
+      <titleStmt/>
+      <publicationStmt/>
+      <sourceDesc>
+        <bibl xml:id="text_47548">
+          <title type="full">
+            <title type="main">Floris ende Blancefloer</title>
+          </title>
+        </bibl>
+        <listWit>
+          <witness xml:id="witness_47552"/>
+          <witness xml:id="witness_47556"/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+```
+
+The `profileDesc` presents the text's creation date, language, and the following classifications: literary form (`scheme=#form`), tradition status (`scheme=#traditionStatus`), genre (`scheme=#genre`).
+
+```xml
+    <profileDesc>
+      <creation>
+        <date notBefore="1226-01-01" notAfter="1325-12-31" cert="conjecture">'Medio en tweede helft dertiende eeuw'</date>
+      </creation>
+      <langUsage>
+        <language ident="dum" ref="https://iso639-3.sil.org/code/dum" xml:id="lang_9728">Middle Dutch</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#form" target="#verseForm"/>
+        <catRef scheme="#traditionStatus" target="#traditionSurviving"/>
+        <catRef scheme="#genre" target="#genre_47474"/>
+        <keywords>
+          <term>Other</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+```
+
 ## Graph database
 
 Visually and intuitively explore the graph, which is saved in the directory [`kuzu_db`](./kuzu_db/), using the browser-based [Kùzu Explorer](https://docs.kuzudb.com/visualization/kuzu-explorer/).
