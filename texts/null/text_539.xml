@@ -22,7 +22,7 @@
       <publicationStmt>
         <publisher>LostMa ERC Project</publisher>
         <pubPlace>Paris</pubPlace>
-        <date>2025-04-04</date>
+        <date>2025-04-08</date>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
         </availability>
@@ -75,6 +75,23 @@
           </category>
           <category xml:id="genre" ref="https://www.wikidata.org/wiki/Q483394">
             <catDesc>Genre</catDesc>
+            <category xml:id="genre_46366">
+              <catDesc>riddarasögur</catDesc>
+              <desc>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.<name type="alt">chivalric sagas</name>
+              </desc>
+              <category xml:id="genre_46370">
+                <catDesc>riddarasögur translated</catDesc>
+                <desc>Norse translations of French chansons de geste and Latin romances and histories,</desc>
+              </category>
+              <category xml:id="genre_46367">
+                <catDesc>riddarasögur indigenous</catDesc>
+                <desc>Icelandic indigenous creations in a style of riddarasögur</desc>
+              </category>
+            </category>
+            <category xml:id="genre_48800">
+              <catDesc>Arthurian romance</catDesc>
+              <desc>Arthurian romance grew out of chronicles purporting to record the history of King Arthur, his knights, and their martial or amatory adventures.</desc>
+            </category>
             <category xml:id="genre_47768">
               <catDesc>Arthurroman</catDesc>
               <desc>'Arthurroman is een verzamelnaam voor ridderromans ontstaan in de tweede helft van de twaalfde eeuw aan Noord-Franse adellijke hoven. Centraal, zij het op de achtergrond, staat koning Arthur. De mode begon met vijf Arthurromans in de volkstaal (ca. 1160-1190) van Chrétien de Troyes.'</desc>
@@ -103,19 +120,6 @@
               <catDesc>mise en prose</catDesc>
               <desc>mise en prose de chansons de geste ou romans en vers</desc>
             </category>
-            <category xml:id="genre_46366">
-              <catDesc>riddarasögur</catDesc>
-              <desc>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.<name type="alt">chivalric sagas</name>
-              </desc>
-              <category xml:id="genre_46370">
-                <catDesc>riddarasögur translated</catDesc>
-                <desc>Norse translations of French chansons de geste and Latin romances and histories,</desc>
-              </category>
-              <category xml:id="genre_46367">
-                <catDesc>riddarasögur indigenous</catDesc>
-                <desc>Icelandic indigenous creations in a style of riddarasögur</desc>
-              </category>
-            </category>
             <category xml:id="genre_44128">
               <catDesc>roman</catDesc>
               <desc>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)<name type="alt">chivalric romance</name>
@@ -140,7 +144,7 @@
     </encodingDesc>
     <profileDesc>
       <creation>
-        <date notBefore="0901-04-04" notAfter="1200-12-31" cert="">X-XII</date>
+        <date notBefore="0901-04-08" notAfter="1200-12-31" cert="">X-XII</date>
       </creation>
       <langUsage>
         <language ident="" ref="" xml:id=""></language>
