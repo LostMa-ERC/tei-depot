@@ -13,14 +13,24 @@
         <respStmt>
           <name>Elisabeth de Bruijn</name>
           <resp>data entry and proof correction</resp>
+        </respStmt>
+        <respStmt>
           <name>Cecile Vermaas</name>
           <resp>data entry and proof correction</resp>
+        </respStmt>
+        <respStmt>
           <name>Mike Kestemont</name>
           <resp>data entry and proof correction</resp>
+        </respStmt>
+        <respStmt>
           <name>Remco Sleiderink</name>
           <resp>data entry and proof correction</resp>
+        </respStmt>
+        <respStmt>
           <name>Kelly Christensen</name>
           <resp>conversion of metadata to TEI markup</resp>
+        </respStmt>
+        <respStmt>
           <name>Théo Moins</name>
           <resp>conversion of text to TEI markup</resp>
         </respStmt>
@@ -41,35 +51,42 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_48300">
+            <abbr type="siglum">15.589-623</abbr>
+            <ref target="https://www.handschriftencensus.de/6926"/>
             <msDesc status="complete">
               <msIdentifier>
                 <msName>Historical document of witness 15.589-623</msName>
-                <abbr type="siglum">15.589-623</abbr>
-                <ref target="https://www.handschriftencensus.de/6926"/>
               </msIdentifier>
               <msPart>
-                <msIdentifier ref="#document_47647">
-                  <country ref="#BE">Belgium</country>
+                <msIdentifier corresp="#document_47647">
+                  <country corresp="#BE">Belgium</country>
                   <settlement>Brussels</settlement>
-                  <repository ref="#respository_43904">Bibliothèque royale de Belgique</repository>
+                  <repository corresp="#respository_43904">Bibliothèque royale de Belgique</repository>
                   <idno>15.589-623</idno>
-                  <ref target="https://www.handschriftencensus.de/6926"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_48301">
                     <locusGrp>
                       <locus from="118r" to="130v">118r-130v</locus>
                     </locusGrp>
-                    <textLang mainLang="Brabants" ref="#scripta_46312">Dialect of Brabant.</textLang>
+                    <textLang mainLang="Brabants" corresp="#scripta_46312">Dialect of Brabant.</textLang>
                   </msItem>
                 </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://www.handschriftencensus.de/6926"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
               </msPart>
               <history>
                 <origin>
-                  <origDate notBefore="1391-01-01" notAfter="1420-12-31" cert="conjecture">'c.1399-1410'</origDate>
+                  <origDate notBefore="1391-01-01" notAfter="1420-12-31" cert="medium">'c.1399-1410'</origDate>
                 </origin>
               </history>
-              <physDesc xml:id="physDesc_47651">
+              <physDesc corresp="#physDesc_47651">
                 <objectDesc form="codex">
                   <supportDesc material="chart">
                     <extent>
@@ -79,34 +96,34 @@
                       </dimensions>
                     </extent>
                   </supportDesc>
+                  <layoutDesc>
+                    <layout columns="2"/>
+                  </layoutDesc>
                 </objectDesc>
-                <layoutDesc>
-                  <layout columns="2" writtenLines="46-47"/>
-                </layoutDesc>
                 <handDesc>
                   <handNote script="cursiva"/>
                 </handDesc>
                 <decoDesc>
-                  <decNote type="illustration">
+                  <decoNote type="illustration">
                     <measure quantity="0"/>
-                  </decNote>
+                  </decoNote>
                   <decoNote type="rubrication"/>
                 </decoDesc>
               </physDesc>
             </msDesc>
           </witness>
           <witness xml:id="witness_48298">
+            <abbr type="siglum">IV 927</abbr>
+            <ref target="https://opac.kbr.be/Library/search.aspx?SC=KBR_UNIFIED&amp;QUERY=II+572&amp;_lg=nl-BE#/Detail/(query:(Id:'position:%20SOLR/DEFA-000001_OFFSET_0',Index:1,NBResults:1,PageRange:3,SearchQuery:(CloudTerms:!(),FacetFilter:'%7B%22_842%22:%22Handschrift%22%7D',ForceSearch:!f,InitialSearch:!f,Page:0,PageRange:3,QueryGuid:a3c1378b-7dfb-459a-9124-e62802b433d2,QueryString:'IV%20927',ResultSize:50,ScenarioCode:KBR_UNIFIED,ScenarioDisplayMode:display-standard,SearchGridFieldsShownOnResultsDTO:!(),SearchLabel:'',SearchTerms:'IV%20927',SessionGuid:'3420866a-0fd3-4b74-9785-49d7c4eedb68',SortField:!n,SortOrder:0,TemplateParams:(Scenario:'',Scope:Library,Size:!n,Source:'',Support:'',UseCompact:!f),UseSpellChecking:!n)),sst:2)"/>
             <msDesc status="complete">
               <msIdentifier>
                 <msName>Historical document of witness IV 927</msName>
-                <abbr type="siglum">IV 927</abbr>
-                <ref target="https://opac.kbr.be/Library/search.aspx?SC=KBR_UNIFIED&amp;QUERY=II+572&amp;_lg=nl-BE#/Detail/(query:(Id:'position:%20SOLR/DEFA-000001_OFFSET_0',Index:1,NBResults:1,PageRange:3,SearchQuery:(CloudTerms:!(),FacetFilter:'%7B%22_842%22:%22Handschrift%22%7D',ForceSearch:!f,InitialSearch:!f,Page:0,PageRange:3,QueryGuid:a3c1378b-7dfb-459a-9124-e62802b433d2,QueryString:'IV%20927',ResultSize:50,ScenarioCode:KBR_UNIFIED,ScenarioDisplayMode:display-standard,SearchGridFieldsShownOnResultsDTO:!(),SearchLabel:'',SearchTerms:'IV%20927',SessionGuid:'3420866a-0fd3-4b74-9785-49d7c4eedb68',SortField:!n,SortOrder:0,TemplateParams:(Scenario:'',Scope:Library,Size:!n,Source:'',Support:'',UseCompact:!f),UseSpellChecking:!n)),sst:2)"/>
               </msIdentifier>
               <msPart>
-                <msIdentifier ref="#document_47636">
-                  <country ref="#BE">Belgium</country>
+                <msIdentifier corresp="#document_47636">
+                  <country corresp="#BE">Belgium</country>
                   <settlement>Brussels</settlement>
-                  <repository ref="#respository_43904">Bibliothèque royale de Belgique</repository>
+                  <repository corresp="#respository_43904">Bibliothèque royale de Belgique</repository>
                   <idno>IV 927</idno>
                 </msIdentifier>
                 <msContents>
@@ -114,16 +131,22 @@
                     <locusGrp>
                       <locus from="NA" to="">NA</locus>
                     </locusGrp>
-                    <textLang mainLang="Oost-Nederlands" ref="#scripta_47503">Dialect from the eastern part of the current Netherlands, surrounding the Rijn-area.</textLang>
+                    <textLang mainLang="Oost-Nederlands" corresp="#scripta_47503">Dialect from the eastern part of the current Netherlands, surrounding the Rijn-area.</textLang>
                   </msItem>
                 </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
               </msPart>
               <history>
                 <origin>
-                  <origDate notBefore="1461-01-01" notAfter="1490-12-31" cert="conjecture">'c.1470-1480'</origDate>
+                  <origDate notBefore="1461-01-01" notAfter="1490-12-31" cert="medium">'c.1470-1480'</origDate>
                 </origin>
               </history>
-              <physDesc xml:id="physDesc_47639">
+              <physDesc corresp="#physDesc_47639">
                 <objectDesc form="codex">
                   <supportDesc material="chart">
                     <extent>
@@ -133,17 +156,17 @@
                       </dimensions>
                     </extent>
                   </supportDesc>
+                  <layoutDesc>
+                    <layout columns="2"/>
+                  </layoutDesc>
                 </objectDesc>
-                <layoutDesc>
-                  <layout columns="2" writtenLines="34-39"/>
-                </layoutDesc>
                 <handDesc>
                   <handNote script="hybrida"/>
                 </handDesc>
                 <decoDesc>
-                  <decNote type="illustration">
+                  <decoNote type="illustration">
                     <measure quantity="0"/>
-                  </decNote>
+                  </decoNote>
                   <decoNote type="rubrication"/>
                   <decoNote type="initial"/>
                 </decoDesc>
@@ -156,7 +179,7 @@
     <encodingDesc>
       <classDecl>
         <taxonomy>
-          <category xml:id="form" ref="https://www.wikidata.org/wiki/Q4263830">
+          <category xml:id="form" corresp="https://www.wikidata.org/wiki/Q4263830">
             <catDesc>Form</catDesc>
             <category xml:id="verseForm">
               <catDesc>verse</catDesc>
@@ -174,81 +197,117 @@
           <category xml:id="traditionStatus">
             <catDesc>Tradition status</catDesc>
             <category xml:id="traditionFragmentary">
-              <catDesc>fragmentary</catDesc>
-              <desc>Surviving in only fragments. No complete witnesses survive.</desc>
+              <catDesc>
+                <name type="main">fragmentary</name>
+                <gloss>Surviving in only fragments. No complete witnesses survive.</gloss>
+              </catDesc>
             </category>
             <category xml:id="traditionLost">
-              <catDesc>lost</catDesc>
-              <desc>No witnesses of this text survive. It is a completely lost tradition.</desc>
+              <catDesc>
+                <name type="main">lost</name>
+                <gloss>No witnesses of this text survive. It is a completely lost tradition.</gloss>
+              </catDesc>
             </category>
             <category xml:id="traditionSurviving">
-              <catDesc>surviving</catDesc>
-              <desc>Surviving in at least one (more or less) complete manuscript</desc>
+              <catDesc>
+                <name type="main">surviving</name>
+                <gloss>Surviving in at least one (more or less) complete manuscript</gloss>
+              </catDesc>
             </category>
             <category xml:id="traditionUnknown">
-              <catDesc>unknown</catDesc>
-              <desc>The information is not ready to be input.</desc>
+              <catDesc>
+                <name type="main">unknown</name>
+                <gloss>The information is not ready to be input.</gloss>
+              </catDesc>
             </category>
           </category>
-          <category xml:id="genre" ref="https://www.wikidata.org/wiki/Q483394">
+          <category xml:id="genre" corresp="https://www.wikidata.org/wiki/Q483394">
             <catDesc>Genre</catDesc>
-            <category xml:id="genre_46366">
-              <catDesc>riddarasögur</catDesc>
-              <desc>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.<name type="alt">chivalric sagas</name>
-              </desc>
-              <category xml:id="genre_46370">
-                <catDesc>riddarasögur translated</catDesc>
-                <desc>Norse translations of French chansons de geste and Latin romances and histories,</desc>
-              </category>
-              <category xml:id="genre_46367">
-                <catDesc>riddarasögur indigenous</catDesc>
-                <desc>Icelandic indigenous creations in a style of riddarasögur</desc>
-              </category>
-            </category>
             <category xml:id="genre_48800">
-              <catDesc>Arthurian romance</catDesc>
-              <desc>Arthurian romance grew out of chronicles purporting to record the history of King Arthur, his knights, and their martial or amatory adventures.</desc>
+              <catDesc>
+                <name type="main">Arthurian romance</name>
+                <gloss>Arthurian romance grew out of chronicles purporting to record the history of King Arthur, his knights, and their martial or amatory adventures.</gloss>
+              </catDesc>
             </category>
             <category xml:id="genre_47768">
-              <catDesc>Arthurroman</catDesc>
-              <desc>'Arthurroman is een verzamelnaam voor ridderromans ontstaan in de tweede helft van de twaalfde eeuw aan Noord-Franse adellijke hoven. Centraal, zij het op de achtergrond, staat koning Arthur. De mode begon met vijf Arthurromans in de volkstaal (ca. 1160-1190) van Chrétien de Troyes.'</desc>
+              <catDesc>
+                <name type="main">Arthurroman</name>
+                <gloss>'Arthurroman is een verzamelnaam voor ridderromans ontstaan in de tweede helft van de twaalfde eeuw aan Noord-Franse adellijke hoven. Centraal, zij het op de achtergrond, staat koning Arthur. De mode begon met vijf Arthurromans in de volkstaal (ca. 1160-1190) van Chrétien de Troyes.'</gloss>
+              </catDesc>
             </category>
             <category xml:id="genre_49013">
-              <catDesc>Carolingian romance</catDesc>
-              <desc>Middle English romance surrounding characters related to Charlemagne or people at his court.</desc>
+              <catDesc>
+                <name type="main">Carolingian romance</name>
+                <gloss>Middle English romance surrounding characters related to Charlemagne or people at his court.</gloss>
+              </catDesc>
             </category>
             <category xml:id="genre_46304">
-              <catDesc>Karelepiek</catDesc>
-              <desc>Story about Charlemagne and his family.</desc>
+              <catDesc>
+                <name type="main">Karelepiek</name>
+                <gloss>Story about Charlemagne and his family.</gloss>
+              </catDesc>
             </category>
             <category xml:id="genre_47474">
-              <catDesc>Other</catDesc>
-              <desc>Any text that does not fit in with the main genres of Arthurian and Charlemagnian literature.</desc>
+              <catDesc>
+                <name type="main">Other</name>
+                <gloss>Any text that does not fit in with the main genres of Arthurian and Charlemagnian literature.</gloss>
+              </catDesc>
             </category>
             <category xml:id="genre_44167">
-              <catDesc>chanson de geste</catDesc>
-              <desc>Long epic poem from the Middle Ages.</desc>
+              <catDesc>
+                <name type="main">chanson de geste</name>
+                <gloss>Long epic poem from the Middle Ages.</gloss>
+              </catDesc>
             </category>
             <category xml:id="genre_47609">
-              <catDesc>chronique</catDesc>
-              <desc>'Chroniques' autodésignées, en prose, dérivées de chansons de geste et romans</desc>
+              <catDesc>
+                <name type="main">chronique</name>
+                <gloss>'Chroniques' autodésignées, en prose, dérivées de chansons de geste et romans</gloss>
+              </catDesc>
             </category>
             <category xml:id="genre_47612">
-              <catDesc>mise en prose</catDesc>
-              <desc>mise en prose de chansons de geste ou romans en vers</desc>
+              <catDesc>
+                <name type="main">mise en prose</name>
+                <gloss>mise en prose de chansons de geste ou romans en vers</gloss>
+              </catDesc>
             </category>
             <category xml:id="genre_44128">
-              <catDesc>roman</catDesc>
-              <desc>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)<name type="alt">chivalric romance</name>
+              <catDesc>
+                <name type="main">roman</name>
+                <name type="alt">chivalric romance</name>
                 <name type="alt">chivalric novel</name>
-              </desc>
+                <gloss>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)</gloss>
+              </catDesc>
               <category xml:id="genre_44130">
-                <catDesc>roman lignager</catDesc>
-                <desc>Family history</desc>
+                <catDesc>
+                  <name type="main">roman lignager</name>
+                  <gloss>Family history</gloss>
+                </catDesc>
               </category>
               <category xml:id="genre_46894">
-                <catDesc>Artusroman</catDesc>
-                <desc>Middle High German form of romance  or epic based on the Matière de Bretagne</desc>
+                <catDesc>
+                  <name type="main">Artusroman</name>
+                  <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
+                </catDesc>
+              </category>
+            </category>
+            <category xml:id="genre_46366">
+              <catDesc>
+                <name type="main">riddarasögur</name>
+                <name type="alt">chivalric sagas</name>
+                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
+              </catDesc>
+              <category xml:id="genre_46370">
+                <catDesc>
+                  <name type="main">riddarasögur translated</name>
+                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46367">
+                <catDesc>
+                  <name type="main">riddarasögur indigenous</name>
+                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
+                </catDesc>
               </category>
             </category>
           </category>
@@ -257,10 +316,10 @@
     </encodingDesc>
     <profileDesc>
       <creation>
-        <date notBefore="1176-01-01" notAfter="1260-12-31" cert="conjecture">'Een datering in de jaren dertig of veertig van de dertiende eeuw (of nog vroeger) lijkt niet overdreven. '</date>
+        <date notBefore="1176-01-01" notAfter="1260-12-31" cert="medium">'Een datering in de jaren dertig of veertig van de dertiende eeuw (of nog vroeger) lijkt niet overdreven. '</date>
       </creation>
       <langUsage>
-        <language ident="dum" ref="https://iso639-3.sil.org/code/dum" xml:id="lang_9728">Middle Dutch</language>
+        <language ident="dum" corresp="https://iso639-3.sil.org/code/dum" xml:id="lang_9728">Middle Dutch</language>
       </langUsage>
       <textClass>
         <catRef scheme="#form" target="#verseForm"/>

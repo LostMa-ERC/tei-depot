@@ -13,14 +13,24 @@
         <respStmt>
           <name>Elisabeth de Bruijn</name>
           <resp>data entry and proof correction</resp>
+        </respStmt>
+        <respStmt>
           <name>Cecile Vermaas</name>
           <resp>data entry and proof correction</resp>
+        </respStmt>
+        <respStmt>
           <name>Mike Kestemont</name>
           <resp>data entry and proof correction</resp>
+        </respStmt>
+        <respStmt>
           <name>Remco Sleiderink</name>
           <resp>data entry and proof correction</resp>
+        </respStmt>
+        <respStmt>
           <name>Kelly Christensen</name>
           <resp>conversion of metadata to TEI markup</resp>
+        </respStmt>
+        <respStmt>
           <name>Théo Moins</name>
           <resp>conversion of text to TEI markup</resp>
         </respStmt>
@@ -41,16 +51,16 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_47441">
+            <abbr type="siglum">H102</abbr>
             <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H102</msName>
-                <abbr type="siglum">H102</abbr>
               </msIdentifier>
               <msPart>
-                <msIdentifier ref="#document_47440">
-                  <country ref="#NL">Netherlands</country>
+                <msIdentifier corresp="#document_47440">
+                  <country corresp="#NL">Netherlands</country>
                   <settlement>Rotterdam</settlement>
-                  <repository ref="#respository_47361">Gemeentebibliotheek Rotterdam</repository>
+                  <repository corresp="#respository_47361">Gemeentebibliotheek Rotterdam</repository>
                   <idno>96 B 6:1</idno>
                 </msIdentifier>
                 <msContents>
@@ -58,52 +68,58 @@
                     <locusGrp>
                       <locus from="1r" to="1v">1r-1v</locus>
                     </locusGrp>
-                    <textLang mainLang="Hollands" ref="#scripta_47357">Dialect from the north-western Dutch region.</textLang>
+                    <textLang mainLang="Hollands" corresp="#scripta_47357">Dialect from the north-western Dutch region.</textLang>
                   </msItem>
                 </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
               </msPart>
               <history>
                 <origin>
-                  <origDate notBefore="1291-01-01" notAfter="1510-12-31" cert="conjecture">'XIV/XV'.</origDate>
+                  <origDate notBefore="1291-01-01" notAfter="1510-12-31" cert="medium">'XIV/XV'.</origDate>
                 </origin>
               </history>
-              <physDesc xml:id="physDesc_47443">
+              <physDesc corresp="#physDesc_47443">
                 <objectDesc form="codex">
                   <supportDesc material="perg">
                     <extent>
                       <dimensions unit="millimeters" type="written">
-                        <height quantity="240-250">240-250</height>
+                        <height>240-250</height>
                         <width quantity="170">170</width>
                       </dimensions>
                     </extent>
                   </supportDesc>
+                  <layoutDesc>
+                    <layout columns="2" writtenLines="42"/>
+                  </layoutDesc>
                 </objectDesc>
-                <layoutDesc>
-                  <layout columns="2" writtenLines="42"/>
-                </layoutDesc>
                 <handDesc>
                   <handNote script="textualis"/>
                 </handDesc>
                 <decoDesc>
-                  <decNote type="illustration">
+                  <decoNote type="illustration">
                     <measure quantity="0"/>
-                  </decNote>
+                  </decoNote>
                   <decoNote type="rubrication"/>
                 </decoDesc>
               </physDesc>
             </msDesc>
           </witness>
           <witness xml:id="witness_47429">
+            <abbr type="siglum">H99</abbr>
             <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H99</msName>
-                <abbr type="siglum">H99</abbr>
               </msIdentifier>
               <msPart>
-                <msIdentifier ref="#document_47428">
-                  <country ref="#BE">Belgium</country>
+                <msIdentifier corresp="#document_47428">
+                  <country corresp="#BE">Belgium</country>
                   <settlement>Brussels</settlement>
-                  <repository ref="#respository_43904">Bibliothèque royale de Belgique</repository>
+                  <repository corresp="#respository_43904">Bibliothèque royale de Belgique</repository>
                   <idno>21.143</idno>
                 </msIdentifier>
                 <msContents>
@@ -111,16 +127,22 @@
                     <locusGrp>
                       <locus from="1r" to="1v">1r-1v</locus>
                     </locusGrp>
-                    <textLang mainLang="Brabants" ref="#scripta_46312">Dialect of Brabant.</textLang>
+                    <textLang mainLang="Brabants" corresp="#scripta_46312">Dialect of Brabant.</textLang>
                   </msItem>
                 </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
               </msPart>
               <history>
                 <origin>
-                  <origDate notBefore="1341-01-01" notAfter="1410-12-31" cert="conjecture">'XIV2'.</origDate>
+                  <origDate notBefore="1341-01-01" notAfter="1410-12-31" cert="medium">'XIV2'.</origDate>
                 </origin>
               </history>
-              <physDesc xml:id="physDesc_47431">
+              <physDesc corresp="#physDesc_47431">
                 <objectDesc form="codex">
                   <supportDesc material="perg">
                     <extent>
@@ -130,33 +152,33 @@
                       </dimensions>
                     </extent>
                   </supportDesc>
+                  <layoutDesc>
+                    <layout columns="2" writtenLines="40"/>
+                  </layoutDesc>
                 </objectDesc>
-                <layoutDesc>
-                  <layout columns="2" writtenLines="40"/>
-                </layoutDesc>
                 <handDesc>
                   <handNote script="textualis"/>
                 </handDesc>
                 <decoDesc>
-                  <decNote type="illustration">
+                  <decoNote type="illustration">
                     <measure quantity="0"/>
-                  </decNote>
+                  </decoNote>
                   <decoNote type="rubrication"/>
                 </decoDesc>
               </physDesc>
             </msDesc>
           </witness>
           <witness xml:id="witness_46361">
+            <abbr type="siglum">H98</abbr>
             <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H98</msName>
-                <abbr type="siglum">H98</abbr>
               </msIdentifier>
               <msPart>
-                <msIdentifier ref="#document_46338">
-                  <country ref="#NL">Netherlands</country>
+                <msIdentifier corresp="#document_46338">
+                  <country corresp="#NL">Netherlands</country>
                   <settlement>The Hague</settlement>
-                  <repository ref="#respository_43733">Koninklijke Bibliotheek</repository>
+                  <repository corresp="#respository_43733">Koninklijke Bibliotheek</repository>
                   <idno>74 C 8</idno>
                 </msIdentifier>
                 <msContents>
@@ -165,29 +187,35 @@
                       <locus from="1r" to="1v">1r-1v</locus>
                       <locus from="2r" to="2v">2r-2v</locus>
                     </locusGrp>
-                    <textLang mainLang="Vlaams" ref="#scripta_46305">Dialect of Flanders.</textLang>
+                    <textLang mainLang="Vlaams" corresp="#scripta_46305">Dialect of Flanders.</textLang>
                   </msItem>
                 </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
               </msPart>
               <history>
                 <origin>
-                  <origDate notBefore="1341-01-01" notAfter="1410-12-31" cert="conjecture"/>
+                  <origDate notBefore="1341-01-01" notAfter="1410-12-31" cert="medium"/>
                 </origin>
               </history>
               <physDesc/>
             </msDesc>
           </witness>
           <witness xml:id="witness_47437">
+            <abbr type="siglum">H101</abbr>
             <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H101</msName>
-                <abbr type="siglum">H101</abbr>
               </msIdentifier>
               <msPart>
-                <msIdentifier ref="#document_47436">
-                  <country ref="#NL">Netherlands</country>
+                <msIdentifier corresp="#document_47436">
+                  <country corresp="#NL">Netherlands</country>
                   <settlement>Amsterdam</settlement>
-                  <repository ref="#respository_43887">Universiteitsbibliotheek Amsterdam</repository>
+                  <repository corresp="#respository_43887">Universiteitsbibliotheek Amsterdam</repository>
                   <idno>I A 24 l</idno>
                 </msIdentifier>
                 <msContents>
@@ -195,16 +223,22 @@
                     <locusGrp>
                       <locus from="1r" to="10r">1r-10r</locus>
                     </locusGrp>
-                    <textLang mainLang="Limburgs" ref="#scripta_47240">Dialect from the Middle Dutch region Limburg.</textLang>
+                    <textLang mainLang="Limburgs" corresp="#scripta_47240">Dialect from the Middle Dutch region Limburg.</textLang>
                   </msItem>
                 </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
               </msPart>
               <history>
                 <origin>
-                  <origDate notBefore="1466-01-01" notAfter="1510-12-31" cert="conjecture">'XVd'.</origDate>
+                  <origDate notBefore="1466-01-01" notAfter="1510-12-31" cert="medium">'XVd'.</origDate>
                 </origin>
               </history>
-              <physDesc xml:id="physDesc_47439">
+              <physDesc corresp="#physDesc_47439">
                 <objectDesc form="codex">
                   <supportDesc material="perg">
                     <extent>
@@ -214,33 +248,33 @@
                       </dimensions>
                     </extent>
                   </supportDesc>
+                  <layoutDesc>
+                    <layout columns="2"/>
+                  </layoutDesc>
                 </objectDesc>
-                <layoutDesc>
-                  <layout columns="2" writtenLines="30-33"/>
-                </layoutDesc>
                 <handDesc>
                   <handNote script="cursiva"/>
                 </handDesc>
                 <decoDesc>
-                  <decNote type="illustration">
+                  <decoNote type="illustration">
                     <measure quantity="0"/>
-                  </decNote>
+                  </decoNote>
                   <decoNote type="incomplete dec."/>
                 </decoDesc>
               </physDesc>
             </msDesc>
           </witness>
           <witness xml:id="witness_47433">
+            <abbr type="siglum">H100</abbr>
             <msDesc status="lost">
               <msIdentifier>
                 <msName>Historical document of witness H100</msName>
-                <abbr type="siglum">H100</abbr>
               </msIdentifier>
               <msPart>
-                <msIdentifier ref="#document_47432">
-                  <country ref="#FR">France</country>
+                <msIdentifier corresp="#document_47432">
+                  <country corresp="#FR">France</country>
                   <settlement>Lille</settlement>
-                  <repository ref="#respository_43875">Médiathèque municipale Jean-Lévy Lille</repository>
+                  <repository corresp="#respository_43875">Médiathèque municipale Jean-Lévy Lille</repository>
                   <idno>z.s.</idno>
                 </msIdentifier>
                 <msContents>
@@ -248,36 +282,42 @@
                     <locusGrp>
                       <locus from="1r" to="2v">1r-2v</locus>
                     </locusGrp>
-                    <textLang mainLang="Vlaams" ref="#scripta_46305">Dialect of Flanders.</textLang>
+                    <textLang mainLang="Vlaams" corresp="#scripta_46305">Dialect of Flanders.</textLang>
                   </msItem>
                 </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
               </msPart>
               <history>
                 <origin>
-                  <origDate notBefore="1391-01-01" notAfter="1510-12-31" cert="conjecture">'XIV?'.</origDate>
+                  <origDate notBefore="1391-01-01" notAfter="1510-12-31" cert="medium">'XIV?'.</origDate>
                 </origin>
               </history>
-              <physDesc xml:id="physDesc_47435">
+              <physDesc corresp="#physDesc_47435">
                 <objectDesc form="codex">
                   <supportDesc material="perg">
                     <extent>
                       <dimensions unit="millimeters" type="written">
-                        <height quantity="NA">NA</height>
-                        <width quantity="NA">NA</width>
+                        <height>NA</height>
+                        <width>NA</width>
                       </dimensions>
                     </extent>
                   </supportDesc>
+                  <layoutDesc>
+                    <layout columns="2" writtenLines="48"/>
+                  </layoutDesc>
                 </objectDesc>
-                <layoutDesc>
-                  <layout columns="2" writtenLines="48"/>
-                </layoutDesc>
                 <handDesc>
                   <handNote script="unknown"/>
                 </handDesc>
                 <decoDesc>
-                  <decNote type="illustration">
+                  <decoNote type="illustration">
                     <measure quantity=""/>
-                  </decNote>
+                  </decoNote>
                   <decoNote type="unknown"/>
                 </decoDesc>
               </physDesc>
@@ -289,7 +329,7 @@
     <encodingDesc>
       <classDecl>
         <taxonomy>
-          <category xml:id="form" ref="https://www.wikidata.org/wiki/Q4263830">
+          <category xml:id="form" corresp="https://www.wikidata.org/wiki/Q4263830">
             <catDesc>Form</catDesc>
             <category xml:id="verseForm">
               <catDesc>verse</catDesc>
@@ -307,81 +347,117 @@
           <category xml:id="traditionStatus">
             <catDesc>Tradition status</catDesc>
             <category xml:id="traditionFragmentary">
-              <catDesc>fragmentary</catDesc>
-              <desc>Surviving in only fragments. No complete witnesses survive.</desc>
+              <catDesc>
+                <name type="main">fragmentary</name>
+                <gloss>Surviving in only fragments. No complete witnesses survive.</gloss>
+              </catDesc>
             </category>
             <category xml:id="traditionLost">
-              <catDesc>lost</catDesc>
-              <desc>No witnesses of this text survive. It is a completely lost tradition.</desc>
+              <catDesc>
+                <name type="main">lost</name>
+                <gloss>No witnesses of this text survive. It is a completely lost tradition.</gloss>
+              </catDesc>
             </category>
             <category xml:id="traditionSurviving">
-              <catDesc>surviving</catDesc>
-              <desc>Surviving in at least one (more or less) complete manuscript</desc>
+              <catDesc>
+                <name type="main">surviving</name>
+                <gloss>Surviving in at least one (more or less) complete manuscript</gloss>
+              </catDesc>
             </category>
             <category xml:id="traditionUnknown">
-              <catDesc>unknown</catDesc>
-              <desc>The information is not ready to be input.</desc>
+              <catDesc>
+                <name type="main">unknown</name>
+                <gloss>The information is not ready to be input.</gloss>
+              </catDesc>
             </category>
           </category>
-          <category xml:id="genre" ref="https://www.wikidata.org/wiki/Q483394">
+          <category xml:id="genre" corresp="https://www.wikidata.org/wiki/Q483394">
             <catDesc>Genre</catDesc>
-            <category xml:id="genre_46366">
-              <catDesc>riddarasögur</catDesc>
-              <desc>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.<name type="alt">chivalric sagas</name>
-              </desc>
-              <category xml:id="genre_46370">
-                <catDesc>riddarasögur translated</catDesc>
-                <desc>Norse translations of French chansons de geste and Latin romances and histories,</desc>
-              </category>
-              <category xml:id="genre_46367">
-                <catDesc>riddarasögur indigenous</catDesc>
-                <desc>Icelandic indigenous creations in a style of riddarasögur</desc>
-              </category>
-            </category>
             <category xml:id="genre_48800">
-              <catDesc>Arthurian romance</catDesc>
-              <desc>Arthurian romance grew out of chronicles purporting to record the history of King Arthur, his knights, and their martial or amatory adventures.</desc>
+              <catDesc>
+                <name type="main">Arthurian romance</name>
+                <gloss>Arthurian romance grew out of chronicles purporting to record the history of King Arthur, his knights, and their martial or amatory adventures.</gloss>
+              </catDesc>
             </category>
             <category xml:id="genre_47768">
-              <catDesc>Arthurroman</catDesc>
-              <desc>'Arthurroman is een verzamelnaam voor ridderromans ontstaan in de tweede helft van de twaalfde eeuw aan Noord-Franse adellijke hoven. Centraal, zij het op de achtergrond, staat koning Arthur. De mode begon met vijf Arthurromans in de volkstaal (ca. 1160-1190) van Chrétien de Troyes.'</desc>
+              <catDesc>
+                <name type="main">Arthurroman</name>
+                <gloss>'Arthurroman is een verzamelnaam voor ridderromans ontstaan in de tweede helft van de twaalfde eeuw aan Noord-Franse adellijke hoven. Centraal, zij het op de achtergrond, staat koning Arthur. De mode begon met vijf Arthurromans in de volkstaal (ca. 1160-1190) van Chrétien de Troyes.'</gloss>
+              </catDesc>
             </category>
             <category xml:id="genre_49013">
-              <catDesc>Carolingian romance</catDesc>
-              <desc>Middle English romance surrounding characters related to Charlemagne or people at his court.</desc>
+              <catDesc>
+                <name type="main">Carolingian romance</name>
+                <gloss>Middle English romance surrounding characters related to Charlemagne or people at his court.</gloss>
+              </catDesc>
             </category>
             <category xml:id="genre_46304">
-              <catDesc>Karelepiek</catDesc>
-              <desc>Story about Charlemagne and his family.</desc>
+              <catDesc>
+                <name type="main">Karelepiek</name>
+                <gloss>Story about Charlemagne and his family.</gloss>
+              </catDesc>
             </category>
             <category xml:id="genre_47474">
-              <catDesc>Other</catDesc>
-              <desc>Any text that does not fit in with the main genres of Arthurian and Charlemagnian literature.</desc>
+              <catDesc>
+                <name type="main">Other</name>
+                <gloss>Any text that does not fit in with the main genres of Arthurian and Charlemagnian literature.</gloss>
+              </catDesc>
             </category>
             <category xml:id="genre_44167">
-              <catDesc>chanson de geste</catDesc>
-              <desc>Long epic poem from the Middle Ages.</desc>
+              <catDesc>
+                <name type="main">chanson de geste</name>
+                <gloss>Long epic poem from the Middle Ages.</gloss>
+              </catDesc>
             </category>
             <category xml:id="genre_47609">
-              <catDesc>chronique</catDesc>
-              <desc>'Chroniques' autodésignées, en prose, dérivées de chansons de geste et romans</desc>
+              <catDesc>
+                <name type="main">chronique</name>
+                <gloss>'Chroniques' autodésignées, en prose, dérivées de chansons de geste et romans</gloss>
+              </catDesc>
             </category>
             <category xml:id="genre_47612">
-              <catDesc>mise en prose</catDesc>
-              <desc>mise en prose de chansons de geste ou romans en vers</desc>
+              <catDesc>
+                <name type="main">mise en prose</name>
+                <gloss>mise en prose de chansons de geste ou romans en vers</gloss>
+              </catDesc>
             </category>
             <category xml:id="genre_44128">
-              <catDesc>roman</catDesc>
-              <desc>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)<name type="alt">chivalric romance</name>
+              <catDesc>
+                <name type="main">roman</name>
+                <name type="alt">chivalric romance</name>
                 <name type="alt">chivalric novel</name>
-              </desc>
+                <gloss>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)</gloss>
+              </catDesc>
               <category xml:id="genre_44130">
-                <catDesc>roman lignager</catDesc>
-                <desc>Family history</desc>
+                <catDesc>
+                  <name type="main">roman lignager</name>
+                  <gloss>Family history</gloss>
+                </catDesc>
               </category>
               <category xml:id="genre_46894">
-                <catDesc>Artusroman</catDesc>
-                <desc>Middle High German form of romance  or epic based on the Matière de Bretagne</desc>
+                <catDesc>
+                  <name type="main">Artusroman</name>
+                  <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
+                </catDesc>
+              </category>
+            </category>
+            <category xml:id="genre_46366">
+              <catDesc>
+                <name type="main">riddarasögur</name>
+                <name type="alt">chivalric sagas</name>
+                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
+              </catDesc>
+              <category xml:id="genre_46370">
+                <catDesc>
+                  <name type="main">riddarasögur translated</name>
+                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46367">
+                <catDesc>
+                  <name type="main">riddarasögur indigenous</name>
+                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
+                </catDesc>
               </category>
             </category>
           </category>
@@ -390,10 +466,10 @@
     </encodingDesc>
     <profileDesc>
       <creation>
-        <date notBefore="1191-01-01" notAfter="1240-12-31" cert="conjecture">'ca. 1200 – ca. 1230'</date>
+        <date notBefore="1191-01-01" notAfter="1240-12-31" cert="medium">'ca. 1200 – ca. 1230'</date>
       </creation>
       <langUsage>
-        <language ident="dum" ref="https://iso639-3.sil.org/code/dum" xml:id="lang_9728">Middle Dutch</language>
+        <language ident="dum" corresp="https://iso639-3.sil.org/code/dum" xml:id="lang_9728">Middle Dutch</language>
       </langUsage>
       <textClass>
         <catRef scheme="#form" target="#verseForm"/>

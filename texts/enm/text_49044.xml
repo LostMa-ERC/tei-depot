@@ -13,8 +13,12 @@
         <respStmt>
           <name>Jean-Baptiste Camps</name>
           <resp>data entry and proof correction</resp>
+        </respStmt>
+        <respStmt>
           <name>Kelly Christensen</name>
           <resp>conversion of metadata to TEI markup</resp>
+        </respStmt>
+        <respStmt>
           <name>Théo Moins</name>
           <resp>conversion of text to TEI markup</resp>
         </respStmt>
@@ -35,18 +39,18 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_49047">
+            <abbr type="siglum">*2288.8</abbr>
+            <ref target="https://www.middleenglishromance.org.uk/mer/21"/>
+            <ref target="https://cudl.lib.cam.ac.uk/view/MS-GG-00004-00027-00002/5"/>
             <msDesc status="defective">
               <msIdentifier>
                 <msName>Historical document of witness *2288.8</msName>
-                <abbr type="siglum">*2288.8</abbr>
-                <ref target="https://www.middleenglishromance.org.uk/mer/21"/>
-                <ref target="https://cudl.lib.cam.ac.uk/view/MS-GG-00004-00027-00002/5"/>
               </msIdentifier>
               <msPart>
-                <msIdentifier ref="#document_49045">
-                  <country ref="#None">United Kingdom</country>
+                <msIdentifier corresp="#document_49045">
+                  <country corresp="#None">United Kingdom</country>
                   <settlement>Cambridge</settlement>
-                  <repository ref="#respository_43816">University of Cambridge. Library</repository>
+                  <repository corresp="#respository_43816">University of Cambridge. Library</repository>
                   <idno>MS Gg.4.27</idno>
                 </msIdentifier>
                 <msContents>
@@ -54,72 +58,85 @@
                     <locusGrp>
                       <locus from="1r" to="5v">1r-5v</locus>
                     </locusGrp>
-                    <textLang mainLang="East Midlands" ref="#scripta_48797">Dialect spoken in the middle Eastern part of England (East Midlands).</textLang>
+                    <textLang mainLang="East Midlands" corresp="#scripta_48797">Dialect spoken in the middle Eastern part of England (East Midlands).</textLang>
                   </msItem>
                 </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
               </msPart>
               <history>
                 <origin>
-                  <origDate notBefore="1291-01-01" notAfter="1310-12-31" cert="conjecture">'c. 1300'</origDate>
+                  <origDate notBefore="1291-01-01" notAfter="1310-12-31" cert="medium">'c. 1300'</origDate>
                 </origin>
               </history>
-              <physDesc xml:id="physDesc_49049">
+              <physDesc corresp="#physDesc_49049">
                 <objectDesc form="codex">
                   <supportDesc material="perg">
                     <extent>
                       <dimensions unit="millimeters" type="written">
-                        <height quantity="220-250">220-250</height>
-                        <width quantity="130-160">130-160</width>
+                        <height>220-250</height>
+                        <width>130-160</width>
                       </dimensions>
                     </extent>
                   </supportDesc>
+                  <layoutDesc>
+                    <layout columns="2"/>
+                  </layoutDesc>
                 </objectDesc>
-                <layoutDesc>
-                  <layout columns="2" writtenLines="39-42"/>
-                </layoutDesc>
                 <handDesc>
                   <handNote script="textualis" subtype="anglicana formata"/>
                 </handDesc>
                 <decoDesc>
-                  <decNote type="illustration">
+                  <decoNote type="illustration">
                     <measure quantity="0"/>
-                  </decNote>
+                  </decoNote>
                   <decoNote type="initial"/>
                 </decoDesc>
               </physDesc>
             </msDesc>
           </witness>
           <witness xml:id="witness_49054">
+            <abbr type="siglum">*2288.8</abbr>
+            <ref target="https://www.middleenglishromance.org.uk/mer/21"/>
+            <ref target="https://auchinleck.nls.uk/mss/floris.html"/>
             <msDesc status="defective">
               <msIdentifier>
                 <msName>Historical document of witness *2288.8</msName>
-                <abbr type="siglum">*2288.8</abbr>
-                <ref target="https://www.middleenglishromance.org.uk/mer/21"/>
-                <ref target="https://auchinleck.nls.uk/mss/floris.html"/>
               </msIdentifier>
               <msPart>
-                <msIdentifier ref="#document_48827">
-                  <country ref="#None">United Kingdom</country>
+                <msIdentifier corresp="#document_48827">
+                  <country corresp="#None">United Kingdom</country>
                   <settlement>Edinburgh</settlement>
-                  <repository ref="#respository_43958">National Library of Scotland</repository>
+                  <repository corresp="#respository_43958">National Library of Scotland</repository>
                   <idno>MS Advocates 19.2.1</idno>
-                  <ref target="https://www.middleenglishromance.org.uk/mer/5"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_49055">
                     <locusGrp>
                       <locus from="100r" to="104v">100r-104v</locus>
                     </locusGrp>
-                    <textLang mainLang="London" ref="#scripta_48834">Dialect spoken in the south east Brittain region.</textLang>
+                    <textLang mainLang="London" corresp="#scripta_48834">Dialect spoken in the south east Brittain region.</textLang>
                   </msItem>
                 </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://www.middleenglishromance.org.uk/mer/5"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
               </msPart>
               <history>
                 <origin>
-                  <origDate notBefore="1321-01-01" notAfter="1340-12-31" cert="conjecture">'c. 1330'</origDate>
+                  <origDate notBefore="1321-01-01" notAfter="1340-12-31" cert="medium">'c. 1330'</origDate>
                 </origin>
               </history>
-              <physDesc xml:id="physDesc_48833">
+              <physDesc corresp="#physDesc_48833">
                 <objectDesc form="codex">
                   <supportDesc material="perg">
                     <extent>
@@ -129,17 +146,17 @@
                       </dimensions>
                     </extent>
                   </supportDesc>
+                  <layoutDesc>
+                    <layout columns="2" writtenLines="44"/>
+                  </layoutDesc>
                 </objectDesc>
-                <layoutDesc>
-                  <layout columns="2" writtenLines="44"/>
-                </layoutDesc>
                 <handDesc>
                   <handNote script="textualis" subtype="anglicana formata"/>
                 </handDesc>
                 <decoDesc>
-                  <decNote type="illustration">
+                  <decoNote type="illustration">
                     <measure quantity="0"/>
-                  </decNote>
+                  </decoNote>
                   <decoNote type="initial"/>
                   <decoNote type="rubrication"/>
                 </decoDesc>
@@ -147,110 +164,124 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_49056">
+            <abbr type="siglum">*2288.8</abbr>
+            <ref target="https://www.middleenglishromance.org.uk/mer/21"/>
             <msDesc status="defective">
               <msIdentifier>
                 <msName>Historical document of witness *2288.8</msName>
-                <abbr type="siglum">*2288.8</abbr>
-                <ref target="https://www.middleenglishromance.org.uk/mer/21"/>
               </msIdentifier>
               <msPart>
-                <msIdentifier ref="#document_48841">
-                  <country ref="#None">United Kingdom</country>
+                <msIdentifier corresp="#document_48841">
+                  <country corresp="#None">United Kingdom</country>
                   <settlement>London</settlement>
-                  <repository ref="#respository_43919">British library</repository>
+                  <repository corresp="#respository_43919">British library</repository>
                   <idno>MS Egerton 2862</idno>
-                  <ref target="https://www.middleenglishromance.org.uk/mer/5"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_49057">
                     <locusGrp>
                       <locus from="98r" to="111r">98r-111r</locus>
                     </locusGrp>
-                    <textLang mainLang="East of England" ref="#scripta_48845">Southern eastern region of England.</textLang>
+                    <textLang mainLang="East of England" corresp="#scripta_48845">Southern eastern region of England.</textLang>
                   </msItem>
                 </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://www.middleenglishromance.org.uk/mer/5"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
               </msPart>
               <history>
                 <origin>
-                  <origDate notBefore="1366-01-01" notAfter="1410-12-31" cert="conjecture">'late 14th century'</origDate>
+                  <origDate notBefore="1366-01-01" notAfter="1410-12-31" cert="medium">'late 14th century'</origDate>
                 </origin>
               </history>
-              <physDesc xml:id="physDesc_48844">
+              <physDesc corresp="#physDesc_48844">
                 <objectDesc form="codex">
                   <supportDesc material="perg">
                     <extent>
                       <dimensions unit="millimeters" type="written">
-                        <height quantity="NA">NA</height>
-                        <width quantity="NA">NA</width>
+                        <height>NA</height>
+                        <width>NA</width>
                       </dimensions>
                     </extent>
                   </supportDesc>
+                  <layoutDesc>
+                    <layout/>
+                  </layoutDesc>
                 </objectDesc>
-                <layoutDesc>
-                  <layout columns="NA" writtenLines="NA"/>
-                </layoutDesc>
                 <handDesc>
                   <handNote script="unknown"/>
                 </handDesc>
                 <decoDesc>
-                  <decNote type="illustration">
+                  <decoNote type="illustration">
                     <measure quantity=""/>
-                  </decNote>
+                  </decoNote>
                   <decoNote type="unknown"/>
                 </decoDesc>
               </physDesc>
             </msDesc>
           </witness>
           <witness xml:id="witness_49051">
+            <abbr type="siglum">*2288.8</abbr>
+            <ref target="https://www.middleenglishromance.org.uk/mer/21"/>
             <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness *2288.8</msName>
-                <abbr type="siglum">*2288.8</abbr>
-                <ref target="https://www.middleenglishromance.org.uk/mer/21"/>
               </msIdentifier>
               <msPart>
-                <msIdentifier ref="#document_49050">
-                  <country ref="#None">United Kingdom</country>
+                <msIdentifier corresp="#document_49050">
+                  <country corresp="#None">United Kingdom</country>
                   <settlement>London</settlement>
-                  <repository ref="#respository_43919">British library</repository>
+                  <repository corresp="#respository_43919">British library</repository>
                   <idno>MS Cotton Vitellius D.iii</idno>
-                  <ref target="https://www.middleenglishromance.org.uk/mer/21"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_49052">
                     <locusGrp>
                       <locus from="6r" to="8v">6r-8v</locus>
                     </locusGrp>
-                    <textLang mainLang="South West England" ref="#scripta_48867">Dialect spoken in South West region of England, surrounding Bath and Bristol.</textLang>
+                    <textLang mainLang="South West England" corresp="#scripta_48867">Dialect spoken in South West region of England, surrounding Bath and Bristol.</textLang>
                   </msItem>
                 </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://www.middleenglishromance.org.uk/mer/21"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
               </msPart>
               <history>
                 <origin>
-                  <origDate notBefore="1251-01-01" notAfter="1310-12-31" cert="conjecture">'Before 1300'</origDate>
+                  <origDate notBefore="1251-01-01" notAfter="1310-12-31" cert="medium">'Before 1300'</origDate>
                 </origin>
               </history>
-              <physDesc xml:id="physDesc_49053">
+              <physDesc corresp="#physDesc_49053">
                 <objectDesc form="codex">
                   <supportDesc material="unknown">
                     <extent>
                       <dimensions unit="millimeters" type="written">
-                        <height quantity="NA">NA</height>
-                        <width quantity="NA">NA</width>
+                        <height>NA</height>
+                        <width>NA</width>
                       </dimensions>
                     </extent>
                   </supportDesc>
+                  <layoutDesc>
+                    <layout/>
+                  </layoutDesc>
                 </objectDesc>
-                <layoutDesc>
-                  <layout columns="NA" writtenLines="NA"/>
-                </layoutDesc>
                 <handDesc>
                   <handNote script="unknown"/>
                 </handDesc>
                 <decoDesc>
-                  <decNote type="illustration">
+                  <decoNote type="illustration">
                     <measure quantity=""/>
-                  </decNote>
+                  </decoNote>
                   <decoNote type="unknown"/>
                 </decoDesc>
               </physDesc>
@@ -262,7 +293,7 @@
     <encodingDesc>
       <classDecl>
         <taxonomy>
-          <category xml:id="form" ref="https://www.wikidata.org/wiki/Q4263830">
+          <category xml:id="form" corresp="https://www.wikidata.org/wiki/Q4263830">
             <catDesc>Form</catDesc>
             <category xml:id="verseForm">
               <catDesc>verse</catDesc>
@@ -280,81 +311,117 @@
           <category xml:id="traditionStatus">
             <catDesc>Tradition status</catDesc>
             <category xml:id="traditionFragmentary">
-              <catDesc>fragmentary</catDesc>
-              <desc>Surviving in only fragments. No complete witnesses survive.</desc>
+              <catDesc>
+                <name type="main">fragmentary</name>
+                <gloss>Surviving in only fragments. No complete witnesses survive.</gloss>
+              </catDesc>
             </category>
             <category xml:id="traditionLost">
-              <catDesc>lost</catDesc>
-              <desc>No witnesses of this text survive. It is a completely lost tradition.</desc>
+              <catDesc>
+                <name type="main">lost</name>
+                <gloss>No witnesses of this text survive. It is a completely lost tradition.</gloss>
+              </catDesc>
             </category>
             <category xml:id="traditionSurviving">
-              <catDesc>surviving</catDesc>
-              <desc>Surviving in at least one (more or less) complete manuscript</desc>
+              <catDesc>
+                <name type="main">surviving</name>
+                <gloss>Surviving in at least one (more or less) complete manuscript</gloss>
+              </catDesc>
             </category>
             <category xml:id="traditionUnknown">
-              <catDesc>unknown</catDesc>
-              <desc>The information is not ready to be input.</desc>
+              <catDesc>
+                <name type="main">unknown</name>
+                <gloss>The information is not ready to be input.</gloss>
+              </catDesc>
             </category>
           </category>
-          <category xml:id="genre" ref="https://www.wikidata.org/wiki/Q483394">
+          <category xml:id="genre" corresp="https://www.wikidata.org/wiki/Q483394">
             <catDesc>Genre</catDesc>
-            <category xml:id="genre_46366">
-              <catDesc>riddarasögur</catDesc>
-              <desc>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.<name type="alt">chivalric sagas</name>
-              </desc>
-              <category xml:id="genre_46370">
-                <catDesc>riddarasögur translated</catDesc>
-                <desc>Norse translations of French chansons de geste and Latin romances and histories,</desc>
-              </category>
-              <category xml:id="genre_46367">
-                <catDesc>riddarasögur indigenous</catDesc>
-                <desc>Icelandic indigenous creations in a style of riddarasögur</desc>
-              </category>
-            </category>
             <category xml:id="genre_48800">
-              <catDesc>Arthurian romance</catDesc>
-              <desc>Arthurian romance grew out of chronicles purporting to record the history of King Arthur, his knights, and their martial or amatory adventures.</desc>
+              <catDesc>
+                <name type="main">Arthurian romance</name>
+                <gloss>Arthurian romance grew out of chronicles purporting to record the history of King Arthur, his knights, and their martial or amatory adventures.</gloss>
+              </catDesc>
             </category>
             <category xml:id="genre_47768">
-              <catDesc>Arthurroman</catDesc>
-              <desc>'Arthurroman is een verzamelnaam voor ridderromans ontstaan in de tweede helft van de twaalfde eeuw aan Noord-Franse adellijke hoven. Centraal, zij het op de achtergrond, staat koning Arthur. De mode begon met vijf Arthurromans in de volkstaal (ca. 1160-1190) van Chrétien de Troyes.'</desc>
+              <catDesc>
+                <name type="main">Arthurroman</name>
+                <gloss>'Arthurroman is een verzamelnaam voor ridderromans ontstaan in de tweede helft van de twaalfde eeuw aan Noord-Franse adellijke hoven. Centraal, zij het op de achtergrond, staat koning Arthur. De mode begon met vijf Arthurromans in de volkstaal (ca. 1160-1190) van Chrétien de Troyes.'</gloss>
+              </catDesc>
             </category>
             <category xml:id="genre_49013">
-              <catDesc>Carolingian romance</catDesc>
-              <desc>Middle English romance surrounding characters related to Charlemagne or people at his court.</desc>
+              <catDesc>
+                <name type="main">Carolingian romance</name>
+                <gloss>Middle English romance surrounding characters related to Charlemagne or people at his court.</gloss>
+              </catDesc>
             </category>
             <category xml:id="genre_46304">
-              <catDesc>Karelepiek</catDesc>
-              <desc>Story about Charlemagne and his family.</desc>
+              <catDesc>
+                <name type="main">Karelepiek</name>
+                <gloss>Story about Charlemagne and his family.</gloss>
+              </catDesc>
             </category>
             <category xml:id="genre_47474">
-              <catDesc>Other</catDesc>
-              <desc>Any text that does not fit in with the main genres of Arthurian and Charlemagnian literature.</desc>
+              <catDesc>
+                <name type="main">Other</name>
+                <gloss>Any text that does not fit in with the main genres of Arthurian and Charlemagnian literature.</gloss>
+              </catDesc>
             </category>
             <category xml:id="genre_44167">
-              <catDesc>chanson de geste</catDesc>
-              <desc>Long epic poem from the Middle Ages.</desc>
+              <catDesc>
+                <name type="main">chanson de geste</name>
+                <gloss>Long epic poem from the Middle Ages.</gloss>
+              </catDesc>
             </category>
             <category xml:id="genre_47609">
-              <catDesc>chronique</catDesc>
-              <desc>'Chroniques' autodésignées, en prose, dérivées de chansons de geste et romans</desc>
+              <catDesc>
+                <name type="main">chronique</name>
+                <gloss>'Chroniques' autodésignées, en prose, dérivées de chansons de geste et romans</gloss>
+              </catDesc>
             </category>
             <category xml:id="genre_47612">
-              <catDesc>mise en prose</catDesc>
-              <desc>mise en prose de chansons de geste ou romans en vers</desc>
+              <catDesc>
+                <name type="main">mise en prose</name>
+                <gloss>mise en prose de chansons de geste ou romans en vers</gloss>
+              </catDesc>
             </category>
             <category xml:id="genre_44128">
-              <catDesc>roman</catDesc>
-              <desc>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)<name type="alt">chivalric romance</name>
+              <catDesc>
+                <name type="main">roman</name>
+                <name type="alt">chivalric romance</name>
                 <name type="alt">chivalric novel</name>
-              </desc>
+                <gloss>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)</gloss>
+              </catDesc>
               <category xml:id="genre_44130">
-                <catDesc>roman lignager</catDesc>
-                <desc>Family history</desc>
+                <catDesc>
+                  <name type="main">roman lignager</name>
+                  <gloss>Family history</gloss>
+                </catDesc>
               </category>
               <category xml:id="genre_46894">
-                <catDesc>Artusroman</catDesc>
-                <desc>Middle High German form of romance  or epic based on the Matière de Bretagne</desc>
+                <catDesc>
+                  <name type="main">Artusroman</name>
+                  <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
+                </catDesc>
+              </category>
+            </category>
+            <category xml:id="genre_46366">
+              <catDesc>
+                <name type="main">riddarasögur</name>
+                <name type="alt">chivalric sagas</name>
+                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
+              </catDesc>
+              <category xml:id="genre_46370">
+                <catDesc>
+                  <name type="main">riddarasögur translated</name>
+                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46367">
+                <catDesc>
+                  <name type="main">riddarasögur indigenous</name>
+                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
+                </catDesc>
               </category>
             </category>
           </category>
@@ -363,10 +430,10 @@
     </encodingDesc>
     <profileDesc>
       <creation>
-        <date notBefore="1226-01-01" notAfter="1275-12-31" cert="conjecture">'c. 1250'</date>
+        <date notBefore="1226-01-01" notAfter="1275-12-31" cert="medium">'c. 1250'</date>
       </creation>
       <langUsage>
-        <language ident="enm" ref="https://iso639-3.sil.org/code/enm" xml:id="lang_9729">Middle English</language>
+        <language ident="enm" corresp="https://iso639-3.sil.org/code/enm" xml:id="lang_9729">Middle English</language>
       </langUsage>
       <textClass>
         <catRef scheme="#form" target="#verseForm"/>

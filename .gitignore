@@ -3,3 +3,5 @@
 validation.log
 heurist.db
 **/explorer.db
+configs/*.json
+configs/**/*.parquet

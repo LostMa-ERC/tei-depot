@@ -13,14 +13,24 @@
         <respStmt>
           <name>Elisabeth de Bruijn</name>
           <resp>data entry and proof correction</resp>
+        </respStmt>
+        <respStmt>
           <name>Cecile Vermaas</name>
           <resp>data entry and proof correction</resp>
+        </respStmt>
+        <respStmt>
           <name>Mike Kestemont</name>
           <resp>data entry and proof correction</resp>
+        </respStmt>
+        <respStmt>
           <name>Remco Sleiderink</name>
           <resp>data entry and proof correction</resp>
+        </respStmt>
+        <respStmt>
           <name>Kelly Christensen</name>
           <resp>conversion of metadata to TEI markup</resp>
+        </respStmt>
+        <respStmt>
           <name>Théo Moins</name>
           <resp>conversion of text to TEI markup</resp>
         </respStmt>
@@ -41,17 +51,17 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_47637">
+            <abbr type="siglum">IV 927</abbr>
+            <ref target="https://opac.kbr.be/Library/search.aspx?SC=KBR_UNIFIED&amp;QUERY=historie+van+troyen&amp;QUERY_LABEL=#/Detail/(query:(Id:'position:%20SOLR/DEFA-000007_OFFSET_0',Index:2,NBResults:58,PageRange:3,SearchQuery:(FacetFilter:%7B%7D,ForceSearch:!f,InitialSearch:!f,Page:0,PageRange:3,QueryGuid:'7bb6721e-9e96-4524-a08c-b6d843b34823',QueryString:'historie%20van%20troyen',ResultSize:50,ScenarioCode:KBR_UNIFIED,ScenarioDisplayMode:display-standard,SearchGridFieldsShownOnResultsDTO:!(),SearchLabel:'',SearchTerms:'historie%20van%20troyen',SessionGuid:'0801726f-cc72-4b4f-ad11-46d549f6de27',SortField:!n,SortOrder:0,TemplateParams:(Scenario:'',Scope:Library,Size:!n,Source:'',Support:'',UseCompact:!f),UseSpellChecking:!n)))"/>
             <msDesc status="complete">
               <msIdentifier>
                 <msName>Historical document of witness IV 927</msName>
-                <abbr type="siglum">IV 927</abbr>
-                <ref target="https://opac.kbr.be/Library/search.aspx?SC=KBR_UNIFIED&amp;QUERY=historie+van+troyen&amp;QUERY_LABEL=#/Detail/(query:(Id:'position:%20SOLR/DEFA-000007_OFFSET_0',Index:2,NBResults:58,PageRange:3,SearchQuery:(FacetFilter:%7B%7D,ForceSearch:!f,InitialSearch:!f,Page:0,PageRange:3,QueryGuid:'7bb6721e-9e96-4524-a08c-b6d843b34823',QueryString:'historie%20van%20troyen',ResultSize:50,ScenarioCode:KBR_UNIFIED,ScenarioDisplayMode:display-standard,SearchGridFieldsShownOnResultsDTO:!(),SearchLabel:'',SearchTerms:'historie%20van%20troyen',SessionGuid:'0801726f-cc72-4b4f-ad11-46d549f6de27',SortField:!n,SortOrder:0,TemplateParams:(Scenario:'',Scope:Library,Size:!n,Source:'',Support:'',UseCompact:!f),UseSpellChecking:!n)))"/>
               </msIdentifier>
               <msPart>
-                <msIdentifier ref="#document_47636">
-                  <country ref="#BE">Belgium</country>
+                <msIdentifier corresp="#document_47636">
+                  <country corresp="#BE">Belgium</country>
                   <settlement>Brussels</settlement>
-                  <repository ref="#respository_43904">Bibliothèque royale de Belgique</repository>
+                  <repository corresp="#respository_43904">Bibliothèque royale de Belgique</repository>
                   <idno>IV 927</idno>
                 </msIdentifier>
                 <msContents>
@@ -62,16 +72,22 @@
                       <locus from="4r" to="287v">4r-287v</locus>
                       <locus from="288r" to="288v">288r-288v</locus>
                     </locusGrp>
-                    <textLang mainLang="Oost-Nederlands" ref="#scripta_47503">Dialect from the eastern part of the current Netherlands, surrounding the Rijn-area.</textLang>
+                    <textLang mainLang="Oost-Nederlands" corresp="#scripta_47503">Dialect from the eastern part of the current Netherlands, surrounding the Rijn-area.</textLang>
                   </msItem>
                 </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
               </msPart>
               <history>
                 <origin>
-                  <origDate notBefore="1461-01-01" notAfter="1490-12-31" cert="conjecture">'c.1470-1480'</origDate>
+                  <origDate notBefore="1461-01-01" notAfter="1490-12-31" cert="medium">'c.1470-1480'</origDate>
                 </origin>
               </history>
-              <physDesc xml:id="physDesc_47639">
+              <physDesc corresp="#physDesc_47639">
                 <objectDesc form="codex">
                   <supportDesc material="chart">
                     <extent>
@@ -81,17 +97,17 @@
                       </dimensions>
                     </extent>
                   </supportDesc>
+                  <layoutDesc>
+                    <layout columns="2"/>
+                  </layoutDesc>
                 </objectDesc>
-                <layoutDesc>
-                  <layout columns="2" writtenLines="34-39"/>
-                </layoutDesc>
                 <handDesc>
                   <handNote script="hybrida"/>
                 </handDesc>
                 <decoDesc>
-                  <decNote type="illustration">
+                  <decoNote type="illustration">
                     <measure quantity="0"/>
-                  </decNote>
+                  </decoNote>
                   <decoNote type="rubrication"/>
                   <decoNote type="initial"/>
                 </decoDesc>
@@ -99,17 +115,17 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47721">
+            <abbr type="siglum">H115</abbr>
+            <ref target="https://opac.kbr.be/Library/search.aspx?SC=KBR_UNIFIED&amp;QUERY=troyen&amp;_lg=nl-BE#/Detail/(query:(Id:'position:%20SOLR/DEFA-000004_OFFSET_0',Index:1,NBResults:151,PageRange:3,SearchQuery:(FacetFilter:%7B%7D,ForceSearch:!f,InitialSearch:!f,Page:0,PageRange:3,QueryGuid:c3bef684-446d-4dcf-ab71-05dabe38ac83,QueryString:troyen,ResultSize:50,ScenarioCode:KBR_UNIFIED,ScenarioDisplayMode:display-standard,SearchGridFieldsShownOnResultsDTO:!(),SearchLabel:'',SearchTerms:troyen,SessionGuid:'9caf6bfd-7180-4c31-ad72-faa5f2b03333',SortField:!n,SortOrder:0,TemplateParams:(Scenario:'',Scope:Library,Size:!n,Source:'',Support:'',UseCompact:!f),UseSpellChecking:!n)))"/>
             <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H115</msName>
-                <abbr type="siglum">H115</abbr>
-                <ref target="https://opac.kbr.be/Library/search.aspx?SC=KBR_UNIFIED&amp;QUERY=troyen&amp;_lg=nl-BE#/Detail/(query:(Id:'position:%20SOLR/DEFA-000004_OFFSET_0',Index:1,NBResults:151,PageRange:3,SearchQuery:(FacetFilter:%7B%7D,ForceSearch:!f,InitialSearch:!f,Page:0,PageRange:3,QueryGuid:c3bef684-446d-4dcf-ab71-05dabe38ac83,QueryString:troyen,ResultSize:50,ScenarioCode:KBR_UNIFIED,ScenarioDisplayMode:display-standard,SearchGridFieldsShownOnResultsDTO:!(),SearchLabel:'',SearchTerms:troyen,SessionGuid:'9caf6bfd-7180-4c31-ad72-faa5f2b03333',SortField:!n,SortOrder:0,TemplateParams:(Scenario:'',Scope:Library,Size:!n,Source:'',Support:'',UseCompact:!f),UseSpellChecking:!n)))"/>
               </msIdentifier>
               <msPart>
-                <msIdentifier ref="#document_47720">
-                  <country ref="#BE">Belgium</country>
+                <msIdentifier corresp="#document_47720">
+                  <country corresp="#BE">Belgium</country>
                   <settlement>Brussels</settlement>
-                  <repository ref="#respository_43904">Bibliothèque royale de Belgique</repository>
+                  <repository corresp="#respository_43904">Bibliothèque royale de Belgique</repository>
                   <idno>IV 209,5</idno>
                 </msIdentifier>
                 <msContents>
@@ -120,52 +136,57 @@
                     <textLang/>
                   </msItem>
                 </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
               </msPart>
               <history>
                 <origin>
-                  <origDate notBefore="1291-01-01" notAfter="1310-12-31" cert="conjecture">'c.1300'</origDate>
+                  <origDate notBefore="1291-01-01" notAfter="1310-12-31" cert="medium">'c.1300'</origDate>
                 </origin>
               </history>
-              <physDesc xml:id="physDesc_47723">
+              <physDesc corresp="#physDesc_47723">
                 <objectDesc form="codex">
                   <supportDesc material="perg">
                     <extent>
                       <dimensions unit="millimeters" type="written">
-                        <height quantity="20-24">20-24</height>
+                        <height>20-24</height>
                         <width quantity="234">234</width>
                       </dimensions>
                     </extent>
                   </supportDesc>
+                  <layoutDesc>
+                    <layout columns="2" writtenLines="38"/>
+                  </layoutDesc>
                 </objectDesc>
-                <layoutDesc>
-                  <layout columns="2" writtenLines="38"/>
-                </layoutDesc>
                 <handDesc>
                   <handNote script="textualis"/>
                 </handDesc>
                 <decoDesc>
-                  <decNote type="illustration">
+                  <decoNote type="illustration">
                     <measure quantity="0"/>
-                  </decNote>
+                  </decoNote>
                   <decoNote type="rubrication"/>
                 </decoDesc>
               </physDesc>
             </msDesc>
           </witness>
           <witness xml:id="witness_47655">
+            <abbr type="siglum">H106</abbr>
+            <ref target="https://www.handschriftencensus.de/20378"/>
             <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H106</msName>
-                <abbr type="siglum">H106</abbr>
-                <ref target="https://www.handschriftencensus.de/20378"/>
               </msIdentifier>
               <msPart>
-                <msIdentifier ref="#document_47653">
-                  <country ref="#NL">Netherlands</country>
+                <msIdentifier corresp="#document_47653">
+                  <country corresp="#NL">Netherlands</country>
                   <settlement>Utrecht</settlement>
-                  <repository ref="#respository_47365">Rijksuniversiteit Utrecht Bibliotheek</repository>
+                  <repository corresp="#respository_47365">Rijksuniversiteit Utrecht Bibliotheek</repository>
                   <idno>1330</idno>
-                  <ref target="https://www.handschriftencensus.de/20378"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_47656">
@@ -173,36 +194,44 @@
                       <locus from="1r" to="2v">1r-2v</locus>
                       <locus from="3r" to="4v">3r-4v</locus>
                     </locusGrp>
-                    <textLang mainLang="Brabants" ref="#scripta_46312">Dialect of Brabant.</textLang>
+                    <textLang mainLang="Brabants" corresp="#scripta_46312">Dialect of Brabant.</textLang>
                   </msItem>
                 </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://www.handschriftencensus.de/20378"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
               </msPart>
               <history>
                 <origin>
-                  <origDate notBefore="1291-01-01" notAfter="1310-12-31" cert="conjecture">'c. 1300'</origDate>
+                  <origDate notBefore="1291-01-01" notAfter="1310-12-31" cert="medium">'c. 1300'</origDate>
                 </origin>
               </history>
-              <physDesc xml:id="physDesc_47657">
+              <physDesc corresp="#physDesc_47657">
                 <objectDesc form="codex">
                   <supportDesc material="perg">
                     <extent>
                       <dimensions unit="millimeters" type="written">
-                        <height quantity="240-245">240-245</height>
+                        <height>240-245</height>
                         <width quantity="170">170</width>
                       </dimensions>
                     </extent>
                   </supportDesc>
+                  <layoutDesc>
+                    <layout columns="2" writtenLines="46"/>
+                  </layoutDesc>
                 </objectDesc>
-                <layoutDesc>
-                  <layout columns="2" writtenLines="46"/>
-                </layoutDesc>
                 <handDesc>
                   <handNote script="textualis"/>
                 </handDesc>
                 <decoDesc>
-                  <decNote type="illustration">
+                  <decoNote type="illustration">
                     <measure quantity="0"/>
-                  </decNote>
+                  </decoNote>
                   <decoNote type="rubrication"/>
                   <decoNote type="initial"/>
                 </decoDesc>
@@ -210,13 +239,13 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47742">
+            <abbr type="siglum">z.s.</abbr>
             <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness z.s.</msName>
-                <abbr type="siglum">z.s.</abbr>
               </msIdentifier>
               <msPart>
-                <msIdentifier ref="#document_47741">
+                <msIdentifier corresp="#document_47741">
                   <country/>
                   <settlement/>
                   <repository/>
@@ -227,53 +256,59 @@
                     <locusGrp>
                       <locus from="1r" to="1v">1r-1v</locus>
                     </locusGrp>
-                    <textLang mainLang="Vlaams" ref="#scripta_46305">Dialect of Flanders.</textLang>
+                    <textLang mainLang="Vlaams" corresp="#scripta_46305">Dialect of Flanders.</textLang>
                   </msItem>
                 </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
               </msPart>
               <history>
                 <origin>
-                  <origDate notBefore="1291-01-01" notAfter="1335-12-31" cert="conjecture">'dateert uit het eerste kwart van de veertiende eeuw (maar ze noemen ook ca. 1300 en ca. 1325 als mogelijkheden)'</origDate>
+                  <origDate notBefore="1291-01-01" notAfter="1335-12-31" cert="medium">'dateert uit het eerste kwart van de veertiende eeuw (maar ze noemen ook ca. 1300 en ca. 1325 als mogelijkheden)'</origDate>
                 </origin>
               </history>
-              <physDesc xml:id="physDesc_47744">
+              <physDesc corresp="#physDesc_47744">
                 <objectDesc form="unknown">
                   <supportDesc material="perg">
                     <extent>
                       <dimensions unit="millimeters" type="written">
                         <height quantity="151">151</height>
-                        <width quantity="30-45">30-45</width>
+                        <width>30-45</width>
                       </dimensions>
                     </extent>
                   </supportDesc>
+                  <layoutDesc>
+                    <layout columns="3" writtenLines="56"/>
+                  </layoutDesc>
                 </objectDesc>
-                <layoutDesc>
-                  <layout columns="3" writtenLines="56"/>
-                </layoutDesc>
                 <handDesc>
                   <handNote script="textualis"/>
                 </handDesc>
                 <decoDesc>
-                  <decNote type="illustration">
+                  <decoNote type="illustration">
                     <measure quantity="0"/>
-                  </decNote>
+                  </decoNote>
                   <decoNote type="unknown"/>
                 </decoDesc>
               </physDesc>
             </msDesc>
           </witness>
           <witness xml:id="witness_47734">
+            <abbr type="siglum">liasse 698</abbr>
+            <ref target="https://www.dbnl.org/tekst/_tij003200001_01/_tij003200001_01_0019.php"/>
             <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness liasse 698</msName>
-                <abbr type="siglum">liasse 698</abbr>
-                <ref target="https://www.dbnl.org/tekst/_tij003200001_01/_tij003200001_01_0019.php"/>
               </msIdentifier>
               <msPart>
-                <msIdentifier ref="#document_47733">
-                  <country ref="#BE">Belgium</country>
+                <msIdentifier corresp="#document_47733">
+                  <country corresp="#BE">Belgium</country>
                   <settlement>Brussels</settlement>
-                  <repository ref="#respository_43901">Archives générales du Royaume</repository>
+                  <repository corresp="#respository_43901">Archives générales du Royaume</repository>
                   <idno>liasse 698</idno>
                 </msIdentifier>
                 <msContents>
@@ -284,13 +319,19 @@
                     <textLang/>
                   </msItem>
                 </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
               </msPart>
               <history>
                 <origin>
-                  <origDate notBefore="1291-01-01" notAfter="1460-12-31" cert="conjecture">'De tekst is geschreven in de eerste helft van de veertiende eeuw'</origDate>
+                  <origDate notBefore="1291-01-01" notAfter="1460-12-31" cert="medium">'De tekst is geschreven in de eerste helft van de veertiende eeuw'</origDate>
                 </origin>
               </history>
-              <physDesc xml:id="physDesc_47736">
+              <physDesc corresp="#physDesc_47736">
                 <objectDesc form="codex">
                   <supportDesc material="perg">
                     <extent>
@@ -300,33 +341,33 @@
                       </dimensions>
                     </extent>
                   </supportDesc>
+                  <layoutDesc>
+                    <layout columns="2" writtenLines="45"/>
+                  </layoutDesc>
                 </objectDesc>
-                <layoutDesc>
-                  <layout columns="2" writtenLines="45"/>
-                </layoutDesc>
                 <handDesc>
                   <handNote script="textualis"/>
                 </handDesc>
                 <decoDesc>
-                  <decNote type="illustration">
+                  <decoNote type="illustration">
                     <measure quantity="0"/>
-                  </decNote>
+                  </decoNote>
                   <decoNote type="rubrication"/>
                 </decoDesc>
               </physDesc>
             </msDesc>
           </witness>
           <witness xml:id="witness_47677">
+            <abbr type="siglum">H109</abbr>
             <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H109</msName>
-                <abbr type="siglum">H109</abbr>
               </msIdentifier>
               <msPart>
-                <msIdentifier ref="#document_47675">
-                  <country ref="#BE">Belgium</country>
+                <msIdentifier corresp="#document_47675">
+                  <country corresp="#BE">Belgium</country>
                   <settlement>Antwerp</settlement>
-                  <repository ref="#respository_48425">Onze-Lieve-Vrouwecollege</repository>
+                  <repository corresp="#respository_48425">Onze-Lieve-Vrouwecollege</repository>
                   <idno>88 C 6</idno>
                 </msIdentifier>
                 <msContents>
@@ -334,52 +375,58 @@
                     <locusGrp>
                       <locus from="1r" to="2v">1r-2v</locus>
                     </locusGrp>
-                    <textLang mainLang="Vlaams" ref="#scripta_46305">Dialect of Flanders.</textLang>
+                    <textLang mainLang="Vlaams" corresp="#scripta_46305">Dialect of Flanders.</textLang>
                   </msItem>
                 </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
               </msPart>
               <history>
                 <origin>
-                  <origDate notBefore="1316-01-01" notAfter="1360-12-31" cert="conjecture">'≤ 1350'</origDate>
+                  <origDate notBefore="1316-01-01" notAfter="1360-12-31" cert="medium">'≤ 1350'</origDate>
                 </origin>
               </history>
-              <physDesc xml:id="physDesc_47679">
+              <physDesc corresp="#physDesc_47679">
                 <objectDesc form="codex">
                   <supportDesc material="perg">
                     <extent>
                       <dimensions unit="millimeters" type="written">
                         <height quantity="208">208</height>
-                        <width quantity="157-158">157-158</width>
+                        <width>157-158</width>
                       </dimensions>
                     </extent>
                   </supportDesc>
+                  <layoutDesc>
+                    <layout columns="2" writtenLines="50"/>
+                  </layoutDesc>
                 </objectDesc>
-                <layoutDesc>
-                  <layout columns="2" writtenLines="50"/>
-                </layoutDesc>
                 <handDesc>
                   <handNote script="textualis"/>
                 </handDesc>
                 <decoDesc>
-                  <decNote type="illustration">
+                  <decoNote type="illustration">
                     <measure quantity="0"/>
-                  </decNote>
+                  </decoNote>
                   <decoNote type="rubrication"/>
                 </decoDesc>
               </physDesc>
             </msDesc>
           </witness>
           <witness xml:id="witness_47717">
+            <abbr type="siglum">H114</abbr>
             <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H114</msName>
-                <abbr type="siglum">H114</abbr>
               </msIdentifier>
               <msPart>
-                <msIdentifier ref="#document_47716">
-                  <country ref="#BE">Belgium</country>
+                <msIdentifier corresp="#document_47716">
+                  <country corresp="#BE">Belgium</country>
                   <settlement>Ghent</settlement>
-                  <repository ref="#respository_47350">Koninklijke academie voor Nederlandse taal en letteren</repository>
+                  <repository corresp="#respository_47350">Koninklijke academie voor Nederlandse taal en letteren</repository>
                   <idno>7 bis a</idno>
                 </msIdentifier>
                 <msContents>
@@ -387,16 +434,22 @@
                     <locusGrp>
                       <locus from="1r" to="2v">1r-2v</locus>
                     </locusGrp>
-                    <textLang mainLang="Hollands" ref="#scripta_47357">Dialect from the north-western Dutch region.</textLang>
+                    <textLang mainLang="Hollands" corresp="#scripta_47357">Dialect from the north-western Dutch region.</textLang>
                   </msItem>
                 </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
               </msPart>
               <history>
                 <origin>
-                  <origDate notBefore="1316-01-01" notAfter="1360-12-31" cert="conjecture">'≤ 1350'</origDate>
+                  <origDate notBefore="1316-01-01" notAfter="1360-12-31" cert="medium">'≤ 1350'</origDate>
                 </origin>
               </history>
-              <physDesc xml:id="physDesc_47719">
+              <physDesc corresp="#physDesc_47719">
                 <objectDesc form="codex">
                   <supportDesc material="perg">
                     <extent>
@@ -406,34 +459,34 @@
                       </dimensions>
                     </extent>
                   </supportDesc>
+                  <layoutDesc>
+                    <layout columns="3" writtenLines="53"/>
+                  </layoutDesc>
                 </objectDesc>
-                <layoutDesc>
-                  <layout columns="3" writtenLines="53"/>
-                </layoutDesc>
                 <handDesc>
                   <handNote script="textualis"/>
                 </handDesc>
                 <decoDesc>
-                  <decNote type="illustration">
+                  <decoNote type="illustration">
                     <measure quantity="0"/>
-                  </decNote>
+                  </decoNote>
                   <decoNote type="rubrication"/>
                 </decoDesc>
               </physDesc>
             </msDesc>
           </witness>
           <witness xml:id="witness_47713">
+            <abbr type="siglum">H113</abbr>
+            <ref target="https://lib.ugent.be/en/catalog/rug01:000765748?i=3&amp;q=troyen"/>
             <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H113</msName>
-                <abbr type="siglum">H113</abbr>
-                <ref target="https://lib.ugent.be/en/catalog/rug01:000765748?i=3&amp;q=troyen"/>
               </msIdentifier>
               <msPart>
-                <msIdentifier ref="#document_47712">
-                  <country ref="#BE">Belgium</country>
+                <msIdentifier corresp="#document_47712">
+                  <country corresp="#BE">Belgium</country>
                   <settlement>Ghent</settlement>
-                  <repository ref="#respository_43787">Rijksuniversiteit te Gent. Bibliotheek</repository>
+                  <repository corresp="#respository_43787">Rijksuniversiteit te Gent. Bibliotheek</repository>
                   <idno>1594</idno>
                 </msIdentifier>
                 <msContents>
@@ -441,36 +494,42 @@
                     <locusGrp>
                       <locus from="1r" to="2v">1r-2v</locus>
                     </locusGrp>
-                    <textLang mainLang="Brabants" ref="#scripta_46312">Dialect of Brabant.</textLang>
+                    <textLang mainLang="Brabants" corresp="#scripta_46312">Dialect of Brabant.</textLang>
                   </msItem>
                 </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
               </msPart>
               <history>
                 <origin>
-                  <origDate notBefore="1316-01-01" notAfter="1360-12-31" cert="conjecture">'XIVb'</origDate>
+                  <origDate notBefore="1316-01-01" notAfter="1360-12-31" cert="medium">'XIVb'</origDate>
                 </origin>
               </history>
-              <physDesc xml:id="physDesc_47715">
+              <physDesc corresp="#physDesc_47715">
                 <objectDesc form="codex">
                   <supportDesc material="perg">
                     <extent>
                       <dimensions unit="millimeters" type="written">
-                        <height quantity="340-350">340-350</height>
+                        <height>340-350</height>
                         <width quantity="265">265</width>
                       </dimensions>
                     </extent>
                   </supportDesc>
+                  <layoutDesc>
+                    <layout columns="3" writtenLines="52"/>
+                  </layoutDesc>
                 </objectDesc>
-                <layoutDesc>
-                  <layout columns="3" writtenLines="52"/>
-                </layoutDesc>
                 <handDesc>
                   <handNote script="textualis"/>
                 </handDesc>
                 <decoDesc>
-                  <decNote type="illustration">
+                  <decoNote type="illustration">
                     <measure quantity="0"/>
-                  </decNote>
+                  </decoNote>
                   <decoNote type="rubrication"/>
                   <decoNote type="initial"/>
                 </decoDesc>
@@ -478,16 +537,16 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47670">
+            <abbr type="siglum">H108</abbr>
             <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H108</msName>
-                <abbr type="siglum">H108</abbr>
               </msIdentifier>
               <msPart>
-                <msIdentifier ref="#document_47669">
-                  <country ref="#NL">Netherlands</country>
+                <msIdentifier corresp="#document_47669">
+                  <country corresp="#NL">Netherlands</country>
                   <settlement>Rotterdam</settlement>
-                  <repository ref="#respository_47361">Gemeentebibliotheek Rotterdam</repository>
+                  <repository corresp="#respository_47361">Gemeentebibliotheek Rotterdam</repository>
                   <idno>96 B 6: 3</idno>
                 </msIdentifier>
                 <msContents>
@@ -495,36 +554,42 @@
                     <locusGrp>
                       <locus from="1r" to="1v">1r-1v</locus>
                     </locusGrp>
-                    <textLang mainLang="Vlaams" ref="#scripta_46305">Dialect of Flanders.</textLang>
+                    <textLang mainLang="Vlaams" corresp="#scripta_46305">Dialect of Flanders.</textLang>
                   </msItem>
                 </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
               </msPart>
               <history>
                 <origin>
-                  <origDate notBefore="1316-01-01" notAfter="1360-12-31" cert="conjecture">'&lt; 1350'</origDate>
+                  <origDate notBefore="1316-01-01" notAfter="1360-12-31" cert="medium">'&lt; 1350'</origDate>
                 </origin>
               </history>
-              <physDesc xml:id="physDesc_47672">
+              <physDesc corresp="#physDesc_47672">
                 <objectDesc form="codex">
                   <supportDesc material="perg">
                     <extent>
                       <dimensions unit="millimeters" type="written">
                         <height quantity="280">280</height>
-                        <width quantity="190-195">190-195</width>
+                        <width>190-195</width>
                       </dimensions>
                     </extent>
                   </supportDesc>
+                  <layoutDesc>
+                    <layout columns="2" writtenLines="42"/>
+                  </layoutDesc>
                 </objectDesc>
-                <layoutDesc>
-                  <layout columns="2" writtenLines="42"/>
-                </layoutDesc>
                 <handDesc>
                   <handNote script="textualis"/>
                 </handDesc>
                 <decoDesc>
-                  <decNote type="illustration">
+                  <decoNote type="illustration">
                     <measure quantity="0"/>
-                  </decNote>
+                  </decoNote>
                   <decoNote type="rubrication"/>
                   <decoNote type="initial"/>
                 </decoDesc>
@@ -533,13 +598,12 @@
             <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H108</msName>
-                <abbr type="siglum">H108</abbr>
               </msIdentifier>
               <msPart>
-                <msIdentifier ref="#document_47668">
-                  <country ref="#BE">Belgium</country>
+                <msIdentifier corresp="#document_47668">
+                  <country corresp="#BE">Belgium</country>
                   <settlement>Ghent</settlement>
-                  <repository ref="#respository_48432">Stadsarchief te Gent</repository>
+                  <repository corresp="#respository_48432">Stadsarchief te Gent</repository>
                   <idno>z.s.</idno>
                 </msIdentifier>
                 <msContents>
@@ -548,36 +612,42 @@
                       <locus from="1r" to="2v">1r-2v</locus>
                       <locus from="3r" to="4v">3r-4v</locus>
                     </locusGrp>
-                    <textLang mainLang="Vlaams" ref="#scripta_46305">Dialect of Flanders.</textLang>
+                    <textLang mainLang="Vlaams" corresp="#scripta_46305">Dialect of Flanders.</textLang>
                   </msItem>
                 </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
               </msPart>
               <history>
                 <origin>
-                  <origDate notBefore="1316-01-01" notAfter="1360-12-31" cert="conjecture">'&lt; 1350'</origDate>
+                  <origDate notBefore="1316-01-01" notAfter="1360-12-31" cert="medium">'&lt; 1350'</origDate>
                 </origin>
               </history>
-              <physDesc xml:id="physDesc_47672">
+              <physDesc corresp="#physDesc_47672">
                 <objectDesc form="codex">
                   <supportDesc material="perg">
                     <extent>
                       <dimensions unit="millimeters" type="written">
                         <height quantity="280">280</height>
-                        <width quantity="190-195">190-195</width>
+                        <width>190-195</width>
                       </dimensions>
                     </extent>
                   </supportDesc>
+                  <layoutDesc>
+                    <layout columns="2" writtenLines="42"/>
+                  </layoutDesc>
                 </objectDesc>
-                <layoutDesc>
-                  <layout columns="2" writtenLines="42"/>
-                </layoutDesc>
                 <handDesc>
                   <handNote script="textualis"/>
                 </handDesc>
                 <decoDesc>
-                  <decNote type="illustration">
+                  <decoNote type="illustration">
                     <measure quantity="0"/>
-                  </decNote>
+                  </decoNote>
                   <decoNote type="rubrication"/>
                   <decoNote type="initial"/>
                 </decoDesc>
@@ -585,17 +655,157 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47662">
+            <abbr type="siglum">H07</abbr>
+            <ref target="https://www.handschriftencensus.de/24256"/>
             <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H07</msName>
-                <abbr type="siglum">H07</abbr>
-                <ref target="https://www.handschriftencensus.de/24256"/>
               </msIdentifier>
               <msPart>
-                <msIdentifier ref="#document_47661">
-                  <country ref="#BE">Belgium</country>
+                <msIdentifier corresp="#document_47658">
+                  <country corresp="#NL">Netherlands</country>
+                  <settlement>Leiden</settlement>
+                  <repository corresp="#respository_43873">Universitaire Bibliotheken Leiden</repository>
+                  <idno>Ltk. 181</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_47663">
+                    <locusGrp>
+                      <locus from="5r" to="5v">5r-5v</locus>
+                    </locusGrp>
+                    <textLang mainLang="Vlaams" corresp="#scripta_46305">Dialect of Flanders.</textLang>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://www.handschriftencensus.de/24256"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <msPart>
+                <msIdentifier corresp="#document_47658">
+                  <country corresp="#NL">Netherlands</country>
+                  <settlement>Leiden</settlement>
+                  <repository corresp="#respository_43873">Universitaire Bibliotheken Leiden</repository>
+                  <idno>Ltk. 181</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_47665">
+                    <locusGrp>
+                      <locus from="1r" to="4v">1r-4v</locus>
+                    </locusGrp>
+                    <textLang mainLang="Vlaams" corresp="#scripta_46305">Dialect of Flanders.</textLang>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://www.handschriftencensus.de/24256"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1316-01-01" notAfter="1360-12-31" cert="medium">'XIVb'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_47664">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height>335-340</height>
+                        <width quantity="240">240</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout columns="3" writtenLines="62"/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="textualis"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity="0"/>
+                  </decoNote>
+                  <decoNote type="rubrication"/>
+                  <decoNote type="initial"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+            <msDesc status="fragmentary">
+              <msIdentifier>
+                <msName>Historical document of witness H07</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_47660">
+                  <country corresp="#DE">Germany</country>
+                  <settlement>Berlin</settlement>
+                  <repository corresp="#respository_43889">Staatsbibliothek zu Berlin Preußischer Kulturbesitz</repository>
+                  <idno>Fragm. 18</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_47666">
+                    <locusGrp>
+                      <locus from="1r" to="1v">1r-1v</locus>
+                    </locusGrp>
+                    <textLang mainLang="Vlaams" corresp="#scripta_46305">Dialect of Flanders.</textLang>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1316-01-01" notAfter="1360-12-31" cert="medium">'XIVb'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_47664">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height>335-340</height>
+                        <width quantity="240">240</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout columns="3" writtenLines="62"/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="textualis"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity="0"/>
+                  </decoNote>
+                  <decoNote type="rubrication"/>
+                  <decoNote type="initial"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+            <msDesc status="fragmentary">
+              <msIdentifier>
+                <msName>Historical document of witness H07</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_47661">
+                  <country corresp="#BE">Belgium</country>
                   <settlement>Ghent</settlement>
-                  <repository ref="#respository_43787">Rijksuniversiteit te Gent. Bibliotheek</repository>
+                  <repository corresp="#respository_43787">Rijksuniversiteit te Gent. Bibliotheek</repository>
                   <idno>2749,5</idno>
                 </msIdentifier>
                 <msContents>
@@ -604,160 +814,42 @@
                       <locus from="1r" to="2v">1r-2v</locus>
                       <locus from="3r" to="4v">3r-4v</locus>
                     </locusGrp>
-                    <textLang mainLang="Vlaams" ref="#scripta_46305">Dialect of Flanders.</textLang>
+                    <textLang mainLang="Vlaams" corresp="#scripta_46305">Dialect of Flanders.</textLang>
                   </msItem>
                 </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
               </msPart>
               <history>
                 <origin>
-                  <origDate notBefore="1316-01-01" notAfter="1360-12-31" cert="conjecture">'XIVb'</origDate>
+                  <origDate notBefore="1316-01-01" notAfter="1360-12-31" cert="medium">'XIVb'</origDate>
                 </origin>
               </history>
-              <physDesc xml:id="physDesc_47664">
+              <physDesc corresp="#physDesc_47664">
                 <objectDesc form="codex">
                   <supportDesc material="perg">
                     <extent>
                       <dimensions unit="millimeters" type="written">
-                        <height quantity="335-340">335-340</height>
+                        <height>335-340</height>
                         <width quantity="240">240</width>
                       </dimensions>
                     </extent>
                   </supportDesc>
+                  <layoutDesc>
+                    <layout columns="3" writtenLines="62"/>
+                  </layoutDesc>
                 </objectDesc>
-                <layoutDesc>
-                  <layout columns="3" writtenLines="62"/>
-                </layoutDesc>
                 <handDesc>
                   <handNote script="textualis"/>
                 </handDesc>
                 <decoDesc>
-                  <decNote type="illustration">
+                  <decoNote type="illustration">
                     <measure quantity="0"/>
-                  </decNote>
-                  <decoNote type="rubrication"/>
-                  <decoNote type="initial"/>
-                </decoDesc>
-              </physDesc>
-            </msDesc>
-            <msDesc status="fragmentary">
-              <msIdentifier>
-                <msName>Historical document of witness H07</msName>
-                <abbr type="siglum">H07</abbr>
-                <ref target="https://www.handschriftencensus.de/24256"/>
-              </msIdentifier>
-              <msPart>
-                <msIdentifier ref="#document_47658">
-                  <country ref="#NL">Netherlands</country>
-                  <settlement>Leiden</settlement>
-                  <repository ref="#respository_43873">Universitaire Bibliotheken Leiden</repository>
-                  <idno>Ltk. 181</idno>
-                  <ref target="https://www.handschriftencensus.de/24256"/>
-                </msIdentifier>
-                <msContents>
-                  <msItem xml:id="part_47663">
-                    <locusGrp>
-                      <locus from="5r" to="5v">5r-5v</locus>
-                    </locusGrp>
-                    <textLang mainLang="Vlaams" ref="#scripta_46305">Dialect of Flanders.</textLang>
-                  </msItem>
-                </msContents>
-              </msPart>
-              <msPart>
-                <msIdentifier ref="#document_47658">
-                  <country ref="#NL">Netherlands</country>
-                  <settlement>Leiden</settlement>
-                  <repository ref="#respository_43873">Universitaire Bibliotheken Leiden</repository>
-                  <idno>Ltk. 181</idno>
-                  <ref target="https://www.handschriftencensus.de/24256"/>
-                </msIdentifier>
-                <msContents>
-                  <msItem xml:id="part_47665">
-                    <locusGrp>
-                      <locus from="1r" to="4v">1r-4v</locus>
-                    </locusGrp>
-                    <textLang mainLang="Vlaams" ref="#scripta_46305">Dialect of Flanders.</textLang>
-                  </msItem>
-                </msContents>
-              </msPart>
-              <history>
-                <origin>
-                  <origDate notBefore="1316-01-01" notAfter="1360-12-31" cert="conjecture">'XIVb'</origDate>
-                </origin>
-              </history>
-              <physDesc xml:id="physDesc_47664">
-                <objectDesc form="codex">
-                  <supportDesc material="perg">
-                    <extent>
-                      <dimensions unit="millimeters" type="written">
-                        <height quantity="335-340">335-340</height>
-                        <width quantity="240">240</width>
-                      </dimensions>
-                    </extent>
-                  </supportDesc>
-                </objectDesc>
-                <layoutDesc>
-                  <layout columns="3" writtenLines="62"/>
-                </layoutDesc>
-                <handDesc>
-                  <handNote script="textualis"/>
-                </handDesc>
-                <decoDesc>
-                  <decNote type="illustration">
-                    <measure quantity="0"/>
-                  </decNote>
-                  <decoNote type="rubrication"/>
-                  <decoNote type="initial"/>
-                </decoDesc>
-              </physDesc>
-            </msDesc>
-            <msDesc status="fragmentary">
-              <msIdentifier>
-                <msName>Historical document of witness H07</msName>
-                <abbr type="siglum">H07</abbr>
-                <ref target="https://www.handschriftencensus.de/24256"/>
-              </msIdentifier>
-              <msPart>
-                <msIdentifier ref="#document_47660">
-                  <country ref="#DE">Germany</country>
-                  <settlement>Berlin</settlement>
-                  <repository ref="#respository_43889">Staatsbibliothek zu Berlin Preußischer Kulturbesitz</repository>
-                  <idno>Fragm. 18</idno>
-                </msIdentifier>
-                <msContents>
-                  <msItem xml:id="part_47666">
-                    <locusGrp>
-                      <locus from="1r" to="1v">1r-1v</locus>
-                    </locusGrp>
-                    <textLang mainLang="Vlaams" ref="#scripta_46305">Dialect of Flanders.</textLang>
-                  </msItem>
-                </msContents>
-              </msPart>
-              <history>
-                <origin>
-                  <origDate notBefore="1316-01-01" notAfter="1360-12-31" cert="conjecture">'XIVb'</origDate>
-                </origin>
-              </history>
-              <physDesc xml:id="physDesc_47664">
-                <objectDesc form="codex">
-                  <supportDesc material="perg">
-                    <extent>
-                      <dimensions unit="millimeters" type="written">
-                        <height quantity="335-340">335-340</height>
-                        <width quantity="240">240</width>
-                      </dimensions>
-                    </extent>
-                  </supportDesc>
-                </objectDesc>
-                <layoutDesc>
-                  <layout columns="3" writtenLines="62"/>
-                </layoutDesc>
-                <handDesc>
-                  <handNote script="textualis"/>
-                </handDesc>
-                <decoDesc>
-                  <decNote type="illustration">
-                    <measure quantity="0"/>
-                  </decNote>
+                  </decoNote>
                   <decoNote type="rubrication"/>
                   <decoNote type="initial"/>
                 </decoDesc>
@@ -765,16 +857,16 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47738">
+            <abbr type="siglum">MS 712.36</abbr>
             <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness MS 712.36</msName>
-                <abbr type="siglum">MS 712.36</abbr>
               </msIdentifier>
               <msPart>
-                <msIdentifier ref="#document_47737">
-                  <country ref="#None">United States</country>
+                <msIdentifier corresp="#document_47737">
+                  <country corresp="#None">United States</country>
                   <settlement>New Haven</settlement>
-                  <repository ref="#respository_43775">Yale university. Library</repository>
+                  <repository corresp="#respository_43775">Yale university. Library</repository>
                   <idno>MS 712.36</idno>
                 </msIdentifier>
                 <msContents>
@@ -789,13 +881,19 @@
                     <textLang/>
                   </msItem>
                 </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
               </msPart>
               <history>
                 <origin>
-                  <origDate notBefore="1316-01-01" notAfter="1360-12-31" cert="conjecture">'tweede kwart veertiende eeuw'</origDate>
+                  <origDate notBefore="1316-01-01" notAfter="1360-12-31" cert="medium">'tweede kwart veertiende eeuw'</origDate>
                 </origin>
               </history>
-              <physDesc xml:id="physDesc_47740">
+              <physDesc corresp="#physDesc_47740">
                 <objectDesc form="unknown">
                   <supportDesc material="perg">
                     <extent>
@@ -805,34 +903,34 @@
                       </dimensions>
                     </extent>
                   </supportDesc>
+                  <layoutDesc>
+                    <layout columns="3" writtenLines="54"/>
+                  </layoutDesc>
                 </objectDesc>
-                <layoutDesc>
-                  <layout columns="3" writtenLines="54"/>
-                </layoutDesc>
                 <handDesc>
                   <handNote script="textualis"/>
                 </handDesc>
                 <decoDesc>
-                  <decNote type="illustration">
+                  <decoNote type="illustration">
                     <measure quantity="0"/>
-                  </decNote>
+                  </decoNote>
                   <decoNote type="rubrication"/>
                 </decoDesc>
               </physDesc>
             </msDesc>
           </witness>
           <witness xml:id="witness_47725">
+            <abbr type="siglum">IV 1275, 1</abbr>
+            <ref target="https://opac.kbr.be/Library/search.aspx?SC=KBR_UNIFIED&amp;QUERY=troyen&amp;_lg=nl-BE#/Detail/(query:(Id:'position:%20SOLR/DEFA-000007_OFFSET_0',Index:13,NBResults:571,PageRange:3,SearchQuery:(FacetFilter:%7B%7D,ForceSearch:!f,InitialSearch:!f,Page:0,PageRange:3,QueryGuid:c3bef684-446d-4dcf-ab71-05dabe38ac83,QueryString:troyen,ResultSize:50,ScenarioCode:KBR_UNIFIED,ScenarioDisplayMode:display-standard,SearchGridFieldsShownOnResultsDTO:!(),SearchLabel:'',SearchTerms:troyen,SessionGuid:'9caf6bfd-7180-4c31-ad72-faa5f2b03333',SortField:!n,SortOrder:0,TemplateParams:(Scenario:'',Scope:Library,Size:!n,Source:'',Support:'',UseCompact:!f),UseSpellChecking:!n)))"/>
             <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness IV 1275, 1</msName>
-                <abbr type="siglum">IV 1275, 1</abbr>
-                <ref target="https://opac.kbr.be/Library/search.aspx?SC=KBR_UNIFIED&amp;QUERY=troyen&amp;_lg=nl-BE#/Detail/(query:(Id:'position:%20SOLR/DEFA-000007_OFFSET_0',Index:13,NBResults:571,PageRange:3,SearchQuery:(FacetFilter:%7B%7D,ForceSearch:!f,InitialSearch:!f,Page:0,PageRange:3,QueryGuid:c3bef684-446d-4dcf-ab71-05dabe38ac83,QueryString:troyen,ResultSize:50,ScenarioCode:KBR_UNIFIED,ScenarioDisplayMode:display-standard,SearchGridFieldsShownOnResultsDTO:!(),SearchLabel:'',SearchTerms:troyen,SessionGuid:'9caf6bfd-7180-4c31-ad72-faa5f2b03333',SortField:!n,SortOrder:0,TemplateParams:(Scenario:'',Scope:Library,Size:!n,Source:'',Support:'',UseCompact:!f),UseSpellChecking:!n)))"/>
               </msIdentifier>
               <msPart>
-                <msIdentifier ref="#document_47724">
-                  <country ref="#BE">Belgium</country>
+                <msIdentifier corresp="#document_47724">
+                  <country corresp="#BE">Belgium</country>
                   <settlement>Brussels</settlement>
-                  <repository ref="#respository_43904">Bibliothèque royale de Belgique</repository>
+                  <repository corresp="#respository_43904">Bibliothèque royale de Belgique</repository>
                   <idno>IV 1275, 1</idno>
                 </msIdentifier>
                 <msContents>
@@ -843,13 +941,19 @@
                     <textLang/>
                   </msItem>
                 </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
               </msPart>
               <history>
                 <origin>
-                  <origDate notBefore="1316-01-01" notAfter="1385-12-31" cert="conjecture">'Midden 14e eeuw'</origDate>
+                  <origDate notBefore="1316-01-01" notAfter="1385-12-31" cert="medium">'Midden 14e eeuw'</origDate>
                 </origin>
               </history>
-              <physDesc xml:id="physDesc_47727">
+              <physDesc corresp="#physDesc_47727">
                 <objectDesc form="codex">
                   <supportDesc material="perg">
                     <extent>
@@ -859,34 +963,34 @@
                       </dimensions>
                     </extent>
                   </supportDesc>
+                  <layoutDesc>
+                    <layout columns="2"/>
+                  </layoutDesc>
                 </objectDesc>
-                <layoutDesc>
-                  <layout columns="2" writtenLines=""/>
-                </layoutDesc>
                 <handDesc>
                   <handNote script="textualis"/>
                 </handDesc>
                 <decoDesc>
-                  <decNote type="illustration">
+                  <decoNote type="illustration">
                     <measure quantity="0"/>
-                  </decNote>
+                  </decoNote>
                   <decoNote type="rubrication"/>
                 </decoDesc>
               </physDesc>
             </msDesc>
           </witness>
           <witness xml:id="witness_47730">
+            <abbr type="siglum">BPL 2387</abbr>
+            <ref target="https://catalogue.leidenuniv.nl/discovery/fulldisplay?docid=alma990035456460302711&amp;context=L&amp;vid=31UKB_LEU:UBL_V1&amp;lang=en&amp;search_scope=MyInst_and_CI&amp;adaptor=Local%20Search%20Engine&amp;isFrbr=true&amp;tab=Everything&amp;query=any,contains,BPL%202387%20&amp;offset=0"/>
             <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness BPL 2387</msName>
-                <abbr type="siglum">BPL 2387</abbr>
-                <ref target="https://catalogue.leidenuniv.nl/discovery/fulldisplay?docid=alma990035456460302711&amp;context=L&amp;vid=31UKB_LEU:UBL_V1&amp;lang=en&amp;search_scope=MyInst_and_CI&amp;adaptor=Local%20Search%20Engine&amp;isFrbr=true&amp;tab=Everything&amp;query=any,contains,BPL%202387%20&amp;offset=0"/>
               </msIdentifier>
               <msPart>
-                <msIdentifier ref="#document_47729">
-                  <country ref="#NL">Netherlands</country>
+                <msIdentifier corresp="#document_47729">
+                  <country corresp="#NL">Netherlands</country>
                   <settlement>Leiden</settlement>
-                  <repository ref="#respository_43873">Universitaire Bibliotheken Leiden</repository>
+                  <repository corresp="#respository_43873">Universitaire Bibliotheken Leiden</repository>
                   <idno>BPL 2387</idno>
                 </msIdentifier>
                 <msContents>
@@ -898,49 +1002,55 @@
                     <textLang/>
                   </msItem>
                 </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
               </msPart>
               <history>
                 <origin>
-                  <origDate notBefore="1316-01-01" notAfter="1385-12-31" cert="conjecture">'14th century, mid'</origDate>
+                  <origDate notBefore="1316-01-01" notAfter="1385-12-31" cert="medium">'14th century, mid'</origDate>
                 </origin>
               </history>
-              <physDesc xml:id="physDesc_47732">
+              <physDesc corresp="#physDesc_47732">
                 <objectDesc form="codex">
                   <supportDesc material="perg">
                     <extent>
                       <dimensions unit="millimeters" type="written">
-                        <height quantity="NA">NA</height>
-                        <width quantity="NA">NA</width>
+                        <height>NA</height>
+                        <width>NA</width>
                       </dimensions>
                     </extent>
                   </supportDesc>
+                  <layoutDesc>
+                    <layout/>
+                  </layoutDesc>
                 </objectDesc>
-                <layoutDesc>
-                  <layout columns="" writtenLines=""/>
-                </layoutDesc>
                 <handDesc>
                   <handNote script="unknown"/>
                 </handDesc>
                 <decoDesc>
-                  <decNote type="illustration">
+                  <decoNote type="illustration">
                     <measure quantity="0"/>
-                  </decNote>
+                  </decoNote>
                   <decoNote type="unknown"/>
                 </decoDesc>
               </physDesc>
             </msDesc>
           </witness>
           <witness xml:id="witness_47686">
+            <abbr type="siglum">H111</abbr>
             <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H111</msName>
-                <abbr type="siglum">H111</abbr>
               </msIdentifier>
               <msPart>
-                <msIdentifier ref="#document_47685">
-                  <country ref="#BE">Belgium</country>
+                <msIdentifier corresp="#document_47685">
+                  <country corresp="#BE">Belgium</country>
                   <settlement>Ghent</settlement>
-                  <repository ref="#respository_47350">Koninklijke academie voor Nederlandse taal en letteren</repository>
+                  <repository corresp="#respository_47350">Koninklijke academie voor Nederlandse taal en letteren</repository>
                   <idno>1</idno>
                 </msIdentifier>
                 <msContents>
@@ -948,52 +1058,58 @@
                     <locusGrp>
                       <locus from="1r" to="1v">1r-1v</locus>
                     </locusGrp>
-                    <textLang mainLang="Vlaams" ref="#scripta_46305">Dialect of Flanders.</textLang>
+                    <textLang mainLang="Vlaams" corresp="#scripta_46305">Dialect of Flanders.</textLang>
                   </msItem>
                 </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
               </msPart>
               <history>
                 <origin>
-                  <origDate notBefore="1316-01-01" notAfter="1410-12-31" cert="conjecture">'XIVm/XIV2'</origDate>
+                  <origDate notBefore="1316-01-01" notAfter="1410-12-31" cert="medium">'XIVm/XIV2'</origDate>
                 </origin>
               </history>
-              <physDesc xml:id="physDesc_47688">
+              <physDesc corresp="#physDesc_47688">
                 <objectDesc form="codex">
                   <supportDesc material="perg">
                     <extent>
                       <dimensions unit="millimeters" type="written">
-                        <height quantity="280-290">280-290</height>
-                        <width quantity="197-201">197-201</width>
+                        <height>280-290</height>
+                        <width>197-201</width>
                       </dimensions>
                     </extent>
                   </supportDesc>
+                  <layoutDesc>
+                    <layout columns="2" writtenLines="50"/>
+                  </layoutDesc>
                 </objectDesc>
-                <layoutDesc>
-                  <layout columns="2" writtenLines="50"/>
-                </layoutDesc>
                 <handDesc>
                   <handNote script="textualis"/>
                 </handDesc>
                 <decoDesc>
-                  <decNote type="illustration">
+                  <decoNote type="illustration">
                     <measure quantity="0"/>
-                  </decNote>
+                  </decoNote>
                   <decoNote type="rubrication"/>
                 </decoDesc>
               </physDesc>
             </msDesc>
           </witness>
           <witness xml:id="witness_47681">
+            <abbr type="siglum">H110</abbr>
             <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H110</msName>
-                <abbr type="siglum">H110</abbr>
               </msIdentifier>
               <msPart>
-                <msIdentifier ref="#document_47680">
-                  <country ref="#NL">Netherlands</country>
+                <msIdentifier corresp="#document_47680">
+                  <country corresp="#NL">Netherlands</country>
                   <settlement>The Hague</settlement>
-                  <repository ref="#respository_43733">Koninklijke Bibliotheek</repository>
+                  <repository corresp="#respository_43733">Koninklijke Bibliotheek</repository>
                   <collection>Fragmenten Holtrop</collection>
                   <idno>131 D 4</idno>
                 </msIdentifier>
@@ -1002,16 +1118,22 @@
                     <locusGrp>
                       <locus from="1r" to="2v">1r-2v</locus>
                     </locusGrp>
-                    <textLang mainLang="Vlaams" ref="#scripta_46305">Dialect of Flanders.</textLang>
+                    <textLang mainLang="Vlaams" corresp="#scripta_46305">Dialect of Flanders.</textLang>
                   </msItem>
                 </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
               </msPart>
               <history>
                 <origin>
-                  <origDate notBefore="1341-01-01" notAfter="1410-12-31" cert="conjecture">'XIV2'</origDate>
+                  <origDate notBefore="1341-01-01" notAfter="1410-12-31" cert="medium">'XIV2'</origDate>
                 </origin>
               </history>
-              <physDesc xml:id="physDesc_47683">
+              <physDesc corresp="#physDesc_47683">
                 <objectDesc form="codex">
                   <supportDesc material="perg">
                     <extent>
@@ -1021,53 +1143,61 @@
                       </dimensions>
                     </extent>
                   </supportDesc>
+                  <layoutDesc>
+                    <layout columns="2" writtenLines="52"/>
+                  </layoutDesc>
                 </objectDesc>
-                <layoutDesc>
-                  <layout columns="2" writtenLines="52"/>
-                </layoutDesc>
                 <handDesc>
                   <handNote script="textualis"/>
                 </handDesc>
                 <decoDesc>
-                  <decNote type="illustration">
+                  <decoNote type="illustration">
                     <measure quantity="0"/>
-                  </decNote>
+                  </decoNote>
                   <decoNote type="rubrication"/>
                 </decoDesc>
               </physDesc>
             </msDesc>
           </witness>
           <witness xml:id="witness_47693">
+            <abbr type="siglum">H112</abbr>
+            <ref target="https://lib.ugent.be/en/catalog/rug01:000990629?i=2&amp;q=troyen"/>
             <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H112</msName>
-                <abbr type="siglum">H112</abbr>
-                <ref target="https://lib.ugent.be/en/catalog/rug01:000990629?i=2&amp;q=troyen"/>
               </msIdentifier>
               <msPart>
-                <msIdentifier ref="#document_47692">
-                  <country ref="#BE">Belgium</country>
+                <msIdentifier corresp="#document_47692">
+                  <country corresp="#BE">Belgium</country>
                   <settlement>Leuven</settlement>
-                  <repository ref="#respository_43962">Katholieke Universiteit te Leuven . Universiteitsbibliotheek</repository>
+                  <repository corresp="#respository_43962">Katholieke Universiteit te Leuven . Universiteitsbibliotheek</repository>
                   <collection>Collectie J. M. de Smet</collection>
                   <idno>z.s.</idno>
-                  <altIdentifier>a</altIdentifier>
+                  <altIdentifier>
+                    <idno>a</idno>
+                  </altIdentifier>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_47698">
                     <locusGrp>
                       <locus from="1r" to="1v">1r-1v</locus>
                     </locusGrp>
-                    <textLang mainLang="Brabants" ref="#scripta_46312">Dialect of Brabant.</textLang>
+                    <textLang mainLang="Brabants" corresp="#scripta_46312">Dialect of Brabant.</textLang>
                   </msItem>
                 </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
               </msPart>
               <history>
                 <origin>
-                  <origDate notBefore="1366-01-01" notAfter="1410-12-31" cert="conjecture">'&gt; 1350'</origDate>
+                  <origDate notBefore="1366-01-01" notAfter="1410-12-31" cert="medium">'&gt; 1350'</origDate>
                 </origin>
               </history>
-              <physDesc xml:id="physDesc_47695">
+              <physDesc corresp="#physDesc_47695">
                 <objectDesc form="codex">
                   <supportDesc material="perg">
                     <extent>
@@ -1077,17 +1207,17 @@
                       </dimensions>
                     </extent>
                   </supportDesc>
+                  <layoutDesc>
+                    <layout columns="2" writtenLines="50"/>
+                  </layoutDesc>
                 </objectDesc>
-                <layoutDesc>
-                  <layout columns="2" writtenLines="50"/>
-                </layoutDesc>
                 <handDesc>
                   <handNote script="textualis"/>
                 </handDesc>
                 <decoDesc>
-                  <decNote type="illustration">
+                  <decoNote type="illustration">
                     <measure quantity="0"/>
-                  </decNote>
+                  </decoNote>
                   <decoNote type="initial"/>
                   <decoNote type="rubrication"/>
                 </decoDesc>
@@ -1096,14 +1226,12 @@
             <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H112</msName>
-                <abbr type="siglum">H112</abbr>
-                <ref target="https://lib.ugent.be/en/catalog/rug01:000990629?i=2&amp;q=troyen"/>
               </msIdentifier>
               <msPart>
-                <msIdentifier ref="#document_47689">
-                  <country ref="#FR">France</country>
+                <msIdentifier corresp="#document_47689">
+                  <country corresp="#FR">France</country>
                   <settlement>Paris</settlement>
-                  <repository ref="#respository_43932">Bibliothèque nationale de France</repository>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
                   <idno>néerl. 126</idno>
                 </msIdentifier>
                 <msContents>
@@ -1111,16 +1239,22 @@
                     <locusGrp>
                       <locus from="1r" to="1v">1r-1v</locus>
                     </locusGrp>
-                    <textLang mainLang="Brabants" ref="#scripta_46312">Dialect of Brabant.</textLang>
+                    <textLang mainLang="Brabants" corresp="#scripta_46312">Dialect of Brabant.</textLang>
                   </msItem>
                 </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
               </msPart>
               <history>
                 <origin>
-                  <origDate notBefore="1366-01-01" notAfter="1410-12-31" cert="conjecture">'&gt; 1350'</origDate>
+                  <origDate notBefore="1366-01-01" notAfter="1410-12-31" cert="medium">'&gt; 1350'</origDate>
                 </origin>
               </history>
-              <physDesc xml:id="physDesc_47695">
+              <physDesc corresp="#physDesc_47695">
                 <objectDesc form="codex">
                   <supportDesc material="perg">
                     <extent>
@@ -1130,17 +1264,17 @@
                       </dimensions>
                     </extent>
                   </supportDesc>
+                  <layoutDesc>
+                    <layout columns="2" writtenLines="50"/>
+                  </layoutDesc>
                 </objectDesc>
-                <layoutDesc>
-                  <layout columns="2" writtenLines="50"/>
-                </layoutDesc>
                 <handDesc>
                   <handNote script="textualis"/>
                 </handDesc>
                 <decoDesc>
-                  <decNote type="illustration">
+                  <decoNote type="illustration">
                     <measure quantity="0"/>
-                  </decNote>
+                  </decoNote>
                   <decoNote type="initial"/>
                   <decoNote type="rubrication"/>
                 </decoDesc>
@@ -1149,32 +1283,37 @@
             <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H112</msName>
-                <abbr type="siglum">H112</abbr>
-                <ref target="https://lib.ugent.be/en/catalog/rug01:000990629?i=2&amp;q=troyen"/>
               </msIdentifier>
               <msPart>
-                <msIdentifier ref="#document_47691">
-                  <country ref="#BE">Belgium</country>
+                <msIdentifier corresp="#document_47691">
+                  <country corresp="#BE">Belgium</country>
                   <settlement>Ghent</settlement>
-                  <repository ref="#respository_43787">Rijksuniversiteit te Gent. Bibliotheek</repository>
+                  <repository corresp="#respository_43787">Rijksuniversiteit te Gent. Bibliotheek</repository>
                   <idno>691</idno>
-                  <ref target="https://www.handschriftencensus.de/23545"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_47696">
                     <locusGrp>
                       <locus from="1r" to="2v">1r-2v</locus>
                     </locusGrp>
-                    <textLang mainLang="Brabants" ref="#scripta_46312">Dialect of Brabant.</textLang>
+                    <textLang mainLang="Brabants" corresp="#scripta_46312">Dialect of Brabant.</textLang>
                   </msItem>
                 </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://www.handschriftencensus.de/23545"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
               </msPart>
               <history>
                 <origin>
-                  <origDate notBefore="1366-01-01" notAfter="1410-12-31" cert="conjecture">'&gt; 1350'</origDate>
+                  <origDate notBefore="1366-01-01" notAfter="1410-12-31" cert="medium">'&gt; 1350'</origDate>
                 </origin>
               </history>
-              <physDesc xml:id="physDesc_47695">
+              <physDesc corresp="#physDesc_47695">
                 <objectDesc form="codex">
                   <supportDesc material="perg">
                     <extent>
@@ -1184,17 +1323,17 @@
                       </dimensions>
                     </extent>
                   </supportDesc>
+                  <layoutDesc>
+                    <layout columns="2" writtenLines="50"/>
+                  </layoutDesc>
                 </objectDesc>
-                <layoutDesc>
-                  <layout columns="2" writtenLines="50"/>
-                </layoutDesc>
                 <handDesc>
                   <handNote script="textualis"/>
                 </handDesc>
                 <decoDesc>
-                  <decNote type="illustration">
+                  <decoNote type="illustration">
                     <measure quantity="0"/>
-                  </decNote>
+                  </decoNote>
                   <decoNote type="initial"/>
                   <decoNote type="rubrication"/>
                 </decoDesc>
@@ -1202,53 +1341,67 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47649">
+            <abbr type="siglum">15.589-623</abbr>
+            <ref target="https://www.handschriftencensus.de/6926"/>
             <msDesc status="fragmentary">
               <note>Full chapter</note>
               <msIdentifier>
                 <msName>Historical document of witness 15.589-623</msName>
-                <abbr type="siglum">15.589-623</abbr>
-                <ref target="https://www.handschriftencensus.de/6926"/>
               </msIdentifier>
               <msPart>
-                <msIdentifier ref="#document_47647">
-                  <country ref="#BE">Belgium</country>
+                <msIdentifier corresp="#document_47647">
+                  <country corresp="#BE">Belgium</country>
                   <settlement>Brussels</settlement>
-                  <repository ref="#respository_43904">Bibliothèque royale de Belgique</repository>
+                  <repository corresp="#respository_43904">Bibliothèque royale de Belgique</repository>
                   <idno>15.589-623</idno>
-                  <ref target="https://www.handschriftencensus.de/6926"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_47652">
                     <locusGrp>
                       <locus from="136r" to="136v">136r-136v</locus>
                     </locusGrp>
-                    <textLang mainLang="Brabants" ref="#scripta_46312">Dialect of Brabant.</textLang>
+                    <textLang mainLang="Brabants" corresp="#scripta_46312">Dialect of Brabant.</textLang>
                   </msItem>
                 </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://www.handschriftencensus.de/6926"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
               </msPart>
               <msPart>
-                <msIdentifier ref="#document_47647">
-                  <country ref="#BE">Belgium</country>
+                <msIdentifier corresp="#document_47647">
+                  <country corresp="#BE">Belgium</country>
                   <settlement>Brussels</settlement>
-                  <repository ref="#respository_43904">Bibliothèque royale de Belgique</repository>
+                  <repository corresp="#respository_43904">Bibliothèque royale de Belgique</repository>
                   <idno>15.589-623</idno>
-                  <ref target="https://www.handschriftencensus.de/6926"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_47650">
                     <locusGrp>
                       <locus from="130v" to="136r">130v-136r</locus>
                     </locusGrp>
-                    <textLang mainLang="Brabants" ref="#scripta_46312">Dialect of Brabant.</textLang>
+                    <textLang mainLang="Brabants" corresp="#scripta_46312">Dialect of Brabant.</textLang>
                   </msItem>
                 </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://www.handschriftencensus.de/6926"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
               </msPart>
               <history>
                 <origin>
-                  <origDate notBefore="1391-01-01" notAfter="1420-12-31" cert="conjecture">'c.1399-1410'</origDate>
+                  <origDate notBefore="1391-01-01" notAfter="1420-12-31" cert="medium">'c.1399-1410'</origDate>
                 </origin>
               </history>
-              <physDesc xml:id="physDesc_47651">
+              <physDesc corresp="#physDesc_47651">
                 <objectDesc form="codex">
                   <supportDesc material="chart">
                     <extent>
@@ -1258,17 +1411,17 @@
                       </dimensions>
                     </extent>
                   </supportDesc>
+                  <layoutDesc>
+                    <layout columns="2"/>
+                  </layoutDesc>
                 </objectDesc>
-                <layoutDesc>
-                  <layout columns="2" writtenLines="46-47"/>
-                </layoutDesc>
                 <handDesc>
                   <handNote script="cursiva"/>
                 </handDesc>
                 <decoDesc>
-                  <decNote type="illustration">
+                  <decoNote type="illustration">
                     <measure quantity="0"/>
-                  </decNote>
+                  </decoNote>
                   <decoNote type="rubrication"/>
                 </decoDesc>
               </physDesc>
@@ -1280,7 +1433,7 @@
     <encodingDesc>
       <classDecl>
         <taxonomy>
-          <category xml:id="form" ref="https://www.wikidata.org/wiki/Q4263830">
+          <category xml:id="form" corresp="https://www.wikidata.org/wiki/Q4263830">
             <catDesc>Form</catDesc>
             <category xml:id="verseForm">
               <catDesc>verse</catDesc>
@@ -1298,81 +1451,117 @@
           <category xml:id="traditionStatus">
             <catDesc>Tradition status</catDesc>
             <category xml:id="traditionFragmentary">
-              <catDesc>fragmentary</catDesc>
-              <desc>Surviving in only fragments. No complete witnesses survive.</desc>
+              <catDesc>
+                <name type="main">fragmentary</name>
+                <gloss>Surviving in only fragments. No complete witnesses survive.</gloss>
+              </catDesc>
             </category>
             <category xml:id="traditionLost">
-              <catDesc>lost</catDesc>
-              <desc>No witnesses of this text survive. It is a completely lost tradition.</desc>
+              <catDesc>
+                <name type="main">lost</name>
+                <gloss>No witnesses of this text survive. It is a completely lost tradition.</gloss>
+              </catDesc>
             </category>
             <category xml:id="traditionSurviving">
-              <catDesc>surviving</catDesc>
-              <desc>Surviving in at least one (more or less) complete manuscript</desc>
+              <catDesc>
+                <name type="main">surviving</name>
+                <gloss>Surviving in at least one (more or less) complete manuscript</gloss>
+              </catDesc>
             </category>
             <category xml:id="traditionUnknown">
-              <catDesc>unknown</catDesc>
-              <desc>The information is not ready to be input.</desc>
+              <catDesc>
+                <name type="main">unknown</name>
+                <gloss>The information is not ready to be input.</gloss>
+              </catDesc>
             </category>
           </category>
-          <category xml:id="genre" ref="https://www.wikidata.org/wiki/Q483394">
+          <category xml:id="genre" corresp="https://www.wikidata.org/wiki/Q483394">
             <catDesc>Genre</catDesc>
-            <category xml:id="genre_46366">
-              <catDesc>riddarasögur</catDesc>
-              <desc>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.<name type="alt">chivalric sagas</name>
-              </desc>
-              <category xml:id="genre_46370">
-                <catDesc>riddarasögur translated</catDesc>
-                <desc>Norse translations of French chansons de geste and Latin romances and histories,</desc>
-              </category>
-              <category xml:id="genre_46367">
-                <catDesc>riddarasögur indigenous</catDesc>
-                <desc>Icelandic indigenous creations in a style of riddarasögur</desc>
-              </category>
-            </category>
             <category xml:id="genre_48800">
-              <catDesc>Arthurian romance</catDesc>
-              <desc>Arthurian romance grew out of chronicles purporting to record the history of King Arthur, his knights, and their martial or amatory adventures.</desc>
+              <catDesc>
+                <name type="main">Arthurian romance</name>
+                <gloss>Arthurian romance grew out of chronicles purporting to record the history of King Arthur, his knights, and their martial or amatory adventures.</gloss>
+              </catDesc>
             </category>
             <category xml:id="genre_47768">
-              <catDesc>Arthurroman</catDesc>
-              <desc>'Arthurroman is een verzamelnaam voor ridderromans ontstaan in de tweede helft van de twaalfde eeuw aan Noord-Franse adellijke hoven. Centraal, zij het op de achtergrond, staat koning Arthur. De mode begon met vijf Arthurromans in de volkstaal (ca. 1160-1190) van Chrétien de Troyes.'</desc>
+              <catDesc>
+                <name type="main">Arthurroman</name>
+                <gloss>'Arthurroman is een verzamelnaam voor ridderromans ontstaan in de tweede helft van de twaalfde eeuw aan Noord-Franse adellijke hoven. Centraal, zij het op de achtergrond, staat koning Arthur. De mode begon met vijf Arthurromans in de volkstaal (ca. 1160-1190) van Chrétien de Troyes.'</gloss>
+              </catDesc>
             </category>
             <category xml:id="genre_49013">
-              <catDesc>Carolingian romance</catDesc>
-              <desc>Middle English romance surrounding characters related to Charlemagne or people at his court.</desc>
+              <catDesc>
+                <name type="main">Carolingian romance</name>
+                <gloss>Middle English romance surrounding characters related to Charlemagne or people at his court.</gloss>
+              </catDesc>
             </category>
             <category xml:id="genre_46304">
-              <catDesc>Karelepiek</catDesc>
-              <desc>Story about Charlemagne and his family.</desc>
+              <catDesc>
+                <name type="main">Karelepiek</name>
+                <gloss>Story about Charlemagne and his family.</gloss>
+              </catDesc>
             </category>
             <category xml:id="genre_47474">
-              <catDesc>Other</catDesc>
-              <desc>Any text that does not fit in with the main genres of Arthurian and Charlemagnian literature.</desc>
+              <catDesc>
+                <name type="main">Other</name>
+                <gloss>Any text that does not fit in with the main genres of Arthurian and Charlemagnian literature.</gloss>
+              </catDesc>
             </category>
             <category xml:id="genre_44167">
-              <catDesc>chanson de geste</catDesc>
-              <desc>Long epic poem from the Middle Ages.</desc>
+              <catDesc>
+                <name type="main">chanson de geste</name>
+                <gloss>Long epic poem from the Middle Ages.</gloss>
+              </catDesc>
             </category>
             <category xml:id="genre_47609">
-              <catDesc>chronique</catDesc>
-              <desc>'Chroniques' autodésignées, en prose, dérivées de chansons de geste et romans</desc>
+              <catDesc>
+                <name type="main">chronique</name>
+                <gloss>'Chroniques' autodésignées, en prose, dérivées de chansons de geste et romans</gloss>
+              </catDesc>
             </category>
             <category xml:id="genre_47612">
-              <catDesc>mise en prose</catDesc>
-              <desc>mise en prose de chansons de geste ou romans en vers</desc>
+              <catDesc>
+                <name type="main">mise en prose</name>
+                <gloss>mise en prose de chansons de geste ou romans en vers</gloss>
+              </catDesc>
             </category>
             <category xml:id="genre_44128">
-              <catDesc>roman</catDesc>
-              <desc>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)<name type="alt">chivalric romance</name>
+              <catDesc>
+                <name type="main">roman</name>
+                <name type="alt">chivalric romance</name>
                 <name type="alt">chivalric novel</name>
-              </desc>
+                <gloss>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)</gloss>
+              </catDesc>
               <category xml:id="genre_44130">
-                <catDesc>roman lignager</catDesc>
-                <desc>Family history</desc>
+                <catDesc>
+                  <name type="main">roman lignager</name>
+                  <gloss>Family history</gloss>
+                </catDesc>
               </category>
               <category xml:id="genre_46894">
-                <catDesc>Artusroman</catDesc>
-                <desc>Middle High German form of romance  or epic based on the Matière de Bretagne</desc>
+                <catDesc>
+                  <name type="main">Artusroman</name>
+                  <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
+                </catDesc>
+              </category>
+            </category>
+            <category xml:id="genre_46366">
+              <catDesc>
+                <name type="main">riddarasögur</name>
+                <name type="alt">chivalric sagas</name>
+                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
+              </catDesc>
+              <category xml:id="genre_46370">
+                <catDesc>
+                  <name type="main">riddarasögur translated</name>
+                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46367">
+                <catDesc>
+                  <name type="main">riddarasögur indigenous</name>
+                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
+                </catDesc>
               </category>
             </category>
           </category>
@@ -1381,10 +1570,10 @@
     </encodingDesc>
     <profileDesc>
       <creation>
-        <date notBefore="1259-01-01" notAfter="1325-12-31" cert="conjecture">'De Historie van Troyen werd alleszins na deze werken geschreven want in de proloog van zijn Troje-geschiedenis vermeldt Maerlant dat hij reeds een merlyn en een allexander heeft gedicht.'</date>
+        <date notBefore="1259-01-01" notAfter="1325-12-31" cert="medium">'De Historie van Troyen werd alleszins na deze werken geschreven want in de proloog van zijn Troje-geschiedenis vermeldt Maerlant dat hij reeds een merlyn en een allexander heeft gedicht.'</date>
       </creation>
       <langUsage>
-        <language ident="dum" ref="https://iso639-3.sil.org/code/dum" xml:id="lang_9728">Middle Dutch</language>
+        <language ident="dum" corresp="https://iso639-3.sil.org/code/dum" xml:id="lang_9728">Middle Dutch</language>
       </langUsage>
       <textClass>
         <catRef scheme="#form" target="#verseForm"/>
