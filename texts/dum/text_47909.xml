@@ -41,10 +41,11 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_47912">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H10</msName>
                 <abbr type="siglum">H10</abbr>
+                <ref target="https://opac.kbr.be/Library/search.aspx?SC=KBR_UNIFIED&amp;QUERY=beerte&amp;_lg=nl-BE#/Detail/(query:(Id:'position:%20SOLR/DEFA-000001_OFFSET_0',Index:1,NBResults:185,PageRange:3,SearchQuery:(FacetFilter:%7B%7D,ForceSearch:!f,InitialSearch:!f,Page:0,PageRange:3,QueryGuid:'26e29623-1165-429a-a506-55b05b97d50e',QueryString:beerte,ResultSize:50,ScenarioCode:KBR_UNIFIED,ScenarioDisplayMode:display-standard,SearchGridFieldsShownOnResultsDTO:!(),SearchLabel:'',SearchTerms:beerte,SessionGuid:'4161f008-cab8-45a4-8b97-9526f994f545',SortField:!n,SortOrder:0,TemplateParams:(Scenario:'',Scope:Library,Size:!n,Source:'',Support:'',UseCompact:!f),UseSpellChecking:!n)))"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_47910">

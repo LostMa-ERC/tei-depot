@@ -41,7 +41,7 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_48373">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H134</msName>
                 <abbr type="siglum">H134</abbr>
@@ -94,10 +94,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_46364">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H39</msName>
                 <abbr type="siglum">H39</abbr>
+                <ref target="https://www.handschriftencensus.de/22382"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_46345">
@@ -147,10 +148,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47280">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H44</msName>
                 <abbr type="siglum">H44</abbr>
+                <ref target="https://www.handschriftencensus.de/22383"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_47279">
@@ -204,10 +206,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47268">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H41</msName>
                 <abbr type="siglum">H41</abbr>
+                <ref target="https://www.handschriftencensus.de/21480"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_47266">
@@ -257,10 +260,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47238">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H40</msName>
                 <abbr type="siglum">H40</abbr>
+                <ref target="https://www.handschriftencensus.de/22384"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_47235">
@@ -310,10 +314,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47276">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H43</msName>
                 <abbr type="siglum">H43</abbr>
+                <ref target="https://www.handschriftencensus.de/21469"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_47275">
@@ -364,10 +369,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47272">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H42</msName>
                 <abbr type="siglum">H42</abbr>
+                <ref target="https://www.handschriftencensus.de/8947"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_47271">

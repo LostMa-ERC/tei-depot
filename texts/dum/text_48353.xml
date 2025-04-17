@@ -42,10 +42,11 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_48356">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H131</msName>
                 <abbr type="siglum">H131</abbr>
+                <ref target="https://digitalcollections.universiteitleiden.nl/view/item/1679726?solr_nav%5Bid%5D=c91c94bac377d3550987&amp;solr_nav%5Bpage%5D=0&amp;solr_nav%5Boffset%5D=0#page/1/mode/1up"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_48354">

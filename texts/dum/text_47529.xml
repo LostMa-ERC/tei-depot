@@ -41,10 +41,11 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_47532">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H8</msName>
                 <abbr type="siglum">H8</abbr>
+                <ref target="https://www.handschriftencensus.de/20271"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_47530">
@@ -94,10 +95,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47536">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H9</msName>
                 <abbr type="siglum">H9</abbr>
+                <ref target="https://www.handschriftencensus.de/20270"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_47535">
@@ -105,6 +107,7 @@
                   <settlement>Göttingen</settlement>
                   <repository ref="#respository_43884">Niedersächsische Staats-und Universitätsbibliothek Göttingen</repository>
                   <idno>4o Cod. ms.theol. 98, f.6</idno>
+                  <ref target="https://www.handschriftencensus.de/20270"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_47537">

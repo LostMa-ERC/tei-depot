@@ -41,7 +41,7 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_47441">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H102</msName>
                 <abbr type="siglum">H102</abbr>
@@ -94,7 +94,7 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47429">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H99</msName>
                 <abbr type="siglum">H99</abbr>
@@ -147,7 +147,7 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_46361">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H98</msName>
                 <abbr type="siglum">H98</abbr>
@@ -178,7 +178,7 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47437">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H101</msName>
                 <abbr type="siglum">H101</abbr>
@@ -231,7 +231,7 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47433">
-            <msDesc>
+            <msDesc status="lost">
               <msIdentifier>
                 <msName>Historical document of witness H100</msName>
                 <abbr type="siglum">H100</abbr>

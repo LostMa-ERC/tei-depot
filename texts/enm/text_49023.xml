@@ -35,10 +35,11 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_49030">
-            <msDesc>
+            <msDesc status="complete">
               <msIdentifier>
                 <msName>Historical document of witness 1681</msName>
                 <abbr type="siglum">1681</abbr>
+                <ref target="https://www.middleenglishromance.org.uk/mer/18"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_49029">
@@ -46,6 +47,7 @@
                   <settlement>Cambridge</settlement>
                   <repository ref="#respository_43816">University of Cambridge. Library</repository>
                   <idno>MS Ff.2.38</idno>
+                  <ref target="https://www.middleenglishromance.org.uk/mer/18"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_49031">
@@ -88,10 +90,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_49025">
-            <msDesc>
+            <msDesc status="complete">
               <msIdentifier>
                 <msName>Historical document of witness 1681</msName>
                 <abbr type="siglum">1681</abbr>
+                <ref target="https://www.middleenglishromance.org.uk/mer/18"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_48815">
@@ -99,6 +102,7 @@
                   <settlement>Lincoln</settlement>
                   <repository ref="#respository_43758">Lincolnshire Archives Office</repository>
                   <idno>MS 91</idno>
+                  <ref target="https://geographies-of-orthodoxy.qub.ac.uk/resources/?section=manuscript&amp;id=67"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_49026">

@@ -35,10 +35,11 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_48785">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness 4262</msName>
                 <abbr type="siglum">4262</abbr>
+                <ref target="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_1315"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_48781">
@@ -46,6 +47,7 @@
                   <settlement>Oxford</settlement>
                   <repository ref="#respository_43847">Bodleian Library</repository>
                   <idno>MS Bodley 264</idno>
+                  <ref target="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_1315"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_48786">

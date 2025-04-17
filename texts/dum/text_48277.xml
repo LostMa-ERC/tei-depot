@@ -41,10 +41,11 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_48279">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H103</msName>
                 <abbr type="siglum">H103</abbr>
+                <ref target="https://www.handschriftencensus.de/19710"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_48278">
@@ -52,6 +53,7 @@
                   <settlement>Prague</settlement>
                   <repository ref="#respository_48440">Univerzita Karlova. Katedra pomocných věd historických a archivního studia</repository>
                   <idno>z.s.</idno>
+                  <ref target="https://www.handschriftencensus.de/19710"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_48280">

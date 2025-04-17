@@ -41,10 +41,11 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_46311">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness 18.423</msName>
                 <abbr type="siglum">18.423</abbr>
+                <ref target="https://www.dbnl.org/tekst/klei021geta01_01/klei021geta01_01_0001.php"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_46306">

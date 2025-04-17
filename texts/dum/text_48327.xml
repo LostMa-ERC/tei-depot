@@ -41,7 +41,7 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_48329">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H126</msName>
                 <abbr type="siglum">H126</abbr>

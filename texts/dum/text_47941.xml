@@ -41,10 +41,12 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_47943">
-            <msDesc>
+            <msDesc status="complete">
+              <note>Shortened version of the text</note>
               <msIdentifier>
                 <msName>Historical document of witness XXIV</msName>
                 <abbr type="siglum">XXIV</abbr>
+                <ref target="https://webggc.oclc.org/cbs/DB=2.37/SET=3/TTL=1/SHW?FRST=4"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_47942">
@@ -52,6 +54,7 @@
                   <settlement>The Hague</settlement>
                   <repository ref="#respository_43733">Koninklijke Bibliotheek</repository>
                   <idno>XXIV</idno>
+                  <ref target="https://www.arlima.net/ad/cassamus_roman_van.html"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_47944">
@@ -96,10 +99,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47951">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H16</msName>
                 <abbr type="siglum">H16</abbr>
+                <ref target="https://opac.kbr.be/Library/search.aspx?SC=KBR_UNIFIED&amp;QUERY=18.228&amp;_lg=nl-BE#/Detail/(query:(Id:'position:%20SOLR/DEFA-000001_OFFSET_0',Index:1,NBResults:1,PageRange:3,SearchQuery:(CloudTerms:!(),FacetFilter:%7B%7D,ForceSearch:!f,InitialSearch:!f,Page:0,PageRange:3,QueryGuid:'755d6aed-3635-4622-adb9-462f4272ce19',QueryString:cassamus,ResultSize:50,ScenarioCode:KBR_UNIFIED,ScenarioDisplayMode:display-standard,SearchGridFieldsShownOnResultsDTO:!(),SearchLabel:'',SearchTerms:cassamus,SessionGuid:c711ce71-f184-4335-aac1-0ab52b6f9ee9,SortField:!n,SortOrder:0,TemplateParams:(Scenario:'',Scope:Library,Size:!n,Source:'',Support:'',UseCompact:!f),UseSpellChecking:!n)))"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_47950">
@@ -149,7 +153,7 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47947">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H15</msName>
                 <abbr type="siglum">H15</abbr>

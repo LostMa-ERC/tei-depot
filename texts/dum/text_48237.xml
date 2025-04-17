@@ -41,10 +41,11 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_48238">
-            <msDesc>
+            <msDesc status="complete">
               <msIdentifier>
                 <msName>Historical document of witness LC</msName>
                 <abbr type="siglum">LC</abbr>
+                <ref target="https://www.kb.nl/ontdekken-bewonderen/topstukken/lancelotcompilatie"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_47782">
@@ -52,6 +53,7 @@
                   <settlement>The Hague</settlement>
                   <repository ref="#respository_43733">Koninklijke Bibliotheek</repository>
                   <idno>129 A 10</idno>
+                  <ref target="https://www.handschriftencensus.de/18444"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_48239">
@@ -95,7 +97,7 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_48255">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H90</msName>
                 <abbr type="siglum">H90</abbr>
@@ -148,7 +150,7 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_48246">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H88</msName>
                 <abbr type="siglum">H88</abbr>
@@ -201,7 +203,7 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_48241">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H87</msName>
                 <abbr type="siglum">H87</abbr>
@@ -255,10 +257,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_48251">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H89</msName>
                 <abbr type="siglum">H89</abbr>
+                <ref target="https://opac.kbr.be/Library/search.aspx?SC=KBR_UNIFIED&amp;QUERY=II+572&amp;_lg=nl-BE#/Detail/(query:(Id:'position:%20SOLR/DEFA-000001_OFFSET_0',Index:1,NBResults:52,PageRange:3,SearchQuery:(CloudTerms:!(),FacetFilter:%7B%7D,ForceSearch:!f,InitialSearch:!f,Page:0,PageRange:3,QueryGuid:'2a290e20-ef1d-4152-903d-78a66306accc',QueryString:perchevael,ResultSize:50,ScenarioCode:KBR_UNIFIED,ScenarioDisplayMode:display-standard,SearchGridFieldsShownOnResultsDTO:!(),SearchLabel:'',SearchTerms:perchevael,SessionGuid:'34df968b-af50-43ad-92bc-8cfcd79602e9',SortField:!n,SortOrder:0,TemplateParams:(Scenario:'',Scope:Library,Size:!n,Source:'',Support:'',UseCompact:!f),UseSpellChecking:!n)))"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_48249">

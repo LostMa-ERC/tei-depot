@@ -35,10 +35,12 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_49077">
-            <msDesc>
+            <msDesc status="complete">
               <msIdentifier>
                 <msName>Historical document of witness 1913</msName>
                 <abbr type="siglum">1913</abbr>
+                <ref target="https://www.middleenglishromance.org.uk/mer/22"/>
+                <ref target="https://www.medievalscribes.com/index.php?browse=manuscripts&amp;id=58&amp;nav=off"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_49076">
@@ -46,6 +48,7 @@
                   <settlement>Oxford</settlement>
                   <repository ref="#respository_43943">Corpus Christi College Oxford</repository>
                   <idno>MS 198</idno>
+                  <ref target="https://www.middleenglishromance.org.uk/mer/22"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_49078">
@@ -89,10 +92,12 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_49065">
-            <msDesc>
+            <msDesc status="complete">
               <msIdentifier>
                 <msName>Historical document of witness 1913</msName>
                 <abbr type="siglum">1913</abbr>
+                <ref target="https://www.medievalscribes.com/index.php?browse=aspect&amp;id=3&amp;navlocation=Petworth&amp;navlibrary=Petworth%20House,%20The%20National%20Trust&amp;msid=116&amp;nav=off"/>
+                <ref target="https://www.middleenglishromance.org.uk/mer/22"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_49064">
@@ -142,10 +147,12 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_49069">
-            <msDesc>
+            <msDesc status="complete">
               <msIdentifier>
                 <msName>Historical document of witness 1913</msName>
                 <abbr type="siglum">1913</abbr>
+                <ref target="https://www.medievalscribes.com/index.php?browse=manuscripts&amp;id=136&amp;nav=off"/>
+                <ref target="https://www.middleenglishromance.org.uk/mer/22"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_49068">
@@ -195,10 +202,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_49061">
-            <msDesc>
+            <msDesc status="complete">
               <msIdentifier>
                 <msName>Historical document of witness 1913</msName>
                 <abbr type="siglum">1913</abbr>
+                <ref target="https://www.academia.edu/36446168/A_Gathering_of_Medieval_English_Manuscripts_The_Takamiya_Collection_at_the_Beinecke_Library"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_49060">
@@ -248,10 +256,12 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_49082">
-            <msDesc>
+            <msDesc status="complete">
               <msIdentifier>
                 <msName>Historical document of witness 1913</msName>
                 <abbr type="siglum">1913</abbr>
+                <ref target="https://www.middleenglishromance.org.uk/mer/22"/>
+                <ref target="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_3935"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_49080">
@@ -301,10 +311,12 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_49073">
-            <msDesc>
+            <msDesc status="complete">
               <msIdentifier>
                 <msName>Historical document of witness 1913</msName>
                 <abbr type="siglum">1913</abbr>
+                <ref target="https://www.middleenglishromance.org.uk/mer/22"/>
+                <ref target="https://www.medievalscribes.com/index.php?browse=manuscripts&amp;id=61&amp;nav=off"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_49072">

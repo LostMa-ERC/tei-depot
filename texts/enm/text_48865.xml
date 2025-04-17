@@ -35,10 +35,12 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_48916">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness 3098.6</msName>
                 <abbr type="siglum">3098.6</abbr>
+                <ref target="https://www.middleenglishromance.org.uk/mer/7"/>
+                <ref target="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4575"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_48914">
@@ -46,6 +48,7 @@
                   <settlement>Oxford</settlement>
                   <repository ref="#respository_43847">Bodleian Library</repository>
                   <idno>MS Douce 216</idno>
+                  <ref target="https://www.middleenglishromance.org.uk/mer/7"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_48917">

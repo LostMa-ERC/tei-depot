@@ -35,7 +35,7 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_46349">
-            <msDesc>
+            <msDesc status="defective">
               <msIdentifier>
                 <msName>Historical document of witness P6</msName>
                 <abbr type="siglum">P6</abbr>

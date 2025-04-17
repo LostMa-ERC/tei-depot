@@ -35,10 +35,11 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_49016">
-            <msDesc>
+            <msDesc status="complete">
               <msIdentifier>
                 <msName>Historical document of witness 1996</msName>
                 <abbr type="siglum">1996</abbr>
+                <ref target="https://www.middleenglishromance.org.uk/mer/15"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_49015">
@@ -46,6 +47,7 @@
                   <settlement>London</settlement>
                   <repository ref="#respository_43919">British library</repository>
                   <idno>MS Additional 31042</idno>
+                  <ref target="https://www.middleenglishromance.org.uk/mer/15"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_49017">

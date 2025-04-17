@@ -42,10 +42,11 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_48157">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H62</msName>
                 <abbr type="siglum">H62</abbr>
+                <ref target="https://lib.ugent.be/nl/catalog/rug01:000990088?i=21&amp;q=1648&amp;type=manuscript"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_48154">
@@ -93,10 +94,11 @@
                 </decoDesc>
               </physDesc>
             </msDesc>
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H62</msName>
                 <abbr type="siglum">H62</abbr>
+                <ref target="https://lib.ugent.be/nl/catalog/rug01:000990088?i=21&amp;q=1648&amp;type=manuscript"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_48156">

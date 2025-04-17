@@ -35,10 +35,11 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_48831">
-            <msDesc>
+            <msDesc status="defective">
               <msIdentifier>
                 <msName>Historical document of witness 821</msName>
                 <abbr type="siglum">821</abbr>
+                <ref target="https://auchinleck.nls.uk/editorial/physical.html#format"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_48827">
@@ -46,6 +47,7 @@
                   <settlement>Edinburgh</settlement>
                   <repository ref="#respository_43958">National Library of Scotland</repository>
                   <idno>MS Advocates 19.2.1</idno>
+                  <ref target="https://www.middleenglishromance.org.uk/mer/5"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_48832">
@@ -89,10 +91,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_48842">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness 821</msName>
                 <abbr type="siglum">821</abbr>
+                <ref target="https://www.middleenglishromance.org.uk/mer/5"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_48841">
@@ -100,6 +103,7 @@
                   <settlement>London</settlement>
                   <repository ref="#respository_43919">British library</repository>
                   <idno>MS Egerton 2862</idno>
+                  <ref target="https://www.middleenglishromance.org.uk/mer/5"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_48843">

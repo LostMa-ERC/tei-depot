@@ -41,10 +41,11 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_47545">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H13</msName>
                 <abbr type="siglum">H13</abbr>
+                <ref target="https://lib.uva.nl/discovery/fulldisplay?docid=alma990022584600205131&amp;context=L&amp;vid=31UKB_UAM1_INST:UVA&amp;lang=en&amp;search_scope=DN_and_CI_and_PURE&amp;adaptor=Local%20Search%20Engine&amp;tab=Everything&amp;query=any,contains,boudewijn%20van%20seborch&amp;offset=0"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_47544">
@@ -94,10 +95,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47541">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H12</msName>
                 <abbr type="siglum">H12</abbr>
+                <ref target="https://www.arlima.net/ad/baudouin_de_sebourc_en_neerlandais.html"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_47540">
@@ -105,6 +107,7 @@
                   <settlement>Munich</settlement>
                   <repository ref="#respository_47356">Universitätsbibliothek München</repository>
                   <idno>2o Cod. ms. 756</idno>
+                  <ref target="https://www.arlima.net/ad/baudouin_de_sebourc_en_neerlandais.html"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_47542">

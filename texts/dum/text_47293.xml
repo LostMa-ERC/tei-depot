@@ -41,10 +41,11 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_47467">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H96</msName>
                 <abbr type="siglum">H96</abbr>
+                <ref target="https://www.handschriftencensus.de/13766"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_47466">
@@ -52,6 +53,7 @@
                   <settlement>Budapest</settlement>
                   <repository ref="#respository_47527">Országos Széchényi Könyvtár</repository>
                   <idno>Cod. germ. 50</idno>
+                  <ref target="https://www.handschriftencensus.de/13766"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_47468">
@@ -95,10 +97,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47445">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H92</msName>
                 <abbr type="siglum">H92</abbr>
+                <ref target="https://www.handschriftencensus.de/9436"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_47444">
@@ -106,6 +109,7 @@
                   <settlement>Berlin</settlement>
                   <repository ref="#respository_43889">Staatsbibliothek zu Berlin Preußischer Kulturbesitz</repository>
                   <idno>fol. 751,1</idno>
+                  <ref target="https://www.handschriftencensus.de/9436"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_47446">
@@ -149,10 +153,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47449">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H92B</msName>
                 <abbr type="siglum">H92B</abbr>
+                <ref target="https://www.handschriftencensus.de/9436"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_47448">
@@ -160,6 +165,7 @@
                   <settlement>The Hague</settlement>
                   <repository ref="#respository_43733">Koninklijke Bibliotheek</repository>
                   <idno>133 L 11</idno>
+                  <ref target="133 L 11"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_47450">
@@ -204,7 +210,7 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47463">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H95</msName>
                 <abbr type="siglum">H95</abbr>
@@ -257,10 +263,12 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47458">
-            <msDesc>
+            <msDesc status="lost">
+              <note>Fragments have at least been lost since 1985.</note>
               <msIdentifier>
                 <msName>Historical document of witness H94</msName>
                 <abbr type="siglum">H94</abbr>
+                <ref target="https://www.handschriftencensus.de/18870"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_47457">
@@ -311,7 +319,8 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47454">
-            <msDesc>
+            <msDesc status="lost">
+              <note>Fragment lost in 1914.</note>
               <msIdentifier>
                 <msName>Historical document of witness H93</msName>
                 <abbr type="siglum">H93</abbr>

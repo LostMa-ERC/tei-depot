@@ -41,10 +41,11 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_48015">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H28</msName>
                 <abbr type="siglum">H28</abbr>
+                <ref target="https://www.handschriftencensus.de/1608"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_48014">
@@ -53,6 +54,7 @@
                   <repository ref="#respository_43817">Stadtbibliothek Trier</repository>
                   <collection>Mappe X, mhd. Fragmente</collection>
                   <idno>Nr. 13</idno>
+                  <ref target="https://www.handschriftencensus.de/1608"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_48016">

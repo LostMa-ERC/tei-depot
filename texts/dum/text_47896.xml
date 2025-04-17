@@ -41,10 +41,11 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_47897">
-            <msDesc>
+            <msDesc status="complete">
               <msIdentifier>
                 <msName>Historical document of witness LC, f.201-238</msName>
                 <abbr type="siglum">LC, f.201-238</abbr>
+                <ref target="https://www.kb.nl/ontdekken-bewonderen/topstukken/lancelotcompilatie"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_47782">
@@ -52,6 +53,7 @@
                   <settlement>The Hague</settlement>
                   <repository ref="#respository_43733">Koninklijke Bibliotheek</repository>
                   <idno>129 A 10</idno>
+                  <ref target="https://www.handschriftencensus.de/18444"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_47898">
@@ -95,7 +97,7 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47900">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness Hs. 33</msName>
                 <abbr type="siglum">Hs. 33</abbr>

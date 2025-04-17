@@ -41,10 +41,11 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_48180">
-            <msDesc>
+            <msDesc status="complete">
               <msIdentifier>
                 <msName>Historical document of witness LC</msName>
                 <abbr type="siglum">LC</abbr>
+                <ref target="https://www.kb.nl/ontdekken-bewonderen/topstukken/lancelotcompilatie"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_47782">
@@ -52,6 +53,7 @@
                   <settlement>The Hague</settlement>
                   <repository ref="#respository_43733">Koninklijke Bibliotheek</repository>
                   <idno>129 A 10</idno>
+                  <ref target="https://www.handschriftencensus.de/18444"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_48181">
@@ -95,10 +97,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_48183">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H76</msName>
                 <abbr type="siglum">H76</abbr>
+                <ref target="https://opac.kbr.be/Library/search.aspx?SC=KBR_UNIFIED&amp;QUERY=Moriaen&amp;_lg=nl-BE#/Detail/(query:(Id:'position:%20SOLR/DEFA-000007_OFFSET_0',Index:10,NBResults:184,PageRange:3,SearchQuery:(FacetFilter:%7B%7D,ForceSearch:!f,InitialSearch:!f,Page:0,PageRange:3,QueryGuid:'27d88d51-68d2-4a48-bd05-9377265154a4',QueryString:Moriaen,ResultSize:50,ScenarioCode:KBR_UNIFIED,ScenarioDisplayMode:display-standard,SearchGridFieldsShownOnResultsDTO:!(),SearchLabel:'',SearchTerms:Moriaen,SessionGuid:'75beb923-1724-4b2b-be58-fe6853fb555b',SortField:!n,SortOrder:0,TemplateParams:(Scenario:'',Scope:Library,Size:!n,Source:'',Support:'',UseCompact:!f),UseSpellChecking:!n)))"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_48182">

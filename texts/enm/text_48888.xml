@@ -35,10 +35,11 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_48892">
-            <msDesc>
+            <msDesc status="complete">
               <msIdentifier>
                 <msName>Historical document of witness 1161</msName>
                 <abbr type="siglum">1161</abbr>
+                <ref target="https://www.middleenglishromance.org.uk/mer/68"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_48891">

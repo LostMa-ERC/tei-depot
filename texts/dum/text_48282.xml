@@ -41,10 +41,11 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_48284">
-            <msDesc>
+            <msDesc status="defective">
               <msIdentifier>
                 <msName>Historical document of witness Germ. fol. 922</msName>
                 <abbr type="siglum">Germ. fol. 922</abbr>
+                <ref target="https://www.handschriftencensus.de/4269"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_48283">
@@ -52,6 +53,7 @@
                   <settlement>Berlin</settlement>
                   <repository ref="#respository_43889">Staatsbibliothek zu Berlin Preußischer Kulturbesitz</repository>
                   <idno>Germ. fol. 922</idno>
+                  <ref target="https://www.handschriftencensus.de/4269"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_48285">

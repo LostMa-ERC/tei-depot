@@ -41,10 +41,11 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_47375">
-            <msDesc>
+            <msDesc status="complete">
               <msIdentifier>
                 <msName>Historical document of witness Ltk. 195</msName>
                 <abbr type="siglum">Ltk. 195</abbr>
+                <ref target="https://www.handschriftencensus.de/20258"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_47370">
@@ -52,6 +53,7 @@
                   <settlement>Leiden</settlement>
                   <repository ref="#respository_43873">Universitaire Bibliotheken Leiden</repository>
                   <idno>Ltk. 195</idno>
+                  <ref target="https://www.handschriftencensus.de/20258"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_47376">
@@ -95,10 +97,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47406">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H52</msName>
                 <abbr type="siglum">H52</abbr>
+                <ref target="https://www.handschriftencensus.de/13178"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_47405">
@@ -150,10 +153,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47416">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H54</msName>
                 <abbr type="siglum">H54</abbr>
+                <ref target="https://www.handschriftencensus.de/20257"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_47414">
@@ -204,10 +208,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47388">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H50</msName>
                 <abbr type="siglum">H50</abbr>
+                <ref target="https://www.handschriftencensus.de/11396"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_47387">
@@ -259,10 +264,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_48377">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H135</msName>
                 <abbr type="siglum">H135</abbr>
+                <ref target="https://www.handschriftencensus.de/20069"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_48376">
@@ -270,6 +276,7 @@
                   <settlement>Michelstadt</settlement>
                   <repository ref="#respository_43841">Nicolaus-Matz-Bibliothek Michelstadt</repository>
                   <idno>E 1057</idno>
+                  <ref target="https://www.handschriftencensus.de/20069"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_48378">
@@ -312,7 +319,7 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47399">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H51B</msName>
                 <abbr type="siglum">H51B</abbr>
@@ -366,7 +373,7 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47392">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H51</msName>
                 <abbr type="siglum">H51</abbr>
@@ -421,10 +428,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47403">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H51C</msName>
                 <abbr type="siglum">H51C</abbr>
+                <ref target="https://www.handschriftencensus.de/20261"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_47401">
@@ -476,10 +484,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47425">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H56</msName>
                 <abbr type="siglum">H56</abbr>
+                <ref target="https://www.handschriftencensus.de/20255"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_47423">
@@ -529,10 +538,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47383">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H49</msName>
                 <abbr type="siglum">H49</abbr>
+                <ref target="https://www.handschriftencensus.de/20259"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_47382">
@@ -540,6 +550,7 @@
                   <settlement>Leiden</settlement>
                   <repository ref="#respository_43873">Universitaire Bibliotheken Leiden</repository>
                   <idno>Ltk. 196</idno>
+                  <ref target="https://www.handschriftencensus.de/20259"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_47384">
@@ -583,10 +594,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47411">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H53</msName>
                 <abbr type="siglum">H53</abbr>
+                <ref target="https://www.handschriftencensus.de/20256"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_47409">
@@ -637,10 +649,12 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47420">
-            <msDesc>
+            <msDesc status="lost">
+              <note>Copy exists of a fragment, but the fragment itself is lost.</note>
               <msIdentifier>
                 <msName>Historical document of witness H55</msName>
                 <abbr type="siglum">H55</abbr>
+                <ref target="https://www.handschriftencensus.de/20260"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_47419">
@@ -648,6 +662,7 @@
                   <settlement/>
                   <repository/>
                   <idno/>
+                  <ref target="https://www.handschriftencensus.de/20260"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_47421">

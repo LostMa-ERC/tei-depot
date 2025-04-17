@@ -35,10 +35,11 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_49021">
-            <msDesc>
+            <msDesc status="complete">
               <msIdentifier>
                 <msName>Historical document of witness 1766</msName>
                 <abbr type="siglum">1766</abbr>
+                <ref target="https://www.middleenglishromance.org.uk/mer/17"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_49008">
@@ -46,6 +47,7 @@
                   <settlement>London</settlement>
                   <repository ref="#respository_43919">British library</repository>
                   <idno>MS Cotton Caligula A.ii</idno>
+                  <ref target="https://www.middleenglishromance.org.uk/mer/14"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_49022">

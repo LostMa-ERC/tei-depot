@@ -41,10 +41,11 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_47747">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H116</msName>
                 <abbr type="siglum">H116</abbr>
+                <ref target="https://www.handschriftencensus.de/8337"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_47746">
@@ -52,6 +53,7 @@
                   <settlement>Berlin</settlement>
                   <repository ref="#respository_43889">Staatsbibliothek zu Berlin Preußischer Kulturbesitz</repository>
                   <idno>Germ. fol. 751,3</idno>
+                  <ref target="https://www.handschriftencensus.de/8337"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_47748">
@@ -95,10 +97,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47752">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H117</msName>
                 <abbr type="siglum">H117</abbr>
+                <ref target="https://www.handschriftencensus.de/20063"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_47750">
@@ -106,6 +109,7 @@
                   <settlement>Ghent</settlement>
                   <repository ref="#respository_43787">Rijksuniversiteit te Gent. Bibliotheek</repository>
                   <idno>2749,9</idno>
+                  <ref target="https://www.handschriftencensus.de/20063"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_47753">

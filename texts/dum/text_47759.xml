@@ -42,10 +42,11 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_47762">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H118</msName>
                 <abbr type="siglum">H118</abbr>
+                <ref target="https://lib.ugent.be/en/catalog/rug01:000839806?i=41&amp;q=vergi"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_47760">

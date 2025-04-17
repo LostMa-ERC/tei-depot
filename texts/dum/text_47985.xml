@@ -41,7 +41,7 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_47991">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H22</msName>
                 <abbr type="siglum">H22</abbr>
@@ -94,7 +94,7 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47987">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H21</msName>
                 <abbr type="siglum">H21</abbr>

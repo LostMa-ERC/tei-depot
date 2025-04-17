@@ -41,10 +41,11 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_48290">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H104</msName>
                 <abbr type="siglum">H104</abbr>
+                <ref target="https://www.handschriftencensus.de/21475"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_48289">
@@ -52,6 +53,7 @@
                   <settlement/>
                   <repository/>
                   <idno>z.s. (H104)</idno>
+                  <ref target="https://www.handschriftencensus.de/21475"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_48291">

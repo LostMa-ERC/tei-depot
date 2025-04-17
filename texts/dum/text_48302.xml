@@ -41,10 +41,11 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_48303">
-            <msDesc>
+            <msDesc status="complete">
               <msIdentifier>
                 <msName>Historical document of witness LC</msName>
                 <abbr type="siglum">LC</abbr>
+                <ref target="https://www.kb.nl/ontdekken-bewonderen/topstukken/lancelotcompilatie"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_47782">
@@ -52,6 +53,7 @@
                   <settlement>The Hague</settlement>
                   <repository ref="#respository_43733">Koninklijke Bibliotheek</repository>
                   <idno>129 A 10</idno>
+                  <ref target="https://www.handschriftencensus.de/18444"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_48304">
@@ -95,61 +97,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_48312">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H123</msName>
                 <abbr type="siglum">H123</abbr>
-              </msIdentifier>
-              <msPart>
-                <msIdentifier ref="#document_48310">
-                  <country ref="#NL">Netherlands</country>
-                  <settlement>Leiden</settlement>
-                  <repository ref="#respository_43873">Universitaire Bibliotheken Leiden</repository>
-                  <idno>BPL 3085</idno>
-                </msIdentifier>
-                <msContents>
-                  <msItem xml:id="part_48315">
-                    <locusGrp>
-                      <locus from="1r" to="2v">1r-2v</locus>
-                    </locusGrp>
-                    <textLang mainLang="Vlaams" ref="#scripta_46305">Dialect of Flanders.</textLang>
-                  </msItem>
-                </msContents>
-              </msPart>
-              <history>
-                <origin>
-                  <origDate notBefore="1266-01-01" notAfter="1310-12-31" cert="conjecture">'XIIId'</origDate>
-                </origin>
-              </history>
-              <physDesc xml:id="physDesc_48314">
-                <objectDesc form="codex">
-                  <supportDesc material="perg">
-                    <extent>
-                      <dimensions unit="millimeters" type="written">
-                        <height quantity="350-360">350-360</height>
-                        <width quantity="250">250</width>
-                      </dimensions>
-                    </extent>
-                  </supportDesc>
-                </objectDesc>
-                <layoutDesc>
-                  <layout columns="3" writtenLines="56-57"/>
-                </layoutDesc>
-                <handDesc>
-                  <handNote script="textualis"/>
-                </handDesc>
-                <decoDesc>
-                  <decNote type="illustration">
-                    <measure quantity="0"/>
-                  </decNote>
-                  <decoNote type="rubrication"/>
-                </decoDesc>
-              </physDesc>
-            </msDesc>
-            <msDesc>
-              <msIdentifier>
-                <msName>Historical document of witness H123</msName>
-                <abbr type="siglum">H123</abbr>
+                <ref target="https://www.handschriftencensus.de/13177"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_48309">
@@ -197,9 +149,62 @@
                 </decoDesc>
               </physDesc>
             </msDesc>
+            <msDesc status="fragmentary">
+              <msIdentifier>
+                <msName>Historical document of witness H123</msName>
+                <abbr type="siglum">H123</abbr>
+                <ref target="https://www.handschriftencensus.de/13177"/>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier ref="#document_48310">
+                  <country ref="#NL">Netherlands</country>
+                  <settlement>Leiden</settlement>
+                  <repository ref="#respository_43873">Universitaire Bibliotheken Leiden</repository>
+                  <idno>BPL 3085</idno>
+                  <ref target="https://www.handschriftencensus.de/13177"/>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_48315">
+                    <locusGrp>
+                      <locus from="1r" to="2v">1r-2v</locus>
+                    </locusGrp>
+                    <textLang mainLang="Vlaams" ref="#scripta_46305">Dialect of Flanders.</textLang>
+                  </msItem>
+                </msContents>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1266-01-01" notAfter="1310-12-31" cert="conjecture">'XIIId'</origDate>
+                </origin>
+              </history>
+              <physDesc xml:id="physDesc_48314">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height quantity="350-360">350-360</height>
+                        <width quantity="250">250</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                </objectDesc>
+                <layoutDesc>
+                  <layout columns="3" writtenLines="56-57"/>
+                </layoutDesc>
+                <handDesc>
+                  <handNote script="textualis"/>
+                </handDesc>
+                <decoDesc>
+                  <decNote type="illustration">
+                    <measure quantity="0"/>
+                  </decNote>
+                  <decoNote type="rubrication"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
           </witness>
           <witness xml:id="witness_48306">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H122</msName>
                 <abbr type="siglum">H122</abbr>

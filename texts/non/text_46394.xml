@@ -35,7 +35,8 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_46395">
-            <msDesc>
+            <msDesc status="defective">
+              <note>"Efter bl. 20 findes en lakune. Ved sagaens slutning ere nogle ord udraderede." (Kålund, Cat I, p. 748)</note>
               <msIdentifier>
                 <msName>Historical document of witness A586</msName>
                 <abbr type="siglum">A586</abbr>
@@ -65,7 +66,8 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_46410">
-            <msDesc>
+            <msDesc status="defective">
+              <note>Ender defekt „enn fanga stackurinn var" ; efter bl. 72 og 74 findes lakuner. (Kålund, Cat, p. 739)</note>
               <msIdentifier>
                 <msName>Historical document of witness A577</msName>
                 <abbr type="siglum">A577</abbr>

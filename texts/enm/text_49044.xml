@@ -35,10 +35,12 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_49047">
-            <msDesc>
+            <msDesc status="defective">
               <msIdentifier>
                 <msName>Historical document of witness *2288.8</msName>
                 <abbr type="siglum">*2288.8</abbr>
+                <ref target="https://www.middleenglishromance.org.uk/mer/21"/>
+                <ref target="https://cudl.lib.cam.ac.uk/view/MS-GG-00004-00027-00002/5"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_49045">
@@ -88,10 +90,12 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_49054">
-            <msDesc>
+            <msDesc status="defective">
               <msIdentifier>
                 <msName>Historical document of witness *2288.8</msName>
                 <abbr type="siglum">*2288.8</abbr>
+                <ref target="https://www.middleenglishromance.org.uk/mer/21"/>
+                <ref target="https://auchinleck.nls.uk/mss/floris.html"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_48827">
@@ -99,6 +103,7 @@
                   <settlement>Edinburgh</settlement>
                   <repository ref="#respository_43958">National Library of Scotland</repository>
                   <idno>MS Advocates 19.2.1</idno>
+                  <ref target="https://www.middleenglishromance.org.uk/mer/5"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_49055">
@@ -142,10 +147,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_49056">
-            <msDesc>
+            <msDesc status="defective">
               <msIdentifier>
                 <msName>Historical document of witness *2288.8</msName>
                 <abbr type="siglum">*2288.8</abbr>
+                <ref target="https://www.middleenglishromance.org.uk/mer/21"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_48841">
@@ -153,6 +159,7 @@
                   <settlement>London</settlement>
                   <repository ref="#respository_43919">British library</repository>
                   <idno>MS Egerton 2862</idno>
+                  <ref target="https://www.middleenglishromance.org.uk/mer/5"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_49057">
@@ -195,10 +202,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_49051">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness *2288.8</msName>
                 <abbr type="siglum">*2288.8</abbr>
+                <ref target="https://www.middleenglishromance.org.uk/mer/21"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_49050">
@@ -206,6 +214,7 @@
                   <settlement>London</settlement>
                   <repository ref="#respository_43919">British library</repository>
                   <idno>MS Cotton Vitellius D.iii</idno>
+                  <ref target="https://www.middleenglishromance.org.uk/mer/21"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_49052">

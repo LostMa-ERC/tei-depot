@@ -35,10 +35,11 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_48919">
-            <msDesc>
+            <msDesc status="complete">
               <msIdentifier>
                 <msName>Historical document of witness 1566</msName>
                 <abbr type="siglum">1566</abbr>
+                <ref target="https://www.middleenglishromance.org.uk/mer/69"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_48815">
@@ -46,6 +47,7 @@
                   <settlement>Lincoln</settlement>
                   <repository ref="#respository_43758">Lincolnshire Archives Office</repository>
                   <idno>MS 91</idno>
+                  <ref target="https://geographies-of-orthodoxy.qub.ac.uk/resources/?section=manuscript&amp;id=67"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_48920">
@@ -89,10 +91,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_48903">
-            <msDesc>
+            <msDesc status="complete">
               <msIdentifier>
                 <msName>Historical document of witness 1566</msName>
                 <abbr type="siglum">1566</abbr>
+                <ref target="https://www.middleenglishromance.org.uk/mer/69"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_48891">
@@ -142,10 +145,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_48900">
-            <msDesc>
+            <msDesc status="complete">
               <msIdentifier>
                 <msName>Historical document of witness 1566</msName>
                 <abbr type="siglum">1566</abbr>
+                <ref target="https://www.middleenglishromance.org.uk/mer/69"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_48898">

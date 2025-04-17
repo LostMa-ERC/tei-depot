@@ -41,7 +41,7 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_47969">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H18</msName>
                 <abbr type="siglum">H18</abbr>
@@ -96,10 +96,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47973">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H19</msName>
                 <abbr type="siglum">H19</abbr>
+                <ref target="https://opac.kbr.be/Library/search.aspx?SC=KBR_UNIFIED&amp;QUERY=18.228&amp;_lg=nl-BE#/Detail/(query:(Id:'position:%20SOLR/DEFA-000002_OFFSET_0',Index:2,NBResults:21,PageRange:3,SearchQuery:(CloudTerms:!(),FacetFilter:%7B%7D,ForceSearch:!f,InitialSearch:!f,Page:0,PageRange:3,QueryGuid:'304fca6a-5635-4a62-a632-94de9803bf5a',QueryString:'19577',ResultSize:50,ScenarioCode:KBR_UNIFIED,ScenarioDisplayMode:display-standard,SearchGridFieldsShownOnResultsDTO:!(),SearchLabel:'',SearchTerms:'19577',SessionGuid:dec08a3f-52eb-4b49-a656-63df2ae4f0ed,SortField:!n,SortOrder:0,TemplateParams:(Scenario:'',Scope:Library,Size:!n,Source:'',Support:'',UseCompact:!f),UseSpellChecking:!n)))"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_47972">
@@ -149,10 +150,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47964">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H17</msName>
                 <abbr type="siglum">H17</abbr>
+                <ref target="https://digitalcollections.universiteitleiden.nl/view/item/376816?solr_nav%5Bid%5D=97d35613ab1ced1a85ae&amp;solr_nav%5Bpage%5D=0&amp;solr_nav%5Boffset%5D=0#page/1/mode/1up"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_47962">
@@ -201,10 +203,11 @@
                 </decoDesc>
               </physDesc>
             </msDesc>
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H17</msName>
                 <abbr type="siglum">H17</abbr>
+                <ref target="https://digitalcollections.universiteitleiden.nl/view/item/376816?solr_nav%5Bid%5D=97d35613ab1ced1a85ae&amp;solr_nav%5Bpage%5D=0&amp;solr_nav%5Boffset%5D=0#page/1/mode/1up"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_47963">

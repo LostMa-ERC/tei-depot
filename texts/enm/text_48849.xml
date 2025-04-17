@@ -35,10 +35,11 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_48855">
-            <msDesc>
+            <msDesc status="complete">
               <msIdentifier>
                 <msName>Historical document of witness 3320</msName>
                 <abbr type="siglum">3320</abbr>
+                <ref target="https://catalog.princeton.edu/catalog/99108872923506421"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_48853">

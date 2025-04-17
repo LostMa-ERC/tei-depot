@@ -41,10 +41,11 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_48086">
-            <msDesc>
+            <msDesc status="defective">
               <msIdentifier>
                 <msName>Historical document of witness LC</msName>
                 <abbr type="siglum">LC</abbr>
+                <ref target="https://www.handschriftencensus.de/18444"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_47782">
@@ -52,6 +53,7 @@
                   <settlement>The Hague</settlement>
                   <repository ref="#respository_43733">Koninklijke Bibliotheek</repository>
                   <idno>129 A 10</idno>
+                  <ref target="https://www.handschriftencensus.de/18444"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_48087">
@@ -95,10 +97,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_48089">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H46</msName>
                 <abbr type="siglum">H46</abbr>
+                <ref target="https://opac.kbr.be/Library/search.aspx?SC=KBR_UNIFIED&amp;QUERY=huge+van+bordeeus&amp;_lg=nl-BE#/Detail/(query:(Id:'position:%20SOLR/DEFA-000002_OFFSET_0',Index:4,NBResults:165,PageRange:3,SearchQuery:(CloudTerms:!(),FacetFilter:%7B%7D,ForceSearch:!f,InitialSearch:!f,Page:0,PageRange:3,QueryGuid:d95e0237-4ee8-4402-97d2-9d9878a30115,QueryString:'roman%20van%20lancelot',ResultSize:50,ScenarioCode:KBR_UNIFIED,ScenarioDisplayMode:display-standard,SearchGridFieldsShownOnResultsDTO:!(),SearchLabel:'',SearchTerms:'roman%20van%20lancelot',SessionGuid:'097e85d8-d2cf-4660-a1e7-493cd179a3b9',SortField:!n,SortOrder:0,TemplateParams:(Scenario:'',Scope:Library,Size:!n,Source:'',Support:'',UseCompact:!f),UseSpellChecking:!n)))"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_48088">
@@ -149,7 +152,7 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_48094">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H47</msName>
                 <abbr type="siglum">H47</abbr>

@@ -35,10 +35,11 @@
         </bibl>
         <listWit>
           <witness xml:id="witness_48965">
-            <msDesc>
+            <msDesc status="complete">
               <msIdentifier>
                 <msName>Historical document of witness 1993</msName>
                 <abbr type="siglum">1993</abbr>
+                <ref target="https://www.medievalscribes.com/index.php?browse=manuscripts&amp;id=147&amp;navlocation=Naples&amp;navlibrary=Biblioteca%20Nazionale&amp;nav=off"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_48962">
@@ -46,6 +47,7 @@
                   <settlement>Naples</settlement>
                   <repository ref="#respository_43778">Biblioteca nazionale di Napoli</repository>
                   <idno>MS XIII.B.29</idno>
+                  <ref target="https://www.medievalscribes.com/index.php?browse=manuscripts&amp;id=147&amp;navlocation=Naples&amp;navlibrary=Biblioteca%20Nazionale&amp;nav=off"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_48966">
@@ -88,10 +90,12 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_49003">
-            <msDesc>
+            <msDesc status="complete">
               <msIdentifier>
                 <msName>Historical document of witness 1993</msName>
                 <abbr type="siglum">1993</abbr>
+                <ref target="https://www.middleenglishromance.org.uk/mer/11"/>
+                <ref target="https://luna.manchester.ac.uk/luna/servlet/detail/Man4MedievalVC~4~4~480377~116412?qvq=q%3AChetham%27s%20ipomadon%3Bsort%3Areference_number%2Cimage_sequence_number%2Cparent_work_title%2Cdate_created%3Blc%3AManchester~18~18%2CManchester~93~93%2CManchesterDev~95~2%2Cmaps002~1~1%2CManchester~19~19%2Clib1~1~1%2CManchester~91~1%2CMan4MedievalVC~4~4%2CManchester~26~26%2CManchester~15~15%2CManchester~14~14%2Cnonconform~91~1%2CManchester~11~11%2CManchester~24~24%2CGaskell2~91~1%2CManchester~12~12%2CManchesterDev~93~3%2CManchester~10~10%2CManchester~25~25%2CManchester~4~4%2CManchester~20~20&amp;mi=255&amp;trs=768"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_49001">
@@ -99,6 +103,7 @@
                   <settlement/>
                   <repository/>
                   <idno>MS 8009</idno>
+                  <ref target="https://www.middleenglishromance.org.uk/mer/11"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_49004">
@@ -141,10 +146,12 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_48993">
-            <msDesc>
+            <msDesc status="defective">
               <msIdentifier>
                 <msName>Historical document of witness 1993</msName>
                 <abbr type="siglum">1993</abbr>
+                <ref target="https://www.middleenglishromance.org.uk/mer/11"/>
+                <ref target="https://auchinleck.nls.uk/editorial/physical.html#scribes"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_48827">
@@ -152,6 +159,7 @@
                   <settlement>Edinburgh</settlement>
                   <repository ref="#respository_43958">National Library of Scotland</repository>
                   <idno>MS Advocates 19.2.1</idno>
+                  <ref target="https://www.middleenglishromance.org.uk/mer/5"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_48994">
@@ -195,10 +203,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_48995">
-            <msDesc>
+            <msDesc status="defective">
               <msIdentifier>
                 <msName>Historical document of witness 1993</msName>
                 <abbr type="siglum">1993</abbr>
+                <ref target="https://www.middleenglishromance.org.uk/mer/11"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_48841">
@@ -206,6 +215,7 @@
                   <settlement>London</settlement>
                   <repository ref="#respository_43919">British library</repository>
                   <idno>MS Egerton 2862</idno>
+                  <ref target="https://www.middleenglishromance.org.uk/mer/5"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_48996">
@@ -248,10 +258,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_48998">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness 1993</msName>
                 <abbr type="siglum">1993</abbr>
+                <ref target="https://www.middleenglishromance.org.uk/mer/11"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_48997">
@@ -301,10 +312,12 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_48972">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness 1993</msName>
                 <abbr type="siglum">1993</abbr>
+                <ref target="https://www.middleenglishromance.org.uk/mer/11"/>
+                <ref target="https://cudl.lib.cam.ac.uk/view/MS-TRINITY-COLLEGE-O-00002-00013/258"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_48970">
@@ -354,10 +367,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_48925">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness 1993</msName>
                 <abbr type="siglum">1993</abbr>
+                <ref target="https://www.middleenglishromance.org.uk/mer/11"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_48924">
@@ -407,10 +421,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_48932">
-            <msDesc>
+            <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness 1993</msName>
                 <abbr type="siglum">1993</abbr>
+                <ref target="https://www.middleenglishromance.org.uk/mer/11"/>
               </msIdentifier>
               <msPart>
                 <msIdentifier ref="#document_48931">
@@ -418,6 +433,7 @@
                   <settlement/>
                   <repository/>
                   <idno>MS 175/96</idno>
+                  <ref target="https://www.middleenglishromance.org.uk/mer/11"/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_48933">
