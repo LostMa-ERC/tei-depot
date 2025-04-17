@@ -28,7 +28,7 @@
       <publicationStmt>
         <publisher>LostMa ERC Project</publisher>
         <pubPlace>Paris</pubPlace>
-        <date>2025-04-08</date>
+        <date>2025-04-17</date>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
         </availability>
@@ -40,11 +40,249 @@
           </title>
         </bibl>
         <listWit>
-          <witness xml:id="witness_47441"/>
-          <witness xml:id="witness_47429"/>
-          <witness xml:id="witness_46361"/>
-          <witness xml:id="witness_47437"/>
-          <witness xml:id="witness_47433"/>
+          <witness xml:id="witness_47441">
+            <msDesc>
+              <msIdentifier>
+                <msName>Historical document of witness H102</msName>
+                <abbr type="siglum">H102</abbr>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier ref="#document_47440">
+                  <country ref="#NL">Netherlands</country>
+                  <settlement>Rotterdam</settlement>
+                  <repository ref="#respository_47361">Gemeentebibliotheek Rotterdam</repository>
+                  <idno>96 B 6:1</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_47442">
+                    <locusGrp>
+                      <locus from="1r" to="1v">1r-1v</locus>
+                    </locusGrp>
+                    <textLang mainLang="Hollands" ref="#scripta_47357">Dialect from the north-western Dutch region.</textLang>
+                  </msItem>
+                </msContents>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1291-01-01" notAfter="1510-12-31" cert="conjecture">'XIV/XV'.</origDate>
+                </origin>
+              </history>
+              <physDesc xml:id="physDesc_47443">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height quantity="240-250">240-250</height>
+                        <width quantity="170">170</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                </objectDesc>
+                <layoutDesc>
+                  <layout columns="2" writtenLines="42"/>
+                </layoutDesc>
+                <handDesc>
+                  <handNote script="textualis"/>
+                </handDesc>
+                <decoDesc>
+                  <decNote type="illustration">
+                    <measure quantity="0"/>
+                  </decNote>
+                  <decoNote type="rubrication"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_47429">
+            <msDesc>
+              <msIdentifier>
+                <msName>Historical document of witness H99</msName>
+                <abbr type="siglum">H99</abbr>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier ref="#document_47428">
+                  <country ref="#BE">Belgium</country>
+                  <settlement>Brussels</settlement>
+                  <repository ref="#respository_43904">Bibliothèque royale de Belgique</repository>
+                  <idno>21.143</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_47430">
+                    <locusGrp>
+                      <locus from="1r" to="1v">1r-1v</locus>
+                    </locusGrp>
+                    <textLang mainLang="Brabants" ref="#scripta_46312">Dialect of Brabant.</textLang>
+                  </msItem>
+                </msContents>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1341-01-01" notAfter="1410-12-31" cert="conjecture">'XIV2'.</origDate>
+                </origin>
+              </history>
+              <physDesc xml:id="physDesc_47431">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height quantity="230">230</height>
+                        <width quantity="140">140</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                </objectDesc>
+                <layoutDesc>
+                  <layout columns="2" writtenLines="40"/>
+                </layoutDesc>
+                <handDesc>
+                  <handNote script="textualis"/>
+                </handDesc>
+                <decoDesc>
+                  <decNote type="illustration">
+                    <measure quantity="0"/>
+                  </decNote>
+                  <decoNote type="rubrication"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_46361">
+            <msDesc>
+              <msIdentifier>
+                <msName>Historical document of witness H98</msName>
+                <abbr type="siglum">H98</abbr>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier ref="#document_46338">
+                  <country ref="#NL">Netherlands</country>
+                  <settlement>The Hague</settlement>
+                  <repository ref="#respository_43733">Koninklijke Bibliotheek</repository>
+                  <idno>74 C 8</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_46407">
+                    <locusGrp>
+                      <locus from="1r" to="1v">1r-1v</locus>
+                      <locus from="2r" to="2v">2r-2v</locus>
+                    </locusGrp>
+                    <textLang mainLang="Vlaams" ref="#scripta_46305">Dialect of Flanders.</textLang>
+                  </msItem>
+                </msContents>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1341-01-01" notAfter="1410-12-31" cert="conjecture"/>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_47437">
+            <msDesc>
+              <msIdentifier>
+                <msName>Historical document of witness H101</msName>
+                <abbr type="siglum">H101</abbr>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier ref="#document_47436">
+                  <country ref="#NL">Netherlands</country>
+                  <settlement>Amsterdam</settlement>
+                  <repository ref="#respository_43887">Universiteitsbibliotheek Amsterdam</repository>
+                  <idno>I A 24 l</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_47438">
+                    <locusGrp>
+                      <locus from="1r" to="10r">1r-10r</locus>
+                    </locusGrp>
+                    <textLang mainLang="Limburgs" ref="#scripta_47240">Dialect from the Middle Dutch region Limburg.</textLang>
+                  </msItem>
+                </msContents>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1466-01-01" notAfter="1510-12-31" cert="conjecture">'XVd'.</origDate>
+                </origin>
+              </history>
+              <physDesc xml:id="physDesc_47439">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height quantity="210">210</height>
+                        <width quantity="150">150</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                </objectDesc>
+                <layoutDesc>
+                  <layout columns="2" writtenLines="30-33"/>
+                </layoutDesc>
+                <handDesc>
+                  <handNote script="cursiva"/>
+                </handDesc>
+                <decoDesc>
+                  <decNote type="illustration">
+                    <measure quantity="0"/>
+                  </decNote>
+                  <decoNote type="incomplete dec."/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_47433">
+            <msDesc>
+              <msIdentifier>
+                <msName>Historical document of witness H100</msName>
+                <abbr type="siglum">H100</abbr>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier ref="#document_47432">
+                  <country ref="#FR">France</country>
+                  <settlement>Lille</settlement>
+                  <repository ref="#respository_43875">Médiathèque municipale Jean-Lévy Lille</repository>
+                  <idno>z.s.</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_47434">
+                    <locusGrp>
+                      <locus from="1r" to="2v">1r-2v</locus>
+                    </locusGrp>
+                    <textLang mainLang="Vlaams" ref="#scripta_46305">Dialect of Flanders.</textLang>
+                  </msItem>
+                </msContents>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1391-01-01" notAfter="1510-12-31" cert="conjecture">'XIV?'.</origDate>
+                </origin>
+              </history>
+              <physDesc xml:id="physDesc_47435">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height quantity="NA">NA</height>
+                        <width quantity="NA">NA</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                </objectDesc>
+                <layoutDesc>
+                  <layout columns="2" writtenLines="48"/>
+                </layoutDesc>
+                <handDesc>
+                  <handNote script="unknown"/>
+                </handDesc>
+                <decoDesc>
+                  <decNote type="illustration">
+                    <measure quantity=""/>
+                  </decNote>
+                  <decoNote type="unknown"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -108,6 +346,10 @@
               <catDesc>Arthurroman</catDesc>
               <desc>'Arthurroman is een verzamelnaam voor ridderromans ontstaan in de tweede helft van de twaalfde eeuw aan Noord-Franse adellijke hoven. Centraal, zij het op de achtergrond, staat koning Arthur. De mode begon met vijf Arthurromans in de volkstaal (ca. 1160-1190) van Chrétien de Troyes.'</desc>
             </category>
+            <category xml:id="genre_49013">
+              <catDesc>Carolingian romance</catDesc>
+              <desc>Middle English romance surrounding characters related to Charlemagne or people at his court.</desc>
+            </category>
             <category xml:id="genre_46304">
               <catDesc>Karelepiek</catDesc>
               <desc>Story about Charlemagne and his family.</desc>
@@ -118,11 +360,7 @@
             </category>
             <category xml:id="genre_44167">
               <catDesc>chanson de geste</catDesc>
-              <desc>Long epic poem from the Middle Ages.<bibl>
-                  <ptr target="https://www.wikidata.org/wiki/Q651019"/>
-                  <ptr target="https://catalogue.bnf.fr/ark:/12148/cb11947470n"/>
-                </bibl>
-              </desc>
+              <desc>Long epic poem from the Middle Ages.</desc>
             </category>
             <category xml:id="genre_47609">
               <catDesc>chronique</catDesc>
@@ -136,10 +374,6 @@
               <catDesc>roman</catDesc>
               <desc>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)<name type="alt">chivalric romance</name>
                 <name type="alt">chivalric novel</name>
-                <bibl>
-                  <ptr target="http://fr.dbpedia.org/page/Roman_de_chevalerie"/>
-                  <ptr target="https://data.bnf.fr/16603707/roman_de_chevalerie/"/>
-                </bibl>
               </desc>
               <category xml:id="genre_44130">
                 <catDesc>roman lignager</catDesc>

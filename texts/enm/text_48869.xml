@@ -1,0 +1,273 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title>Metadata encoding of "Arthour and Merline"</title>
+        </title>
+        <funder>European Research Council</funder>
+        <principal>Jean-Baptiste Camps</principal>
+        <respStmt>
+          <name>Jean-Baptiste Camps</name>
+          <resp>data entry and proof correction</resp>
+          <name>Kelly Christensen</name>
+          <resp>conversion of metadata to TEI markup</resp>
+          <name>Théo Moins</name>
+          <resp>conversion of text to TEI markup</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LostMa ERC Project</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date>2025-04-17</date>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl xml:id="text_48869">
+          <title type="full">
+            <title type="main">Arthour and Merline</title>
+          </title>
+        </bibl>
+        <listWit>
+          <witness xml:id="witness_48871">
+            <msDesc>
+              <msIdentifier>
+                <msName>Historical document of witness 1162</msName>
+                <abbr type="siglum">1162</abbr>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier ref="#document_48827">
+                  <country ref="#None">United Kingdom</country>
+                  <settlement>Edinburgh</settlement>
+                  <repository ref="#respository_43958">National Library of Scotland</repository>
+                  <idno>MS Advocates 19.2.1</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_48872">
+                    <locusGrp>
+                      <locus from="201r" to="256v">201r-256v</locus>
+                    </locusGrp>
+                    <textLang mainLang="London" ref="#scripta_48834">Dialect spoken in the south east Brittain region.</textLang>
+                  </msItem>
+                </msContents>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1321-01-01" notAfter="1340-12-31" cert="conjecture">'c. 1330'</origDate>
+                </origin>
+              </history>
+              <physDesc xml:id="physDesc_48833">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height quantity="250">250</height>
+                        <width quantity="190">190</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                </objectDesc>
+                <layoutDesc>
+                  <layout columns="2" writtenLines="44"/>
+                </layoutDesc>
+                <handDesc>
+                  <handNote script="textualis" subtype="anglicana formata"/>
+                </handDesc>
+                <decoDesc>
+                  <decNote type="illustration">
+                    <measure quantity="0"/>
+                  </decNote>
+                  <decoNote type="initial"/>
+                  <decoNote type="rubrication"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_48874">
+            <msDesc>
+              <msIdentifier>
+                <msName>Historical document of witness 1162</msName>
+                <abbr type="siglum">1162</abbr>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier ref="#document_48873">
+                  <country/>
+                  <settlement/>
+                  <repository/>
+                  <idno>MS 150</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_48875">
+                    <locusGrp>
+                      <locus from="13r" to="27v">13r-27v</locus>
+                    </locusGrp>
+                    <textLang mainLang="West Midlands" ref="#scripta_48780">Dialect spaken in the western part of central England (midlands), surrounding present day Birmingham.</textLang>
+                  </msItem>
+                </msContents>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1366-01-01" notAfter="1510-12-31" cert="conjecture">'Late 14th and 15th centuries'</origDate>
+                </origin>
+              </history>
+              <physDesc xml:id="physDesc_48876">
+                <objectDesc form="codex">
+                  <supportDesc material="unknown">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height quantity="NA">NA</height>
+                        <width quantity="NA">NA</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                </objectDesc>
+                <layoutDesc>
+                  <layout columns="NA" writtenLines="NA"/>
+                </layoutDesc>
+                <handDesc>
+                  <handNote script="unknown"/>
+                </handDesc>
+                <decoDesc>
+                  <decNote type="illustration">
+                    <measure quantity=""/>
+                  </decNote>
+                  <decoNote type="unknown"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy>
+          <category xml:id="form" ref="https://www.wikidata.org/wiki/Q4263830">
+            <catDesc>Form</catDesc>
+            <category xml:id="verseForm">
+              <catDesc>verse</catDesc>
+            </category>
+            <category xml:id="proseForm">
+              <catDesc>prose</catDesc>
+            </category>
+            <category xml:id="mixedForm">
+              <catDesc>mixed</catDesc>
+            </category>
+            <category xml:id="unknownForm">
+              <catDesc>unknown</catDesc>
+            </category>
+          </category>
+          <category xml:id="traditionStatus">
+            <catDesc>Tradition status</catDesc>
+            <category xml:id="traditionFragmentary">
+              <catDesc>fragmentary</catDesc>
+              <desc>Surviving in only fragments. No complete witnesses survive.</desc>
+            </category>
+            <category xml:id="traditionLost">
+              <catDesc>lost</catDesc>
+              <desc>No witnesses of this text survive. It is a completely lost tradition.</desc>
+            </category>
+            <category xml:id="traditionSurviving">
+              <catDesc>surviving</catDesc>
+              <desc>Surviving in at least one (more or less) complete manuscript</desc>
+            </category>
+            <category xml:id="traditionUnknown">
+              <catDesc>unknown</catDesc>
+              <desc>The information is not ready to be input.</desc>
+            </category>
+          </category>
+          <category xml:id="genre" ref="https://www.wikidata.org/wiki/Q483394">
+            <catDesc>Genre</catDesc>
+            <category xml:id="genre_46366">
+              <catDesc>riddarasögur</catDesc>
+              <desc>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.<name type="alt">chivalric sagas</name>
+              </desc>
+              <category xml:id="genre_46370">
+                <catDesc>riddarasögur translated</catDesc>
+                <desc>Norse translations of French chansons de geste and Latin romances and histories,</desc>
+              </category>
+              <category xml:id="genre_46367">
+                <catDesc>riddarasögur indigenous</catDesc>
+                <desc>Icelandic indigenous creations in a style of riddarasögur</desc>
+              </category>
+            </category>
+            <category xml:id="genre_48800">
+              <catDesc>Arthurian romance</catDesc>
+              <desc>Arthurian romance grew out of chronicles purporting to record the history of King Arthur, his knights, and their martial or amatory adventures.</desc>
+            </category>
+            <category xml:id="genre_47768">
+              <catDesc>Arthurroman</catDesc>
+              <desc>'Arthurroman is een verzamelnaam voor ridderromans ontstaan in de tweede helft van de twaalfde eeuw aan Noord-Franse adellijke hoven. Centraal, zij het op de achtergrond, staat koning Arthur. De mode begon met vijf Arthurromans in de volkstaal (ca. 1160-1190) van Chrétien de Troyes.'</desc>
+            </category>
+            <category xml:id="genre_49013">
+              <catDesc>Carolingian romance</catDesc>
+              <desc>Middle English romance surrounding characters related to Charlemagne or people at his court.</desc>
+            </category>
+            <category xml:id="genre_46304">
+              <catDesc>Karelepiek</catDesc>
+              <desc>Story about Charlemagne and his family.</desc>
+            </category>
+            <category xml:id="genre_47474">
+              <catDesc>Other</catDesc>
+              <desc>Any text that does not fit in with the main genres of Arthurian and Charlemagnian literature.</desc>
+            </category>
+            <category xml:id="genre_44167">
+              <catDesc>chanson de geste</catDesc>
+              <desc>Long epic poem from the Middle Ages.</desc>
+            </category>
+            <category xml:id="genre_47609">
+              <catDesc>chronique</catDesc>
+              <desc>'Chroniques' autodésignées, en prose, dérivées de chansons de geste et romans</desc>
+            </category>
+            <category xml:id="genre_47612">
+              <catDesc>mise en prose</catDesc>
+              <desc>mise en prose de chansons de geste ou romans en vers</desc>
+            </category>
+            <category xml:id="genre_44128">
+              <catDesc>roman</catDesc>
+              <desc>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)<name type="alt">chivalric romance</name>
+                <name type="alt">chivalric novel</name>
+              </desc>
+              <category xml:id="genre_44130">
+                <catDesc>roman lignager</catDesc>
+                <desc>Family history</desc>
+              </category>
+              <category xml:id="genre_46894">
+                <catDesc>Artusroman</catDesc>
+                <desc>Middle High German form of romance  or epic based on the Matière de Bretagne</desc>
+              </category>
+            </category>
+          </category>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date notBefore="1226-01-01" notAfter="1325-12-31" cert="conjecture">'1250-1300'</date>
+      </creation>
+      <langUsage>
+        <language ident="enm" ref="https://iso639-3.sil.org/code/enm" xml:id="lang_9729">Middle English</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#form" target="#verseForm"/>
+        <catRef scheme="#traditionStatus" target="#traditionSurviving"/>
+        <catRef scheme="#genre" target="#genre_48800"/>
+        <keywords>
+          <term>Arthurian romance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <!-- Allignment of a text as a prep for an edition. -->
+      </p>
+    </body>
+  </text>
+</TEI>

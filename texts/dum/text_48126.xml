@@ -28,7 +28,7 @@
       <publicationStmt>
         <publisher>LostMa ERC Project</publisher>
         <pubPlace>Paris</pubPlace>
-        <date>2025-04-08</date>
+        <date>2025-04-17</date>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
         </availability>
@@ -41,7 +41,476 @@
           </title>
         </bibl>
         <listWit>
-          <witness xml:id="witness_48138"/>
+          <witness xml:id="witness_48138">
+            <msDesc>
+              <msIdentifier>
+                <msName>Historical document of witness H58</msName>
+                <abbr type="siglum">H58</abbr>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier ref="#document_48129">
+                  <country ref="#DE">Germany</country>
+                  <settlement>Munich</settlement>
+                  <repository ref="#respository_47347">Bayerische Staatsbibliothek</repository>
+                  <idno>Cod. germ. 198</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_48142">
+                    <locusGrp>
+                      <locus from="1r" to="1v">1r-1v</locus>
+                    </locusGrp>
+                    <textLang mainLang="Brabants" ref="#scripta_46312">Dialect of Brabant.</textLang>
+                  </msItem>
+                </msContents>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1316-01-01" notAfter="1360-12-31" cert="conjecture">'XIVb'</origDate>
+                </origin>
+              </history>
+              <physDesc xml:id="physDesc_48140">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height quantity="385-388">385-388</height>
+                        <width quantity="291-296">291-296</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                </objectDesc>
+                <layoutDesc>
+                  <layout columns="3" writtenLines="60"/>
+                </layoutDesc>
+                <handDesc>
+                  <handNote script="textualis"/>
+                </handDesc>
+                <decoDesc>
+                  <decNote type="illustration">
+                    <measure quantity="0"/>
+                  </decNote>
+                  <decoNote type="rubrication"/>
+                  <decoNote type="initial"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+            <msDesc>
+              <msIdentifier>
+                <msName>Historical document of witness H58</msName>
+                <abbr type="siglum">H58</abbr>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier ref="#document_48132">
+                  <country ref="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository ref="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>all. 118, f.3</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_48145">
+                    <locusGrp>
+                      <locus from="1r" to="1v">1r-1v</locus>
+                    </locusGrp>
+                    <textLang mainLang="Brabants" ref="#scripta_46312">Dialect of Brabant.</textLang>
+                  </msItem>
+                </msContents>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1316-01-01" notAfter="1360-12-31" cert="conjecture">'XIVb'</origDate>
+                </origin>
+              </history>
+              <physDesc xml:id="physDesc_48140">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height quantity="385-388">385-388</height>
+                        <width quantity="291-296">291-296</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                </objectDesc>
+                <layoutDesc>
+                  <layout columns="3" writtenLines="60"/>
+                </layoutDesc>
+                <handDesc>
+                  <handNote script="textualis"/>
+                </handDesc>
+                <decoDesc>
+                  <decNote type="illustration">
+                    <measure quantity="0"/>
+                  </decNote>
+                  <decoNote type="rubrication"/>
+                  <decoNote type="initial"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+            <msDesc>
+              <msIdentifier>
+                <msName>Historical document of witness H58</msName>
+                <abbr type="siglum">H58</abbr>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier ref="#document_48136">
+                  <country ref="#DE">Germany</country>
+                  <settlement>Kassel</settlement>
+                  <repository ref="#respository_48422">Gesamthochschul-Bibliothek Kassel, Landesbibliothek und Murhardsche Bibliothek.</repository>
+                  <idno>4o Ms. poet. et roman. 29</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_48147">
+                    <locusGrp>
+                      <locus from="1r" to="1v">1r-1v</locus>
+                    </locusGrp>
+                    <textLang mainLang="Brabants" ref="#scripta_46312">Dialect of Brabant.</textLang>
+                  </msItem>
+                </msContents>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1316-01-01" notAfter="1360-12-31" cert="conjecture">'XIVb'</origDate>
+                </origin>
+              </history>
+              <physDesc xml:id="physDesc_48140">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height quantity="385-388">385-388</height>
+                        <width quantity="291-296">291-296</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                </objectDesc>
+                <layoutDesc>
+                  <layout columns="3" writtenLines="60"/>
+                </layoutDesc>
+                <handDesc>
+                  <handNote script="textualis"/>
+                </handDesc>
+                <decoDesc>
+                  <decNote type="illustration">
+                    <measure quantity="0"/>
+                  </decNote>
+                  <decoNote type="rubrication"/>
+                  <decoNote type="initial"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+            <msDesc>
+              <msIdentifier>
+                <msName>Historical document of witness H58</msName>
+                <abbr type="siglum">H58</abbr>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier ref="#document_48135">
+                  <country ref="#DE">Germany</country>
+                  <settlement>Berlin</settlement>
+                  <repository ref="#respository_43889">Staatsbibliothek zu Berlin Preußischer Kulturbesitz</repository>
+                  <idno>Germ. fol.1385</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_48146">
+                    <locusGrp>
+                      <locus from="1r" to="1v">1r-1v</locus>
+                    </locusGrp>
+                    <textLang mainLang="Brabants" ref="#scripta_46312">Dialect of Brabant.</textLang>
+                  </msItem>
+                </msContents>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1316-01-01" notAfter="1360-12-31" cert="conjecture">'XIVb'</origDate>
+                </origin>
+              </history>
+              <physDesc xml:id="physDesc_48140">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height quantity="385-388">385-388</height>
+                        <width quantity="291-296">291-296</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                </objectDesc>
+                <layoutDesc>
+                  <layout columns="3" writtenLines="60"/>
+                </layoutDesc>
+                <handDesc>
+                  <handNote script="textualis"/>
+                </handDesc>
+                <decoDesc>
+                  <decNote type="illustration">
+                    <measure quantity="0"/>
+                  </decNote>
+                  <decoNote type="rubrication"/>
+                  <decoNote type="initial"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+            <msDesc>
+              <msIdentifier>
+                <msName>Historical document of witness H58</msName>
+                <abbr type="siglum">H58</abbr>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier ref="#document_48127">
+                  <country ref="#DE">Germany</country>
+                  <settlement>Greifswald</settlement>
+                  <repository ref="#respository_48418">Universitätsbibliothek Greifswald</repository>
+                  <idno>2o MS 638</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_48139">
+                    <locusGrp>
+                      <locus from="1r" to="2v">1r-2v</locus>
+                    </locusGrp>
+                    <textLang mainLang="Brabants" ref="#scripta_46312">Dialect of Brabant.</textLang>
+                  </msItem>
+                </msContents>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1316-01-01" notAfter="1360-12-31" cert="conjecture">'XIVb'</origDate>
+                </origin>
+              </history>
+              <physDesc xml:id="physDesc_48140">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height quantity="385-388">385-388</height>
+                        <width quantity="291-296">291-296</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                </objectDesc>
+                <layoutDesc>
+                  <layout columns="3" writtenLines="60"/>
+                </layoutDesc>
+                <handDesc>
+                  <handNote script="textualis"/>
+                </handDesc>
+                <decoDesc>
+                  <decNote type="illustration">
+                    <measure quantity="0"/>
+                  </decNote>
+                  <decoNote type="rubrication"/>
+                  <decoNote type="initial"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+            <msDesc>
+              <msIdentifier>
+                <msName>Historical document of witness H58</msName>
+                <abbr type="siglum">H58</abbr>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier ref="#document_48130">
+                  <country ref="#DE">Germany</country>
+                  <settlement>Nürnberg</settlement>
+                  <repository ref="#respository_46307">Bibliothek des Germanischen Nationalmuseums</repository>
+                  <idno>22.219</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_48143">
+                    <locusGrp>
+                      <locus from="1r" to="1v">1r-1v</locus>
+                    </locusGrp>
+                    <textLang mainLang="Brabants" ref="#scripta_46312">Dialect of Brabant.</textLang>
+                  </msItem>
+                </msContents>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1316-01-01" notAfter="1360-12-31" cert="conjecture">'XIVb'</origDate>
+                </origin>
+              </history>
+              <physDesc xml:id="physDesc_48140">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height quantity="385-388">385-388</height>
+                        <width quantity="291-296">291-296</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                </objectDesc>
+                <layoutDesc>
+                  <layout columns="3" writtenLines="60"/>
+                </layoutDesc>
+                <handDesc>
+                  <handNote script="textualis"/>
+                </handDesc>
+                <decoDesc>
+                  <decNote type="illustration">
+                    <measure quantity="0"/>
+                  </decNote>
+                  <decoNote type="rubrication"/>
+                  <decoNote type="initial"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+            <msDesc>
+              <msIdentifier>
+                <msName>Historical document of witness H58</msName>
+                <abbr type="siglum">H58</abbr>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier ref="#document_48131">
+                  <country ref="#DE">Germany</country>
+                  <settlement>Stuttgart</settlement>
+                  <repository ref="#respository_48430">Württembergische Landesbibliothek</repository>
+                  <idno>Cod.misc. 4o 30d, XIV</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_48144">
+                    <locusGrp>
+                      <locus from="1r" to="2v">1r-2v</locus>
+                    </locusGrp>
+                    <textLang mainLang="Brabants" ref="#scripta_46312">Dialect of Brabant.</textLang>
+                  </msItem>
+                </msContents>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1316-01-01" notAfter="1360-12-31" cert="conjecture">'XIVb'</origDate>
+                </origin>
+              </history>
+              <physDesc xml:id="physDesc_48140">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height quantity="385-388">385-388</height>
+                        <width quantity="291-296">291-296</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                </objectDesc>
+                <layoutDesc>
+                  <layout columns="3" writtenLines="60"/>
+                </layoutDesc>
+                <handDesc>
+                  <handNote script="textualis"/>
+                </handDesc>
+                <decoDesc>
+                  <decNote type="illustration">
+                    <measure quantity="0"/>
+                  </decNote>
+                  <decoNote type="rubrication"/>
+                  <decoNote type="initial"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+            <msDesc>
+              <msIdentifier>
+                <msName>Historical document of witness H58</msName>
+                <abbr type="siglum">H58</abbr>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier ref="#document_48128">
+                  <country ref="#DE">Germany</country>
+                  <settlement>Giessen</settlement>
+                  <repository ref="#respository_43869">Universitätsbibliothek Gießen</repository>
+                  <idno>98</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_48141">
+                    <locusGrp>
+                      <locus from="1r" to="19v">1r-19v</locus>
+                    </locusGrp>
+                    <textLang mainLang="Brabants" ref="#scripta_46312">Dialect of Brabant.</textLang>
+                  </msItem>
+                </msContents>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1316-01-01" notAfter="1360-12-31" cert="conjecture">'XIVb'</origDate>
+                </origin>
+              </history>
+              <physDesc xml:id="physDesc_48140">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height quantity="385-388">385-388</height>
+                        <width quantity="291-296">291-296</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                </objectDesc>
+                <layoutDesc>
+                  <layout columns="3" writtenLines="60"/>
+                </layoutDesc>
+                <handDesc>
+                  <handNote script="textualis"/>
+                </handDesc>
+                <decoDesc>
+                  <decNote type="illustration">
+                    <measure quantity="0"/>
+                  </decNote>
+                  <decoNote type="rubrication"/>
+                  <decoNote type="initial"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+            <msDesc>
+              <msIdentifier>
+                <msName>Historical document of witness H58</msName>
+                <abbr type="siglum">H58</abbr>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier ref="#document_48137">
+                  <country ref="#DE">Germany</country>
+                  <settlement>Tübingen</settlement>
+                  <repository ref="#respository_43836">Wilhelmsstift. Bibliothek</repository>
+                  <idno>ME IV 5</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_48148">
+                    <locusGrp>
+                      <locus from="1r" to="1v">1r-1v</locus>
+                    </locusGrp>
+                    <textLang mainLang="Brabants" ref="#scripta_46312">Dialect of Brabant.</textLang>
+                  </msItem>
+                </msContents>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1316-01-01" notAfter="1360-12-31" cert="conjecture">'XIVb'</origDate>
+                </origin>
+              </history>
+              <physDesc xml:id="physDesc_48140">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height quantity="385-388">385-388</height>
+                        <width quantity="291-296">291-296</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                </objectDesc>
+                <layoutDesc>
+                  <layout columns="3" writtenLines="60"/>
+                </layoutDesc>
+                <handDesc>
+                  <handNote script="textualis"/>
+                </handDesc>
+                <decoDesc>
+                  <decNote type="illustration">
+                    <measure quantity="0"/>
+                  </decNote>
+                  <decoNote type="rubrication"/>
+                  <decoNote type="initial"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -105,6 +574,10 @@
               <catDesc>Arthurroman</catDesc>
               <desc>'Arthurroman is een verzamelnaam voor ridderromans ontstaan in de tweede helft van de twaalfde eeuw aan Noord-Franse adellijke hoven. Centraal, zij het op de achtergrond, staat koning Arthur. De mode begon met vijf Arthurromans in de volkstaal (ca. 1160-1190) van Chrétien de Troyes.'</desc>
             </category>
+            <category xml:id="genre_49013">
+              <catDesc>Carolingian romance</catDesc>
+              <desc>Middle English romance surrounding characters related to Charlemagne or people at his court.</desc>
+            </category>
             <category xml:id="genre_46304">
               <catDesc>Karelepiek</catDesc>
               <desc>Story about Charlemagne and his family.</desc>
@@ -115,11 +588,7 @@
             </category>
             <category xml:id="genre_44167">
               <catDesc>chanson de geste</catDesc>
-              <desc>Long epic poem from the Middle Ages.<bibl>
-                  <ptr target="https://www.wikidata.org/wiki/Q651019"/>
-                  <ptr target="https://catalogue.bnf.fr/ark:/12148/cb11947470n"/>
-                </bibl>
-              </desc>
+              <desc>Long epic poem from the Middle Ages.</desc>
             </category>
             <category xml:id="genre_47609">
               <catDesc>chronique</catDesc>
@@ -133,10 +602,6 @@
               <catDesc>roman</catDesc>
               <desc>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)<name type="alt">chivalric romance</name>
                 <name type="alt">chivalric novel</name>
-                <bibl>
-                  <ptr target="http://fr.dbpedia.org/page/Roman_de_chevalerie"/>
-                  <ptr target="https://data.bnf.fr/16603707/roman_de_chevalerie/"/>
-                </bibl>
               </desc>
               <category xml:id="genre_44130">
                 <catDesc>roman lignager</catDesc>
