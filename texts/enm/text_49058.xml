@@ -26,7 +26,7 @@
       <publicationStmt>
         <publisher>LostMa ERC Project</publisher>
         <pubPlace>Paris</pubPlace>
-        <date>2025-04-17</date>
+        <date>2025-05-05</date>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
         </availability>
@@ -38,6 +38,132 @@
           </title>
         </bibl>
         <listWit>
+          <witness xml:id="witness_49151">
+            <abbr type="siglum">1913</abbr>
+            <ref target="https://www.medievalscribes.com/index.php?browse=manuscripts&amp;id=93&amp;nav=off"/>
+            <ref target="https://www.middleenglishromance.org.uk/mer/22"/>
+            <msDesc status="complete">
+              <msIdentifier>
+                <msName>Historical document of witness 1913</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49150">
+                  <country corresp="#None">United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository corresp="#respository_43919">British library</repository>
+                  <idno>Lansdowne MS 851</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49152">
+                    <locusGrp>
+                      <locus from="54v" to="65r">54v-65r</locus>
+                    </locusGrp>
+                    <textLang mainLang="South West England" corresp="#scripta_48867">Dialect spoken in South West region of England, surrounding Bath and Bristol.</textLang>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://www.middleenglishromance.org.uk/mer/22"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1391-01-01" notAfter="1435-12-31" cert="medium">'1400-1425'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_49153">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height quantity="345">345</height>
+                        <width quantity="220">220</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout columns="42" writtenLines="1" topLine="No"/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="unknown"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity="0"/>
+                  </decoNote>
+                  <decoNote type="rubrication"/>
+                  <decoNote type="initial"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_49155">
+            <abbr type="siglum">1913</abbr>
+            <ref target="https://www.middleenglishromance.org.uk/mer/22"/>
+            <msDesc status="complete">
+              <msIdentifier>
+                <msName>Historical document of witness 1913</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49154">
+                  <country corresp="#None">United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository corresp="#respository_43919">British library</repository>
+                  <idno>Harley MS 7334</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49156">
+                    <locusGrp>
+                      <locus from="59r" to="70v">59r-70v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://www.middleenglishromance.org.uk/mer/22"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1401-01-01" notAfter="1420-12-31" cert="medium">'c. 1410'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_49157">
+                <objectDesc form="codex">
+                  <supportDesc material="unknown">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height>NA</height>
+                        <width>NA</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="unknown"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity=""/>
+                  </decoNote>
+                  <decoNote type="unknown"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
           <witness xml:id="witness_49077">
             <abbr type="siglum">1913</abbr>
             <ref target="https://www.middleenglishromance.org.uk/mer/22"/>
@@ -163,6 +289,132 @@
               </physDesc>
             </msDesc>
           </witness>
+          <witness xml:id="witness_49143">
+            <abbr type="siglum">1913</abbr>
+            <ref target="https://www.medievalscribes.com/index.php?browse=manuscripts&amp;id=95&amp;nav=off"/>
+            <msDesc status="complete">
+              <msIdentifier>
+                <msName>Historical document of witness 1913</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49142">
+                  <country corresp="#None">United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository corresp="#respository_43919">British library</repository>
+                  <idno>Royal MS 18.C.II</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49144">
+                    <locusGrp>
+                      <locus from="57r" to="67v">57r-67v</locus>
+                    </locusGrp>
+                    <textLang mainLang="South West England" corresp="#scripta_48867">Dialect spoken in South West region of England, surrounding Bath and Bristol.</textLang>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://www.middleenglishromance.org.uk/mer/22"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1411-01-01" notAfter="1460-12-31" cert="medium">'1420-1450'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_49145">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height quantity="310">310</height>
+                        <width quantity="215">215</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout columns="1" writtenLines="40" topLine="Yes"/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="unknown"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity="0"/>
+                  </decoNote>
+                  <decoNote type="initial"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_49163">
+            <abbr type="siglum">1913</abbr>
+            <ref target="https://www.medievalscribes.com/index.php?browse=manuscripts&amp;id=76&amp;nav=off"/>
+            <ref target="https://www.middleenglishromance.org.uk/mer/22"/>
+            <msDesc status="complete">
+              <msIdentifier>
+                <msName>Historical document of witness 1913</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49162">
+                  <country corresp="#None">United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository corresp="#respository_43919">British library</repository>
+                  <idno>Egerton MS 2863</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49164">
+                    <locusGrp>
+                      <locus from="37r" to="39r">37r-39r</locus>
+                    </locusGrp>
+                    <textLang mainLang="East of England" corresp="#scripta_48845">Southern eastern region of England.</textLang>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://www.middleenglishromance.org.uk/mer/22"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1416-01-01" notAfter="1460-12-31" cert="medium">'1425-1450'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_49165">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height quantity="338">338</height>
+                        <width quantity="220">220</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout columns="1" writtenLines="38" topLine="No"/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="unknown"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity="0"/>
+                  </decoNote>
+                  <decoNote type="rubrication"/>
+                  <decoNote type="initial"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
           <witness xml:id="witness_49069">
             <abbr type="siglum">1913</abbr>
             <ref target="https://www.medievalscribes.com/index.php?browse=manuscripts&amp;id=136&amp;nav=off"/>
@@ -173,9 +425,9 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_49068">
-                  <country/>
-                  <settlement/>
-                  <repository/>
+                  <country corresp="#None">United States</country>
+                  <settlement>Philadelphia</settlement>
+                  <repository corresp="#respository_49787">Rosenbach Museum &amp; Library</repository>
                   <idno>MS 1084/1</idno>
                 </msIdentifier>
                 <msContents>
@@ -219,6 +471,68 @@
                   <decoNote type="illustration">
                     <measure quantity="0"/>
                   </decoNote>
+                  <decoNote type="initial"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_49168">
+            <abbr type="siglum">1913</abbr>
+            <ref target="https://www.medievalscribes.com/index.php?browse=manuscripts&amp;id=108&amp;nav=off"/>
+            <ref target="https://ehive.com/collections/201690/objects/1355139/the-canterbury-tales"/>
+            <msDesc status="complete">
+              <msIdentifier>
+                <msName>Historical document of witness 1913</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49166">
+                  <country corresp="#None">England</country>
+                  <settlement>Lichfield</settlement>
+                  <repository corresp="#respository_49795">Lichfield Cathedral. Library</repository>
+                  <idno>MS Lich 029</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49169">
+                    <locusGrp>
+                      <locus from="57v" to="69r">57v-69r</locus>
+                    </locusGrp>
+                    <textLang mainLang="London" corresp="#scripta_48834">Dialect spoken in the south east Brittain region.</textLang>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1416-01-01" notAfter="1460-12-31" cert="medium">'1425-1450'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_49171">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height quantity="345">345</height>
+                        <width quantity="240">240</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout columns="1" writtenLines="39" topLine="No"/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="unknown"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity="0"/>
+                  </decoNote>
+                  <decoNote type="rubrication"/>
                   <decoNote type="initial"/>
                 </decoDesc>
               </physDesc>
@@ -284,6 +598,502 @@
               </physDesc>
             </msDesc>
           </witness>
+          <witness xml:id="witness_49113">
+            <abbr type="siglum">1913</abbr>
+            <ref target="https://www.medievalscribes.com/index.php?browse=manuscripts&amp;&amp;id=46&amp;nav=off"/>
+            <msDesc status="complete">
+              <msIdentifier>
+                <msName>Historical document of witness 1913</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49112">
+                  <country corresp="#None">United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <repository corresp="#respository_43847">Bodleian Library</repository>
+                  <idno>MS Laud Misc. 600</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49114">
+                    <locusGrp>
+                      <locus from="62v" to="75v">62v-75v</locus>
+                    </locusGrp>
+                    <textLang mainLang="East Midlands" corresp="#scripta_48797">Dialect spoken in the middle Eastern part of England (East Midlands).</textLang>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1416-01-01" notAfter="1460-12-31" cert="medium">'1425-1450'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_49115">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height quantity="290">290</height>
+                        <width quantity="200">200</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout columns="1" writtenLines="35"/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="unknown"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity="0"/>
+                  </decoNote>
+                  <decoNote type="initial"/>
+                  <decoNote type="rubrication"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_49178">
+            <abbr type="siglum">1913</abbr>
+            <ref target="https://www.middleenglishromance.org.uk/mer/22"/>
+            <ref target="https://idiscover.lib.cam.ac.uk/primo-explore/fulldisplay?docid=44CAM_DSPACE_APOLLO1810%2F320151&amp;context=L&amp;vid=44CAM_PROD&amp;lang=en_US&amp;search_scope=SCOP_CAM_ALL&amp;adaptor=Local%20Search%20Engine&amp;tab=cam_lib_coll&amp;query=any,contains,MS%20Mm.2.5"/>
+            <msDesc status="complete">
+              <msIdentifier>
+                <msName>Historical document of witness 1913</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49177">
+                  <country corresp="#None">United Kingdom</country>
+                  <settlement>Cambridge</settlement>
+                  <repository corresp="#respository_43816">University of Cambridge. Library</repository>
+                  <idno>MS Mm.2.5</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49179">
+                    <locusGrp>
+                      <locus from="48v" to="58v">48v-58v</locus>
+                    </locusGrp>
+                    <textLang mainLang="East Anglia" corresp="#scripta_48851">Region in the middle of Eastern England.</textLang>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1416-01-01" notAfter="1485-12-31" cert="medium">'Mid 15th century'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_49180">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height quantity="362">362</height>
+                        <width quantity="267">267</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout columns="1"/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="unknown"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity="0"/>
+                  </decoNote>
+                  <decoNote type="rubrication"/>
+                  <decoNote type="initial"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_49173">
+            <abbr type="siglum">1913</abbr>
+            <ref target="https://www.middleenglishromance.org.uk/mer/22"/>
+            <ref target="https://www.repository.cam.ac.uk/items/649da08f-5eb2-4125-911c-4a522970a775"/>
+            <msDesc status="complete">
+              <msIdentifier>
+                <msName>Historical document of witness 1913</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49172">
+                  <country corresp="#None">United Kingdom</country>
+                  <settlement>Cambridge</settlement>
+                  <repository corresp="#respository_43816">University of Cambridge. Library</repository>
+                  <idno>MS LI.3.26</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49174">
+                    <locusGrp>
+                      <locus from="52r" to="62v">52r-62v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1421-01-01" notAfter="1460-12-31" cert="medium">'1430-1450'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_49175">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height quantity="337">337</height>
+                        <width quantity="241">241</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout columns="1"/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="unknown"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity="0"/>
+                  </decoNote>
+                  <decoNote type="rubrication"/>
+                  <decoNote type="initial"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_49183">
+            <abbr type="siglum">1913</abbr>
+            <ref target="https://www.medievalscribes.com/index.php?browse=manuscripts&amp;id=3&amp;nav=off"/>
+            <ref target="https://data.fitzmuseum.cam.ac.uk/id/object/239588"/>
+            <msDesc status="complete">
+              <msIdentifier>
+                <msName>Historical document of witness 1913</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49181">
+                  <country corresp="#None">United Kingdom</country>
+                  <settlement>Cambridge</settlement>
+                  <repository corresp="#respository_43815">Fitzwilliam Museum</repository>
+                  <idno>MS McClean 181</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49184">
+                    <locusGrp>
+                      <locus from="65r" to="77r">65r-77r</locus>
+                    </locusGrp>
+                    <textLang mainLang="West Midlands" corresp="#scripta_48780">Dialect spaken in the western part of central England (midlands), surrounding present day Birmingham.</textLang>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1441-01-01" notAfter="1469-12-31" cert="medium">'Before the date of death of Thomas Kent, probable first owner, in 1468-9'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_49185">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height quantity="240">240</height>
+                        <width quantity="170">170</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout columns="1" writtenLines="32" topLine="No"/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="unknown"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity="0"/>
+                  </decoNote>
+                  <decoNote type="incomplete dec."/>
+                  <decoNote type="rubrication"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_49122">
+            <abbr type="siglum">1913</abbr>
+            <ref target="https://www.middleenglishromance.org.uk/mer/22"/>
+            <msDesc status="complete">
+              <msIdentifier>
+                <msName>Historical document of witness 1913</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49121">
+                  <country corresp="#None">United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <repository corresp="#respository_43847">Bodleian Library</repository>
+                  <idno>MS. Hatton donat. 1</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49123">
+                    <locusGrp>
+                      <locus from="65r" to="75v">65r-75v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://www.middleenglishromance.org.uk/mer/22"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1441-01-01" notAfter="1470-12-31" cert="medium">'1450-60'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_49124">
+                <objectDesc form="codex">
+                  <supportDesc material="unknown">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height>NA</height>
+                        <width>NA</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="unknown"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity=""/>
+                  </decoNote>
+                  <decoNote type="unknown"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_49147">
+            <abbr type="siglum">1913</abbr>
+            <ref target="https://www.middleenglishromance.org.uk/mer/22"/>
+            <ref target="https://www.medievalscribes.com/index.php?browse=manuscripts&amp;id=94&amp;nav=off"/>
+            <msDesc status="complete">
+              <msIdentifier>
+                <msName>Historical document of witness 1913</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49146">
+                  <country corresp="#None">United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository corresp="#respository_43919">British library</repository>
+                  <idno>Royal MS 17.D.XV</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49148">
+                    <locusGrp>
+                      <locus from="66v" to="79v">66v-79v</locus>
+                    </locusGrp>
+                    <textLang mainLang="West Midlands" corresp="#scripta_48780">Dialect spaken in the western part of central England (midlands), surrounding present day Birmingham.</textLang>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://www.middleenglishromance.org.uk/mer/22"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1441-01-01" notAfter="1480-12-31" cert="medium">'1450-70'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_49149">
+                <objectDesc form="codex">
+                  <supportDesc material="chart">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height quantity="285">285</height>
+                        <width quantity="215">215</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout columns="1" writtenLines="33" topLine="No"/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="unknown"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity="0"/>
+                  </decoNote>
+                  <decoNote type="rubrication"/>
+                  <decoNote type="initial"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_49129">
+            <abbr type="siglum">1913</abbr>
+            <ref target="https://www.medievalscribes.com/index.php?browse=manuscripts&amp;id=133&amp;nav=off"/>
+            <ref target="http://corsair.themorgan.org/vwebv/holdingsInfo?bibId=77248"/>
+            <msDesc status="complete">
+              <msIdentifier>
+                <msName>Historical document of witness 1913</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49128">
+                  <country corresp="#None">United States</country>
+                  <settlement>New York</settlement>
+                  <repository corresp="#respository_43763">Pierpont Morgan Library</repository>
+                  <idno>MS M.249</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49130">
+                    <locusGrp>
+                      <locus from="62r" to="74r">62r-74r</locus>
+                    </locusGrp>
+                    <textLang mainLang="London" corresp="#scripta_48834">Dialect spoken in the south east Brittain region.</textLang>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1441-01-01" notAfter="1485-12-31" cert="medium">'1450-1475'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_49131">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height quantity="290">290</height>
+                        <width quantity="200">200</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout columns="1" writtenLines="25"/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="cursiva"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity="0"/>
+                  </decoNote>
+                  <decoNote type="rubrication"/>
+                  <decoNote type="initial"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_49118">
+            <abbr type="siglum">1913</abbr>
+            <ref target="https://www.medievalscribes.com/index.php?browse=manuscripts&amp;&amp;id=46&amp;nav=off"/>
+            <msDesc status="complete">
+              <msIdentifier>
+                <msName>Historical document of witness 1913</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49116">
+                  <country corresp="#None">United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <repository corresp="#respository_43847">Bodleian Library</repository>
+                  <idno>MS Barlow 20</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49119">
+                    <locusGrp>
+                      <locus from="51r" to="62v">51r-62v</locus>
+                    </locusGrp>
+                    <textLang mainLang="West Midlands" corresp="#scripta_48780">Dialect spaken in the western part of central England (midlands), surrounding present day Birmingham.</textLang>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1441-01-01" notAfter="1485-12-31" cert="medium">'1450-1475'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_49120">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height quantity="305">305</height>
+                        <width quantity="210">210</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout columns="1" writtenLines="37"/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="unknown"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity="0"/>
+                  </decoNote>
+                  <decoNote type="initial"/>
+                  <decoNote type="rubrication"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
           <witness xml:id="witness_49082">
             <abbr type="siglum">1913</abbr>
             <ref target="https://www.middleenglishromance.org.uk/mer/22"/>
@@ -294,9 +1104,9 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_49080">
-                  <country/>
-                  <settlement/>
-                  <repository/>
+                  <country corresp="#None">United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <repository corresp="#respository_49789">Christ Church</repository>
                   <idno>MS 152</idno>
                 </msIdentifier>
                 <msContents>
@@ -355,9 +1165,9 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_49072">
-                  <country/>
-                  <settlement/>
-                  <repository/>
+                  <country corresp="#None">United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <repository corresp="#respository_49790">Trinity College (University of Oxford)</repository>
                   <idno>MS 49</idno>
                 </msIdentifier>
                 <msContents>
@@ -402,6 +1212,191 @@
                     <measure quantity="0"/>
                   </decoNote>
                   <decoNote type="incomplete dec."/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_49135">
+            <abbr type="siglum">1913</abbr>
+            <ref target="https://www.medievalscribes.com/index.php?browse=manuscripts&amp;id=99&amp;nav=off"/>
+            <msDesc status="complete">
+              <msIdentifier>
+                <msName>Historical document of witness 1913</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49133">
+                  <country corresp="#None">United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository corresp="#respository_43919">British library</repository>
+                  <idno>MS Sloane 1686</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49136">
+                    <locusGrp>
+                      <locus from="71r" to="86v">71r-86v</locus>
+                    </locusGrp>
+                    <textLang mainLang="East of England" corresp="#scripta_48845">Southern eastern region of England.</textLang>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://www.middleenglishromance.org.uk/mer/22"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1466-01-01" notAfter="1510-12-31" cert="medium">'1475-1500'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_49137">
+                <objectDesc form="codex">
+                  <supportDesc material="chart">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height quantity="275">275</height>
+                        <width quantity="180">180</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout columns="1" writtenLines="31" topLine="Yes"/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="unknown"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity="0"/>
+                  </decoNote>
+                  <decoNote type="incomplete dec."/>
+                  <decoNote type="rubrication"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_49159">
+            <abbr type="siglum">1913</abbr>
+            <ref target="https://www.middleenglishromance.org.uk/mer/22"/>
+            <msDesc status="defective">
+              <msIdentifier>
+                <msName>Historical document of witness 1913</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49158">
+                  <country corresp="#None">United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository corresp="#respository_43919">British library</repository>
+                  <idno>Harley MS 1758</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49160">
+                    <locusGrp>
+                      <locus from="46r" to="55r">46r-55r</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://www.middleenglishromance.org.uk/mer/22"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1441-01-01" notAfter="1470-12-31" cert="medium">'1450-1460'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_49161">
+                <objectDesc form="codex">
+                  <supportDesc material="unknown">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height>NA</height>
+                        <width>NA</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="unknown"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity=""/>
+                  </decoNote>
+                  <decoNote type="unknown"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_49109">
+            <abbr type="siglum">1913</abbr>
+            <ref target="https://www.middleenglishromance.org.uk/mer/22"/>
+            <msDesc status="defective">
+              <msIdentifier>
+                <msName>Historical document of witness 1913</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49108">
+                  <country corresp="#None">United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <repository corresp="#respository_43847">Bodleian Library</repository>
+                  <idno>MS Rawlinson poet. 149</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49110">
+                    <locusGrp>
+                      <locus from="53r" to="58r">53r-58r</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1441-01-01" notAfter="1480-12-31" cert="medium">'1450-70'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_49111">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height>NA</height>
+                        <width>NA</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="unknown"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity=""/>
+                  </decoNote>
+                  <decoNote type="unknown"/>
                 </decoDesc>
               </physDesc>
             </msDesc>
@@ -456,6 +1451,45 @@
           </category>
           <category xml:id="genre" corresp="https://www.wikidata.org/wiki/Q483394">
             <catDesc>Genre</catDesc>
+            <category xml:id="genre_44128">
+              <catDesc>
+                <name type="main">roman</name>
+                <name type="alt">chivalric romance</name>
+                <name type="alt">chivalric novel</name>
+                <gloss>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)</gloss>
+              </catDesc>
+              <category xml:id="genre_44130">
+                <catDesc>
+                  <name type="main">roman lignager</name>
+                  <gloss>Family history</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46894">
+                <catDesc>
+                  <name type="main">Artusroman</name>
+                  <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
+                </catDesc>
+              </category>
+            </category>
+            <category xml:id="genre_46366">
+              <catDesc>
+                <name type="main">riddarasögur</name>
+                <name type="alt">chivalric sagas</name>
+                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
+              </catDesc>
+              <category xml:id="genre_46367">
+                <catDesc>
+                  <name type="main">riddarasögur indigenous</name>
+                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46370">
+                <catDesc>
+                  <name type="main">riddarasögur translated</name>
+                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
+                </catDesc>
+              </category>
+            </category>
             <category xml:id="genre_48800">
               <catDesc>
                 <name type="main">Arthurian romance</name>
@@ -503,45 +1537,6 @@
                 <name type="main">mise en prose</name>
                 <gloss>mise en prose de chansons de geste ou romans en vers</gloss>
               </catDesc>
-            </category>
-            <category xml:id="genre_44128">
-              <catDesc>
-                <name type="main">roman</name>
-                <name type="alt">chivalric romance</name>
-                <name type="alt">chivalric novel</name>
-                <gloss>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)</gloss>
-              </catDesc>
-              <category xml:id="genre_44130">
-                <catDesc>
-                  <name type="main">roman lignager</name>
-                  <gloss>Family history</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46894">
-                <catDesc>
-                  <name type="main">Artusroman</name>
-                  <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
-                </catDesc>
-              </category>
-            </category>
-            <category xml:id="genre_46366">
-              <catDesc>
-                <name type="main">riddarasögur</name>
-                <name type="alt">chivalric sagas</name>
-                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
-              </catDesc>
-              <category xml:id="genre_46370">
-                <catDesc>
-                  <name type="main">riddarasögur translated</name>
-                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46367">
-                <catDesc>
-                  <name type="main">riddarasögur indigenous</name>
-                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
-                </catDesc>
-              </category>
             </category>
           </category>
         </taxonomy>

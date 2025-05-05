@@ -38,7 +38,7 @@
       <publicationStmt>
         <publisher>LostMa ERC Project</publisher>
         <pubPlace>Paris</pubPlace>
-        <date>2025-04-17</date>
+        <date>2025-05-05</date>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
         </availability>
@@ -57,20 +57,16 @@
                 <msName>Historical document of witness H25</msName>
               </msIdentifier>
               <msPart>
-                <msIdentifier corresp="#document_48000">
+                <msIdentifier corresp="#document_48001">
                   <country corresp="#NL">Netherlands</country>
-                  <settlement>Leeuwarden</settlement>
-                  <repository corresp="#respository_48416">Provinciale Bibliotheek van Friesland</repository>
-                  <idno>1804</idno>
+                  <settlement>'s-Hertogenbosch</settlement>
+                  <repository corresp="#respository_48447">Stadsarchief gemeente 's-Hertogenbosch</repository>
+                  <idno>z.s.</idno>
                 </msIdentifier>
                 <msContents>
-                  <msItem xml:id="part_48004">
+                  <msItem xml:id="part_48006">
                     <locusGrp>
                       <locus from="1r" to="2v">1r-2v</locus>
-                      <locus from="3r" to="4v">3r-4v</locus>
-                      <locus from="5r" to="6v">5r-6v</locus>
-                      <locus from="7r" to="8v">7r-8v</locus>
-                      <locus from="9r" to="10v">9r-10v</locus>
                     </locusGrp>
                     <textLang mainLang="Vlaams" corresp="#scripta_46305">Dialect of Flanders.</textLang>
                   </msItem>
@@ -117,16 +113,20 @@
                 <msName>Historical document of witness H25</msName>
               </msIdentifier>
               <msPart>
-                <msIdentifier corresp="#document_48001">
+                <msIdentifier corresp="#document_48000">
                   <country corresp="#NL">Netherlands</country>
-                  <settlement>'s-Hertogenbosch</settlement>
-                  <repository corresp="#respository_48447">Stadsarchief gemeente 's-Hertogenbosch</repository>
-                  <idno>z.s.</idno>
+                  <settlement>Leeuwarden</settlement>
+                  <repository corresp="#respository_48416">Provinciale Bibliotheek van Friesland</repository>
+                  <idno>1804</idno>
                 </msIdentifier>
                 <msContents>
-                  <msItem xml:id="part_48006">
+                  <msItem xml:id="part_48004">
                     <locusGrp>
                       <locus from="1r" to="2v">1r-2v</locus>
+                      <locus from="3r" to="4v">3r-4v</locus>
+                      <locus from="5r" to="6v">5r-6v</locus>
+                      <locus from="7r" to="8v">7r-8v</locus>
+                      <locus from="9r" to="10v">9r-10v</locus>
                     </locusGrp>
                     <textLang mainLang="Vlaams" corresp="#scripta_46305">Dialect of Flanders.</textLang>
                   </msItem>
@@ -276,6 +276,45 @@
           </category>
           <category xml:id="genre" corresp="https://www.wikidata.org/wiki/Q483394">
             <catDesc>Genre</catDesc>
+            <category xml:id="genre_44128">
+              <catDesc>
+                <name type="main">roman</name>
+                <name type="alt">chivalric romance</name>
+                <name type="alt">chivalric novel</name>
+                <gloss>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)</gloss>
+              </catDesc>
+              <category xml:id="genre_44130">
+                <catDesc>
+                  <name type="main">roman lignager</name>
+                  <gloss>Family history</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46894">
+                <catDesc>
+                  <name type="main">Artusroman</name>
+                  <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
+                </catDesc>
+              </category>
+            </category>
+            <category xml:id="genre_46366">
+              <catDesc>
+                <name type="main">riddarasögur</name>
+                <name type="alt">chivalric sagas</name>
+                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
+              </catDesc>
+              <category xml:id="genre_46367">
+                <catDesc>
+                  <name type="main">riddarasögur indigenous</name>
+                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46370">
+                <catDesc>
+                  <name type="main">riddarasögur translated</name>
+                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
+                </catDesc>
+              </category>
+            </category>
             <category xml:id="genre_48800">
               <catDesc>
                 <name type="main">Arthurian romance</name>
@@ -323,45 +362,6 @@
                 <name type="main">mise en prose</name>
                 <gloss>mise en prose de chansons de geste ou romans en vers</gloss>
               </catDesc>
-            </category>
-            <category xml:id="genre_44128">
-              <catDesc>
-                <name type="main">roman</name>
-                <name type="alt">chivalric romance</name>
-                <name type="alt">chivalric novel</name>
-                <gloss>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)</gloss>
-              </catDesc>
-              <category xml:id="genre_44130">
-                <catDesc>
-                  <name type="main">roman lignager</name>
-                  <gloss>Family history</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46894">
-                <catDesc>
-                  <name type="main">Artusroman</name>
-                  <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
-                </catDesc>
-              </category>
-            </category>
-            <category xml:id="genre_46366">
-              <catDesc>
-                <name type="main">riddarasögur</name>
-                <name type="alt">chivalric sagas</name>
-                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
-              </catDesc>
-              <category xml:id="genre_46370">
-                <catDesc>
-                  <name type="main">riddarasögur translated</name>
-                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46367">
-                <catDesc>
-                  <name type="main">riddarasögur indigenous</name>
-                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
-                </catDesc>
-              </category>
             </category>
           </category>
         </taxonomy>

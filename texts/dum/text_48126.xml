@@ -38,7 +38,7 @@
       <publicationStmt>
         <publisher>LostMa ERC Project</publisher>
         <pubPlace>Paris</pubPlace>
-        <date>2025-04-17</date>
+        <date>2025-05-05</date>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
         </availability>
@@ -54,65 +54,6 @@
           <witness xml:id="witness_48138">
             <abbr type="siglum">H58</abbr>
             <ref target="https://www.handschriftencensus.de/9024"/>
-            <msDesc status="fragmentary">
-              <msIdentifier>
-                <msName>Historical document of witness H58</msName>
-              </msIdentifier>
-              <msPart>
-                <msIdentifier corresp="#document_48129">
-                  <country corresp="#DE">Germany</country>
-                  <settlement>Munich</settlement>
-                  <repository corresp="#respository_47347">Bayerische Staatsbibliothek</repository>
-                  <idno>Cod. germ. 198</idno>
-                </msIdentifier>
-                <msContents>
-                  <msItem xml:id="part_48142">
-                    <locusGrp>
-                      <locus from="1r" to="1v">1r-1v</locus>
-                    </locusGrp>
-                    <textLang mainLang="Brabants" corresp="#scripta_46312">Dialect of Brabant.</textLang>
-                  </msItem>
-                </msContents>
-                <additional>
-                  <surrogates/>
-                  <listBibl>
-                    <bibl>
-                      <ref target="https://www.handschriftencensus.de/9024"/>
-                    </bibl>
-                  </listBibl>
-                </additional>
-              </msPart>
-              <history>
-                <origin>
-                  <origDate notBefore="1316-01-01" notAfter="1360-12-31" cert="medium">'XIVb'</origDate>
-                </origin>
-              </history>
-              <physDesc corresp="#physDesc_48140">
-                <objectDesc form="codex">
-                  <supportDesc material="perg">
-                    <extent>
-                      <dimensions unit="millimeters" type="written">
-                        <height>385-388</height>
-                        <width>291-296</width>
-                      </dimensions>
-                    </extent>
-                  </supportDesc>
-                  <layoutDesc>
-                    <layout columns="3" writtenLines="60"/>
-                  </layoutDesc>
-                </objectDesc>
-                <handDesc>
-                  <handNote script="textualis"/>
-                </handDesc>
-                <decoDesc>
-                  <decoNote type="illustration">
-                    <measure quantity="0"/>
-                  </decoNote>
-                  <decoNote type="rubrication"/>
-                  <decoNote type="initial"/>
-                </decoDesc>
-              </physDesc>
-            </msDesc>
             <msDesc status="fragmentary">
               <msIdentifier>
                 <msName>Historical document of witness H58</msName>
@@ -177,132 +118,14 @@
                 <msName>Historical document of witness H58</msName>
               </msIdentifier>
               <msPart>
-                <msIdentifier corresp="#document_48136">
+                <msIdentifier corresp="#document_48137">
                   <country corresp="#DE">Germany</country>
-                  <settlement>Kassel</settlement>
-                  <repository corresp="#respository_48422">Gesamthochschul-Bibliothek Kassel, Landesbibliothek und Murhardsche Bibliothek.</repository>
-                  <idno>4o Ms. poet. et roman. 29</idno>
+                  <settlement>Tübingen</settlement>
+                  <repository corresp="#respository_43836">Wilhelmsstift. Bibliothek</repository>
+                  <idno>ME IV 5</idno>
                 </msIdentifier>
                 <msContents>
-                  <msItem xml:id="part_48147">
-                    <locusGrp>
-                      <locus from="1r" to="1v">1r-1v</locus>
-                    </locusGrp>
-                    <textLang mainLang="Brabants" corresp="#scripta_46312">Dialect of Brabant.</textLang>
-                  </msItem>
-                </msContents>
-                <additional>
-                  <surrogates/>
-                  <listBibl>
-                    <bibl>
-                      <ref target="https://www.handschriftencensus.de/9024"/>
-                    </bibl>
-                  </listBibl>
-                </additional>
-              </msPart>
-              <history>
-                <origin>
-                  <origDate notBefore="1316-01-01" notAfter="1360-12-31" cert="medium">'XIVb'</origDate>
-                </origin>
-              </history>
-              <physDesc corresp="#physDesc_48140">
-                <objectDesc form="codex">
-                  <supportDesc material="perg">
-                    <extent>
-                      <dimensions unit="millimeters" type="written">
-                        <height>385-388</height>
-                        <width>291-296</width>
-                      </dimensions>
-                    </extent>
-                  </supportDesc>
-                  <layoutDesc>
-                    <layout columns="3" writtenLines="60"/>
-                  </layoutDesc>
-                </objectDesc>
-                <handDesc>
-                  <handNote script="textualis"/>
-                </handDesc>
-                <decoDesc>
-                  <decoNote type="illustration">
-                    <measure quantity="0"/>
-                  </decoNote>
-                  <decoNote type="rubrication"/>
-                  <decoNote type="initial"/>
-                </decoDesc>
-              </physDesc>
-            </msDesc>
-            <msDesc status="fragmentary">
-              <msIdentifier>
-                <msName>Historical document of witness H58</msName>
-              </msIdentifier>
-              <msPart>
-                <msIdentifier corresp="#document_48131">
-                  <country corresp="#DE">Germany</country>
-                  <settlement>Stuttgart</settlement>
-                  <repository corresp="#respository_48430">Württembergische Landesbibliothek</repository>
-                  <idno>Cod.misc. 4o 30d, XIV</idno>
-                </msIdentifier>
-                <msContents>
-                  <msItem xml:id="part_48144">
-                    <locusGrp>
-                      <locus from="1r" to="2v">1r-2v</locus>
-                    </locusGrp>
-                    <textLang mainLang="Brabants" corresp="#scripta_46312">Dialect of Brabant.</textLang>
-                  </msItem>
-                </msContents>
-                <additional>
-                  <surrogates/>
-                  <listBibl>
-                    <bibl>
-                      <ref target="https://www.handschriftencensus.de/9024"/>
-                    </bibl>
-                  </listBibl>
-                </additional>
-              </msPart>
-              <history>
-                <origin>
-                  <origDate notBefore="1316-01-01" notAfter="1360-12-31" cert="medium">'XIVb'</origDate>
-                </origin>
-              </history>
-              <physDesc corresp="#physDesc_48140">
-                <objectDesc form="codex">
-                  <supportDesc material="perg">
-                    <extent>
-                      <dimensions unit="millimeters" type="written">
-                        <height>385-388</height>
-                        <width>291-296</width>
-                      </dimensions>
-                    </extent>
-                  </supportDesc>
-                  <layoutDesc>
-                    <layout columns="3" writtenLines="60"/>
-                  </layoutDesc>
-                </objectDesc>
-                <handDesc>
-                  <handNote script="textualis"/>
-                </handDesc>
-                <decoDesc>
-                  <decoNote type="illustration">
-                    <measure quantity="0"/>
-                  </decoNote>
-                  <decoNote type="rubrication"/>
-                  <decoNote type="initial"/>
-                </decoDesc>
-              </physDesc>
-            </msDesc>
-            <msDesc status="fragmentary">
-              <msIdentifier>
-                <msName>Historical document of witness H58</msName>
-              </msIdentifier>
-              <msPart>
-                <msIdentifier corresp="#document_48135">
-                  <country corresp="#DE">Germany</country>
-                  <settlement>Berlin</settlement>
-                  <repository corresp="#respository_43889">Staatsbibliothek zu Berlin Preußischer Kulturbesitz</repository>
-                  <idno>Germ. fol.1385</idno>
-                </msIdentifier>
-                <msContents>
-                  <msItem xml:id="part_48146">
+                  <msItem xml:id="part_48148">
                     <locusGrp>
                       <locus from="1r" to="1v">1r-1v</locus>
                     </locusGrp>
@@ -413,6 +236,127 @@
                 <msName>Historical document of witness H58</msName>
               </msIdentifier>
               <msPart>
+                <msIdentifier corresp="#document_48135">
+                  <country corresp="#DE">Germany</country>
+                  <settlement>Berlin</settlement>
+                  <repository corresp="#respository_43889">Staatsbibliothek zu Berlin Preußischer Kulturbesitz</repository>
+                  <idno>Germ. fol.1385</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_48146">
+                    <locusGrp>
+                      <locus from="1r" to="1v">1r-1v</locus>
+                    </locusGrp>
+                    <textLang mainLang="Brabants" corresp="#scripta_46312">Dialect of Brabant.</textLang>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://www.handschriftencensus.de/9024"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1316-01-01" notAfter="1360-12-31" cert="medium">'XIVb'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_48140">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height>385-388</height>
+                        <width>291-296</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout columns="3" writtenLines="60"/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="textualis"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity="0"/>
+                  </decoNote>
+                  <decoNote type="rubrication"/>
+                  <decoNote type="initial"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+            <msDesc status="fragmentary">
+              <msIdentifier>
+                <msName>Historical document of witness H58</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_48129">
+                  <country corresp="#DE">Germany</country>
+                  <settlement>Munich</settlement>
+                  <repository corresp="#respository_47347">Bayerische Staatsbibliothek</repository>
+                  <idno>Cgm 198</idno>
+                  <altIdentifier>
+                    <idno>Cod. germ. 198</idno>
+                  </altIdentifier>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_48142">
+                    <locusGrp>
+                      <locus from="1r" to="1v">1r-1v</locus>
+                    </locusGrp>
+                    <textLang mainLang="Brabants" corresp="#scripta_46312">Dialect of Brabant.</textLang>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://www.handschriftencensus.de/9024"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1316-01-01" notAfter="1360-12-31" cert="medium">'XIVb'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_48140">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height>385-388</height>
+                        <width>291-296</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout columns="3" writtenLines="60"/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="textualis"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity="0"/>
+                  </decoNote>
+                  <decoNote type="rubrication"/>
+                  <decoNote type="initial"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+            <msDesc status="fragmentary">
+              <msIdentifier>
+                <msName>Historical document of witness H58</msName>
+              </msIdentifier>
+              <msPart>
                 <msIdentifier corresp="#document_48130">
                   <country corresp="#DE">Germany</country>
                   <settlement>Nürnberg</settlement>
@@ -423,6 +367,65 @@
                   <msItem xml:id="part_48143">
                     <locusGrp>
                       <locus from="1r" to="1v">1r-1v</locus>
+                    </locusGrp>
+                    <textLang mainLang="Brabants" corresp="#scripta_46312">Dialect of Brabant.</textLang>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://www.handschriftencensus.de/9024"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1316-01-01" notAfter="1360-12-31" cert="medium">'XIVb'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_48140">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height>385-388</height>
+                        <width>291-296</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout columns="3" writtenLines="60"/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="textualis"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity="0"/>
+                  </decoNote>
+                  <decoNote type="rubrication"/>
+                  <decoNote type="initial"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+            <msDesc status="fragmentary">
+              <msIdentifier>
+                <msName>Historical document of witness H58</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_48131">
+                  <country corresp="#DE">Germany</country>
+                  <settlement>Stuttgart</settlement>
+                  <repository corresp="#respository_48430">Württembergische Landesbibliothek</repository>
+                  <idno>Cod.misc. 4o 30d, XIV</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_48144">
+                    <locusGrp>
+                      <locus from="1r" to="2v">1r-2v</locus>
                     </locusGrp>
                     <textLang mainLang="Brabants" corresp="#scripta_46312">Dialect of Brabant.</textLang>
                   </msItem>
@@ -531,14 +534,14 @@
                 <msName>Historical document of witness H58</msName>
               </msIdentifier>
               <msPart>
-                <msIdentifier corresp="#document_48137">
+                <msIdentifier corresp="#document_48136">
                   <country corresp="#DE">Germany</country>
-                  <settlement>Tübingen</settlement>
-                  <repository corresp="#respository_43836">Wilhelmsstift. Bibliothek</repository>
-                  <idno>ME IV 5</idno>
+                  <settlement>Kassel</settlement>
+                  <repository corresp="#respository_48422">Gesamthochschul-Bibliothek Kassel, Landesbibliothek und Murhardsche Bibliothek.</repository>
+                  <idno>4o Ms. poet. et roman. 29</idno>
                 </msIdentifier>
                 <msContents>
-                  <msItem xml:id="part_48148">
+                  <msItem xml:id="part_48147">
                     <locusGrp>
                       <locus from="1r" to="1v">1r-1v</locus>
                     </locusGrp>
@@ -636,6 +639,45 @@
           </category>
           <category xml:id="genre" corresp="https://www.wikidata.org/wiki/Q483394">
             <catDesc>Genre</catDesc>
+            <category xml:id="genre_44128">
+              <catDesc>
+                <name type="main">roman</name>
+                <name type="alt">chivalric romance</name>
+                <name type="alt">chivalric novel</name>
+                <gloss>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)</gloss>
+              </catDesc>
+              <category xml:id="genre_44130">
+                <catDesc>
+                  <name type="main">roman lignager</name>
+                  <gloss>Family history</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46894">
+                <catDesc>
+                  <name type="main">Artusroman</name>
+                  <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
+                </catDesc>
+              </category>
+            </category>
+            <category xml:id="genre_46366">
+              <catDesc>
+                <name type="main">riddarasögur</name>
+                <name type="alt">chivalric sagas</name>
+                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
+              </catDesc>
+              <category xml:id="genre_46367">
+                <catDesc>
+                  <name type="main">riddarasögur indigenous</name>
+                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46370">
+                <catDesc>
+                  <name type="main">riddarasögur translated</name>
+                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
+                </catDesc>
+              </category>
+            </category>
             <category xml:id="genre_48800">
               <catDesc>
                 <name type="main">Arthurian romance</name>
@@ -683,45 +725,6 @@
                 <name type="main">mise en prose</name>
                 <gloss>mise en prose de chansons de geste ou romans en vers</gloss>
               </catDesc>
-            </category>
-            <category xml:id="genre_44128">
-              <catDesc>
-                <name type="main">roman</name>
-                <name type="alt">chivalric romance</name>
-                <name type="alt">chivalric novel</name>
-                <gloss>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)</gloss>
-              </catDesc>
-              <category xml:id="genre_44130">
-                <catDesc>
-                  <name type="main">roman lignager</name>
-                  <gloss>Family history</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46894">
-                <catDesc>
-                  <name type="main">Artusroman</name>
-                  <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
-                </catDesc>
-              </category>
-            </category>
-            <category xml:id="genre_46366">
-              <catDesc>
-                <name type="main">riddarasögur</name>
-                <name type="alt">chivalric sagas</name>
-                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
-              </catDesc>
-              <category xml:id="genre_46370">
-                <catDesc>
-                  <name type="main">riddarasögur translated</name>
-                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46367">
-                <catDesc>
-                  <name type="main">riddarasögur indigenous</name>
-                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
-                </catDesc>
-              </category>
             </category>
           </category>
         </taxonomy>

@@ -38,7 +38,7 @@
       <publicationStmt>
         <publisher>LostMa ERC Project</publisher>
         <pubPlace>Paris</pubPlace>
-        <date>2025-04-17</date>
+        <date>2025-05-05</date>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
         </availability>
@@ -109,65 +109,6 @@
                   </decoNote>
                   <decoNote type="rubrication"/>
                   <decoNote type="initial"/>
-                </decoDesc>
-              </physDesc>
-            </msDesc>
-          </witness>
-          <witness xml:id="witness_48255">
-            <abbr type="siglum">H90</abbr>
-            <msDesc status="fragmentary">
-              <msIdentifier>
-                <msName>Historical document of witness H90</msName>
-              </msIdentifier>
-              <msPart>
-                <msIdentifier corresp="#document_48254">
-                  <country corresp="#CZ">Czechia</country>
-                  <settlement>Prague</settlement>
-                  <repository corresp="#respository_48420">Památník národního písemnictví</repository>
-                  <idno>392/21</idno>
-                </msIdentifier>
-                <msContents>
-                  <msItem xml:id="part_48256">
-                    <locusGrp>
-                      <locus from="1r" to="2v">1r-2v</locus>
-                    </locusGrp>
-                    <textLang mainLang="Nederfrankisch" corresp="#scripta_46335">Volkstalige dialecten gesproken tussen Maas en Nederrijn (Nederfrankisch)</textLang>
-                  </msItem>
-                </msContents>
-                <additional>
-                  <surrogates/>
-                  <listBibl>
-                    <bibl/>
-                  </listBibl>
-                </additional>
-              </msPart>
-              <history>
-                <origin>
-                  <origDate notBefore="1266-01-01" notAfter="1310-12-31" cert="medium">'&lt; 1300'</origDate>
-                </origin>
-              </history>
-              <physDesc corresp="#physDesc_48257">
-                <objectDesc form="codex">
-                  <supportDesc material="perg">
-                    <extent>
-                      <dimensions unit="millimeters" type="written">
-                        <height>79-84</height>
-                        <width quantity="106">106</width>
-                      </dimensions>
-                    </extent>
-                  </supportDesc>
-                  <layoutDesc>
-                    <layout columns="1"/>
-                  </layoutDesc>
-                </objectDesc>
-                <handDesc>
-                  <handNote script="textualis"/>
-                </handDesc>
-                <decoDesc>
-                  <decoNote type="illustration">
-                    <measure quantity="0"/>
-                  </decoNote>
-                  <decoNote type="rubrication"/>
                 </decoDesc>
               </physDesc>
             </msDesc>
@@ -277,6 +218,65 @@
                   </supportDesc>
                   <layoutDesc>
                     <layout columns="2" writtenLines="46"/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="textualis"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity="0"/>
+                  </decoNote>
+                  <decoNote type="rubrication"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_48255">
+            <abbr type="siglum">H90</abbr>
+            <msDesc status="fragmentary">
+              <msIdentifier>
+                <msName>Historical document of witness H90</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_48254">
+                  <country corresp="#CZ">Czechia</country>
+                  <settlement>Prague</settlement>
+                  <repository corresp="#respository_48420">Památník národního písemnictví</repository>
+                  <idno>392/21</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_48256">
+                    <locusGrp>
+                      <locus from="1r" to="2v">1r-2v</locus>
+                    </locusGrp>
+                    <textLang mainLang="Nederfrankisch" corresp="#scripta_46335">Volkstalige dialecten gesproken tussen Maas en Nederrijn (Nederfrankisch)</textLang>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1266-01-01" notAfter="1310-12-31" cert="medium">'&lt; 1300'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_48257">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height>79-84</height>
+                        <width quantity="106">106</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout columns="1"/>
                   </layoutDesc>
                 </objectDesc>
                 <handDesc>
@@ -401,6 +401,45 @@
           </category>
           <category xml:id="genre" corresp="https://www.wikidata.org/wiki/Q483394">
             <catDesc>Genre</catDesc>
+            <category xml:id="genre_44128">
+              <catDesc>
+                <name type="main">roman</name>
+                <name type="alt">chivalric romance</name>
+                <name type="alt">chivalric novel</name>
+                <gloss>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)</gloss>
+              </catDesc>
+              <category xml:id="genre_44130">
+                <catDesc>
+                  <name type="main">roman lignager</name>
+                  <gloss>Family history</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46894">
+                <catDesc>
+                  <name type="main">Artusroman</name>
+                  <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
+                </catDesc>
+              </category>
+            </category>
+            <category xml:id="genre_46366">
+              <catDesc>
+                <name type="main">riddarasögur</name>
+                <name type="alt">chivalric sagas</name>
+                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
+              </catDesc>
+              <category xml:id="genre_46367">
+                <catDesc>
+                  <name type="main">riddarasögur indigenous</name>
+                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46370">
+                <catDesc>
+                  <name type="main">riddarasögur translated</name>
+                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
+                </catDesc>
+              </category>
+            </category>
             <category xml:id="genre_48800">
               <catDesc>
                 <name type="main">Arthurian romance</name>
@@ -448,45 +487,6 @@
                 <name type="main">mise en prose</name>
                 <gloss>mise en prose de chansons de geste ou romans en vers</gloss>
               </catDesc>
-            </category>
-            <category xml:id="genre_44128">
-              <catDesc>
-                <name type="main">roman</name>
-                <name type="alt">chivalric romance</name>
-                <name type="alt">chivalric novel</name>
-                <gloss>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)</gloss>
-              </catDesc>
-              <category xml:id="genre_44130">
-                <catDesc>
-                  <name type="main">roman lignager</name>
-                  <gloss>Family history</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46894">
-                <catDesc>
-                  <name type="main">Artusroman</name>
-                  <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
-                </catDesc>
-              </category>
-            </category>
-            <category xml:id="genre_46366">
-              <catDesc>
-                <name type="main">riddarasögur</name>
-                <name type="alt">chivalric sagas</name>
-                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
-              </catDesc>
-              <category xml:id="genre_46370">
-                <catDesc>
-                  <name type="main">riddarasögur translated</name>
-                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46367">
-                <catDesc>
-                  <name type="main">riddarasögur indigenous</name>
-                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
-                </catDesc>
-              </category>
             </category>
           </category>
         </taxonomy>
