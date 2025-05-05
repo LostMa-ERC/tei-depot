@@ -237,17 +237,16 @@
                 <msName>Historical document of witness H83</msName>
               </msIdentifier>
               <msPart>
-                <msIdentifier corresp="#document_48215">
-                  <country corresp="#DE">Germany</country>
-                  <settlement>Jena</settlement>
-                  <repository corresp="#respository_48437">Thüringer Universitäts- und Landesbibliothek Jena</repository>
-                  <idno>Prov. f.155</idno>
+                <msIdentifier corresp="#document_48216">
+                  <country corresp="#NL">Netherlands</country>
+                  <settlement>Groningen</settlement>
+                  <repository corresp="#respository_48421">Rijksuniversiteit Groningen. Universiteitsbibliotheek</repository>
+                  <idno>406</idno>
                 </msIdentifier>
                 <msContents>
-                  <msItem xml:id="part_48219">
+                  <msItem xml:id="part_48221">
                     <locusGrp>
-                      <locus from="1r" to="12v">1r-12v</locus>
-                      <locus from="1r" to="2v">1r-2v</locus>
+                      <locus from="1r" to="4v">1r-4v</locus>
                     </locusGrp>
                     <textLang mainLang="Vlaams" corresp="#scripta_46305">Dialect of Flanders.</textLang>
                   </msItem>
@@ -297,16 +296,17 @@
                 <msName>Historical document of witness H83</msName>
               </msIdentifier>
               <msPart>
-                <msIdentifier corresp="#document_48216">
-                  <country corresp="#NL">Netherlands</country>
-                  <settlement>Groningen</settlement>
-                  <repository corresp="#respository_48421">Rijksuniversiteit Groningen. Universiteitsbibliotheek</repository>
-                  <idno>406</idno>
+                <msIdentifier corresp="#document_48215">
+                  <country corresp="#DE">Germany</country>
+                  <settlement>Jena</settlement>
+                  <repository corresp="#respository_48437">Thüringer Universitäts- und Landesbibliothek Jena</repository>
+                  <idno>Prov. f.155</idno>
                 </msIdentifier>
                 <msContents>
-                  <msItem xml:id="part_48221">
+                  <msItem xml:id="part_48219">
                     <locusGrp>
-                      <locus from="1r" to="4v">1r-4v</locus>
+                      <locus from="1r" to="12v">1r-12v</locus>
+                      <locus from="1r" to="2v">1r-2v</locus>
                     </locusGrp>
                     <textLang mainLang="Vlaams" corresp="#scripta_46305">Dialect of Flanders.</textLang>
                   </msItem>

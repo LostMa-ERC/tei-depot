@@ -57,16 +57,17 @@
                 <msName>Historical document of witness H143</msName>
               </msIdentifier>
               <msPart>
-                <msIdentifier corresp="#document_48371">
-                  <country corresp="#BE">Belgium</country>
-                  <settlement>Wezemaal</settlement>
-                  <repository corresp="#respository_48445">De Pastorie</repository>
-                  <idno>z.s.</idno>
+                <msIdentifier corresp="#document_48365">
+                  <country corresp="#NL">Netherlands</country>
+                  <settlement>Rotterdam</settlement>
+                  <repository corresp="#respository_47361">Gemeentebibliotheek Rotterdam</repository>
+                  <idno>96 A 7</idno>
                 </msIdentifier>
                 <msContents>
-                  <msItem xml:id="part_48370">
+                  <msItem xml:id="part_48368">
                     <locusGrp>
                       <locus from="1r" to="1v">1r-1v</locus>
+                      <locus from="2r" to="2v">2r-2v</locus>
                     </locusGrp>
                     <textLang mainLang="Brabants" corresp="#scripta_46312">Dialect of Brabant.</textLang>
                   </msItem>
@@ -113,17 +114,16 @@
                 <msName>Historical document of witness H143</msName>
               </msIdentifier>
               <msPart>
-                <msIdentifier corresp="#document_48365">
-                  <country corresp="#NL">Netherlands</country>
-                  <settlement>Rotterdam</settlement>
-                  <repository corresp="#respository_47361">Gemeentebibliotheek Rotterdam</repository>
-                  <idno>96 A 7</idno>
+                <msIdentifier corresp="#document_48371">
+                  <country corresp="#BE">Belgium</country>
+                  <settlement>Wezemaal</settlement>
+                  <repository corresp="#respository_48445">De Pastorie</repository>
+                  <idno>z.s.</idno>
                 </msIdentifier>
                 <msContents>
-                  <msItem xml:id="part_48368">
+                  <msItem xml:id="part_48370">
                     <locusGrp>
                       <locus from="1r" to="1v">1r-1v</locus>
-                      <locus from="2r" to="2v">2r-2v</locus>
                     </locusGrp>
                     <textLang mainLang="Brabants" corresp="#scripta_46312">Dialect of Brabant.</textLang>
                   </msItem>
