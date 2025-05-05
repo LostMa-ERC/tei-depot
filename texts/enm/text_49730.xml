@@ -47,7 +47,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_49029">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>Cambridge</settlement>
                   <repository corresp="#respository_43816">University of Cambridge. Library</repository>
                   <idno>MS Ff.2.38</idno>
@@ -109,7 +109,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_48815">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>Lincoln</settlement>
                   <repository corresp="#respository_43758">Lincolnshire Archives Office</repository>
                   <idno>MS 91</idno>
@@ -172,7 +172,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_49008">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>London</settlement>
                   <repository corresp="#respository_43919">British library</repository>
                   <idno>MS Cotton Caligula A.ii</idno>

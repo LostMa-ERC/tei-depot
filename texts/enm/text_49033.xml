@@ -48,7 +48,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_49034">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>Oxford</settlement>
                   <repository corresp="#respository_43847">Bodleian Library</repository>
                   <idno>MS Ashmole 33</idno>

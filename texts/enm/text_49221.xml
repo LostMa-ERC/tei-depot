@@ -48,7 +48,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_49223">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>Oxford</settlement>
                   <repository corresp="#respository_43847">Bodleian Library</repository>
                   <idno>MS Laud Misc. 108</idno>
@@ -109,7 +109,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_49228">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>Cambridge</settlement>
                   <repository corresp="#respository_43816">University of Cambridge. Library</repository>
                   <idno>MS Add. 4407</idno>

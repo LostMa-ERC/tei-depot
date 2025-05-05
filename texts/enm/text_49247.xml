@@ -48,7 +48,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_49263">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>Oxford</settlement>
                   <repository corresp="#respository_43847">Bodleian Library</repository>
                   <idno>MS Laud Misc. 622</idno>
@@ -108,7 +108,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_48827">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>Edinburgh</settlement>
                   <repository corresp="#respository_43958">National Library of Scotland</repository>
                   <idno>MS Advocates 19.2.1</idno>
@@ -171,7 +171,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_48873">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>London</settlement>
                   <repository corresp="#respository_49788">Lincoln's Inn Library London</repository>
                   <idno>MS 150</idno>

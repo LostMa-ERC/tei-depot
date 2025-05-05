@@ -47,7 +47,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_49001">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>Manchester</settlement>
                   <repository corresp="#respository_49793">Chetham's Library</repository>
                   <idno>MS 8009</idno>

@@ -47,7 +47,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_49195">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>Cambridge</settlement>
                   <repository corresp="#respository_43820">Trinity College</repository>
                   <idno>MS O.5.2</idno>

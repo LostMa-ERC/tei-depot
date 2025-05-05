@@ -47,7 +47,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_49200">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>Cambridge</settlement>
                   <repository corresp="#respository_49786">Gonville and Caïus college</repository>
                   <idno>MS 107/176</idno>
@@ -109,7 +109,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_48827">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>Edinburgh</settlement>
                   <repository corresp="#respository_43958">National Library of Scotland</repository>
                   <idno>MS Advocates 19.2.1</idno>
@@ -172,7 +172,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_49204">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>Aberystwyth</settlement>
                   <repository corresp="#respository_43900">National library of Wales</repository>
                   <idno>MS 572</idno>
@@ -234,7 +234,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_49215">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>London</settlement>
                   <repository corresp="#respository_43919">British library</repository>
                   <idno>Add MS 14408</idno>
@@ -296,7 +296,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_49211">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>London</settlement>
                   <repository corresp="#respository_43919">British library</repository>
                   <idno>MS Sloane 1044</idno>

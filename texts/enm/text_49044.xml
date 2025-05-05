@@ -48,7 +48,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_49045">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>Cambridge</settlement>
                   <repository corresp="#respository_43816">University of Cambridge. Library</repository>
                   <idno>MS Gg.4.27</idno>
@@ -109,7 +109,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_48827">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>Edinburgh</settlement>
                   <repository corresp="#respository_43958">National Library of Scotland</repository>
                   <idno>MS Advocates 19.2.1</idno>
@@ -172,7 +172,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_48841">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>London</settlement>
                   <repository corresp="#respository_43919">British library</repository>
                   <idno>Egerton MS 2862</idno>
@@ -234,7 +234,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_49050">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>London</settlement>
                   <repository corresp="#respository_43919">British library</repository>
                   <idno>MS Cotton Vitellius D.iii</idno>

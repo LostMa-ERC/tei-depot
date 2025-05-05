@@ -115,18 +115,16 @@
                 <msName>Historical document of witness H81</msName>
               </msIdentifier>
               <msPart>
-                <msIdentifier corresp="#document_48200">
+                <msIdentifier corresp="#document_48199">
                   <country corresp="#DE">Germany</country>
-                  <settlement>Köln</settlement>
-                  <repository corresp="#respository_48424">Universitäts- und Stadtbibliothek Köln</repository>
-                  <idno>5 P 64</idno>
+                  <settlement>Berlin</settlement>
+                  <repository corresp="#respository_43889">Staatsbibliothek zu Berlin Preußischer Kulturbesitz</repository>
+                  <idno>Germ.fol. 757,22</idno>
                 </msIdentifier>
                 <msContents>
-                  <msItem xml:id="part_48205">
+                  <msItem xml:id="part_48204">
                     <locusGrp>
                       <locus from="1r" to="1v">1r-1v</locus>
-                      <locus from="2r" to="2v">2r-2v</locus>
-                      <locus from="3r" to="3v">3r-3v</locus>
                     </locusGrp>
                     <textLang mainLang="Vlaams" corresp="#scripta_46305">Dialect of Flanders.</textLang>
                   </msItem>
@@ -175,16 +173,18 @@
                 <msName>Historical document of witness H81</msName>
               </msIdentifier>
               <msPart>
-                <msIdentifier corresp="#document_48199">
+                <msIdentifier corresp="#document_48200">
                   <country corresp="#DE">Germany</country>
-                  <settlement>Berlin</settlement>
-                  <repository corresp="#respository_43889">Staatsbibliothek zu Berlin Preußischer Kulturbesitz</repository>
-                  <idno>Germ.fol. 757,22</idno>
+                  <settlement>Köln</settlement>
+                  <repository corresp="#respository_48424">Universitäts- und Stadtbibliothek Köln</repository>
+                  <idno>5 P 64</idno>
                 </msIdentifier>
                 <msContents>
-                  <msItem xml:id="part_48204">
+                  <msItem xml:id="part_48205">
                     <locusGrp>
                       <locus from="1r" to="1v">1r-1v</locus>
+                      <locus from="2r" to="2v">2r-2v</locus>
+                      <locus from="3r" to="3v">3r-3v</locus>
                     </locusGrp>
                     <textLang mainLang="Vlaams" corresp="#scripta_46305">Dialect of Flanders.</textLang>
                   </msItem>

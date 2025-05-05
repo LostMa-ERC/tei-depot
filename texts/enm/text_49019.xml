@@ -47,7 +47,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_49008">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>London</settlement>
                   <repository corresp="#respository_43919">British library</repository>
                   <idno>MS Cotton Caligula A.ii</idno>

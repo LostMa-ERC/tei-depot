@@ -266,42 +266,6 @@
                 <msName>Historical document of witness A</msName>
               </msIdentifier>
               <msPart>
-                <msIdentifier corresp="#document_49354">
-                  <country corresp="#FR">France</country>
-                  <settlement>Paris</settlement>
-                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
-                  <collection>Manuscrits</collection>
-                  <idno>Français 346</idno>
-                </msIdentifier>
-                <msContents>
-                  <msItem xml:id="part_49359">
-                    <locusGrp>
-                      <locus from="1r" to="425v">1r-425v</locus>
-                    </locusGrp>
-                    <textLang/>
-                  </msItem>
-                </msContents>
-                <additional>
-                  <surrogates/>
-                  <listBibl>
-                    <bibl>
-                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/75256"/>
-                    </bibl>
-                  </listBibl>
-                </additional>
-              </msPart>
-              <history>
-                <origin>
-                  <origDate notBefore="1470-01-01" notAfter="1475-12-31" cert="medium">1470-1475 d'après les filigranes (Roussineau, 1987, p.XXII)</origDate>
-                </origin>
-              </history>
-              <physDesc/>
-            </msDesc>
-            <msDesc status="complete">
-              <msIdentifier>
-                <msName>Historical document of witness A</msName>
-              </msIdentifier>
-              <msPart>
                 <msIdentifier corresp="#document_49353">
                   <country corresp="#FR">France</country>
                   <settlement>Paris</settlement>
@@ -349,6 +313,42 @@
                   <msItem xml:id="part_49360">
                     <locusGrp>
                       <locus from="1r" to="416v">1r-416v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/75256"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1470-01-01" notAfter="1475-12-31" cert="medium">1470-1475 d'après les filigranes (Roussineau, 1987, p.XXII)</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+            <msDesc status="complete">
+              <msIdentifier>
+                <msName>Historical document of witness A</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49354">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <collection>Manuscrits</collection>
+                  <idno>Français 346</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49359">
+                    <locusGrp>
+                      <locus from="1r" to="425v">1r-425v</locus>
                     </locusGrp>
                     <textLang/>
                   </msItem>

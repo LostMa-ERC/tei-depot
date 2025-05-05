@@ -48,7 +48,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_49150">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>London</settlement>
                   <repository corresp="#respository_43919">British library</repository>
                   <idno>Lansdowne MS 851</idno>
@@ -111,7 +111,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_49154">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>London</settlement>
                   <repository corresp="#respository_43919">British library</repository>
                   <idno>Harley MS 7334</idno>
@@ -174,7 +174,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_49076">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>Oxford</settlement>
                   <repository corresp="#respository_43943">Corpus Christi College Oxford</repository>
                   <idno>MS 198</idno>
@@ -298,7 +298,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_49142">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>London</settlement>
                   <repository corresp="#respository_43919">British library</repository>
                   <idno>Royal MS 18.C.II</idno>
@@ -361,7 +361,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_49162">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>London</settlement>
                   <repository corresp="#respository_43919">British library</repository>
                   <idno>Egerton MS 2863</idno>
@@ -486,7 +486,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_49166">
-                  <country corresp="#None">England</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>Lichfield</settlement>
                   <repository corresp="#respository_49795">Lichfield Cathedral. Library</repository>
                   <idno>MS Lich 029</idno>
@@ -607,7 +607,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_49112">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>Oxford</settlement>
                   <repository corresp="#respository_43847">Bodleian Library</repository>
                   <idno>MS Laud Misc. 600</idno>
@@ -669,7 +669,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_49177">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>Cambridge</settlement>
                   <repository corresp="#respository_43816">University of Cambridge. Library</repository>
                   <idno>MS Mm.2.5</idno>
@@ -731,7 +731,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_49172">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>Cambridge</settlement>
                   <repository corresp="#respository_43816">University of Cambridge. Library</repository>
                   <idno>MS LI.3.26</idno>
@@ -793,7 +793,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_49181">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>Cambridge</settlement>
                   <repository corresp="#respository_43815">Fitzwilliam Museum</repository>
                   <idno>MS McClean 181</idno>
@@ -854,7 +854,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_49121">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>Oxford</settlement>
                   <repository corresp="#respository_43847">Bodleian Library</repository>
                   <idno>MS. Hatton donat. 1</idno>
@@ -917,7 +917,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_49146">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>London</settlement>
                   <repository corresp="#respository_43919">British library</repository>
                   <idno>Royal MS 17.D.XV</idno>
@@ -1042,7 +1042,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_49116">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>Oxford</settlement>
                   <repository corresp="#respository_43847">Bodleian Library</repository>
                   <idno>MS Barlow 20</idno>
@@ -1104,7 +1104,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_49080">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>Oxford</settlement>
                   <repository corresp="#respository_49789">Christ Church</repository>
                   <idno>MS 152</idno>
@@ -1165,7 +1165,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_49072">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>Oxford</settlement>
                   <repository corresp="#respository_49790">Trinity College (University of Oxford)</repository>
                   <idno>MS 49</idno>
@@ -1225,7 +1225,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_49133">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>London</settlement>
                   <repository corresp="#respository_43919">British library</repository>
                   <idno>MS Sloane 1686</idno>
@@ -1288,7 +1288,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_49158">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>London</settlement>
                   <repository corresp="#respository_43919">British library</repository>
                   <idno>Harley MS 1758</idno>
@@ -1350,7 +1350,7 @@
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_49108">
-                  <country corresp="#None">United Kingdom</country>
+                  <country corresp="#UK">United Kingdom</country>
                   <settlement>Oxford</settlement>
                   <repository corresp="#respository_43847">Bodleian Library</repository>
                   <idno>MS Rawlinson poet. 149</idno>
