@@ -1167,63 +1167,6 @@
                 <msName>Historical document of witness H112</msName>
               </msIdentifier>
               <msPart>
-                <msIdentifier corresp="#document_47689">
-                  <country corresp="#FR">France</country>
-                  <settlement>Paris</settlement>
-                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
-                  <idno>Néerlandais 126</idno>
-                </msIdentifier>
-                <msContents>
-                  <msItem xml:id="part_47694">
-                    <locusGrp>
-                      <locus from="1r" to="1v">1r-1v</locus>
-                    </locusGrp>
-                    <textLang mainLang="Brabants" corresp="#scripta_46312">Dialect of Brabant.</textLang>
-                  </msItem>
-                </msContents>
-                <additional>
-                  <surrogates/>
-                  <listBibl>
-                    <bibl/>
-                  </listBibl>
-                </additional>
-              </msPart>
-              <history>
-                <origin>
-                  <origDate notBefore="1366-01-01" notAfter="1410-12-31" cert="medium">'&gt; 1350'</origDate>
-                </origin>
-              </history>
-              <physDesc corresp="#physDesc_47695">
-                <objectDesc form="codex">
-                  <supportDesc material="perg">
-                    <extent>
-                      <dimensions unit="millimeters" type="written">
-                        <height quantity="260">260</height>
-                        <width quantity="180">180</width>
-                      </dimensions>
-                    </extent>
-                  </supportDesc>
-                  <layoutDesc>
-                    <layout columns="2" writtenLines="50"/>
-                  </layoutDesc>
-                </objectDesc>
-                <handDesc>
-                  <handNote script="textualis"/>
-                </handDesc>
-                <decoDesc>
-                  <decoNote type="illustration">
-                    <measure quantity="0"/>
-                  </decoNote>
-                  <decoNote type="initial"/>
-                  <decoNote type="rubrication"/>
-                </decoDesc>
-              </physDesc>
-            </msDesc>
-            <msDesc status="fragmentary">
-              <msIdentifier>
-                <msName>Historical document of witness H112</msName>
-              </msIdentifier>
-              <msPart>
                 <msIdentifier corresp="#document_47691">
                   <country corresp="#BE">Belgium</country>
                   <settlement>Ghent</settlement>
@@ -1295,6 +1238,63 @@
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_47698">
+                    <locusGrp>
+                      <locus from="1r" to="1v">1r-1v</locus>
+                    </locusGrp>
+                    <textLang mainLang="Brabants" corresp="#scripta_46312">Dialect of Brabant.</textLang>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1366-01-01" notAfter="1410-12-31" cert="medium">'&gt; 1350'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_47695">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height quantity="260">260</height>
+                        <width quantity="180">180</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout columns="2" writtenLines="50"/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="textualis"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity="0"/>
+                  </decoNote>
+                  <decoNote type="initial"/>
+                  <decoNote type="rubrication"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+            <msDesc status="fragmentary">
+              <msIdentifier>
+                <msName>Historical document of witness H112</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_47689">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Néerlandais 126</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_47694">
                     <locusGrp>
                       <locus from="1r" to="1v">1r-1v</locus>
                     </locusGrp>

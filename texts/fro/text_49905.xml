@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-          <title>Metadata encoding of "Aspremont"</title>
+          <title>Metadata encoding of "Galeran de Bretagne"</title>
         </title>
         <funder>European Research Council</funder>
         <principal>Jean-Baptiste Camps</principal>
@@ -32,126 +32,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl xml:id="text_596">
+        <bibl xml:id="text_49905">
           <title type="full">
-            <title type="main">Aspremont</title>
+            <title type="main">Galeran de Bretagne</title>
           </title>
         </bibl>
-        <listWit>
-          <witness xml:id="witness_49973">
-            <abbr type="siglum">Alençon</abbr>
-            <ref target="http://jonas.irht.cnrs.fr/manuscrit/946"/>
-            <msDesc status="fragmentary">
-              <msIdentifier>
-                <msName>Historical document of witness Alençon</msName>
-              </msIdentifier>
-              <msPart>
-                <msIdentifier corresp="#document_45270">
-                  <country corresp="#FR">France</country>
-                  <settlement>Alençon</settlement>
-                  <repository corresp="#respository_43730">Médiathèque de la communauté urbaine d'Alençon</repository>
-                  <idno>MS 637</idno>
-                </msIdentifier>
-                <msContents>
-                  <msItem xml:id="part_49974">
-                    <locusGrp>
-                      <locus from="?" to="">?</locus>
-                    </locusGrp>
-                    <textLang/>
-                  </msItem>
-                </msContents>
-                <additional>
-                  <surrogates/>
-                  <listBibl>
-                    <bibl>
-                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/946"/>
-                    </bibl>
-                  </listBibl>
-                </additional>
-              </msPart>
-              <history>
-                <origin>
-                  <origDate notBefore="1301-01-01" notAfter="1320-12-31" cert="medium">Début du XIVe siècle</origDate>
-                </origin>
-              </history>
-              <physDesc/>
-            </msDesc>
-            <msDesc status="fragmentary">
-              <msIdentifier>
-                <msName>Historical document of witness Alençon</msName>
-              </msIdentifier>
-              <msPart>
-                <msIdentifier corresp="#document_45281">
-                  <country corresp="#FR">France</country>
-                  <settlement>Alençon</settlement>
-                  <repository corresp="#respository_43730">Médiathèque de la communauté urbaine d'Alençon</repository>
-                  <idno>MS 646</idno>
-                  <altIdentifier>
-                    <idno>T. q. 1</idno>
-                  </altIdentifier>
-                </msIdentifier>
-                <msContents>
-                  <msItem xml:id="part_49975">
-                    <locusGrp>
-                      <locus from="?" to="">?</locus>
-                    </locusGrp>
-                    <textLang/>
-                  </msItem>
-                </msContents>
-                <additional>
-                  <surrogates/>
-                  <listBibl>
-                    <bibl>
-                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/946"/>
-                    </bibl>
-                  </listBibl>
-                </additional>
-              </msPart>
-              <history>
-                <origin>
-                  <origDate notBefore="1301-01-01" notAfter="1320-12-31" cert="medium">Début du XIVe siècle</origDate>
-                </origin>
-              </history>
-              <physDesc/>
-            </msDesc>
-            <msDesc status="fragmentary">
-              <msIdentifier>
-                <msName>Historical document of witness Alençon</msName>
-              </msIdentifier>
-              <msPart>
-                <msIdentifier corresp="#document_45292">
-                  <country corresp="#FR">France</country>
-                  <settlement>Alençon</settlement>
-                  <repository corresp="#respository_43730">Médiathèque de la communauté urbaine d'Alençon</repository>
-                  <idno>MS 647</idno>
-                </msIdentifier>
-                <msContents>
-                  <msItem xml:id="part_49976">
-                    <locusGrp>
-                      <locus from="?" to="">?</locus>
-                    </locusGrp>
-                    <textLang/>
-                  </msItem>
-                </msContents>
-                <additional>
-                  <surrogates/>
-                  <listBibl>
-                    <bibl>
-                      <ref target="https://initiale.irht.cnrs.fr/codex/196"/>
-                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/946"/>
-                    </bibl>
-                  </listBibl>
-                </additional>
-              </msPart>
-              <history>
-                <origin>
-                  <origDate notBefore="1301-01-01" notAfter="1320-12-31" cert="medium">Début du XIVe siècle</origDate>
-                </origin>
-              </history>
-              <physDesc/>
-            </msDesc>
-          </witness>
-        </listWit>
+        <listWit/>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -294,7 +180,7 @@
     </encodingDesc>
     <profileDesc>
       <creation>
-        <date notBefore="1188-01-01" notAfter="1188-01-01" cert="unknown">XII, c. 1188</date>
+        <date notBefore="1181-01-01" notAfter="1220-12-31" cert="unknown">1erq. 13es. (DÉAF); début 13e s. (Jonas); Fin du XIIe ou début du XIIIe siècle (Arlima)</date>
       </creation>
       <langUsage>
         <language ident="fro" corresp="https://iso639-3.sil.org/code/fro" xml:id="lang_9470">Old French</language>
@@ -302,9 +188,9 @@
       <textClass>
         <catRef scheme="#form" target="#verseForm"/>
         <catRef scheme="#traditionStatus" target="#traditionSurviving"/>
-        <catRef scheme="#genre" target="#genre_44167"/>
+        <catRef scheme="#genre" target="#genre_44128"/>
         <keywords>
-          <term>chanson de geste</term>
+          <term>roman</term>
         </keywords>
       </textClass>
     </profileDesc>

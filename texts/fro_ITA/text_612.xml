@@ -180,14 +180,18 @@
     </encodingDesc>
     <profileDesc>
       <creation>
-        <date notBefore="1300-01-01" notAfter="1400-12-31" cert="unknown">XIV</date>
+        <date notBefore="1326-01-01" notAfter="1340-12-31" cert="unknown">XIV; 2e quart du 14e s. (Jonas); "1341 (ms. de Berlin); 1441 (ms. de Turin); fin XIVe-début XVe (fragment de Bologne et roman d'Andrea da Barberino)" (Arlima); ca. 1330 (DÉAF)</date>
       </creation>
       <langUsage>
         <language ident="fro_ITA" corresp="" xml:id="lang_9473">Franco-italian</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#form" target="#unknownForm"/>
+        <catRef scheme="#form" target="#verseForm"/>
         <catRef scheme="#traditionStatus" target="#traditionSurviving"/>
+        <catRef scheme="#genre" target="#genre_44167"/>
+        <keywords>
+          <term>chanson de geste</term>
+        </keywords>
       </textClass>
     </profileDesc>
   </teiHeader>

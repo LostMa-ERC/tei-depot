@@ -154,15 +154,15 @@
                 <msName>Historical document of witness C</msName>
               </msIdentifier>
               <msPart>
-                <msIdentifier corresp="#document_49328">
+                <msIdentifier corresp="#document_49326">
                   <country corresp="#FR">France</country>
                   <settlement>Paris</settlement>
                   <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
                   <collection>Arsenal</collection>
-                  <idno>Ms-3491-3492</idno>
+                  <idno>Ms-3487-3488</idno>
                 </msIdentifier>
                 <msContents>
-                  <msItem xml:id="part_49346">
+                  <msItem xml:id="part_49344">
                     <locusGrp>
                       <locus from="?" to="">?</locus>
                     </locusGrp>
@@ -262,6 +262,42 @@
                 <msName>Historical document of witness C</msName>
               </msIdentifier>
               <msPart>
+                <msIdentifier corresp="#document_49328">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <collection>Arsenal</collection>
+                  <idno>Ms-3491-3492</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49346">
+                    <locusGrp>
+                      <locus from="?" to="">?</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://jonas.irht.cnrs.fr/manuscrit/75257"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1459-01-01" notAfter="1460-12-31" cert="medium">1459-1460 (Roussineau, 1987, p.XXVIII)</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+            <msDesc status="complete">
+              <msIdentifier>
+                <msName>Historical document of witness C</msName>
+              </msIdentifier>
+              <msPart>
                 <msIdentifier corresp="#document_49327">
                   <country corresp="#FR">France</country>
                   <settlement>Paris</settlement>
@@ -329,22 +365,25 @@
               </history>
               <physDesc/>
             </msDesc>
+          </witness>
+          <witness xml:id="witness_49357">
+            <abbr type="siglum">A</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/oeuvre/2161"/>
             <msDesc status="complete">
               <msIdentifier>
-                <msName>Historical document of witness C</msName>
+                <msName>Historical document of witness A</msName>
               </msIdentifier>
               <msPart>
-                <msIdentifier corresp="#document_49326">
+                <msIdentifier corresp="#document_49355">
                   <country corresp="#FR">France</country>
                   <settlement>Paris</settlement>
                   <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
-                  <collection>Arsenal</collection>
-                  <idno>Ms-3487-3488</idno>
+                  <idno>Français 347</idno>
                 </msIdentifier>
                 <msContents>
-                  <msItem xml:id="part_49344">
+                  <msItem xml:id="part_49360">
                     <locusGrp>
-                      <locus from="?" to="">?</locus>
+                      <locus from="1r" to="416v">1r-416v</locus>
                     </locusGrp>
                     <textLang/>
                   </msItem>
@@ -353,22 +392,18 @@
                   <surrogates/>
                   <listBibl>
                     <bibl>
-                      <ref target="https://jonas.irht.cnrs.fr/manuscrit/75257"/>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/75256"/>
                     </bibl>
                   </listBibl>
                 </additional>
               </msPart>
               <history>
                 <origin>
-                  <origDate notBefore="1459-01-01" notAfter="1460-12-31" cert="medium">1459-1460 (Roussineau, 1987, p.XXVIII)</origDate>
+                  <origDate notBefore="1470-01-01" notAfter="1475-12-31" cert="medium">1470-1475 d'après les filigranes (Roussineau, 1987, p.XXII)</origDate>
                 </origin>
               </history>
               <physDesc/>
             </msDesc>
-          </witness>
-          <witness xml:id="witness_49357">
-            <abbr type="siglum">A</abbr>
-            <ref target="http://jonas.irht.cnrs.fr/oeuvre/2161"/>
             <msDesc status="complete">
               <msIdentifier>
                 <msName>Historical document of witness A</msName>
@@ -454,41 +489,6 @@
                   <msItem xml:id="part_49358">
                     <locusGrp>
                       <locus from="1r" to="440v">1r-440v</locus>
-                    </locusGrp>
-                    <textLang/>
-                  </msItem>
-                </msContents>
-                <additional>
-                  <surrogates/>
-                  <listBibl>
-                    <bibl>
-                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/75256"/>
-                    </bibl>
-                  </listBibl>
-                </additional>
-              </msPart>
-              <history>
-                <origin>
-                  <origDate notBefore="1470-01-01" notAfter="1475-12-31" cert="medium">1470-1475 d'après les filigranes (Roussineau, 1987, p.XXII)</origDate>
-                </origin>
-              </history>
-              <physDesc/>
-            </msDesc>
-            <msDesc status="complete">
-              <msIdentifier>
-                <msName>Historical document of witness A</msName>
-              </msIdentifier>
-              <msPart>
-                <msIdentifier corresp="#document_49355">
-                  <country corresp="#FR">France</country>
-                  <settlement>Paris</settlement>
-                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
-                  <idno>Français 347</idno>
-                </msIdentifier>
-                <msContents>
-                  <msItem xml:id="part_49360">
-                    <locusGrp>
-                      <locus from="1r" to="416v">1r-416v</locus>
                     </locusGrp>
                     <textLang/>
                   </msItem>

@@ -482,64 +482,6 @@
                 <msName>Historical document of witness H82</msName>
               </msIdentifier>
               <msPart>
-                <msIdentifier corresp="#document_48209">
-                  <country corresp="#BE">Belgium</country>
-                  <settlement>Brussels</settlement>
-                  <repository corresp="#respository_43904">Bibliothèque royale de Belgique</repository>
-                  <idno>Ms. II 572</idno>
-                </msIdentifier>
-                <msContents>
-                  <msItem xml:id="part_48214">
-                    <locusGrp>
-                      <locus from="1r" to="26v">1r-26v</locus>
-                    </locusGrp>
-                    <textLang mainLang="Vlaams" corresp="#scripta_46305">Dialect of Flanders.</textLang>
-                  </msItem>
-                </msContents>
-                <additional>
-                  <surrogates/>
-                  <listBibl>
-                    <bibl>
-                      <ref target="https://www.handschriftencensus.de/24630"/>
-                    </bibl>
-                  </listBibl>
-                </additional>
-              </msPart>
-              <history>
-                <origin>
-                  <origDate notBefore="1366-01-01" notAfter="1410-12-31" cert="medium">'XIVd'</origDate>
-                </origin>
-              </history>
-              <physDesc corresp="#physDesc_48212">
-                <objectDesc form="codex">
-                  <supportDesc material="perg">
-                    <extent>
-                      <dimensions unit="millimeters" type="written">
-                        <height quantity="270">270</height>
-                        <width>170-180</width>
-                      </dimensions>
-                    </extent>
-                  </supportDesc>
-                  <layoutDesc>
-                    <layout columns="2" writtenLines="50"/>
-                  </layoutDesc>
-                </objectDesc>
-                <handDesc>
-                  <handNote script="textualis"/>
-                </handDesc>
-                <decoDesc>
-                  <decoNote type="illustration">
-                    <measure quantity="0"/>
-                  </decoNote>
-                  <decoNote type="rubrication"/>
-                </decoDesc>
-              </physDesc>
-            </msDesc>
-            <msDesc status="fragmentary">
-              <msIdentifier>
-                <msName>Historical document of witness H82</msName>
-              </msIdentifier>
-              <msPart>
                 <msIdentifier corresp="#document_48207">
                   <country corresp="#NL">Netherlands</country>
                   <settlement>Leiden</settlement>
@@ -608,6 +550,64 @@
                   <msItem xml:id="part_48211">
                     <locusGrp>
                       <locus from="1r" to="2v">1r-2v</locus>
+                    </locusGrp>
+                    <textLang mainLang="Vlaams" corresp="#scripta_46305">Dialect of Flanders.</textLang>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://www.handschriftencensus.de/24630"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1366-01-01" notAfter="1410-12-31" cert="medium">'XIVd'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_48212">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height quantity="270">270</height>
+                        <width>170-180</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout columns="2" writtenLines="50"/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="textualis"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity="0"/>
+                  </decoNote>
+                  <decoNote type="rubrication"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+            <msDesc status="fragmentary">
+              <msIdentifier>
+                <msName>Historical document of witness H82</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_48209">
+                  <country corresp="#BE">Belgium</country>
+                  <settlement>Brussels</settlement>
+                  <repository corresp="#respository_43904">Bibliothèque royale de Belgique</repository>
+                  <idno>Ms. II 572</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_48214">
+                    <locusGrp>
+                      <locus from="1r" to="26v">1r-26v</locus>
                     </locusGrp>
                     <textLang mainLang="Vlaams" corresp="#scripta_46305">Dialect of Flanders.</textLang>
                   </msItem>
@@ -723,17 +723,19 @@
                 <msName>Historical document of witness H86</msName>
               </msIdentifier>
               <msPart>
-                <msIdentifier corresp="#document_48231">
-                  <country corresp="#DE">Germany</country>
-                  <settlement>Köln</settlement>
-                  <repository corresp="#respository_48426">Historisches Archiv der Stadt Köln</repository>
-                  <idno>W. 4o 322*</idno>
+                <msIdentifier corresp="#document_48232">
+                  <country/>
+                  <settlement/>
+                  <repository/>
+                  <collection>mevr. B. Buchholz</collection>
+                  <idno/>
                 </msIdentifier>
                 <msContents>
-                  <msItem xml:id="part_48234">
+                  <msItem xml:id="part_48236">
                     <locusGrp>
-                      <locus from="1r" to="1v">1r-1v</locus>
-                      <locus from="2r" to="2v">2r-2v</locus>
+                      <locus from="1r" to="2v">1r-2v</locus>
+                      <locus from="3r" to="4v">3r-4v</locus>
+                      <locus from="5r" to="6v">5r-6v</locus>
                     </locusGrp>
                     <textLang mainLang="Limburgs" corresp="#scripta_47240">Dialect from the Middle Dutch region Limburg.</textLang>
                   </msItem>
@@ -781,19 +783,17 @@
                 <msName>Historical document of witness H86</msName>
               </msIdentifier>
               <msPart>
-                <msIdentifier corresp="#document_48232">
-                  <country/>
-                  <settlement/>
-                  <repository/>
-                  <collection>mevr. B. Buchholz</collection>
-                  <idno/>
+                <msIdentifier corresp="#document_48231">
+                  <country corresp="#DE">Germany</country>
+                  <settlement>Köln</settlement>
+                  <repository corresp="#respository_48426">Historisches Archiv der Stadt Köln</repository>
+                  <idno>W. 4o 322*</idno>
                 </msIdentifier>
                 <msContents>
-                  <msItem xml:id="part_48236">
+                  <msItem xml:id="part_48234">
                     <locusGrp>
-                      <locus from="1r" to="2v">1r-2v</locus>
-                      <locus from="3r" to="4v">3r-4v</locus>
-                      <locus from="5r" to="6v">5r-6v</locus>
+                      <locus from="1r" to="1v">1r-1v</locus>
+                      <locus from="2r" to="2v">2r-2v</locus>
                     </locusGrp>
                     <textLang mainLang="Limburgs" corresp="#scripta_47240">Dialect from the Middle Dutch region Limburg.</textLang>
                   </msItem>

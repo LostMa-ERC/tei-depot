@@ -427,65 +427,6 @@
                 <msName>Historical document of witness H66</msName>
               </msIdentifier>
               <msPart>
-                <msIdentifier corresp="#document_48658">
-                  <country corresp="#AT">Austria</country>
-                  <settlement>Heiligenkreuz</settlement>
-                  <repository corresp="#respository_49782">Stiftsbibliothek</repository>
-                  <idno>F 69</idno>
-                </msIdentifier>
-                <msContents>
-                  <msItem xml:id="part_48659">
-                    <locusGrp>
-                      <locus from="1r" to="1v">1r-1v</locus>
-                      <locus from="2r" to="2v">2r-2v</locus>
-                    </locusGrp>
-                    <textLang mainLang="Vlaams" corresp="#scripta_46305">Dialect of Flanders.</textLang>
-                  </msItem>
-                </msContents>
-                <additional>
-                  <surrogates/>
-                  <listBibl>
-                    <bibl>
-                      <ref target="https://www.handschriftencensus.de/15893"/>
-                    </bibl>
-                  </listBibl>
-                </additional>
-              </msPart>
-              <history>
-                <origin>
-                  <origDate notBefore="1316-01-01" notAfter="1385-12-31" cert="medium">'XIVm'</origDate>
-                </origin>
-              </history>
-              <physDesc corresp="#physDesc_47589">
-                <objectDesc form="codex">
-                  <supportDesc material="perg">
-                    <extent>
-                      <dimensions unit="millimeters" type="written">
-                        <height>200-203</height>
-                        <width>155-159</width>
-                      </dimensions>
-                    </extent>
-                  </supportDesc>
-                  <layoutDesc>
-                    <layout columns="2" writtenLines="40"/>
-                  </layoutDesc>
-                </objectDesc>
-                <handDesc>
-                  <handNote script="textualis"/>
-                </handDesc>
-                <decoDesc>
-                  <decoNote type="illustration">
-                    <measure quantity="0"/>
-                  </decoNote>
-                  <decoNote type="rubrication"/>
-                </decoDesc>
-              </physDesc>
-            </msDesc>
-            <msDesc status="fragmentary">
-              <msIdentifier>
-                <msName>Historical document of witness H66</msName>
-              </msIdentifier>
-              <msPart>
                 <msIdentifier corresp="#document_47586">
                   <country corresp="#DE">Germany</country>
                   <settlement>Düsseldorf</settlement>
@@ -567,6 +508,65 @@
                   <surrogates/>
                   <listBibl>
                     <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1316-01-01" notAfter="1385-12-31" cert="medium">'XIVm'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_47589">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height>200-203</height>
+                        <width>155-159</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout columns="2" writtenLines="40"/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="textualis"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity="0"/>
+                  </decoNote>
+                  <decoNote type="rubrication"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+            <msDesc status="fragmentary">
+              <msIdentifier>
+                <msName>Historical document of witness H66</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_48658">
+                  <country corresp="#AT">Austria</country>
+                  <settlement>Heiligenkreuz</settlement>
+                  <repository corresp="#respository_49782">Stiftsbibliothek</repository>
+                  <idno>F 69</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_48659">
+                    <locusGrp>
+                      <locus from="1r" to="1v">1r-1v</locus>
+                      <locus from="2r" to="2v">2r-2v</locus>
+                    </locusGrp>
+                    <textLang mainLang="Vlaams" corresp="#scripta_46305">Dialect of Flanders.</textLang>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://www.handschriftencensus.de/15893"/>
+                    </bibl>
                   </listBibl>
                 </additional>
               </msPart>

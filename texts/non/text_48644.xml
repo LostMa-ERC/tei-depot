@@ -128,7 +128,7 @@
                   <country corresp="#DK">Denmark</country>
                   <settlement>Copenhagen</settlement>
                   <repository corresp="#respository_46319">Den Arnamagnæanske Samling</repository>
-                  <idno>AM 598 II beta</idno>
+                  <idno>AM 598 II beta 4to</idno>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_50064">
@@ -152,7 +152,7 @@
                   <country corresp="#DK">Denmark</country>
                   <settlement>Copenhagen</settlement>
                   <repository corresp="#respository_46319">Den Arnamagnæanske Samling</repository>
-                  <idno>AM 598 II beta</idno>
+                  <idno>AM 598 II beta 4to</idno>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_50063">
@@ -191,7 +191,7 @@
                   <country corresp="#DK">Denmark</country>
                   <settlement>Copenhagen</settlement>
                   <repository corresp="#respository_46319">Den Arnamagnæanske Samling</repository>
-                  <idno>AM 598 4to II alpha</idno>
+                  <idno>AM 598 II alpha 4to</idno>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_50059">
@@ -215,7 +215,7 @@
                   <country corresp="#DK">Denmark</country>
                   <settlement>Copenhagen</settlement>
                   <repository corresp="#respository_46319">Den Arnamagnæanske Samling</repository>
-                  <idno>AM 598 4to II alpha</idno>
+                  <idno>AM 598 II alpha 4to</idno>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_50058">

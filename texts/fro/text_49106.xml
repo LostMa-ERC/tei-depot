@@ -47,54 +47,6 @@
                 <msName>Historical document of witness Rochefoucauld</msName>
               </msIdentifier>
               <msPart>
-                <msIdentifier corresp="#document_46165">
-                  <country/>
-                  <settlement/>
-                  <repository/>
-                  <idno/>
-                  <altIdentifier>
-                    <idno>Cheltenham Phillipps 3630</idno>
-                  </altIdentifier>
-                  <altIdentifier>
-                    <idno>Cheltenham Phillipps 1045</idno>
-                  </altIdentifier>
-                  <altIdentifier>
-                    <idno>Cheltenham Phillipps 1047</idno>
-                  </altIdentifier>
-                  <altIdentifier>
-                    <idno>Bibliotheca Philosophica Hermetica 1</idno>
-                  </altIdentifier>
-                </msIdentifier>
-                <msContents>
-                  <msItem xml:id="part_49997">
-                    <locusGrp>
-                      <locus from="36v" to="233">36v-233</locus>
-                    </locusGrp>
-                    <textLang/>
-                  </msItem>
-                </msContents>
-                <additional>
-                  <surrogates/>
-                  <listBibl>
-                    <bibl>
-                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/74587"/>
-                    </bibl>
-                  </listBibl>
-                </additional>
-              </msPart>
-              <history>
-                <origin>
-                  <origDate notBefore="1301-01-01" notAfter="1320-12-31" cert="medium">premières décennies du 14e s.</origDate>
-                </origin>
-              </history>
-              <physDesc/>
-            </msDesc>
-            <msDesc status="complete">
-              <note>check</note>
-              <msIdentifier>
-                <msName>Historical document of witness Rochefoucauld</msName>
-              </msIdentifier>
-              <msPart>
                 <msIdentifier corresp="#document_45351">
                   <country corresp="#UK">United Kingdom</country>
                   <settlement>Oxford</settlement>
@@ -187,6 +139,54 @@
                   <msItem xml:id="part_49998">
                     <locusGrp>
                       <locus from="1" to="104v">1-104v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/74587"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1301-01-01" notAfter="1320-12-31" cert="medium">premières décennies du 14e s.</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+            <msDesc status="complete">
+              <note>check</note>
+              <msIdentifier>
+                <msName>Historical document of witness Rochefoucauld</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_46165">
+                  <country/>
+                  <settlement/>
+                  <repository/>
+                  <idno/>
+                  <altIdentifier>
+                    <idno>Cheltenham Phillipps 3630</idno>
+                  </altIdentifier>
+                  <altIdentifier>
+                    <idno>Cheltenham Phillipps 1045</idno>
+                  </altIdentifier>
+                  <altIdentifier>
+                    <idno>Cheltenham Phillipps 1047</idno>
+                  </altIdentifier>
+                  <altIdentifier>
+                    <idno>Bibliotheca Philosophica Hermetica 1</idno>
+                  </altIdentifier>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49997">
+                    <locusGrp>
+                      <locus from="36v" to="233">36v-233</locus>
                     </locusGrp>
                     <textLang/>
                   </msItem>
