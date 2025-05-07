@@ -26,7 +26,7 @@
       <publicationStmt>
         <publisher>LostMa ERC Project</publisher>
         <pubPlace>Paris</pubPlace>
-        <date>2025-05-05</date>
+        <date>2025-05-07</date>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
         </availability>
@@ -37,7 +37,86 @@
             <title type="main">Valvens þáttr</title>
           </title>
         </bibl>
-        <listWit/>
+        <listWit>
+          <witness xml:id="witness_50139">
+            <abbr type="siglum">P6</abbr>
+            <msDesc status="complete">
+              <note>No info (=&gt; complete?)</note>
+              <msIdentifier>
+                <msName>Historical document of witness P6</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_46334">
+                  <country corresp="#SW">Sweden</country>
+                  <settlement>Stockholm</settlement>
+                  <repository corresp="#respository_43838">Kungliga Biblioteket</repository>
+                  <idno>Perg. 4to nr 6</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_50067">
+                    <locusGrp>
+                      <locus from="?" to="">?</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://manuscripta.se/ms/101271"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1401-01-01" notAfter="1425-12-31" cert="unknown">c1400-1425</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_50138">
+            <abbr type="siglum">A573</abbr>
+            <msDesc status="fragmentary">
+              <note>fragment</note>
+              <msIdentifier>
+                <msName>Historical document of witness A573</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_47849">
+                  <country corresp="#DK">Denmark</country>
+                  <settlement>Copenhagen</settlement>
+                  <repository corresp="#respository_46319">Den Arnamagnæanske Samling</repository>
+                  <idno>AM 573 4to</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_50065">
+                    <locusGrp>
+                      <locus from="63r" to="63v">63r-63v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://handrit.is/manuscript/view/da/AM04-0573"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1331-01-01" notAfter="1375-12-31" cert="unknown">c1350-1375</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+        </listWit>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -87,45 +166,6 @@
           </category>
           <category xml:id="genre" corresp="https://www.wikidata.org/wiki/Q483394">
             <catDesc>Genre</catDesc>
-            <category xml:id="genre_44128">
-              <catDesc>
-                <name type="main">roman</name>
-                <name type="alt">chivalric romance</name>
-                <name type="alt">chivalric novel</name>
-                <gloss>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)</gloss>
-              </catDesc>
-              <category xml:id="genre_44130">
-                <catDesc>
-                  <name type="main">roman lignager</name>
-                  <gloss>Family history</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46894">
-                <catDesc>
-                  <name type="main">Artusroman</name>
-                  <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
-                </catDesc>
-              </category>
-            </category>
-            <category xml:id="genre_46366">
-              <catDesc>
-                <name type="main">riddarasögur</name>
-                <name type="alt">chivalric sagas</name>
-                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
-              </catDesc>
-              <category xml:id="genre_46367">
-                <catDesc>
-                  <name type="main">riddarasögur indigenous</name>
-                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46370">
-                <catDesc>
-                  <name type="main">riddarasögur translated</name>
-                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
-                </catDesc>
-              </category>
-            </category>
             <category xml:id="genre_48800">
               <catDesc>
                 <name type="main">Arthurian romance</name>
@@ -173,6 +213,45 @@
                 <name type="main">mise en prose</name>
                 <gloss>mise en prose de chansons de geste ou romans en vers</gloss>
               </catDesc>
+            </category>
+            <category xml:id="genre_46366">
+              <catDesc>
+                <name type="main">riddarasögur</name>
+                <name type="alt">chivalric sagas</name>
+                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
+              </catDesc>
+              <category xml:id="genre_46367">
+                <catDesc>
+                  <name type="main">riddarasögur indigenous</name>
+                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46370">
+                <catDesc>
+                  <name type="main">riddarasögur translated</name>
+                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
+                </catDesc>
+              </category>
+            </category>
+            <category xml:id="genre_44128">
+              <catDesc>
+                <name type="main">roman</name>
+                <name type="alt">chivalric romance</name>
+                <name type="alt">chivalric novel</name>
+                <gloss>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)</gloss>
+              </catDesc>
+              <category xml:id="genre_44130">
+                <catDesc>
+                  <name type="main">roman lignager</name>
+                  <gloss>Family history</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46894">
+                <catDesc>
+                  <name type="main">Artusroman</name>
+                  <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
+                </catDesc>
+              </category>
             </category>
           </category>
         </taxonomy>

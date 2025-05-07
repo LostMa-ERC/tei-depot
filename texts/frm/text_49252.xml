@@ -26,7 +26,7 @@
       <publicationStmt>
         <publisher>LostMa ERC Project</publisher>
         <pubPlace>Paris</pubPlace>
-        <date>2025-05-05</date>
+        <date>2025-05-07</date>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
         </availability>
@@ -38,6 +38,114 @@
           </title>
         </bibl>
         <listWit>
+          <witness xml:id="witness_49870">
+            <abbr type="siglum">D</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/73980"/>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/73980"/>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/73980"/>
+            <ref target="https://arlima.net/no/8915"/>
+            <ref target="https://arlima.net/no/8904"/>
+            <ref target="https://arlima.net/no/8904"/>
+            <msDesc status="complete">
+              <msIdentifier>
+                <msName>Historical document of witness D</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49406">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository corresp="#respository_43919">British library</repository>
+                  <idno>Royal MS 15 E V</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49871">
+                    <locusGrp>
+                      <locus from="1" to="440">1-440</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1445-01-01" notAfter="1500-12-31" cert="medium">2e moitié 15e s. (vol. 1, vers 1445-1447)</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+            <msDesc status="complete">
+              <msIdentifier>
+                <msName>Historical document of witness D</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49405">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository corresp="#respository_43919">British library</repository>
+                  <idno>Royal MS 19 E II</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49873">
+                    <locusGrp>
+                      <locus from="1" to="304">1-304</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1445-01-01" notAfter="1500-12-31" cert="medium">2e moitié 15e s. (vol. 1, vers 1445-1447)</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+            <msDesc status="complete">
+              <msIdentifier>
+                <msName>Historical document of witness D</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49404">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository corresp="#respository_43919">British library</repository>
+                  <idno>Royal MS 19 E III</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49872">
+                    <locusGrp>
+                      <locus from="1" to="378">1-378</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1445-01-01" notAfter="1500-12-31" cert="medium">2e moitié 15e s. (vol. 1, vers 1445-1447)</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
           <witness xml:id="witness_49341">
             <abbr type="siglum">C</abbr>
             <ref target="http://jonas.irht.cnrs.fr/oeuvre/2161"/>
@@ -46,15 +154,15 @@
                 <msName>Historical document of witness C</msName>
               </msIdentifier>
               <msPart>
-                <msIdentifier corresp="#document_49329">
+                <msIdentifier corresp="#document_49328">
                   <country corresp="#FR">France</country>
                   <settlement>Paris</settlement>
                   <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
                   <collection>Arsenal</collection>
-                  <idno>Ms-3493-3494</idno>
+                  <idno>Ms-3491-3492</idno>
                 </msIdentifier>
                 <msContents>
-                  <msItem xml:id="part_49347">
+                  <msItem xml:id="part_49346">
                     <locusGrp>
                       <locus from="?" to="">?</locus>
                     </locusGrp>
@@ -91,42 +199,6 @@
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_49343">
-                    <locusGrp>
-                      <locus from="?" to="">?</locus>
-                    </locusGrp>
-                    <textLang/>
-                  </msItem>
-                </msContents>
-                <additional>
-                  <surrogates/>
-                  <listBibl>
-                    <bibl>
-                      <ref target="https://jonas.irht.cnrs.fr/manuscrit/75257"/>
-                    </bibl>
-                  </listBibl>
-                </additional>
-              </msPart>
-              <history>
-                <origin>
-                  <origDate notBefore="1459-01-01" notAfter="1460-12-31" cert="medium">1459-1460 (Roussineau, 1987, p.XXVIII)</origDate>
-                </origin>
-              </history>
-              <physDesc/>
-            </msDesc>
-            <msDesc status="complete">
-              <msIdentifier>
-                <msName>Historical document of witness C</msName>
-              </msIdentifier>
-              <msPart>
-                <msIdentifier corresp="#document_49326">
-                  <country corresp="#FR">France</country>
-                  <settlement>Paris</settlement>
-                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
-                  <collection>Arsenal</collection>
-                  <idno>Ms-3487-3488</idno>
-                </msIdentifier>
-                <msContents>
-                  <msItem xml:id="part_49344">
                     <locusGrp>
                       <locus from="?" to="">?</locus>
                     </locusGrp>
@@ -226,15 +298,51 @@
                 <msName>Historical document of witness C</msName>
               </msIdentifier>
               <msPart>
-                <msIdentifier corresp="#document_49328">
+                <msIdentifier corresp="#document_49329">
                   <country corresp="#FR">France</country>
                   <settlement>Paris</settlement>
                   <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
                   <collection>Arsenal</collection>
-                  <idno>Ms-3491-3492</idno>
+                  <idno>Ms-3493-3494</idno>
                 </msIdentifier>
                 <msContents>
-                  <msItem xml:id="part_49346">
+                  <msItem xml:id="part_49347">
+                    <locusGrp>
+                      <locus from="?" to="">?</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://jonas.irht.cnrs.fr/manuscrit/75257"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1459-01-01" notAfter="1460-12-31" cert="medium">1459-1460 (Roussineau, 1987, p.XXVIII)</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+            <msDesc status="complete">
+              <msIdentifier>
+                <msName>Historical document of witness C</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49326">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <collection>Arsenal</collection>
+                  <idno>Ms-3487-3488</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49344">
                     <locusGrp>
                       <locus from="?" to="">?</locus>
                     </locusGrp>
@@ -270,7 +378,6 @@
                   <country corresp="#FR">France</country>
                   <settlement>Paris</settlement>
                   <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
-                  <collection>Manuscrits</collection>
                   <idno>Français 346</idno>
                 </msIdentifier>
                 <msContents>
@@ -302,11 +409,45 @@
                 <msName>Historical document of witness A</msName>
               </msIdentifier>
               <msPart>
+                <msIdentifier corresp="#document_49356">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 348</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49361">
+                    <locusGrp>
+                      <locus from="1r" to="341v">1r-341v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/75256"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1470-01-01" notAfter="1475-12-31" cert="medium">1470-1475 d'après les filigranes (Roussineau, 1987, p.XXII)</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+            <msDesc status="complete">
+              <msIdentifier>
+                <msName>Historical document of witness A</msName>
+              </msIdentifier>
+              <msPart>
                 <msIdentifier corresp="#document_49353">
                   <country corresp="#FR">France</country>
                   <settlement>Paris</settlement>
                   <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
-                  <collection>Manuscrits</collection>
                   <idno>Français 345</idno>
                 </msIdentifier>
                 <msContents>
@@ -342,49 +483,12 @@
                   <country corresp="#FR">France</country>
                   <settlement>Paris</settlement>
                   <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
-                  <collection>Manuscrits</collection>
                   <idno>Français 347</idno>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_49360">
                     <locusGrp>
                       <locus from="1r" to="416v">1r-416v</locus>
-                    </locusGrp>
-                    <textLang/>
-                  </msItem>
-                </msContents>
-                <additional>
-                  <surrogates/>
-                  <listBibl>
-                    <bibl>
-                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/75256"/>
-                    </bibl>
-                  </listBibl>
-                </additional>
-              </msPart>
-              <history>
-                <origin>
-                  <origDate notBefore="1470-01-01" notAfter="1475-12-31" cert="medium">1470-1475 d'après les filigranes (Roussineau, 1987, p.XXII)</origDate>
-                </origin>
-              </history>
-              <physDesc/>
-            </msDesc>
-            <msDesc status="complete">
-              <msIdentifier>
-                <msName>Historical document of witness A</msName>
-              </msIdentifier>
-              <msPart>
-                <msIdentifier corresp="#document_49356">
-                  <country corresp="#FR">France</country>
-                  <settlement>Paris</settlement>
-                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
-                  <collection>Manuscrits</collection>
-                  <idno>Français 348</idno>
-                </msIdentifier>
-                <msContents>
-                  <msItem xml:id="part_49361">
-                    <locusGrp>
-                      <locus from="1r" to="341v">1r-341v</locus>
                     </locusGrp>
                     <textLang/>
                   </msItem>
@@ -418,7 +522,6 @@
                   <country corresp="#FR">France</country>
                   <settlement>Paris</settlement>
                   <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
-                  <collection>Manuscrits</collection>
                   <idno>Français 108</idno>
                   <altIdentifier>
                     <idno>Anc. 6778-6781</idno>
@@ -453,11 +556,48 @@
                 <msName>Historical document of witness B</msName>
               </msIdentifier>
               <msPart>
+                <msIdentifier corresp="#document_49330">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 106</idno>
+                  <altIdentifier>
+                    <idno>Anc. 6778-6781</idno>
+                  </altIdentifier>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49349">
+                    <locusGrp>
+                      <locus from="?" to="">?</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/75314"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1471-01-01" notAfter="1477-12-31" cert="medium">probablement 1471-1477 (Roussineau, 1987)</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+            <msDesc status="complete">
+              <msIdentifier>
+                <msName>Historical document of witness B</msName>
+              </msIdentifier>
+              <msPart>
                 <msIdentifier corresp="#document_49331">
                   <country corresp="#FR">France</country>
                   <settlement>Paris</settlement>
                   <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
-                  <collection>Manuscrits</collection>
                   <idno>Français 107</idno>
                   <altIdentifier>
                     <idno>Anc. 6778-6781</idno>
@@ -496,7 +636,6 @@
                   <country corresp="#FR">France</country>
                   <settlement>Paris</settlement>
                   <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
-                  <collection>Manuscrits</collection>
                   <idno>Français 109</idno>
                   <altIdentifier>
                     <idno>Anc. 6778-6781</idno>
@@ -526,23 +665,59 @@
               </history>
               <physDesc/>
             </msDesc>
-            <msDesc status="complete">
+          </witness>
+          <witness xml:id="witness_49874">
+            <abbr type="siglum">P</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/80633"/>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/80633"/>
+            <msDesc status="fragmentary">
               <msIdentifier>
-                <msName>Historical document of witness B</msName>
+                <msName>Historical document of witness P</msName>
               </msIdentifier>
               <msPart>
-                <msIdentifier corresp="#document_49330">
-                  <country corresp="#FR">France</country>
-                  <settlement>Paris</settlement>
-                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
-                  <collection>Manuscrits</collection>
-                  <idno>Français 106</idno>
-                  <altIdentifier>
-                    <idno>Anc. 6778-6781</idno>
-                  </altIdentifier>
+                <msIdentifier corresp="#document_49407">
+                  <country corresp="#None">United States</country>
+                  <settlement>Philadelphia</settlement>
+                  <repository corresp="#respository_49408">Free library of Philadelphia</repository>
+                  <idno>Lewis E M 42:22</idno>
                 </msIdentifier>
                 <msContents>
-                  <msItem xml:id="part_49349">
+                  <msItem xml:id="part_49875">
+                    <locusGrp>
+                      <locus from="1r" to="1v">1r-1v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/80633"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1401-01-01" notAfter="1500-12-31" cert="medium">15e s.</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+            <msDesc status="fragmentary">
+              <msIdentifier>
+                <msName>Historical document of witness P</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49409">
+                  <country corresp="#DK">Denmark</country>
+                  <settlement>Copenhagen</settlement>
+                  <repository corresp="#respository_43960">Kongelige Bibliotek</repository>
+                  <idno>NKS 1884 2°</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49876">
                     <locusGrp>
                       <locus from="?" to="">?</locus>
                     </locusGrp>
@@ -553,14 +728,16 @@
                   <surrogates/>
                   <listBibl>
                     <bibl>
-                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/75314"/>
+                      <ref target="https://arca.irht.cnrs.fr/ark:/63955/md773t949h28"/>
+                      <ref target="https://jonas.irht.cnrs.fr/manuscrit/80633"/>
+                      <ref target="https://data.biblissima.fr/w/Item:Q271552"/>
                     </bibl>
                   </listBibl>
                 </additional>
               </msPart>
               <history>
                 <origin>
-                  <origDate notBefore="1471-01-01" notAfter="1477-12-31" cert="medium">probablement 1471-1477 (Roussineau, 1987)</origDate>
+                  <origDate notBefore="1401-01-01" notAfter="1500-12-31" cert="medium">15e s.</origDate>
                 </origin>
               </history>
               <physDesc/>
@@ -616,45 +793,6 @@
           </category>
           <category xml:id="genre" corresp="https://www.wikidata.org/wiki/Q483394">
             <catDesc>Genre</catDesc>
-            <category xml:id="genre_44128">
-              <catDesc>
-                <name type="main">roman</name>
-                <name type="alt">chivalric romance</name>
-                <name type="alt">chivalric novel</name>
-                <gloss>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)</gloss>
-              </catDesc>
-              <category xml:id="genre_44130">
-                <catDesc>
-                  <name type="main">roman lignager</name>
-                  <gloss>Family history</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46894">
-                <catDesc>
-                  <name type="main">Artusroman</name>
-                  <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
-                </catDesc>
-              </category>
-            </category>
-            <category xml:id="genre_46366">
-              <catDesc>
-                <name type="main">riddarasögur</name>
-                <name type="alt">chivalric sagas</name>
-                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
-              </catDesc>
-              <category xml:id="genre_46367">
-                <catDesc>
-                  <name type="main">riddarasögur indigenous</name>
-                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46370">
-                <catDesc>
-                  <name type="main">riddarasögur translated</name>
-                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
-                </catDesc>
-              </category>
-            </category>
             <category xml:id="genre_48800">
               <catDesc>
                 <name type="main">Arthurian romance</name>
@@ -702,6 +840,45 @@
                 <name type="main">mise en prose</name>
                 <gloss>mise en prose de chansons de geste ou romans en vers</gloss>
               </catDesc>
+            </category>
+            <category xml:id="genre_46366">
+              <catDesc>
+                <name type="main">riddarasögur</name>
+                <name type="alt">chivalric sagas</name>
+                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
+              </catDesc>
+              <category xml:id="genre_46367">
+                <catDesc>
+                  <name type="main">riddarasögur indigenous</name>
+                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46370">
+                <catDesc>
+                  <name type="main">riddarasögur translated</name>
+                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
+                </catDesc>
+              </category>
+            </category>
+            <category xml:id="genre_44128">
+              <catDesc>
+                <name type="main">roman</name>
+                <name type="alt">chivalric romance</name>
+                <name type="alt">chivalric novel</name>
+                <gloss>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)</gloss>
+              </catDesc>
+              <category xml:id="genre_44130">
+                <catDesc>
+                  <name type="main">roman lignager</name>
+                  <gloss>Family history</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46894">
+                <catDesc>
+                  <name type="main">Artusroman</name>
+                  <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
+                </catDesc>
+              </category>
             </category>
           </category>
         </taxonomy>

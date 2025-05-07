@@ -26,7 +26,7 @@
       <publicationStmt>
         <publisher>LostMa ERC Project</publisher>
         <pubPlace>Paris</pubPlace>
-        <date>2025-05-05</date>
+        <date>2025-05-07</date>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
         </availability>
@@ -37,7 +37,428 @@
             <title type="main">Karlamagnús saga</title>
           </title>
         </bibl>
-        <listWit/>
+        <listWit>
+          <witness xml:id="witness_50112">
+            <abbr type="siglum">A180c</abbr>
+            <msDesc status="defective">
+              <note>defective</note>
+              <msIdentifier>
+                <msName>Historical document of witness A180c</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_47805">
+                  <country corresp="#IS">Iceland</country>
+                  <settlement>Reykjavík</settlement>
+                  <repository corresp="#respository_46324">Stofnun Árna Magnússonar</repository>
+                  <idno>AM 180c fol.</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_50044">
+                    <locusGrp>
+                      <locus from="1ra" to="73vb">1ra-73vb</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://handrit.is/manuscript/view/da/AM02-0180-c"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1391-01-01" notAfter="1410-12-31" cert="unknown">1390-1410</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_50103">
+            <abbr type="siglum">A180a</abbr>
+            <msDesc status="defective">
+              <note>defective</note>
+              <msIdentifier>
+                <msName>Historical document of witness A180a</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_47803">
+                  <country corresp="#DK">Denmark</country>
+                  <settlement>Copenhagen</settlement>
+                  <repository corresp="#respository_46319">Den Arnamagnæanske Samling</repository>
+                  <idno>AM 180a fol.</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_50041">
+                    <locusGrp>
+                      <locus from="50r" to="60v">50r-60v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://handrit.is/manuscript/view/da/AM02-0180-a"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <msPart>
+                <msIdentifier corresp="#document_47803">
+                  <country corresp="#DK">Denmark</country>
+                  <settlement>Copenhagen</settlement>
+                  <repository corresp="#respository_46319">Den Arnamagnæanske Samling</repository>
+                  <idno>AM 180a fol.</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_50035">
+                    <locusGrp>
+                      <locus from="3r" to="13v">3r-13v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://handrit.is/manuscript/view/da/AM02-0180-a"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <msPart>
+                <msIdentifier corresp="#document_47803">
+                  <country corresp="#DK">Denmark</country>
+                  <settlement>Copenhagen</settlement>
+                  <repository corresp="#respository_46319">Den Arnamagnæanske Samling</repository>
+                  <idno>AM 180a fol.</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_50040">
+                    <locusGrp>
+                      <locus from="38r" to="49v">38r-49v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://handrit.is/manuscript/view/da/AM02-0180-a"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <msPart>
+                <msIdentifier corresp="#document_47803">
+                  <country corresp="#DK">Denmark</country>
+                  <settlement>Copenhagen</settlement>
+                  <repository corresp="#respository_46319">Den Arnamagnæanske Samling</repository>
+                  <idno>AM 180a fol.</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_50039">
+                    <locusGrp>
+                      <locus from="36r" to="37v">36r-37v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://handrit.is/manuscript/view/da/AM02-0180-a"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <msPart>
+                <msIdentifier corresp="#document_47803">
+                  <country corresp="#DK">Denmark</country>
+                  <settlement>Copenhagen</settlement>
+                  <repository corresp="#respository_46319">Den Arnamagnæanske Samling</repository>
+                  <idno>AM 180a fol.</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_50038">
+                    <locusGrp>
+                      <locus from="35r" to="35v">35r-35v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://handrit.is/manuscript/view/da/AM02-0180-a"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <msPart>
+                <msIdentifier corresp="#document_47803">
+                  <country corresp="#DK">Denmark</country>
+                  <settlement>Copenhagen</settlement>
+                  <repository corresp="#respository_46319">Den Arnamagnæanske Samling</repository>
+                  <idno>AM 180a fol.</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_50037">
+                    <locusGrp>
+                      <locus from="34r" to="34v">34r-34v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://handrit.is/manuscript/view/da/AM02-0180-a"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <msPart>
+                <msIdentifier corresp="#document_47803">
+                  <country corresp="#DK">Denmark</country>
+                  <settlement>Copenhagen</settlement>
+                  <repository corresp="#respository_46319">Den Arnamagnæanske Samling</repository>
+                  <idno>AM 180a fol.</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_50034">
+                    <locusGrp>
+                      <locus from="2r" to="2v">2r-2v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://handrit.is/manuscript/view/da/AM02-0180-a"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <msPart>
+                <msIdentifier corresp="#document_47803">
+                  <country corresp="#DK">Denmark</country>
+                  <settlement>Copenhagen</settlement>
+                  <repository corresp="#respository_46319">Den Arnamagnæanske Samling</repository>
+                  <idno>AM 180a fol.</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_50033">
+                    <locusGrp>
+                      <locus from="1r" to="1v">1r-1v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://handrit.is/manuscript/view/da/AM02-0180-a"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <msPart>
+                <msIdentifier corresp="#document_47803">
+                  <country corresp="#DK">Denmark</country>
+                  <settlement>Copenhagen</settlement>
+                  <repository corresp="#respository_46319">Den Arnamagnæanske Samling</repository>
+                  <idno>AM 180a fol.</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_50036">
+                    <locusGrp>
+                      <locus from="14r" to="33v">14r-33v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://handrit.is/manuscript/view/da/AM02-0180-a"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1451-01-01" notAfter="1500-12-31" cert="unknown">c1450-1500</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_50114">
+            <abbr type="siglum">N61</abbr>
+            <msDesc status="fragmentary">
+              <note>fragment</note>
+              <msIdentifier>
+                <msName>Historical document of witness N61</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_47882">
+                  <country corresp="#NO">Norway</country>
+                  <settlement>Oslo</settlement>
+                  <repository corresp="#respository_47811">Riksarkivet</repository>
+                  <idno>NRA 61</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_50046">
+                    <locusGrp>
+                      <locus from="?" to="">?</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1266-01-01" notAfter="1285-12-31" cert="unknown">c1250-1275</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_50115">
+            <abbr type="siglum">N62</abbr>
+            <msDesc status="fragmentary">
+              <note>fragment</note>
+              <msIdentifier>
+                <msName>Historical document of witness N62</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_47883">
+                  <country corresp="#NO">Norway</country>
+                  <settlement>Oslo</settlement>
+                  <repository corresp="#respository_47811">Riksarkivet</repository>
+                  <idno>NRA 62</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_50047">
+                    <locusGrp>
+                      <locus from="?" to="">?</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1321-01-01" notAfter="1340-12-31" cert="unknown">c1350</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_50116">
+            <abbr type="siglum">N63</abbr>
+            <msDesc status="fragmentary">
+              <note>fragment</note>
+              <msIdentifier>
+                <msName>Historical document of witness N63</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_47884">
+                  <country corresp="#NO">Norway</country>
+                  <settlement>Oslo</settlement>
+                  <repository corresp="#respository_47811">Riksarkivet</repository>
+                  <idno>NRA 63</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_50048">
+                    <locusGrp>
+                      <locus from="?" to="">?</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1321-01-01" notAfter="1340-12-31" cert="unknown">c1350-1400</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_50113">
+            <abbr type="siglum">Þ280</abbr>
+            <msDesc status="fragmentary">
+              <note>fragment</note>
+              <msIdentifier>
+                <msName>Historical document of witness Þ280</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_47893">
+                  <country corresp="#IS">Iceland</country>
+                  <settlement>Reykjavík</settlement>
+                  <repository corresp="#respository_46324">Stofnun Árna Magnússonar</repository>
+                  <idno>Þjms 280</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_50045">
+                    <locusGrp>
+                      <locus from="?" to="">?</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://handrit.is/manuscript/view/is/?jms-0280"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1376-01-01" notAfter="1400-12-31" cert="unknown">c1375-1400</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+        </listWit>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -87,45 +508,6 @@
           </category>
           <category xml:id="genre" corresp="https://www.wikidata.org/wiki/Q483394">
             <catDesc>Genre</catDesc>
-            <category xml:id="genre_44128">
-              <catDesc>
-                <name type="main">roman</name>
-                <name type="alt">chivalric romance</name>
-                <name type="alt">chivalric novel</name>
-                <gloss>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)</gloss>
-              </catDesc>
-              <category xml:id="genre_44130">
-                <catDesc>
-                  <name type="main">roman lignager</name>
-                  <gloss>Family history</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46894">
-                <catDesc>
-                  <name type="main">Artusroman</name>
-                  <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
-                </catDesc>
-              </category>
-            </category>
-            <category xml:id="genre_46366">
-              <catDesc>
-                <name type="main">riddarasögur</name>
-                <name type="alt">chivalric sagas</name>
-                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
-              </catDesc>
-              <category xml:id="genre_46367">
-                <catDesc>
-                  <name type="main">riddarasögur indigenous</name>
-                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46370">
-                <catDesc>
-                  <name type="main">riddarasögur translated</name>
-                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
-                </catDesc>
-              </category>
-            </category>
             <category xml:id="genre_48800">
               <catDesc>
                 <name type="main">Arthurian romance</name>
@@ -173,6 +555,45 @@
                 <name type="main">mise en prose</name>
                 <gloss>mise en prose de chansons de geste ou romans en vers</gloss>
               </catDesc>
+            </category>
+            <category xml:id="genre_46366">
+              <catDesc>
+                <name type="main">riddarasögur</name>
+                <name type="alt">chivalric sagas</name>
+                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
+              </catDesc>
+              <category xml:id="genre_46367">
+                <catDesc>
+                  <name type="main">riddarasögur indigenous</name>
+                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46370">
+                <catDesc>
+                  <name type="main">riddarasögur translated</name>
+                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
+                </catDesc>
+              </category>
+            </category>
+            <category xml:id="genre_44128">
+              <catDesc>
+                <name type="main">roman</name>
+                <name type="alt">chivalric romance</name>
+                <name type="alt">chivalric novel</name>
+                <gloss>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)</gloss>
+              </catDesc>
+              <category xml:id="genre_44130">
+                <catDesc>
+                  <name type="main">roman lignager</name>
+                  <gloss>Family history</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46894">
+                <catDesc>
+                  <name type="main">Artusroman</name>
+                  <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
+                </catDesc>
+              </category>
             </category>
           </category>
         </taxonomy>

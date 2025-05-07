@@ -38,7 +38,7 @@
       <publicationStmt>
         <publisher>LostMa ERC Project</publisher>
         <pubPlace>Paris</pubPlace>
-        <date>2025-05-05</date>
+        <date>2025-05-07</date>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
         </availability>
@@ -59,16 +59,17 @@
                 <msName>Historical document of witness H59</msName>
               </msIdentifier>
               <msPart>
-                <msIdentifier corresp="#document_45381">
-                  <country corresp="#NL">Netherlands</country>
-                  <settlement>The Hague</settlement>
-                  <repository corresp="#respository_43733">Koninklijke Bibliotheek</repository>
-                  <idno>131 D 01 (1)</idno>
+                <msIdentifier corresp="#document_48116">
+                  <country/>
+                  <settlement/>
+                  <repository/>
+                  <collection>Fragment-J.F. Willems</collection>
+                  <idno/>
                 </msIdentifier>
                 <msContents>
-                  <msItem xml:id="part_48118">
+                  <msItem xml:id="part_48120">
                     <locusGrp>
-                      <locus from="1r" to="5v">1r-5v</locus>
+                      <locus from="1r" to="1v">1r-1v</locus>
                     </locusGrp>
                     <textLang mainLang="Brabants" corresp="#scripta_46312">Dialect of Brabant.</textLang>
                   </msItem>
@@ -76,7 +77,9 @@
                 <additional>
                   <surrogates/>
                   <listBibl>
-                    <bibl/>
+                    <bibl>
+                      <ref target="https://www.handschriftencensus.de/20264"/>
+                    </bibl>
                   </listBibl>
                 </additional>
               </msPart>
@@ -115,17 +118,16 @@
                 <msName>Historical document of witness H59</msName>
               </msIdentifier>
               <msPart>
-                <msIdentifier corresp="#document_48116">
-                  <country/>
-                  <settlement/>
-                  <repository/>
-                  <collection>Fragment-J.F. Willems</collection>
-                  <idno>z.s.</idno>
+                <msIdentifier corresp="#document_45381">
+                  <country corresp="#NL">Netherlands</country>
+                  <settlement>The Hague</settlement>
+                  <repository corresp="#respository_43733">Koninklijke Bibliotheek</repository>
+                  <idno>131 D 01 (1)</idno>
                 </msIdentifier>
                 <msContents>
-                  <msItem xml:id="part_48120">
+                  <msItem xml:id="part_48118">
                     <locusGrp>
-                      <locus from="1r" to="1v">1r-1v</locus>
+                      <locus from="1r" to="5v">1r-5v</locus>
                     </locusGrp>
                     <textLang mainLang="Brabants" corresp="#scripta_46312">Dialect of Brabant.</textLang>
                   </msItem>
@@ -133,9 +135,7 @@
                 <additional>
                   <surrogates/>
                   <listBibl>
-                    <bibl>
-                      <ref target="https://www.handschriftencensus.de/20264"/>
-                    </bibl>
+                    <bibl/>
                   </listBibl>
                 </additional>
               </msPart>
@@ -282,45 +282,6 @@
           </category>
           <category xml:id="genre" corresp="https://www.wikidata.org/wiki/Q483394">
             <catDesc>Genre</catDesc>
-            <category xml:id="genre_44128">
-              <catDesc>
-                <name type="main">roman</name>
-                <name type="alt">chivalric romance</name>
-                <name type="alt">chivalric novel</name>
-                <gloss>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)</gloss>
-              </catDesc>
-              <category xml:id="genre_44130">
-                <catDesc>
-                  <name type="main">roman lignager</name>
-                  <gloss>Family history</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46894">
-                <catDesc>
-                  <name type="main">Artusroman</name>
-                  <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
-                </catDesc>
-              </category>
-            </category>
-            <category xml:id="genre_46366">
-              <catDesc>
-                <name type="main">riddarasögur</name>
-                <name type="alt">chivalric sagas</name>
-                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
-              </catDesc>
-              <category xml:id="genre_46367">
-                <catDesc>
-                  <name type="main">riddarasögur indigenous</name>
-                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46370">
-                <catDesc>
-                  <name type="main">riddarasögur translated</name>
-                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
-                </catDesc>
-              </category>
-            </category>
             <category xml:id="genre_48800">
               <catDesc>
                 <name type="main">Arthurian romance</name>
@@ -368,6 +329,45 @@
                 <name type="main">mise en prose</name>
                 <gloss>mise en prose de chansons de geste ou romans en vers</gloss>
               </catDesc>
+            </category>
+            <category xml:id="genre_46366">
+              <catDesc>
+                <name type="main">riddarasögur</name>
+                <name type="alt">chivalric sagas</name>
+                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
+              </catDesc>
+              <category xml:id="genre_46367">
+                <catDesc>
+                  <name type="main">riddarasögur indigenous</name>
+                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46370">
+                <catDesc>
+                  <name type="main">riddarasögur translated</name>
+                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
+                </catDesc>
+              </category>
+            </category>
+            <category xml:id="genre_44128">
+              <catDesc>
+                <name type="main">roman</name>
+                <name type="alt">chivalric romance</name>
+                <name type="alt">chivalric novel</name>
+                <gloss>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)</gloss>
+              </catDesc>
+              <category xml:id="genre_44130">
+                <catDesc>
+                  <name type="main">roman lignager</name>
+                  <gloss>Family history</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46894">
+                <catDesc>
+                  <name type="main">Artusroman</name>
+                  <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
+                </catDesc>
+              </category>
             </category>
           </category>
         </taxonomy>

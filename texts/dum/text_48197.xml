@@ -38,7 +38,7 @@
       <publicationStmt>
         <publisher>LostMa ERC Project</publisher>
         <pubPlace>Paris</pubPlace>
-        <date>2025-05-05</date>
+        <date>2025-05-07</date>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
         </availability>
@@ -119,7 +119,7 @@
                   <country corresp="#DE">Germany</country>
                   <settlement>Berlin</settlement>
                   <repository corresp="#respository_43889">Staatsbibliothek zu Berlin Preußischer Kulturbesitz</repository>
-                  <idno>Germ.fol. 757,22</idno>
+                  <idno>Ms. germ. fol. 757,22</idno>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_48204">
@@ -237,65 +237,6 @@
                 <msName>Historical document of witness H83</msName>
               </msIdentifier>
               <msPart>
-                <msIdentifier corresp="#document_48216">
-                  <country corresp="#NL">Netherlands</country>
-                  <settlement>Groningen</settlement>
-                  <repository corresp="#respository_48421">Rijksuniversiteit Groningen. Universiteitsbibliotheek</repository>
-                  <idno>406</idno>
-                </msIdentifier>
-                <msContents>
-                  <msItem xml:id="part_48221">
-                    <locusGrp>
-                      <locus from="1r" to="4v">1r-4v</locus>
-                    </locusGrp>
-                    <textLang mainLang="Vlaams" corresp="#scripta_46305">Dialect of Flanders.</textLang>
-                  </msItem>
-                </msContents>
-                <additional>
-                  <surrogates/>
-                  <listBibl>
-                    <bibl>
-                      <ref target="https://www.handschriftencensus.de/15397"/>
-                    </bibl>
-                  </listBibl>
-                </additional>
-              </msPart>
-              <history>
-                <origin>
-                  <origDate notBefore="1291-01-01" notAfter="1335-12-31" cert="medium">'&lt; 1325'</origDate>
-                </origin>
-              </history>
-              <physDesc corresp="#physDesc_48220">
-                <objectDesc form="codex">
-                  <supportDesc material="perg">
-                    <extent>
-                      <dimensions unit="millimeters" type="written">
-                        <height quantity="345">345</height>
-                        <width>230-235</width>
-                      </dimensions>
-                    </extent>
-                  </supportDesc>
-                  <layoutDesc>
-                    <layout columns="2" writtenLines="45"/>
-                  </layoutDesc>
-                </objectDesc>
-                <handDesc>
-                  <handNote script="textualis"/>
-                </handDesc>
-                <decoDesc>
-                  <decoNote type="illustration">
-                    <measure quantity="&gt;1"/>
-                  </decoNote>
-                  <decoNote type="rubrication"/>
-                  <decoNote type="initial"/>
-                </decoDesc>
-              </physDesc>
-            </msDesc>
-            <msDesc status="fragmentary">
-              <msIdentifier>
-                <msName>Historical document of witness H83</msName>
-              </msIdentifier>
-              <msPart>
                 <msIdentifier corresp="#document_48215">
                   <country corresp="#DE">Germany</country>
                   <settlement>Jena</settlement>
@@ -356,11 +297,70 @@
                 <msName>Historical document of witness H83</msName>
               </msIdentifier>
               <msPart>
+                <msIdentifier corresp="#document_48216">
+                  <country corresp="#NL">Netherlands</country>
+                  <settlement>Groningen</settlement>
+                  <repository corresp="#respository_48421">Rijksuniversiteit Groningen. Universiteitsbibliotheek</repository>
+                  <idno>406</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_48221">
+                    <locusGrp>
+                      <locus from="1r" to="4v">1r-4v</locus>
+                    </locusGrp>
+                    <textLang mainLang="Vlaams" corresp="#scripta_46305">Dialect of Flanders.</textLang>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://www.handschriftencensus.de/15397"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1291-01-01" notAfter="1335-12-31" cert="medium">'&lt; 1325'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_48220">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height quantity="345">345</height>
+                        <width>230-235</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout columns="2" writtenLines="45"/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="textualis"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity="&gt;1"/>
+                  </decoNote>
+                  <decoNote type="rubrication"/>
+                  <decoNote type="initial"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+            <msDesc status="fragmentary">
+              <msIdentifier>
+                <msName>Historical document of witness H83</msName>
+              </msIdentifier>
+              <msPart>
                 <msIdentifier corresp="#document_48217">
                   <country corresp="#DE">Germany</country>
                   <settlement>Köln</settlement>
                   <repository corresp="#respository_48438">Erzbischöfliche Diözesan- und Dombibliothek</repository>
-                  <idno>z.s.</idno>
+                  <idno/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_48222">
@@ -486,7 +486,7 @@
                   <country corresp="#BE">Belgium</country>
                   <settlement>Brussels</settlement>
                   <repository corresp="#respository_43904">Bibliothèque royale de Belgique</repository>
-                  <idno>II 572</idno>
+                  <idno>Ms. II 572</idno>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_48214">
@@ -664,7 +664,7 @@
                   <country corresp="#CZ">Czechia</country>
                   <settlement>Prague</settlement>
                   <repository corresp="#respository_48440">Univerzita Karlova. Katedra pomocných věd historických a archivního studia</repository>
-                  <idno>z.s.</idno>
+                  <idno/>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_48229">
@@ -723,19 +723,17 @@
                 <msName>Historical document of witness H86</msName>
               </msIdentifier>
               <msPart>
-                <msIdentifier corresp="#document_48232">
-                  <country/>
-                  <settlement/>
-                  <repository/>
-                  <collection>mevr. B. Buchholz</collection>
-                  <idno>z.s.</idno>
+                <msIdentifier corresp="#document_48231">
+                  <country corresp="#DE">Germany</country>
+                  <settlement>Köln</settlement>
+                  <repository corresp="#respository_48426">Historisches Archiv der Stadt Köln</repository>
+                  <idno>W. 4o 322*</idno>
                 </msIdentifier>
                 <msContents>
-                  <msItem xml:id="part_48236">
+                  <msItem xml:id="part_48234">
                     <locusGrp>
-                      <locus from="1r" to="2v">1r-2v</locus>
-                      <locus from="3r" to="4v">3r-4v</locus>
-                      <locus from="5r" to="6v">5r-6v</locus>
+                      <locus from="1r" to="1v">1r-1v</locus>
+                      <locus from="2r" to="2v">2r-2v</locus>
                     </locusGrp>
                     <textLang mainLang="Limburgs" corresp="#scripta_47240">Dialect from the Middle Dutch region Limburg.</textLang>
                   </msItem>
@@ -783,17 +781,19 @@
                 <msName>Historical document of witness H86</msName>
               </msIdentifier>
               <msPart>
-                <msIdentifier corresp="#document_48231">
-                  <country corresp="#DE">Germany</country>
-                  <settlement>Köln</settlement>
-                  <repository corresp="#respository_48426">Historisches Archiv der Stadt Köln</repository>
-                  <idno>W. 4o 322*</idno>
+                <msIdentifier corresp="#document_48232">
+                  <country/>
+                  <settlement/>
+                  <repository/>
+                  <collection>mevr. B. Buchholz</collection>
+                  <idno/>
                 </msIdentifier>
                 <msContents>
-                  <msItem xml:id="part_48234">
+                  <msItem xml:id="part_48236">
                     <locusGrp>
-                      <locus from="1r" to="1v">1r-1v</locus>
-                      <locus from="2r" to="2v">2r-2v</locus>
+                      <locus from="1r" to="2v">1r-2v</locus>
+                      <locus from="3r" to="4v">3r-4v</locus>
+                      <locus from="5r" to="6v">5r-6v</locus>
                     </locusGrp>
                     <textLang mainLang="Limburgs" corresp="#scripta_47240">Dialect from the Middle Dutch region Limburg.</textLang>
                   </msItem>
@@ -887,45 +887,6 @@
           </category>
           <category xml:id="genre" corresp="https://www.wikidata.org/wiki/Q483394">
             <catDesc>Genre</catDesc>
-            <category xml:id="genre_44128">
-              <catDesc>
-                <name type="main">roman</name>
-                <name type="alt">chivalric romance</name>
-                <name type="alt">chivalric novel</name>
-                <gloss>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)</gloss>
-              </catDesc>
-              <category xml:id="genre_44130">
-                <catDesc>
-                  <name type="main">roman lignager</name>
-                  <gloss>Family history</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46894">
-                <catDesc>
-                  <name type="main">Artusroman</name>
-                  <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
-                </catDesc>
-              </category>
-            </category>
-            <category xml:id="genre_46366">
-              <catDesc>
-                <name type="main">riddarasögur</name>
-                <name type="alt">chivalric sagas</name>
-                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
-              </catDesc>
-              <category xml:id="genre_46367">
-                <catDesc>
-                  <name type="main">riddarasögur indigenous</name>
-                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46370">
-                <catDesc>
-                  <name type="main">riddarasögur translated</name>
-                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
-                </catDesc>
-              </category>
-            </category>
             <category xml:id="genre_48800">
               <catDesc>
                 <name type="main">Arthurian romance</name>
@@ -973,6 +934,45 @@
                 <name type="main">mise en prose</name>
                 <gloss>mise en prose de chansons de geste ou romans en vers</gloss>
               </catDesc>
+            </category>
+            <category xml:id="genre_46366">
+              <catDesc>
+                <name type="main">riddarasögur</name>
+                <name type="alt">chivalric sagas</name>
+                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
+              </catDesc>
+              <category xml:id="genre_46367">
+                <catDesc>
+                  <name type="main">riddarasögur indigenous</name>
+                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46370">
+                <catDesc>
+                  <name type="main">riddarasögur translated</name>
+                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
+                </catDesc>
+              </category>
+            </category>
+            <category xml:id="genre_44128">
+              <catDesc>
+                <name type="main">roman</name>
+                <name type="alt">chivalric romance</name>
+                <name type="alt">chivalric novel</name>
+                <gloss>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)</gloss>
+              </catDesc>
+              <category xml:id="genre_44130">
+                <catDesc>
+                  <name type="main">roman lignager</name>
+                  <gloss>Family history</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46894">
+                <catDesc>
+                  <name type="main">Artusroman</name>
+                  <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
+                </catDesc>
+              </category>
             </category>
           </category>
         </taxonomy>

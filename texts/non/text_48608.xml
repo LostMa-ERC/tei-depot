@@ -26,7 +26,7 @@
       <publicationStmt>
         <publisher>LostMa ERC Project</publisher>
         <pubPlace>Paris</pubPlace>
-        <date>2025-05-05</date>
+        <date>2025-05-07</date>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
         </availability>
@@ -37,7 +37,359 @@
             <title type="main">Elís saga ok Rósamundu</title>
           </title>
         </bibl>
-        <listWit/>
+        <listWit>
+          <witness xml:id="witness_50084">
+            <abbr type="siglum">P7</abbr>
+            <msDesc status="complete">
+              <note>No info</note>
+              <msIdentifier>
+                <msName>Historical document of witness P7</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_47892">
+                  <country corresp="#SW">Sweden</country>
+                  <settlement>Stockholm</settlement>
+                  <repository corresp="#respository_43838">Kungliga Biblioteket</repository>
+                  <idno>Perg. fol. nr 7</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_50009">
+                    <locusGrp>
+                      <locus from="?" to="">?</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://www.manuscripta.se/ms/101254"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1451-01-01" notAfter="1500-12-31" cert="unknown">c1450-1475</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_50086">
+            <abbr type="siglum">D4-7</abbr>
+            <msDesc status="defective">
+              <note>No info</note>
+              <msIdentifier>
+                <msName>Historical document of witness D4-7</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_47875">
+                  <country corresp="#SW">Sweden</country>
+                  <settlement>Uppsala</settlement>
+                  <repository corresp="#respository_47809">Uppsala universitetsbibliotek</repository>
+                  <idno>DG 4-7 fol.</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_50020">
+                    <locusGrp>
+                      <locus from="?" to="">?</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://manuscripta.se/ms/101028"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1261-01-01" notAfter="1280-12-31" cert="unknown">c1270</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_50085">
+            <abbr type="siglum">P6</abbr>
+            <msDesc status="defective">
+              <note>defective</note>
+              <msIdentifier>
+                <msName>Historical document of witness P6</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_46334">
+                  <country corresp="#SW">Sweden</country>
+                  <settlement>Stockholm</settlement>
+                  <repository corresp="#respository_43838">Kungliga Biblioteket</repository>
+                  <idno>Perg. 4to nr 6</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_50067">
+                    <locusGrp>
+                      <locus from="?" to="">?</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://manuscripta.se/ms/101271"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1401-01-01" notAfter="1425-12-31" cert="unknown">c1400-1425</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_50077">
+            <abbr type="siglum">A533</abbr>
+            <msDesc status="defective">
+              <note>defective</note>
+              <msIdentifier>
+                <msName>Historical document of witness A533</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_47889">
+                  <country corresp="#DK">Denmark</country>
+                  <settlement>Copenhagen</settlement>
+                  <repository corresp="#respository_46319">Den Arnamagnæanske Samling</repository>
+                  <idno>AM 533 4to</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_50013">
+                    <locusGrp>
+                      <locus from="68r" to="102v">68r-102v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://handrit.is/manuscript/view/da/AM04-0533"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1451-01-01" notAfter="1500-12-31" cert="unknown">c1450-1500</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_50083">
+            <abbr type="siglum">A580</abbr>
+            <msDesc status="fragmentary">
+              <note>No info</note>
+              <msIdentifier>
+                <msName>Historical document of witness A580</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_47854">
+                  <country corresp="#DK">Denmark</country>
+                  <settlement>Copenhagen</settlement>
+                  <repository corresp="#respository_46319">Den Arnamagnæanske Samling</repository>
+                  <idno>AM 580 4to</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_50019">
+                    <locusGrp>
+                      <locus from="1r" to="1v">1r-1v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://handrit.is/manuscript/view/da/AM04-0580"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1301-01-01" notAfter="1325-12-31" cert="unknown">c1300-1325</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_50078">
+            <abbr type="siglum">A567_II</abbr>
+            <msDesc status="fragmentary">
+              <note>No info (extent =&gt; fragment)</note>
+              <msIdentifier>
+                <msName>Historical document of witness A567_II</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_47819">
+                  <country corresp="#DK">Denmark</country>
+                  <settlement>Copenhagen</settlement>
+                  <repository corresp="#respository_46319">Den Arnamagnæanske Samling</repository>
+                  <idno>AM 567 4to II</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_50014">
+                    <locusGrp>
+                      <locus from="4r" to="5v">4r-5v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://handrit.is/manuscript/view/da/AM04-0567-II"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1341-01-01" notAfter="1360-12-31" cert="unknown">1340-1360</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_50079">
+            <abbr type="siglum">A567_X</abbr>
+            <msDesc status="fragmentary">
+              <note>No info (extent =&gt; fragment)</note>
+              <msIdentifier>
+                <msName>Historical document of witness A567_X</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_47827">
+                  <country corresp="#DK">Denmark</country>
+                  <settlement>Copenhagen</settlement>
+                  <repository corresp="#respository_46319">Den Arnamagnæanske Samling</repository>
+                  <idno>AM 567 4to X</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_50015">
+                    <locusGrp>
+                      <locus from="?" to="">?</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://handrit.is/manuscript/view/da/AM04-0567-X"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1401-01-01" notAfter="1500-12-31" cert="unknown">c1400-1500</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_50082">
+            <abbr type="siglum">A579</abbr>
+            <msDesc status="fragmentary">
+              <note>defective</note>
+              <msIdentifier>
+                <msName>Historical document of witness A579</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_47853">
+                  <country corresp="#IS">Iceland</country>
+                  <settlement>Reykjavík</settlement>
+                  <repository corresp="#respository_46324">Stofnun Árna Magnússonar</repository>
+                  <idno>AM 579 4to</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_50018">
+                    <locusGrp>
+                      <locus from="1r" to="7r">1r-7r</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://handrit.is/manuscript/view/is/AM04-0579"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1451-01-01" notAfter="1475-12-31" cert="unknown">c1450-1475</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_50081">
+            <abbr type="siglum">A574</abbr>
+            <msDesc status="fragmentary">
+              <note>No info (extent =&gt; fragment)</note>
+              <msIdentifier>
+                <msName>Historical document of witness A574</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_47850">
+                  <country corresp="#IS">Iceland</country>
+                  <settlement>Reykjavík</settlement>
+                  <repository corresp="#respository_46324">Stofnun Árna Magnússonar</repository>
+                  <idno>AM 574 4to</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_50016">
+                    <locusGrp>
+                      <locus from="16r" to="17v">16r-17v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://handrit.is/manuscript/view/is/AM04-0574"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1451-01-01" notAfter="1500-12-31" cert="unknown">c1450-1500</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+        </listWit>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -87,45 +439,6 @@
           </category>
           <category xml:id="genre" corresp="https://www.wikidata.org/wiki/Q483394">
             <catDesc>Genre</catDesc>
-            <category xml:id="genre_44128">
-              <catDesc>
-                <name type="main">roman</name>
-                <name type="alt">chivalric romance</name>
-                <name type="alt">chivalric novel</name>
-                <gloss>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)</gloss>
-              </catDesc>
-              <category xml:id="genre_44130">
-                <catDesc>
-                  <name type="main">roman lignager</name>
-                  <gloss>Family history</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46894">
-                <catDesc>
-                  <name type="main">Artusroman</name>
-                  <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
-                </catDesc>
-              </category>
-            </category>
-            <category xml:id="genre_46366">
-              <catDesc>
-                <name type="main">riddarasögur</name>
-                <name type="alt">chivalric sagas</name>
-                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
-              </catDesc>
-              <category xml:id="genre_46367">
-                <catDesc>
-                  <name type="main">riddarasögur indigenous</name>
-                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46370">
-                <catDesc>
-                  <name type="main">riddarasögur translated</name>
-                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
-                </catDesc>
-              </category>
-            </category>
             <category xml:id="genre_48800">
               <catDesc>
                 <name type="main">Arthurian romance</name>
@@ -173,6 +486,45 @@
                 <name type="main">mise en prose</name>
                 <gloss>mise en prose de chansons de geste ou romans en vers</gloss>
               </catDesc>
+            </category>
+            <category xml:id="genre_46366">
+              <catDesc>
+                <name type="main">riddarasögur</name>
+                <name type="alt">chivalric sagas</name>
+                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
+              </catDesc>
+              <category xml:id="genre_46367">
+                <catDesc>
+                  <name type="main">riddarasögur indigenous</name>
+                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46370">
+                <catDesc>
+                  <name type="main">riddarasögur translated</name>
+                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
+                </catDesc>
+              </category>
+            </category>
+            <category xml:id="genre_44128">
+              <catDesc>
+                <name type="main">roman</name>
+                <name type="alt">chivalric romance</name>
+                <name type="alt">chivalric novel</name>
+                <gloss>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)</gloss>
+              </catDesc>
+              <category xml:id="genre_44130">
+                <catDesc>
+                  <name type="main">roman lignager</name>
+                  <gloss>Family history</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46894">
+                <catDesc>
+                  <name type="main">Artusroman</name>
+                  <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
+                </catDesc>
+              </category>
             </category>
           </category>
         </taxonomy>

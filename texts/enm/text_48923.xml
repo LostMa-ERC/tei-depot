@@ -26,7 +26,7 @@
       <publicationStmt>
         <publisher>LostMa ERC Project</publisher>
         <pubPlace>Paris</pubPlace>
-        <date>2025-05-05</date>
+        <date>2025-05-07</date>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
         </availability>
@@ -301,7 +301,7 @@
                   <country corresp="#UK">United Kingdom</country>
                   <settlement>Oxford</settlement>
                   <repository corresp="#respository_43847">Bodleian Library</repository>
-                  <idno>MS Douce Fragm. E.13</idno>
+                  <idno>MS. Douce Fragm. E.13</idno>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_48999">
@@ -326,6 +326,66 @@
               <physDesc corresp="#physDesc_49000">
                 <objectDesc form="codex">
                   <supportDesc material="unknown">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height>NA</height>
+                        <width>NA</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="unknown"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity=""/>
+                  </decoNote>
+                  <decoNote type="unknown"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_48925">
+            <abbr type="siglum">1993</abbr>
+            <ref target="https://www.middleenglishromance.org.uk/mer/11"/>
+            <msDesc status="fragmentary">
+              <msIdentifier>
+                <msName>Historical document of witness 1993</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_48924">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <repository corresp="#respository_43847">Bodleian Library</repository>
+                  <idno>MS. Eng. Poet. D. 208</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_48926">
+                    <locusGrp>
+                      <locus from="49r" to="50v">49r-50v</locus>
+                    </locusGrp>
+                    <textLang mainLang="East of England" corresp="#scripta_48845">Southern eastern region of England.</textLang>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1416-01-01" notAfter="1510-12-31" cert="medium">'Mid to late 15th century'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_48927">
+                <objectDesc form="codex">
+                  <supportDesc material="chart">
                     <extent>
                       <dimensions unit="millimeters" type="written">
                         <height>NA</height>
@@ -406,66 +466,6 @@
                     <measure quantity="0"/>
                   </decoNote>
                   <decoNote type="no decoration"/>
-                </decoDesc>
-              </physDesc>
-            </msDesc>
-          </witness>
-          <witness xml:id="witness_48925">
-            <abbr type="siglum">1993</abbr>
-            <ref target="https://www.middleenglishromance.org.uk/mer/11"/>
-            <msDesc status="fragmentary">
-              <msIdentifier>
-                <msName>Historical document of witness 1993</msName>
-              </msIdentifier>
-              <msPart>
-                <msIdentifier corresp="#document_48924">
-                  <country corresp="#UK">United Kingdom</country>
-                  <settlement>Oxford</settlement>
-                  <repository corresp="#respository_43847">Bodleian Library</repository>
-                  <idno>MS Eng. Poet. D. 208</idno>
-                </msIdentifier>
-                <msContents>
-                  <msItem xml:id="part_48926">
-                    <locusGrp>
-                      <locus from="49r" to="50v">49r-50v</locus>
-                    </locusGrp>
-                    <textLang mainLang="East of England" corresp="#scripta_48845">Southern eastern region of England.</textLang>
-                  </msItem>
-                </msContents>
-                <additional>
-                  <surrogates/>
-                  <listBibl>
-                    <bibl/>
-                  </listBibl>
-                </additional>
-              </msPart>
-              <history>
-                <origin>
-                  <origDate notBefore="1416-01-01" notAfter="1510-12-31" cert="medium">'Mid to late 15th century'</origDate>
-                </origin>
-              </history>
-              <physDesc corresp="#physDesc_48927">
-                <objectDesc form="codex">
-                  <supportDesc material="chart">
-                    <extent>
-                      <dimensions unit="millimeters" type="written">
-                        <height>NA</height>
-                        <width>NA</width>
-                      </dimensions>
-                    </extent>
-                  </supportDesc>
-                  <layoutDesc>
-                    <layout/>
-                  </layoutDesc>
-                </objectDesc>
-                <handDesc>
-                  <handNote script="unknown"/>
-                </handDesc>
-                <decoDesc>
-                  <decoNote type="illustration">
-                    <measure quantity=""/>
-                  </decoNote>
-                  <decoNote type="unknown"/>
                 </decoDesc>
               </physDesc>
             </msDesc>
@@ -582,45 +582,6 @@
           </category>
           <category xml:id="genre" corresp="https://www.wikidata.org/wiki/Q483394">
             <catDesc>Genre</catDesc>
-            <category xml:id="genre_44128">
-              <catDesc>
-                <name type="main">roman</name>
-                <name type="alt">chivalric romance</name>
-                <name type="alt">chivalric novel</name>
-                <gloss>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)</gloss>
-              </catDesc>
-              <category xml:id="genre_44130">
-                <catDesc>
-                  <name type="main">roman lignager</name>
-                  <gloss>Family history</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46894">
-                <catDesc>
-                  <name type="main">Artusroman</name>
-                  <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
-                </catDesc>
-              </category>
-            </category>
-            <category xml:id="genre_46366">
-              <catDesc>
-                <name type="main">riddarasögur</name>
-                <name type="alt">chivalric sagas</name>
-                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
-              </catDesc>
-              <category xml:id="genre_46367">
-                <catDesc>
-                  <name type="main">riddarasögur indigenous</name>
-                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46370">
-                <catDesc>
-                  <name type="main">riddarasögur translated</name>
-                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
-                </catDesc>
-              </category>
-            </category>
             <category xml:id="genre_48800">
               <catDesc>
                 <name type="main">Arthurian romance</name>
@@ -668,6 +629,45 @@
                 <name type="main">mise en prose</name>
                 <gloss>mise en prose de chansons de geste ou romans en vers</gloss>
               </catDesc>
+            </category>
+            <category xml:id="genre_46366">
+              <catDesc>
+                <name type="main">riddarasögur</name>
+                <name type="alt">chivalric sagas</name>
+                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
+              </catDesc>
+              <category xml:id="genre_46367">
+                <catDesc>
+                  <name type="main">riddarasögur indigenous</name>
+                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46370">
+                <catDesc>
+                  <name type="main">riddarasögur translated</name>
+                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
+                </catDesc>
+              </category>
+            </category>
+            <category xml:id="genre_44128">
+              <catDesc>
+                <name type="main">roman</name>
+                <name type="alt">chivalric romance</name>
+                <name type="alt">chivalric novel</name>
+                <gloss>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)</gloss>
+              </catDesc>
+              <category xml:id="genre_44130">
+                <catDesc>
+                  <name type="main">roman lignager</name>
+                  <gloss>Family history</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46894">
+                <catDesc>
+                  <name type="main">Artusroman</name>
+                  <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
+                </catDesc>
+              </category>
             </category>
           </category>
         </taxonomy>

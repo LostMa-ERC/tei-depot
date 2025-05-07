@@ -26,7 +26,7 @@
       <publicationStmt>
         <publisher>LostMa ERC Project</publisher>
         <pubPlace>Paris</pubPlace>
-        <date>2025-05-05</date>
+        <date>2025-05-07</date>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
         </availability>
@@ -37,7 +37,355 @@
             <title type="main">Lancelot</title>
           </title>
         </bibl>
-        <listWit/>
+        <listWit>
+          <witness xml:id="witness_49996">
+            <abbr type="siglum">Rochefoucauld</abbr>
+            <ref target="https://jonas.irht.cnrs.fr/manuscrit/74587"/>
+            <msDesc status="complete">
+              <note>check</note>
+              <msIdentifier>
+                <msName>Historical document of witness Rochefoucauld</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_46165">
+                  <country/>
+                  <settlement/>
+                  <repository/>
+                  <idno/>
+                  <altIdentifier>
+                    <idno>Cheltenham Phillipps 3630</idno>
+                  </altIdentifier>
+                  <altIdentifier>
+                    <idno>Cheltenham Phillipps 1045</idno>
+                  </altIdentifier>
+                  <altIdentifier>
+                    <idno>Cheltenham Phillipps 1047</idno>
+                  </altIdentifier>
+                  <altIdentifier>
+                    <idno>Bibliotheca Philosophica Hermetica 1</idno>
+                  </altIdentifier>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49997">
+                    <locusGrp>
+                      <locus from="36v" to="233">36v-233</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/74587"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1301-01-01" notAfter="1320-12-31" cert="medium">premières décennies du 14e s.</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+            <msDesc status="complete">
+              <note>check</note>
+              <msIdentifier>
+                <msName>Historical document of witness Rochefoucauld</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45351">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <repository corresp="#respository_43847">Bodleian Library</repository>
+                  <idno>MS. Douce 215</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49999">
+                    <locusGrp>
+                      <locus from="1" to="8v">1-8v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://data.biblissima.fr/w/Item:Q211633"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1301-01-01" notAfter="1320-12-31" cert="medium">premières décennies du 14e s.</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+            <msDesc status="complete">
+              <note>check</note>
+              <msIdentifier>
+                <msName>Historical document of witness Rochefoucauld</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45430">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>Manchester</settlement>
+                  <repository corresp="#respository_43885">John Rylands Library</repository>
+                  <idno>1</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_50000">
+                    <locusGrp>
+                      <locus from="1r " to=" 181v">1r - 181v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1301-01-01" notAfter="1320-12-31" cert="medium">premières décennies du 14e s.</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+            <msDesc status="complete">
+              <note>check</note>
+              <msIdentifier>
+                <msName>Historical document of witness Rochefoucauld</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49992">
+                  <country/>
+                  <settlement/>
+                  <repository/>
+                  <idno/>
+                  <altIdentifier>
+                    <idno>Cheltenham Phillipps 3630</idno>
+                  </altIdentifier>
+                  <altIdentifier>
+                    <idno>Cheltenham Phillipps 1045</idno>
+                  </altIdentifier>
+                  <altIdentifier>
+                    <idno>Cheltenham Phillipps 1047</idno>
+                  </altIdentifier>
+                  <altIdentifier>
+                    <idno>Bibliotheca Philosophica Hermetica 1</idno>
+                  </altIdentifier>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49998">
+                    <locusGrp>
+                      <locus from="1" to="104v">1-104v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/74587"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1301-01-01" notAfter="1320-12-31" cert="medium">premières décennies du 14e s.</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_49980">
+            <abbr type="siglum">Ax</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/38625"/>
+            <msDesc status="complete">
+              <msIdentifier>
+                <msName>Historical document of witness Ax</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45169">
+                  <country corresp="#None">United States</country>
+                  <settlement>New York</settlement>
+                  <repository corresp="#respository_43763">Pierpont Morgan Library</repository>
+                  <idno>MS M.807</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49983">
+                    <locusGrp>
+                      <locus from="1" to="141bis">1-141bis</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1311-01-01" notAfter="1315-12-31" cert="medium">Vers 1315</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+            <msDesc status="complete">
+              <msIdentifier>
+                <msName>Historical document of witness Ax</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45122">
+                  <country corresp="#None">United States</country>
+                  <settlement>New York</settlement>
+                  <repository corresp="#respository_43763">Pierpont Morgan Library</repository>
+                  <idno>MS M.805</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49982">
+                    <locusGrp>
+                      <locus from="142" to="266">142-266</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1311-01-01" notAfter="1315-12-31" cert="medium">Vers 1315</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+            <msDesc status="complete">
+              <msIdentifier>
+                <msName>Historical document of witness Ax</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45155">
+                  <country corresp="#None">United States</country>
+                  <settlement>New York</settlement>
+                  <repository corresp="#respository_43763">Pierpont Morgan Library</repository>
+                  <idno>MS M.806</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49984">
+                    <locusGrp>
+                      <locus from="?" to="">?</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1311-01-01" notAfter="1315-12-31" cert="medium">Vers 1315</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_49977">
+            <abbr type="siglum">Hs 93-94</abbr>
+            <ref target="https://jonas.irht.cnrs.fr/manuscrit/78635"/>
+            <msDesc status="complete">
+              <msIdentifier>
+                <msName>Historical document of witness Hs 93-94</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45394">
+                  <country corresp="#DE">Germany</country>
+                  <settlement>Giessen</settlement>
+                  <repository corresp="#respository_43869">Universitätsbibliothek Gießen</repository>
+                  <idno>Hs 93</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49978">
+                    <locusGrp>
+                      <locus from="4" to="332v">4-332v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://data.biblissima.fr/w/Item:Q271238"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1401-01-01" notAfter="1420-12-31" cert="medium">début du 15e s.</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+            <msDesc status="complete">
+              <msIdentifier>
+                <msName>Historical document of witness Hs 93-94</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45393">
+                  <country corresp="#DE">Germany</country>
+                  <settlement>Giessen</settlement>
+                  <repository corresp="#respository_43869">Universitätsbibliothek Gießen</repository>
+                  <idno>Hs 94</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49979">
+                    <locusGrp>
+                      <locus from="3" to="232v">3-232v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://data.biblissima.fr/w/Item:Q271238"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1401-01-01" notAfter="1420-12-31" cert="medium">début du 15e s.</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+        </listWit>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -87,45 +435,6 @@
           </category>
           <category xml:id="genre" corresp="https://www.wikidata.org/wiki/Q483394">
             <catDesc>Genre</catDesc>
-            <category xml:id="genre_44128">
-              <catDesc>
-                <name type="main">roman</name>
-                <name type="alt">chivalric romance</name>
-                <name type="alt">chivalric novel</name>
-                <gloss>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)</gloss>
-              </catDesc>
-              <category xml:id="genre_44130">
-                <catDesc>
-                  <name type="main">roman lignager</name>
-                  <gloss>Family history</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46894">
-                <catDesc>
-                  <name type="main">Artusroman</name>
-                  <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
-                </catDesc>
-              </category>
-            </category>
-            <category xml:id="genre_46366">
-              <catDesc>
-                <name type="main">riddarasögur</name>
-                <name type="alt">chivalric sagas</name>
-                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
-              </catDesc>
-              <category xml:id="genre_46367">
-                <catDesc>
-                  <name type="main">riddarasögur indigenous</name>
-                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46370">
-                <catDesc>
-                  <name type="main">riddarasögur translated</name>
-                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
-                </catDesc>
-              </category>
-            </category>
             <category xml:id="genre_48800">
               <catDesc>
                 <name type="main">Arthurian romance</name>
@@ -173,6 +482,45 @@
                 <name type="main">mise en prose</name>
                 <gloss>mise en prose de chansons de geste ou romans en vers</gloss>
               </catDesc>
+            </category>
+            <category xml:id="genre_46366">
+              <catDesc>
+                <name type="main">riddarasögur</name>
+                <name type="alt">chivalric sagas</name>
+                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
+              </catDesc>
+              <category xml:id="genre_46367">
+                <catDesc>
+                  <name type="main">riddarasögur indigenous</name>
+                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46370">
+                <catDesc>
+                  <name type="main">riddarasögur translated</name>
+                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
+                </catDesc>
+              </category>
+            </category>
+            <category xml:id="genre_44128">
+              <catDesc>
+                <name type="main">roman</name>
+                <name type="alt">chivalric romance</name>
+                <name type="alt">chivalric novel</name>
+                <gloss>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)</gloss>
+              </catDesc>
+              <category xml:id="genre_44130">
+                <catDesc>
+                  <name type="main">roman lignager</name>
+                  <gloss>Family history</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46894">
+                <catDesc>
+                  <name type="main">Artusroman</name>
+                  <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
+                </catDesc>
+              </category>
             </category>
           </category>
         </taxonomy>

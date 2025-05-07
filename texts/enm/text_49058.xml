@@ -26,7 +26,7 @@
       <publicationStmt>
         <publisher>LostMa ERC Project</publisher>
         <pubPlace>Paris</pubPlace>
-        <date>2025-05-05</date>
+        <date>2025-05-07</date>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
         </availability>
@@ -415,67 +415,6 @@
               </physDesc>
             </msDesc>
           </witness>
-          <witness xml:id="witness_49069">
-            <abbr type="siglum">1913</abbr>
-            <ref target="https://www.medievalscribes.com/index.php?browse=manuscripts&amp;id=136&amp;nav=off"/>
-            <ref target="https://www.middleenglishromance.org.uk/mer/22"/>
-            <msDesc status="complete">
-              <msIdentifier>
-                <msName>Historical document of witness 1913</msName>
-              </msIdentifier>
-              <msPart>
-                <msIdentifier corresp="#document_49068">
-                  <country corresp="#None">United States</country>
-                  <settlement>Philadelphia</settlement>
-                  <repository corresp="#respository_49787">Rosenbach Museum &amp; Library</repository>
-                  <idno>MS 1084/1</idno>
-                </msIdentifier>
-                <msContents>
-                  <msItem xml:id="part_49070">
-                    <locusGrp>
-                      <locus from="5r" to="13r">5r-13r</locus>
-                    </locusGrp>
-                    <textLang mainLang="West Midlands" corresp="#scripta_48780">Dialect spaken in the western part of central England (midlands), surrounding present day Birmingham.</textLang>
-                  </msItem>
-                </msContents>
-                <additional>
-                  <surrogates/>
-                  <listBibl>
-                    <bibl/>
-                  </listBibl>
-                </additional>
-              </msPart>
-              <history>
-                <origin>
-                  <origDate notBefore="1416-01-01" notAfter="1460-12-31" cert="medium">'1425-1450'</origDate>
-                </origin>
-              </history>
-              <physDesc corresp="#physDesc_49071">
-                <objectDesc form="codex">
-                  <supportDesc material="perg">
-                    <extent>
-                      <dimensions unit="millimeters" type="written">
-                        <height quantity="205">205</height>
-                        <width quantity="300">300</width>
-                      </dimensions>
-                    </extent>
-                  </supportDesc>
-                  <layoutDesc>
-                    <layout columns="1" writtenLines="40"/>
-                  </layoutDesc>
-                </objectDesc>
-                <handDesc>
-                  <handNote script="textualis"/>
-                </handDesc>
-                <decoDesc>
-                  <decoNote type="illustration">
-                    <measure quantity="0"/>
-                  </decoNote>
-                  <decoNote type="initial"/>
-                </decoDesc>
-              </physDesc>
-            </msDesc>
-          </witness>
           <witness xml:id="witness_49168">
             <abbr type="siglum">1913</abbr>
             <ref target="https://www.medievalscribes.com/index.php?browse=manuscripts&amp;id=108&amp;nav=off"/>
@@ -550,7 +489,7 @@
                   <country corresp="#None">United States</country>
                   <settlement>New Haven</settlement>
                   <repository corresp="#respository_43722">Beinecke rare book and manuscript library</repository>
-                  <idno>MS 32</idno>
+                  <idno>Beinecke MS 32</idno>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_49062">
@@ -598,6 +537,67 @@
               </physDesc>
             </msDesc>
           </witness>
+          <witness xml:id="witness_49069">
+            <abbr type="siglum">1913</abbr>
+            <ref target="https://www.medievalscribes.com/index.php?browse=manuscripts&amp;id=136&amp;nav=off"/>
+            <ref target="https://www.middleenglishromance.org.uk/mer/22"/>
+            <msDesc status="complete">
+              <msIdentifier>
+                <msName>Historical document of witness 1913</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49068">
+                  <country corresp="#None">United States</country>
+                  <settlement>Philadelphia</settlement>
+                  <repository corresp="#respository_49787">Rosenbach Museum &amp; Library</repository>
+                  <idno>MS 1084/1</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49070">
+                    <locusGrp>
+                      <locus from="5r" to="13r">5r-13r</locus>
+                    </locusGrp>
+                    <textLang mainLang="West Midlands" corresp="#scripta_48780">Dialect spaken in the western part of central England (midlands), surrounding present day Birmingham.</textLang>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1416-01-01" notAfter="1460-12-31" cert="medium">'1425-1450'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_49071">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height quantity="205">205</height>
+                        <width quantity="300">300</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout columns="1" writtenLines="40"/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="textualis"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity="0"/>
+                  </decoNote>
+                  <decoNote type="initial"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
           <witness xml:id="witness_49113">
             <abbr type="siglum">1913</abbr>
             <ref target="https://www.medievalscribes.com/index.php?browse=manuscripts&amp;&amp;id=46&amp;nav=off"/>
@@ -610,7 +610,7 @@
                   <country corresp="#UK">United Kingdom</country>
                   <settlement>Oxford</settlement>
                   <repository corresp="#respository_43847">Bodleian Library</repository>
-                  <idno>MS Laud Misc. 600</idno>
+                  <idno>MS. Laud Misc. 600</idno>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_49114">
@@ -971,6 +971,67 @@
               </physDesc>
             </msDesc>
           </witness>
+          <witness xml:id="witness_49118">
+            <abbr type="siglum">1913</abbr>
+            <ref target="https://www.medievalscribes.com/index.php?browse=manuscripts&amp;&amp;id=46&amp;nav=off"/>
+            <msDesc status="complete">
+              <msIdentifier>
+                <msName>Historical document of witness 1913</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49116">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <repository corresp="#respository_43847">Bodleian Library</repository>
+                  <idno>MS. Barlow 20</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49119">
+                    <locusGrp>
+                      <locus from="51r" to="62v">51r-62v</locus>
+                    </locusGrp>
+                    <textLang mainLang="West Midlands" corresp="#scripta_48780">Dialect spaken in the western part of central England (midlands), surrounding present day Birmingham.</textLang>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1441-01-01" notAfter="1485-12-31" cert="medium">'1450-1475'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_49120">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height quantity="305">305</height>
+                        <width quantity="210">210</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout columns="1" writtenLines="37"/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="unknown"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity="0"/>
+                  </decoNote>
+                  <decoNote type="initial"/>
+                  <decoNote type="rubrication"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
           <witness xml:id="witness_49129">
             <abbr type="siglum">1913</abbr>
             <ref target="https://www.medievalscribes.com/index.php?browse=manuscripts&amp;id=133&amp;nav=off"/>
@@ -1029,67 +1090,6 @@
                   </decoNote>
                   <decoNote type="rubrication"/>
                   <decoNote type="initial"/>
-                </decoDesc>
-              </physDesc>
-            </msDesc>
-          </witness>
-          <witness xml:id="witness_49118">
-            <abbr type="siglum">1913</abbr>
-            <ref target="https://www.medievalscribes.com/index.php?browse=manuscripts&amp;&amp;id=46&amp;nav=off"/>
-            <msDesc status="complete">
-              <msIdentifier>
-                <msName>Historical document of witness 1913</msName>
-              </msIdentifier>
-              <msPart>
-                <msIdentifier corresp="#document_49116">
-                  <country corresp="#UK">United Kingdom</country>
-                  <settlement>Oxford</settlement>
-                  <repository corresp="#respository_43847">Bodleian Library</repository>
-                  <idno>MS Barlow 20</idno>
-                </msIdentifier>
-                <msContents>
-                  <msItem xml:id="part_49119">
-                    <locusGrp>
-                      <locus from="51r" to="62v">51r-62v</locus>
-                    </locusGrp>
-                    <textLang mainLang="West Midlands" corresp="#scripta_48780">Dialect spaken in the western part of central England (midlands), surrounding present day Birmingham.</textLang>
-                  </msItem>
-                </msContents>
-                <additional>
-                  <surrogates/>
-                  <listBibl>
-                    <bibl/>
-                  </listBibl>
-                </additional>
-              </msPart>
-              <history>
-                <origin>
-                  <origDate notBefore="1441-01-01" notAfter="1485-12-31" cert="medium">'1450-1475'</origDate>
-                </origin>
-              </history>
-              <physDesc corresp="#physDesc_49120">
-                <objectDesc form="codex">
-                  <supportDesc material="perg">
-                    <extent>
-                      <dimensions unit="millimeters" type="written">
-                        <height quantity="305">305</height>
-                        <width quantity="210">210</width>
-                      </dimensions>
-                    </extent>
-                  </supportDesc>
-                  <layoutDesc>
-                    <layout columns="1" writtenLines="37"/>
-                  </layoutDesc>
-                </objectDesc>
-                <handDesc>
-                  <handNote script="unknown"/>
-                </handDesc>
-                <decoDesc>
-                  <decoNote type="illustration">
-                    <measure quantity="0"/>
-                  </decoNote>
-                  <decoNote type="initial"/>
-                  <decoNote type="rubrication"/>
                 </decoDesc>
               </physDesc>
             </msDesc>
@@ -1228,7 +1228,7 @@
                   <country corresp="#UK">United Kingdom</country>
                   <settlement>London</settlement>
                   <repository corresp="#respository_43919">British library</repository>
-                  <idno>MS Sloane 1686</idno>
+                  <idno>Sloane MS 1686</idno>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_49136">
@@ -1353,7 +1353,7 @@
                   <country corresp="#UK">United Kingdom</country>
                   <settlement>Oxford</settlement>
                   <repository corresp="#respository_43847">Bodleian Library</repository>
-                  <idno>MS Rawlinson poet. 149</idno>
+                  <idno>MS. Rawlinson poet. 149</idno>
                 </msIdentifier>
                 <msContents>
                   <msItem xml:id="part_49110">
@@ -1451,45 +1451,6 @@
           </category>
           <category xml:id="genre" corresp="https://www.wikidata.org/wiki/Q483394">
             <catDesc>Genre</catDesc>
-            <category xml:id="genre_44128">
-              <catDesc>
-                <name type="main">roman</name>
-                <name type="alt">chivalric romance</name>
-                <name type="alt">chivalric novel</name>
-                <gloss>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)</gloss>
-              </catDesc>
-              <category xml:id="genre_44130">
-                <catDesc>
-                  <name type="main">roman lignager</name>
-                  <gloss>Family history</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46894">
-                <catDesc>
-                  <name type="main">Artusroman</name>
-                  <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
-                </catDesc>
-              </category>
-            </category>
-            <category xml:id="genre_46366">
-              <catDesc>
-                <name type="main">riddarasögur</name>
-                <name type="alt">chivalric sagas</name>
-                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
-              </catDesc>
-              <category xml:id="genre_46367">
-                <catDesc>
-                  <name type="main">riddarasögur indigenous</name>
-                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46370">
-                <catDesc>
-                  <name type="main">riddarasögur translated</name>
-                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
-                </catDesc>
-              </category>
-            </category>
             <category xml:id="genre_48800">
               <catDesc>
                 <name type="main">Arthurian romance</name>
@@ -1537,6 +1498,45 @@
                 <name type="main">mise en prose</name>
                 <gloss>mise en prose de chansons de geste ou romans en vers</gloss>
               </catDesc>
+            </category>
+            <category xml:id="genre_46366">
+              <catDesc>
+                <name type="main">riddarasögur</name>
+                <name type="alt">chivalric sagas</name>
+                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
+              </catDesc>
+              <category xml:id="genre_46367">
+                <catDesc>
+                  <name type="main">riddarasögur indigenous</name>
+                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46370">
+                <catDesc>
+                  <name type="main">riddarasögur translated</name>
+                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
+                </catDesc>
+              </category>
+            </category>
+            <category xml:id="genre_44128">
+              <catDesc>
+                <name type="main">roman</name>
+                <name type="alt">chivalric romance</name>
+                <name type="alt">chivalric novel</name>
+                <gloss>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)</gloss>
+              </catDesc>
+              <category xml:id="genre_44130">
+                <catDesc>
+                  <name type="main">roman lignager</name>
+                  <gloss>Family history</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46894">
+                <catDesc>
+                  <name type="main">Artusroman</name>
+                  <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
+                </catDesc>
+              </category>
             </category>
           </category>
         </taxonomy>
