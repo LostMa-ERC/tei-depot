@@ -8,13 +8,13 @@ RESULTS_DIR = Path(__file__).parent.joinpath("results")
 
 @click.command()
 @click.argument("sql")
-@click.argument("csv")
-def cli(sql, csv):
-    conn = duckdb.connect(str(DB_PATH))
+def cli(sql):
+    conn = duckdb.connect(str(DB_PATH), read_only=True)
     with open(sql) as f:
         query = f.read()
     rel = conn.sql(query)
-    fp = RESULTS_DIR.joinpath(csv)
+    stem = f"{Path(sql).stem}.csv"
+    fp = RESULTS_DIR.joinpath(stem)
     rel.write_csv(str(fp))
 
 

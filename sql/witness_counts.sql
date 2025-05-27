@@ -1,29 +1,30 @@
 select
-  s."H-ID" story_id,
   s.preferred_name AS story,
-  text_id,
-  text_name,
-  text_earliest,
-  text_latest,
-  text_lang,
-  wit_count,
-  date_trunc('day', earliest_wit) earliest_wit,
-  date_trunc('day', latest_wit) as latest_wit
+  t.*
 from
   (
   select
-    UNNEST(t."is_expression_of H-ID") as text_story,
+    UNNEST(t."is_expression_of H-ID") as story_id,
     t."H-ID" text_id,
     any_value(t.preferred_name) text_name,
+    any_value(t.tradition_status) text_status,
+    any_value(t.literary_form) text_form,
+    any_value(t.language_COLUMN) text_lang,
     date_trunc('day', any_value(t.date_of_creation).estMinDate) text_earliest,
     date_trunc('day', any_value(t.date_of_creation).estMaxDate) as text_latest,
-    count(*) wit_count,
-    any_value(t.language_COLUMN) text_lang,
-    min(w.date_of_creation.estMinDate) earliest_wit,
-    max(w.date_of_creation.estMaxDate) latest_wit
+    sum(case when w.status_witness like 'complete' then 1 else 0 end) as wit_count_complete,
+    sum(case when w.status_witness like 'defective' then 1 else 0 end) as wit_count_defective,
+    sum(case when w.status_witness like 'fragmentary' then 1 else 0 end) as wit_count_fragmentary,
+    sum(case when w.status_witness like 'lost' then 1 else 0 end) as wit_count_lost,
+    count(w.status_witness) wits_total,
+    date_trunc('day', min(w.date_of_creation.estMinDate)) earliest_wit,
+    date_trunc('day', max(w.date_of_creation.estMaxDate)) latest_wit
   from TextTable t
   left join Witness w on t."H-ID" = w."is_manifestation_of H-ID"
+  where t.is_hypothetical like 'No'
+  and t.peripheral like 'No'
+  and t.tradition_status not like 'lost'
   group by (t."H-ID", t."is_expression_of H-ID")
-)
-left join Story s on s."H-ID" = text_story
-order by (story_id, text_earliest);
+) t
+left join Story s on s."H-ID" = t.story_id
+order by (t.story_id, t.text_earliest);
