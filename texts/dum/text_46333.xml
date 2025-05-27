@@ -38,7 +38,7 @@
       <publicationStmt>
         <publisher>LostMa ERC Project</publisher>
         <pubPlace>Paris</pubPlace>
-        <date>2025-05-07</date>
+        <date>2025-05-27</date>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
         </availability>
@@ -58,16 +58,16 @@
                 <msName>Historical document of witness H1</msName>
               </msIdentifier>
               <msPart>
-                <msIdentifier corresp="#document_46354">
-                  <country corresp="#BE">Belgium</country>
-                  <settlement>Brussels</settlement>
-                  <repository corresp="#respository_43904">Bibliothèque royale de Belgique</repository>
-                  <idno>Ms. IV 816 / 1-6</idno>
+                <msIdentifier corresp="#document_46346">
+                  <country corresp="#NL">Netherlands</country>
+                  <settlement>Leiden</settlement>
+                  <repository corresp="#respository_43873">Universitaire Bibliotheken Leiden</repository>
+                  <idno>B.P.L. 1049</idno>
                 </msIdentifier>
                 <msContents>
-                  <msItem xml:id="part_46376">
+                  <msItem xml:id="part_46373">
                     <locusGrp>
-                      <locus from="9 fragments" to="">9 fragments</locus>
+                      <locus from="15 fragments" to="">15 fragments</locus>
                     </locusGrp>
                     <textLang mainLang="Nederfrankisch" corresp="#scripta_46335">Volkstalige dialecten gesproken tussen Maas en Nederrijn (Nederfrankisch)</textLang>
                   </msItem>
@@ -91,16 +91,16 @@
                 <msName>Historical document of witness H1</msName>
               </msIdentifier>
               <msPart>
-                <msIdentifier corresp="#document_46346">
-                  <country corresp="#NL">Netherlands</country>
-                  <settlement>Leiden</settlement>
-                  <repository corresp="#respository_43873">Universitaire Bibliotheken Leiden</repository>
-                  <idno>B.P.L. 1049</idno>
+                <msIdentifier corresp="#document_46354">
+                  <country corresp="#BE">Belgium</country>
+                  <settlement>Brussels</settlement>
+                  <repository corresp="#respository_43904">Bibliothèque royale de Belgique</repository>
+                  <idno>Ms. IV 816 / 1-6</idno>
                 </msIdentifier>
                 <msContents>
-                  <msItem xml:id="part_46373">
+                  <msItem xml:id="part_46376">
                     <locusGrp>
-                      <locus from="15 fragments" to="">15 fragments</locus>
+                      <locus from="9 fragments" to="">9 fragments</locus>
                     </locusGrp>
                     <textLang mainLang="Nederfrankisch" corresp="#scripta_46335">Volkstalige dialecten gesproken tussen Maas en Nederrijn (Nederfrankisch)</textLang>
                   </msItem>
@@ -194,6 +194,12 @@
                 <gloss>Story about Charlemagne and his family.</gloss>
               </catDesc>
             </category>
+            <category xml:id="genre_50182">
+              <catDesc>
+                <name type="main">Lai narratif</name>
+                <gloss>Narrative lai</gloss>
+              </catDesc>
+            </category>
             <category xml:id="genre_47474">
               <catDesc>
                 <name type="main">Other</name>
@@ -218,25 +224,6 @@
                 <gloss>mise en prose de chansons de geste ou romans en vers</gloss>
               </catDesc>
             </category>
-            <category xml:id="genre_46366">
-              <catDesc>
-                <name type="main">riddarasögur</name>
-                <name type="alt">chivalric sagas</name>
-                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
-              </catDesc>
-              <category xml:id="genre_46367">
-                <catDesc>
-                  <name type="main">riddarasögur indigenous</name>
-                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46370">
-                <catDesc>
-                  <name type="main">riddarasögur translated</name>
-                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
-                </catDesc>
-              </category>
-            </category>
             <category xml:id="genre_44128">
               <catDesc>
                 <name type="main">roman</name>
@@ -254,6 +241,25 @@
                 <catDesc>
                   <name type="main">Artusroman</name>
                   <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
+                </catDesc>
+              </category>
+            </category>
+            <category xml:id="genre_46366">
+              <catDesc>
+                <name type="main">riddarasögur</name>
+                <name type="alt">chivalric sagas</name>
+                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
+              </catDesc>
+              <category xml:id="genre_46370">
+                <catDesc>
+                  <name type="main">riddarasögur translated</name>
+                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46367">
+                <catDesc>
+                  <name type="main">riddarasögur indigenous</name>
+                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
                 </catDesc>
               </category>
             </category>

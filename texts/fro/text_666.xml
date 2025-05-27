@@ -26,7 +26,7 @@
       <publicationStmt>
         <publisher>LostMa ERC Project</publisher>
         <pubPlace>Paris</pubPlace>
-        <date>2025-05-07</date>
+        <date>2025-05-27</date>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
         </availability>
@@ -37,7 +37,166 @@
             <title type="main">Huon de Bordeaux</title>
           </title>
         </bibl>
-        <listWit/>
+        <listWit>
+          <witness xml:id="witness_54315">
+            <abbr type="siglum">M</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/60310"/>
+            <ref target="https://arlima.net/no/3993"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness M</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45421">
+                  <country corresp="#FR">France</country>
+                  <settlement>Tours</settlement>
+                  <repository corresp="#respository_43883">Bibliothèque municipale</repository>
+                  <idno>936</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52392">
+                    <locusGrp>
+                      <locus from="1r" to="173v">1r-173v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1201-01-01" notAfter="1220-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54314">
+            <abbr type="siglum">T</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/59028"/>
+            <ref target="https://arlima.net/no/5394"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness T</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_47262">
+                  <country corresp="#IT">Italy</country>
+                  <settlement>Turin</settlement>
+                  <repository corresp="#respository_43776">Biblioteca nazionale di Torino</repository>
+                  <idno>L. II. 14 (1639)</idno>
+                  <altIdentifier>
+                    <idno>g II 13</idno>
+                  </altIdentifier>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52391">
+                    <locusGrp>
+                      <locus from="297r" to="354v">297r-354v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/59028"/>
+                      <ref target="https://arlima.net/no/5394"/>
+                      <ref target="https://data.biblissima.fr/entity/Q277386"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate>Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54313">
+            <abbr type="siglum">P</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/45900"/>
+            <ref target="https://arlima.net/no/3449"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness P</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45768">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 22555</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52390">
+                    <locusGrp>
+                      <locus from="183bis v" to="247vb">183bis v-247vb</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1401-01-01" notAfter="1500-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54311">
+            <abbr type="siglum">b</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/81113"/>
+            <msDesc status="fragmentary">
+              <msIdentifier>
+                <msName>Historical document of witness b</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45264">
+                  <country corresp="#None">United States</country>
+                  <settlement>Boston</settlement>
+                  <repository corresp="#respository_43810">Massachusetts Historical Society</repository>
+                  <idno>Appleton O.S. Folder 1</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52389">
+                    <locusGrp>
+                      <locus from="? (Huon)" to="">? (Huon)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1351-01-01" notAfter="1400-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+        </listWit>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -111,6 +270,12 @@
                 <gloss>Story about Charlemagne and his family.</gloss>
               </catDesc>
             </category>
+            <category xml:id="genre_50182">
+              <catDesc>
+                <name type="main">Lai narratif</name>
+                <gloss>Narrative lai</gloss>
+              </catDesc>
+            </category>
             <category xml:id="genre_47474">
               <catDesc>
                 <name type="main">Other</name>
@@ -135,25 +300,6 @@
                 <gloss>mise en prose de chansons de geste ou romans en vers</gloss>
               </catDesc>
             </category>
-            <category xml:id="genre_46366">
-              <catDesc>
-                <name type="main">riddarasögur</name>
-                <name type="alt">chivalric sagas</name>
-                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
-              </catDesc>
-              <category xml:id="genre_46367">
-                <catDesc>
-                  <name type="main">riddarasögur indigenous</name>
-                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46370">
-                <catDesc>
-                  <name type="main">riddarasögur translated</name>
-                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
-                </catDesc>
-              </category>
-            </category>
             <category xml:id="genre_44128">
               <catDesc>
                 <name type="main">roman</name>
@@ -171,6 +317,25 @@
                 <catDesc>
                   <name type="main">Artusroman</name>
                   <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
+                </catDesc>
+              </category>
+            </category>
+            <category xml:id="genre_46366">
+              <catDesc>
+                <name type="main">riddarasögur</name>
+                <name type="alt">chivalric sagas</name>
+                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
+              </catDesc>
+              <category xml:id="genre_46370">
+                <catDesc>
+                  <name type="main">riddarasögur translated</name>
+                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46367">
+                <catDesc>
+                  <name type="main">riddarasögur indigenous</name>
+                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
                 </catDesc>
               </category>
             </category>

@@ -26,7 +26,7 @@
       <publicationStmt>
         <publisher>LostMa ERC Project</publisher>
         <pubPlace>Paris</pubPlace>
-        <date>2025-05-07</date>
+        <date>2025-05-27</date>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
         </availability>
@@ -37,7 +37,196 @@
             <title type="main">Kanor</title>
           </title>
         </bibl>
-        <listWit/>
+        <listWit>
+          <witness xml:id="witness_54537">
+            <abbr type="siglum">V^3</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/73676"/>
+            <ref target="https://arlima.net/no/2929"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness V^3</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45942">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 22550</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52048">
+                    <locusGrp>
+                      <locus from="50r" to="163v">50r-163v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1281-01-01" notAfter="1320-12-31" cert="unknown">Arlima</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54526">
+            <abbr type="siglum">C</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/45610"/>
+            <ref target="https://arlima.net/no/2462"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness C</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45894">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 1446</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52047">
+                    <locusGrp>
+                      <locus from="26vb" to="70rb">26vb-70rb</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1289-01-01" notAfter="1292-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54504">
+            <abbr type="siglum">B</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/10309"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness B</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45488">
+                  <country corresp="#BE">Belgium</country>
+                  <settlement>Brussels</settlement>
+                  <repository corresp="#respository_43904">Bibliothèque royale de Belgique</repository>
+                  <idno>Ms. 9245</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52045">
+                    <locusGrp>
+                      <locus from="? (Kanor)" to="">? (Kanor)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1321-01-01" notAfter="1340-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54515">
+            <abbr type="siglum">X2</abbr>
+            <ref target="https://jonas.irht.cnrs.fr/manuscrit/45848"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness X2</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45595">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository corresp="#respository_43919">British library</repository>
+                  <idno>Harley MS 4903</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52046">
+                    <locusGrp>
+                      <locus from="? (Kanor)" to="">? (Kanor)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1336-01-01" notAfter="1355-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54549">
+            <abbr type="siglum">G</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/45498"/>
+            <ref target="https://arlima.net/no/2781"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness G</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45815">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 93</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52050">
+                    <locusGrp>
+                      <locus from="491v" to="602v">491v-602v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate>Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+        </listWit>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -111,6 +300,12 @@
                 <gloss>Story about Charlemagne and his family.</gloss>
               </catDesc>
             </category>
+            <category xml:id="genre_50182">
+              <catDesc>
+                <name type="main">Lai narratif</name>
+                <gloss>Narrative lai</gloss>
+              </catDesc>
+            </category>
             <category xml:id="genre_47474">
               <catDesc>
                 <name type="main">Other</name>
@@ -135,25 +330,6 @@
                 <gloss>mise en prose de chansons de geste ou romans en vers</gloss>
               </catDesc>
             </category>
-            <category xml:id="genre_46366">
-              <catDesc>
-                <name type="main">riddarasögur</name>
-                <name type="alt">chivalric sagas</name>
-                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
-              </catDesc>
-              <category xml:id="genre_46367">
-                <catDesc>
-                  <name type="main">riddarasögur indigenous</name>
-                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46370">
-                <catDesc>
-                  <name type="main">riddarasögur translated</name>
-                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
-                </catDesc>
-              </category>
-            </category>
             <category xml:id="genre_44128">
               <catDesc>
                 <name type="main">roman</name>
@@ -171,6 +347,25 @@
                 <catDesc>
                   <name type="main">Artusroman</name>
                   <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
+                </catDesc>
+              </category>
+            </category>
+            <category xml:id="genre_46366">
+              <catDesc>
+                <name type="main">riddarasögur</name>
+                <name type="alt">chivalric sagas</name>
+                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
+              </catDesc>
+              <category xml:id="genre_46370">
+                <catDesc>
+                  <name type="main">riddarasögur translated</name>
+                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46367">
+                <catDesc>
+                  <name type="main">riddarasögur indigenous</name>
+                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
                 </catDesc>
               </category>
             </category>

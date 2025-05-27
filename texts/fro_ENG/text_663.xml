@@ -26,7 +26,7 @@
       <publicationStmt>
         <publisher>LostMa ERC Project</publisher>
         <pubPlace>Paris</pubPlace>
-        <date>2025-05-07</date>
+        <date>2025-05-27</date>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
         </availability>
@@ -37,7 +37,622 @@
             <title type="main">Gui de Warwick</title>
           </title>
         </bibl>
-        <listWit/>
+        <listWit>
+          <witness xml:id="witness_54210">
+            <abbr type="siglum"></abbr>
+            <ref target="https://jonas.irht.cnrs.fr/manuscrit/73181"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45561">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository corresp="#respository_43919">British library</repository>
+                  <idno>Add MS 38662</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52370">
+                    <locusGrp>
+                      <locus from="1ra" to="80rb">1ra-80rb</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1241-01-01" notAfter="1260-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54204">
+            <abbr type="siglum"></abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/12118"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_47323">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>Cambridge</settlement>
+                  <repository corresp="#respository_43805">Corpus Christi College, Parker Library</repository>
+                  <idno>MS 50</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52365">
+                    <locusGrp>
+                      <locus from="103ra" to="181rb">103ra-181rb</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/12118"/>
+                      <ref target="https://data.biblissima.fr/entity/Q210554"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1251-01-01" notAfter="1300-12-31" cert="unknown">Arlima</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54208">
+            <abbr type="siglum"></abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/17505"/>
+            <ref target="https://arlima.net/no/2254"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45190">
+                  <country corresp="#CH">Switzerland</country>
+                  <settlement>Cologny</settlement>
+                  <repository corresp="#respository_43773">Fondation Martin Bodmer</repository>
+                  <idno>Cod. Bodmer 67</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52368">
+                    <locusGrp>
+                      <locus from="1ra" to="44vc">1ra-44vc</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1251-01-01" notAfter="1300-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54220">
+            <abbr type="siglum"></abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/72707"/>
+            <ref target="https://arlima.net/no/5168"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45903">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 1669</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52379">
+                    <locusGrp>
+                      <locus from="1ra" to="59va">1ra-59va</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1281-01-01" notAfter="1300-12-31" cert="unknown">DEAF</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54206">
+            <abbr type="siglum"></abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/17550"/>
+            <ref target="https://arlima.net/no/2490"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45184">
+                  <country corresp="#CH">Switzerland</country>
+                  <settlement>Cologny</settlement>
+                  <repository corresp="#respository_43773">Fondation Martin Bodmer</repository>
+                  <idno>Cod. Bodmer 168</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52367">
+                    <locusGrp>
+                      <locus from="134ra" to="210vb">134ra-210vb</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1281-01-01" notAfter="1320-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54221">
+            <abbr type="siglum"></abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/78653"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45214">
+                  <country corresp="#DE">Germany</country>
+                  <settlement>Wolfenbüttel</settlement>
+                  <repository corresp="#respository_43727">Herzog-August-Bibliothek</repository>
+                  <idno>87.4. Aug. fol.</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52380">
+                    <locusGrp>
+                      <locus from="1ra" to="96vb">1ra-96vb</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1296-01-01" notAfter="1305-12-31" cert="unknown">DEAF</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54213">
+            <abbr type="siglum"></abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/78645"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45606">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository corresp="#respository_43919">British library</repository>
+                  <idno>Royal MS 8 F IX</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52372">
+                    <locusGrp>
+                      <locus from="15ra" to="26vb">15ra-26vb</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1301-01-01" notAfter="1320-12-31" cert="unknown">Crusade project, https://d.lib.rochester.edu/crusades/text/guy-of-warwick.html (From Ailes Guy of Warwick, Icon and Ancestor?)</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54214">
+            <abbr type="siglum"></abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/78646"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_47314">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository corresp="#respository_43825">College of Arms</repository>
+                  <idno>Arundel MS 27</idno>
+                  <altIdentifier>
+                    <idno>154</idno>
+                  </altIdentifier>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52373">
+                    <locusGrp>
+                      <locus from="1r" to="130r">1r-130r</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://data.biblissima.fr/entity/Q273217"/>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/78646"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1301-01-01" notAfter="1320-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54215">
+            <abbr type="siglum"></abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/78655"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45602">
+                  <country corresp="#None">United States</country>
+                  <settlement>New Haven</settlement>
+                  <repository corresp="#respository_43722">Beinecke rare book and manuscript library</repository>
+                  <idno>Beinecke MS 591</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52375">
+                    <locusGrp>
+                      <locus from="1ra" to="86rb">1ra-86rb</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1301-01-01" notAfter="1320-12-31" cert="unknown"/>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54212">
+            <abbr type="siglum"></abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/30780"/>
+            <msDesc status="defective">
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45584">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository corresp="#respository_43919">British library</repository>
+                  <idno>Harley MS 3775</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52371">
+                    <locusGrp>
+                      <locus from="15ra" to="26vb">15ra-26vb</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1251-01-01" notAfter="1325-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54218">
+            <abbr type="siglum"></abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/75047"/>
+            <msDesc status="fragmentary">
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_46119">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <repository corresp="#respository_43943">Corpus Christi College Oxford</repository>
+                  <idno>491</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52378">
+                    <locusGrp>
+                      <locus from="? (Gui de Warwick)" to="">? (Gui de Warwick)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1201-01-01" notAfter="1400-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54216">
+            <abbr type="siglum"></abbr>
+            <msDesc status="fragmentary">
+              <note>1 f.</note>
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49473">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>Nottingham</settlement>
+                  <repository corresp="#respository_43795">University of Nottingham. Library</repository>
+                  <collection>Oakham Parish Library</collection>
+                  <idno>Bx 1756 S 4</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52376">
+                    <locusGrp>
+                      <locus from="? (Gui de Warwick)" to="">? (Gui de Warwick)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1267-01-01" notAfter="1300-12-31" cert="unknown">Ailes: Ailes M, Cooper H, et al. Gui de Warewic in its Manuscript Context. In: Field R, Wiggins A, eds. Guy of Warwick: Icon and Ancestor. Studies in Medieval Romance. Boydell &amp; Brewer; 2007:12-26.</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54217">
+            <abbr type="siglum"></abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/40703"/>
+            <ref target="https://arlima.net/no/6039"/>
+            <msDesc status="fragmentary">
+              <note>https://medieval.bodleian.ox.ac.uk/catalog/manuscript_8471</note>
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45367">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <repository corresp="#respository_43847">Bodleian Library</repository>
+                  <idno>MS. Rawl. D. 913</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52377">
+                    <locusGrp>
+                      <locus from="86ra" to="89vb">86ra-89vb</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://data.biblissima.fr/w/Item:Q215281"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1276-01-01" notAfter="1325-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54223">
+            <abbr type="siglum"></abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/78654"/>
+            <msDesc status="fragmentary">
+              <note>3 f.</note>
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45747">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>York</settlement>
+                  <repository corresp="#respository_43749">York Minster. Library</repository>
+                  <idno>XVI. I, 7</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52381">
+                    <locusGrp>
+                      <locus from="? (Gui de Warwick)" to="">? (Gui de Warwick)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1281-01-01" notAfter="1300-12-31" cert="unknown">DEAF</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54205">
+            <abbr type="siglum"></abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/81171"/>
+            <ref target="https://arlima.net/no/8350"/>
+            <msDesc status="fragmentary">
+              <note>Fragment, 1f.</note>
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45271">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>Cambridge</settlement>
+                  <repository corresp="#respository_43816">University of Cambridge. Library</repository>
+                  <idno>MS Add. 2751/16</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52366">
+                    <locusGrp>
+                      <locus from="? (Gui de Warwick)" to="">? (Gui de Warwick)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://data.biblissima.fr/w/Item:Q269727"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1281-01-01" notAfter="1400-12-31" cert="unknown">Arlima</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54209">
+            <abbr type="siglum"></abbr>
+            <msDesc status="fragmentary">
+              <note>2 fragments dans une reliure (du XVII.F.33 de Ripon) en dépôt à l'Univ. de Leeds</note>
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45177">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>Ripon</settlement>
+                  <repository corresp="#respository_43771">Cathedral Library Ripon</repository>
+                  <idno>XVII.F.33</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52369">
+                    <locusGrp>
+                      <locus from="? (Gui de Warwick)" to="">? (Gui de Warwick)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1296-01-01" notAfter="1305-12-31" cert="unknown">DEAF</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+        </listWit>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -111,6 +726,12 @@
                 <gloss>Story about Charlemagne and his family.</gloss>
               </catDesc>
             </category>
+            <category xml:id="genre_50182">
+              <catDesc>
+                <name type="main">Lai narratif</name>
+                <gloss>Narrative lai</gloss>
+              </catDesc>
+            </category>
             <category xml:id="genre_47474">
               <catDesc>
                 <name type="main">Other</name>
@@ -135,25 +756,6 @@
                 <gloss>mise en prose de chansons de geste ou romans en vers</gloss>
               </catDesc>
             </category>
-            <category xml:id="genre_46366">
-              <catDesc>
-                <name type="main">riddarasögur</name>
-                <name type="alt">chivalric sagas</name>
-                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
-              </catDesc>
-              <category xml:id="genre_46367">
-                <catDesc>
-                  <name type="main">riddarasögur indigenous</name>
-                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46370">
-                <catDesc>
-                  <name type="main">riddarasögur translated</name>
-                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
-                </catDesc>
-              </category>
-            </category>
             <category xml:id="genre_44128">
               <catDesc>
                 <name type="main">roman</name>
@@ -171,6 +773,25 @@
                 <catDesc>
                   <name type="main">Artusroman</name>
                   <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
+                </catDesc>
+              </category>
+            </category>
+            <category xml:id="genre_46366">
+              <catDesc>
+                <name type="main">riddarasögur</name>
+                <name type="alt">chivalric sagas</name>
+                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
+              </catDesc>
+              <category xml:id="genre_46370">
+                <catDesc>
+                  <name type="main">riddarasögur translated</name>
+                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46367">
+                <catDesc>
+                  <name type="main">riddarasögur indigenous</name>
+                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
                 </catDesc>
               </category>
             </category>

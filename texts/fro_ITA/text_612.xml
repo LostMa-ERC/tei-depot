@@ -26,7 +26,7 @@
       <publicationStmt>
         <publisher>LostMa ERC Project</publisher>
         <pubPlace>Paris</pubPlace>
-        <date>2025-05-07</date>
+        <date>2025-05-27</date>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
         </availability>
@@ -37,7 +37,203 @@
             <title type="main">Huon d'Auvergne</title>
           </title>
         </bibl>
-        <listWit/>
+        <listWit>
+          <witness xml:id="witness_54304">
+            <abbr type="siglum">B</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/74433"/>
+            <ref target="https://arlima.net/no/7679"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness B</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45540">
+                  <country corresp="#DE">Germany</country>
+                  <settlement>Berlin</settlement>
+                  <repository corresp="#respository_43997">Kupferstichkabinett</repository>
+                  <idno>78 D 8</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51439">
+                    <locusGrp>
+                      <locus from="1r" to="84v">1r-84v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate>Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54303">
+            <abbr type="siglum">Carcassonne</abbr>
+            <ref target="https://arlima.net/no/342"/>
+            <msDesc status="">
+              <note>Anglade, J., « Notice sur un manuscrit de Ugo d'Alvernia », Romania, 45, 1918-1919, p. 108-116. [Gallica] [GB] [HT] [IA] DOI: 10.3406/roma.1918.5149</note>
+              <msIdentifier>
+                <msName>Historical document of witness Carcassonne</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49941">
+                  <country/>
+                  <settlement/>
+                  <repository/>
+                  <idno/>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51428">
+                    <locusGrp>
+                      <locus from="? (Huon)" to="">? (Huon)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://arlima.net/no/342"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1401-01-01" notAfter="1500-12-31" cert="unknown"/>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54306">
+            <abbr type="siglum">P</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/74925"/>
+            <msDesc status="defective">
+              <note>La fin manque.</note>
+              <msIdentifier>
+                <msName>Historical document of witness P</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_46139">
+                  <country corresp="#IT">Italy</country>
+                  <settlement>Padua</settlement>
+                  <repository corresp="#respository_43961">Seminario di Padova</repository>
+                  <idno>Cod. 32</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51461">
+                    <locusGrp>
+                      <locus from="1r" to="117r">1r-117r</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1401-01-01" notAfter="1460-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54305">
+            <abbr type="siglum">Br</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/78647"/>
+            <msDesc status="fragmentary">
+              <note>14f., fragment.</note>
+              <msIdentifier>
+                <msName>Historical document of witness Br</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_46121">
+                  <country corresp="#IT">Italy</country>
+                  <settlement>Bologna</settlement>
+                  <repository corresp="#respository_43944">Biblioteca comunale dell'Archiginnasio</repository>
+                  <idno>B. 3489</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51450">
+                    <locusGrp>
+                      <locus from="1r" to="14v">1r-14v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1376-01-01" notAfter="1400-12-31" cert="unknown">RIALFRI</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54307">
+            <abbr type="siglum">T</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/74860"/>
+            <msDesc status="fragmentary">
+              <note>Fragment</note>
+              <msIdentifier>
+                <msName>Historical document of witness T</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_47261">
+                  <country corresp="#IT">Italy</country>
+                  <settlement>Turin</settlement>
+                  <repository corresp="#respository_43776">Biblioteca nazionale di Torino</repository>
+                  <idno>N. III. 19</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51472">
+                    <locusGrp>
+                      <locus from="1r" to="183v">1r-183v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://data.biblissima.fr/entity/Q277441"/>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/74860"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate>Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+        </listWit>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -111,6 +307,12 @@
                 <gloss>Story about Charlemagne and his family.</gloss>
               </catDesc>
             </category>
+            <category xml:id="genre_50182">
+              <catDesc>
+                <name type="main">Lai narratif</name>
+                <gloss>Narrative lai</gloss>
+              </catDesc>
+            </category>
             <category xml:id="genre_47474">
               <catDesc>
                 <name type="main">Other</name>
@@ -135,25 +337,6 @@
                 <gloss>mise en prose de chansons de geste ou romans en vers</gloss>
               </catDesc>
             </category>
-            <category xml:id="genre_46366">
-              <catDesc>
-                <name type="main">riddarasögur</name>
-                <name type="alt">chivalric sagas</name>
-                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
-              </catDesc>
-              <category xml:id="genre_46367">
-                <catDesc>
-                  <name type="main">riddarasögur indigenous</name>
-                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46370">
-                <catDesc>
-                  <name type="main">riddarasögur translated</name>
-                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
-                </catDesc>
-              </category>
-            </category>
             <category xml:id="genre_44128">
               <catDesc>
                 <name type="main">roman</name>
@@ -171,6 +354,25 @@
                 <catDesc>
                   <name type="main">Artusroman</name>
                   <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
+                </catDesc>
+              </category>
+            </category>
+            <category xml:id="genre_46366">
+              <catDesc>
+                <name type="main">riddarasögur</name>
+                <name type="alt">chivalric sagas</name>
+                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
+              </catDesc>
+              <category xml:id="genre_46370">
+                <catDesc>
+                  <name type="main">riddarasögur translated</name>
+                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46367">
+                <catDesc>
+                  <name type="main">riddarasögur indigenous</name>
+                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
                 </catDesc>
               </category>
             </category>

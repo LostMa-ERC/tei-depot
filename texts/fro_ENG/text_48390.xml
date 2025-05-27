@@ -26,7 +26,7 @@
       <publicationStmt>
         <publisher>LostMa ERC Project</publisher>
         <pubPlace>Paris</pubPlace>
-        <date>2025-05-07</date>
+        <date>2025-05-27</date>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
         </availability>
@@ -38,7 +38,202 @@
             <title type="alt">Roman de Tristan</title>
           </title>
         </bibl>
-        <listWit/>
+        <listWit>
+          <witness xml:id="witness_55205">
+            <abbr type="siglum">Sn</abbr>
+            <msDesc status="fragmentary">
+              <msIdentifier>
+                <msName>Historical document of witness Sn</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45354">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <repository corresp="#respository_43847">Bodleian Library</repository>
+                  <idno>MS. Fr. d. 16</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52746">
+                    <locusGrp>
+                      <locus from="? (Tristan)" to="">? (Tristan)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://data.biblissima.fr/w/Item:Q210840"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1201-01-01" notAfter="1220-12-31" cert="unknown">DEAF</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_55211">
+            <abbr type="siglum">T</abbr>
+            <ref target="https://jonas.irht.cnrs.fr/manuscrit/74141"/>
+            <msDesc status="fragmentary">
+              <msIdentifier>
+                <msName>Historical document of witness T</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45633">
+                  <country corresp="#IT">Italy</country>
+                  <settlement>Turin</settlement>
+                  <repository corresp="#respository_43926">Accademia delle scienze di Torino</repository>
+                  <idno>mazzo 813, fascicolo 43</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52747">
+                    <locusGrp>
+                      <locus from="? (Tristan)" to="">? (Tristan)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1201-01-01" notAfter="1250-12-31" cert="unknown">DEAF</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_55204">
+            <abbr type="siglum"></abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/40282"/>
+            <ref target="https://arlima.net/no/11888"/>
+            <msDesc status="fragmentary">
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45353">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <repository corresp="#respository_43847">Bodleian Library</repository>
+                  <idno>MS. Douce d. 6</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52745">
+                    <locusGrp>
+                      <locus from="1r" to="12va">1r-12va</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://data.biblissima.fr/w/Item:Q214410"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1261-01-01" notAfter="1270-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_55173">
+            <abbr type="siglum">Car</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/73300"/>
+            <msDesc status="fragmentary">
+              <msIdentifier>
+                <msName>Historical document of witness Car</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49572">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>Carlisle</settlement>
+                  <repository corresp="#respository_43832">Cumbria Record Office</repository>
+                  <idno>DCHA/11/2</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52744">
+                    <locusGrp>
+                      <locus from="? (Tristan)" to="">? (Tristan)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/73300"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1267-01-01" notAfter="1300-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_55172">
+            <abbr type="siglum">C</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/81167"/>
+            <ref target="https://arlima.net/no/8016"/>
+            <msDesc status="fragmentary">
+              <msIdentifier>
+                <msName>Historical document of witness C</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45276">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>Cambridge</settlement>
+                  <repository corresp="#respository_43816">University of Cambridge. Library</repository>
+                  <idno>MS Add. 2751/3</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52743">
+                    <locusGrp>
+                      <locus from="? (Tristan)" to="">? (Tristan)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://data.biblissima.fr/w/Item:Q269780"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1281-01-01" notAfter="1300-12-31" cert="unknown">Arlima, Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+        </listWit>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -112,6 +307,12 @@
                 <gloss>Story about Charlemagne and his family.</gloss>
               </catDesc>
             </category>
+            <category xml:id="genre_50182">
+              <catDesc>
+                <name type="main">Lai narratif</name>
+                <gloss>Narrative lai</gloss>
+              </catDesc>
+            </category>
             <category xml:id="genre_47474">
               <catDesc>
                 <name type="main">Other</name>
@@ -136,25 +337,6 @@
                 <gloss>mise en prose de chansons de geste ou romans en vers</gloss>
               </catDesc>
             </category>
-            <category xml:id="genre_46366">
-              <catDesc>
-                <name type="main">riddarasögur</name>
-                <name type="alt">chivalric sagas</name>
-                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
-              </catDesc>
-              <category xml:id="genre_46367">
-                <catDesc>
-                  <name type="main">riddarasögur indigenous</name>
-                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46370">
-                <catDesc>
-                  <name type="main">riddarasögur translated</name>
-                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
-                </catDesc>
-              </category>
-            </category>
             <category xml:id="genre_44128">
               <catDesc>
                 <name type="main">roman</name>
@@ -172,6 +354,25 @@
                 <catDesc>
                   <name type="main">Artusroman</name>
                   <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
+                </catDesc>
+              </category>
+            </category>
+            <category xml:id="genre_46366">
+              <catDesc>
+                <name type="main">riddarasögur</name>
+                <name type="alt">chivalric sagas</name>
+                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
+              </catDesc>
+              <category xml:id="genre_46370">
+                <catDesc>
+                  <name type="main">riddarasögur translated</name>
+                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46367">
+                <catDesc>
+                  <name type="main">riddarasögur indigenous</name>
+                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
                 </catDesc>
               </category>
             </category>

@@ -26,7 +26,7 @@
       <publicationStmt>
         <publisher>LostMa ERC Project</publisher>
         <pubPlace>Paris</pubPlace>
-        <date>2025-05-07</date>
+        <date>2025-05-27</date>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
         </availability>
@@ -37,7 +37,246 @@
             <title type="main">Siege de Barbastre</title>
           </title>
         </bibl>
-        <listWit/>
+        <listWit>
+          <witness xml:id="witness_50904">
+            <abbr type="siglum">D/H</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/30638"/>
+            <ref target="https://arlima.net/no/4661"/>
+            <msDesc status="">
+              <note>Perrier D</note>
+              <msIdentifier>
+                <msName>Historical document of witness D/H</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45587">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository corresp="#respository_43919">British library</repository>
+                  <idno>Harley MS 1321</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_49986">
+                    <locusGrp>
+                      <locus from="118r" to="133r">118r-133r</locus>
+                      <locus from="150r" to="165r">150r-165r</locus>
+                      <locus from="166r" to="181r">166r-181r</locus>
+                      <locus from="208r" to="214r">208r-214r</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://data.biblissima.fr/w/Item:Q272349"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1241-01-01" notAfter="1260-12-31" cert="unknown">milieu 13e</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_55087">
+            <abbr type="siglum">P</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/45611"/>
+            <ref target="https://arlima.net/no/2438"/>
+            <msDesc status="">
+              <note>Perrier P</note>
+              <msIdentifier>
+                <msName>Historical document of witness P</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45711">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 1448</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52450">
+                    <locusGrp>
+                      <locus from="115r" to="163r">115r-163r</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1241-01-01" notAfter="1260-12-31" cert="unknown">Allen</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_55084">
+            <abbr type="siglum">C/B</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/31250"/>
+            <ref target="https://arlima.net/no/4660"/>
+            <msDesc status="">
+              <note>Perrier C</note>
+              <msIdentifier>
+                <msName>Historical document of witness C/B</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45600">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository corresp="#respository_43919">British library</repository>
+                  <idno>Royal MS 20 B XIX</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52448">
+                    <locusGrp>
+                      <locus from="110v" to="152r">110v-152r</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1281-01-01" notAfter="1300-12-31" cert="unknown"/>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_55088">
+            <abbr type="siglum">L</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/45910"/>
+            <ref target="https://arlima.net/no/2437"/>
+            <msDesc status="">
+              <note>Perrier B</note>
+              <msIdentifier>
+                <msName>Historical document of witness L</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45877">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 24369</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52451">
+                    <locusGrp>
+                      <locus from="115v" to="156v">115v-156v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1301-01-01" notAfter="1320-12-31" cert="unknown">Allen</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_55086">
+            <abbr type="siglum">A/D</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/31259"/>
+            <ref target="https://arlima.net/no/3776"/>
+            <msDesc status="">
+              <note>Perrier A</note>
+              <msIdentifier>
+                <msName>Historical document of witness A/D</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45613">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository corresp="#respository_43919">British library</repository>
+                  <idno>Royal MS 20 D XI</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52449">
+                    <locusGrp>
+                      <locus from="216ra" to="240rb">216ra-240rb</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1301-01-01" notAfter="1350-12-31" cert="unknown"/>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_55083">
+            <abbr type="siglum"></abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/81633"/>
+            <msDesc status="fragmentary">
+              <note>Fragment décrit et édité par McMillan (1942-1943).</note>
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45237">
+                  <country corresp="#None">United States</country>
+                  <settlement>Chicago</settlement>
+                  <repository corresp="#respository_43797">University of Chicago</repository>
+                  <idno>708</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52447">
+                    <locusGrp>
+                      <locus from="? (Siege de Barbastre)" to="">? (Siege de Barbastre)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1201-01-01" notAfter="1300-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+        </listWit>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -111,6 +350,12 @@
                 <gloss>Story about Charlemagne and his family.</gloss>
               </catDesc>
             </category>
+            <category xml:id="genre_50182">
+              <catDesc>
+                <name type="main">Lai narratif</name>
+                <gloss>Narrative lai</gloss>
+              </catDesc>
+            </category>
             <category xml:id="genre_47474">
               <catDesc>
                 <name type="main">Other</name>
@@ -135,25 +380,6 @@
                 <gloss>mise en prose de chansons de geste ou romans en vers</gloss>
               </catDesc>
             </category>
-            <category xml:id="genre_46366">
-              <catDesc>
-                <name type="main">riddarasögur</name>
-                <name type="alt">chivalric sagas</name>
-                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
-              </catDesc>
-              <category xml:id="genre_46367">
-                <catDesc>
-                  <name type="main">riddarasögur indigenous</name>
-                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46370">
-                <catDesc>
-                  <name type="main">riddarasögur translated</name>
-                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
-                </catDesc>
-              </category>
-            </category>
             <category xml:id="genre_44128">
               <catDesc>
                 <name type="main">roman</name>
@@ -171,6 +397,25 @@
                 <catDesc>
                   <name type="main">Artusroman</name>
                   <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
+                </catDesc>
+              </category>
+            </category>
+            <category xml:id="genre_46366">
+              <catDesc>
+                <name type="main">riddarasögur</name>
+                <name type="alt">chivalric sagas</name>
+                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
+              </catDesc>
+              <category xml:id="genre_46370">
+                <catDesc>
+                  <name type="main">riddarasögur translated</name>
+                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46367">
+                <catDesc>
+                  <name type="main">riddarasögur indigenous</name>
+                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
                 </catDesc>
               </category>
             </category>

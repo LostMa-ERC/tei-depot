@@ -26,7 +26,7 @@
       <publicationStmt>
         <publisher>LostMa ERC Project</publisher>
         <pubPlace>Paris</pubPlace>
-        <date>2025-05-07</date>
+        <date>2025-05-27</date>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
         </availability>
@@ -37,7 +37,516 @@
             <title type="main">Erec et Enide</title>
           </title>
         </bibl>
-        <listWit/>
+        <listWit>
+          <witness xml:id="witness_53843">
+            <abbr type="siglum">H</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/45613"/>
+            <ref target="https://arlima.net/no/529"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness H</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45757">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 1450</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51042">
+                    <locusGrp>
+                      <locus from="140" to="158">140-158</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1226-01-01" notAfter="1250-12-31" cert="unknown">Jonas (Jung, 1996)</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53842">
+            <abbr type="siglum">E</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/75478"/>
+            <ref target="https://arlima.net/no/4477"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness E</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45708">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 1420</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51041">
+                    <locusGrp>
+                      <locus from="1ra" to="28vc">1ra-28vc</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1241-01-01" notAfter="1260-12-31" cert="unknown">Arlima</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53837">
+            <abbr type="siglum">A</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/14805"/>
+            <ref target="https://arlima.net/no/510"/>
+            <msDesc status="">
+              <note>Scribe: Colin li fruitiers</note>
+              <msIdentifier>
+                <msName>Historical document of witness A</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45094">
+                  <country corresp="#FR">France</country>
+                  <settlement>Chantilly</settlement>
+                  <repository corresp="#respository_43840">Musée Condé, Château de Chantilly</repository>
+                  <idno>Ms 472</idno>
+                  <altIdentifier>
+                    <idno>Ms 626</idno>
+                  </altIdentifier>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51036">
+                    <locusGrp>
+                      <locus from="78r" to="99v">78r-99v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1251-01-01" notAfter="1300-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53844">
+            <abbr type="siglum">V</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/45916"/>
+            <ref target="https://arlima.net/no/5200"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness V</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45952">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 24403</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51043">
+                    <locusGrp>
+                      <locus from="119ra" to="174bis">119ra-174bis</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1281-01-01" notAfter="1300-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53841">
+            <abbr type="siglum">B</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/45604"/>
+            <ref target="https://arlima.net/no/4626"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness B</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45982">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 1376</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51040">
+                    <locusGrp>
+                      <locus from="95ra" to="144rb">95ra-144rb</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1281-01-01" notAfter="1320-12-31" cert="unknown">Arlima</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53846">
+            <abbr type="siglum">P</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/45527"/>
+            <ref target="https://arlima.net/no/527"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness P</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45925">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 375</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51044">
+                    <locusGrp>
+                      <locus from="281va" to="295va">281va-295va</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate>Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53838">
+            <abbr type="siglum"></abbr>
+            <ref target="https://jonas.irht.cnrs.fr/manuscrit/30839"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45588">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository corresp="#respository_43919">British library</repository>
+                  <idno>Harley MS 4971</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51037">
+                    <locusGrp>
+                      <locus from="? (Erec et Enide)" to="">? (Erec et Enide)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1301-01-01" notAfter="1400-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53847">
+            <abbr type="siglum">C</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/45556"/>
+            <ref target="https://arlima.net/no/528"/>
+            <msDesc status="complete">
+              <msIdentifier>
+                <msName>Historical document of witness C</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45743">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 794</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51045">
+                    <locusGrp>
+                      <locus from="1ra" to="27ra">1ra-27ra</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1226-01-01" notAfter="1235-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53848">
+            <abbr type="siglum">N</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/83470"/>
+            <ref target="https://arlima.net/no/10482"/>
+            <msDesc status="fragmentary">
+              <msIdentifier>
+                <msName>Historical document of witness N</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49366">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>NAF 29060</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51046">
+                    <locusGrp>
+                      <locus from="1" to="?">1-?</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/83470"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1181-01-01" notAfter="1220-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53849">
+            <abbr type="siglum">Bsg</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/48954"/>
+            <ref target="https://arlima.net/no/11781"/>
+            <msDesc status="fragmentary">
+              <note>constaté manquant en 1982 (Arlima); cf. Fragments of Erec et Enide and Their Relation to the Manuscript Tradition, Jean Misrahi, PMLA, Vol. 56, No. 4 (Dec., 1941), pp. 951-961, Stable URL: https://www.jstor.org/stable/459012</note>
+              <msIdentifier>
+                <msName>Historical document of witness Bsg</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49443">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43849">Bibliothèque Sainte-Geneviève</repository>
+                  <idno>Ms. 1269</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51047">
+                    <locusGrp>
+                      <locus from="garde fin" to="">garde fin</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/48954"/>
+                      <ref target="https://arlima.net/no/11781"/>
+                      <ref target="https://data.biblissima.fr/w/Item:Q276259"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1181-01-01" notAfter="1500-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53835">
+            <abbr type="siglum"></abbr>
+            <ref target="https://jonas.irht.cnrs.fr/manuscrit/10722"/>
+            <msDesc status="fragmentary">
+              <note>Le bifeuillet d'Amsterdam a servi de couverture de dossier d'archives. Il provient d'un registre de comptes de l'abbaye de Heylissem (Notre-Dame de Helichem, abbaye de Prémontrés, fondée près de Tirlement, Brabant, au diocèse de Liège, vers 1130)</note>
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45432">
+                  <country corresp="#NL">Netherlands</country>
+                  <settlement>Amsterdam</settlement>
+                  <repository corresp="#respository_43887">Universiteitsbibliotheek Amsterdam</repository>
+                  <idno>446</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51034">
+                    <locusGrp>
+                      <locus from="? (Erec et Enide)" to="">? (Erec et Enide)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1201-01-01" notAfter="1300-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53840">
+            <abbr type="siglum">Laigle</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/72931"/>
+            <msDesc status="fragmentary">
+              <note>2 fragments d'un même feuillet, en tout 35 vers : vv. 979-984, 1007-1018, 1041-1052 et 1080-1086 de l'éd. Foerster ou Carroll, 1987; éd. par Thomas Antoine. Fragmant de l'Érec de Crétien de Troies. In: Romania, tome 43 n°170, 1914. pp. 253-254, DOI : https://doi.org/10.3406/roma.1914.4795</note>
+              <msIdentifier>
+                <msName>Historical document of witness Laigle</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_47313">
+                  <country corresp="#FR">France</country>
+                  <settlement>Louvigny</settlement>
+                  <repository corresp="#respository_43977">Collection particulière Joseph Decaëns</repository>
+                  <collection>Collection particulière Joseph Decaëns</collection>
+                  <idno/>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51038">
+                    <locusGrp>
+                      <locus from="?" to="">?</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/72931"/>
+                      <ref target="https://data.biblissima.fr/entity/Q273281"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1201-01-01" notAfter="1300-12-31" cert="unknown">Thomas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53836">
+            <abbr type="siglum">Mons</abbr>
+            <ref target="https://jonas.irht.cnrs.fr/manuscrit/10722"/>
+            <ref target="https://arlima.net/no/11784"/>
+            <msDesc status="fragmentary">
+              <msIdentifier>
+                <msName>Historical document of witness Mons</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45523">
+                  <country corresp="#BE">Belgium</country>
+                  <settlement>Brussels</settlement>
+                  <repository corresp="#respository_43904">Bibliothèque royale de Belgique</repository>
+                  <idno>Ms. IV 837-45</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51035">
+                    <locusGrp>
+                      <locus from="? (Erec et Enide)" to="">? (Erec et Enide)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1201-01-01" notAfter="1300-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+        </listWit>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -111,6 +620,12 @@
                 <gloss>Story about Charlemagne and his family.</gloss>
               </catDesc>
             </category>
+            <category xml:id="genre_50182">
+              <catDesc>
+                <name type="main">Lai narratif</name>
+                <gloss>Narrative lai</gloss>
+              </catDesc>
+            </category>
             <category xml:id="genre_47474">
               <catDesc>
                 <name type="main">Other</name>
@@ -135,25 +650,6 @@
                 <gloss>mise en prose de chansons de geste ou romans en vers</gloss>
               </catDesc>
             </category>
-            <category xml:id="genre_46366">
-              <catDesc>
-                <name type="main">riddarasögur</name>
-                <name type="alt">chivalric sagas</name>
-                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
-              </catDesc>
-              <category xml:id="genre_46367">
-                <catDesc>
-                  <name type="main">riddarasögur indigenous</name>
-                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46370">
-                <catDesc>
-                  <name type="main">riddarasögur translated</name>
-                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
-                </catDesc>
-              </category>
-            </category>
             <category xml:id="genre_44128">
               <catDesc>
                 <name type="main">roman</name>
@@ -171,6 +667,25 @@
                 <catDesc>
                   <name type="main">Artusroman</name>
                   <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
+                </catDesc>
+              </category>
+            </category>
+            <category xml:id="genre_46366">
+              <catDesc>
+                <name type="main">riddarasögur</name>
+                <name type="alt">chivalric sagas</name>
+                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
+              </catDesc>
+              <category xml:id="genre_46370">
+                <catDesc>
+                  <name type="main">riddarasögur translated</name>
+                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46367">
+                <catDesc>
+                  <name type="main">riddarasögur indigenous</name>
+                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
                 </catDesc>
               </category>
             </category>

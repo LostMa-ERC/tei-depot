@@ -26,7 +26,7 @@
       <publicationStmt>
         <publisher>LostMa ERC Project</publisher>
         <pubPlace>Paris</pubPlace>
-        <date>2025-05-07</date>
+        <date>2025-05-27</date>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
         </availability>
@@ -37,7 +37,861 @@
             <title type="main">Aliscans</title>
           </title>
         </bibl>
-        <listWit/>
+        <listWit>
+          <witness xml:id="witness_54160">
+            <abbr type="siglum">P (Rolin)</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/72934"/>
+            <ref target="https://arlima.net/no/7216"/>
+            <msDesc status="">
+              <note>Anc. ms. Cheltenham, Sir Thomas Phillipps, n° 25074.</note>
+              <msIdentifier>
+                <msName>Historical document of witness P (Rolin)</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45356">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <repository corresp="#respository_43847">Bodleian Library</repository>
+                  <idno>MS. Fr. e. 32</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52407">
+                    <locusGrp>
+                      <locus from="28r" to="147v">28r-147v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://data.biblissima.fr/w/Item:Q274507"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1191-01-01" notAfter="1220-12-31" cert="unknown">Arlima</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54173">
+            <abbr type="siglum">ars/a (Rolin)</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/43080"/>
+            <ref target="https://arlima.net/no/7214"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness ars/a (Rolin)</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45648">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <collection>Arsenal</collection>
+                  <idno>Ms-6562</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52419">
+                    <locusGrp>
+                      <locus from="1r" to="118v">1r-118v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1221-01-01" notAfter="1230-12-31" cert="unknown">Allen</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54219">
+            <abbr type="siglum">F/d (Rolin)</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/45682"/>
+            <ref target="https://arlima.net/no/5163"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness F/d (Rolin)</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_46031">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 2494</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52463">
+                    <locusGrp>
+                      <locus from="1r" to="165v">1r-165v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1226-01-01" notAfter="1250-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54185">
+            <abbr type="siglum">D/e (Rolin)</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/45611"/>
+            <ref target="https://arlima.net/no/2438"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness D/e (Rolin)</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45711">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 1448</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52430">
+                    <locusGrp>
+                      <locus from="216r" to="272r">216r-272r</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1241-01-01" notAfter="1260-12-31" cert="unknown">Allen</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54250">
+            <abbr type="siglum">A1/A (Rolin)</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/45550"/>
+            <ref target="https://arlima.net/no/2330"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness A1/A (Rolin)</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45746">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 774</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52496">
+                    <locusGrp>
+                      <locus from="81r" to="98v">81r-98v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1251-01-01" notAfter="1300-12-31" cert="unknown">Allen</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54054">
+            <abbr type="siglum">E/C (Rolin)</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/8164"/>
+            <ref target="https://arlima.net/no/7215"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness E/C (Rolin)</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45669">
+                  <country corresp="#CH">Switzerland</country>
+                  <settlement>Bern</settlement>
+                  <repository corresp="#respository_43744">Bürgerbibliothek Bern</repository>
+                  <idno>Cod. 296</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52308">
+                    <locusGrp>
+                      <locus from="36v" to="">36v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1251-01-01" notAfter="1300-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54148">
+            <abbr type="siglum">A4/T (Rolin)</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/35143"/>
+            <ref target="https://arlima.net/no/5828"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness A4/T (Rolin)</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45293">
+                  <country corresp="#IT">Italy</country>
+                  <settlement>Milan</settlement>
+                  <repository corresp="#respository_43823">Biblioteca trivulziana</repository>
+                  <idno>1025</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52396">
+                    <locusGrp>
+                      <locus from="? (Aliscans)" to="">? (Aliscans)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1267-01-01" notAfter="1300-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54077">
+            <abbr type="siglum">C/f (Rolin)</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/9587"/>
+            <ref target="https://arlima.net/no/5829"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness C/f (Rolin)</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_46157">
+                  <country corresp="#FR">France</country>
+                  <settlement>Boulogne-sur-Mer</settlement>
+                  <repository corresp="#respository_43868">Bibliothèque Municipale</repository>
+                  <collection>Saint Bertin</collection>
+                  <idno>192</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52330">
+                    <locusGrp>
+                      <locus from="93r" to="140r">93r-140r</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate>Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54245">
+            <abbr type="siglum">A3/B (Rolin)</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/45523"/>
+            <ref target="https://arlima.net/no/633"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness A3/B (Rolin)</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45930">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 368</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52485">
+                    <locusGrp>
+                      <locus from="189vc" to="218rc">189vc-218rc</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1301-01-01" notAfter="1313-12-31" cert="unknown">Arlima/Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54207">
+            <abbr type="siglum">B2/V (Rolin)</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/45910"/>
+            <ref target="https://arlima.net/no/2437"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness B2/V (Rolin)</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45877">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 24369</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52452">
+                    <locusGrp>
+                      <locus from="197r" to="242v">197r-242v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1301-01-01" notAfter="1320-12-31" cert="unknown">Allen</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54137">
+            <abbr type="siglum">B1/L (Rolin)</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/31259"/>
+            <ref target="https://arlima.net/no/3776"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness B1/L (Rolin)</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45613">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository corresp="#respository_43919">British library</repository>
+                  <idno>Royal MS 20 D XI</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52385">
+                    <locusGrp>
+                      <locus from="140vc" to="166r">140vc-166r</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1301-01-01" notAfter="1350-12-31" cert="unknown">Allen</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54284">
+            <abbr type="siglum">M</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/68328"/>
+            <ref target="https://arlima.net/no/4573"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness M</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45120">
+                  <country corresp="#IT">Italy</country>
+                  <settlement>Venice</settlement>
+                  <repository corresp="#respository_43854">Biblioteca nazionale marciana</repository>
+                  <idno>fr., Z. 8 (= 52)</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52541">
+                    <locusGrp>
+                      <locus from="? (Aliscans)" to="">? (Aliscans)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1351-01-01" notAfter="1400-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54231">
+            <abbr type="siglum"></abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/75176"/>
+            <msDesc status="">
+              <note>Extrait</note>
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_46033">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 2861</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52474">
+                    <locusGrp>
+                      <locus from="203r" to="v">203r-v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1461-01-01" notAfter="1470-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54257">
+            <abbr type="siglum"></abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/72901"/>
+            <ref target="https://arlima.net/no/2825"/>
+            <msDesc status="">
+              <note>citation de 17v dans le Guillaume d'Orange en prose</note>
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45742">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 796</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52507">
+                    <locusGrp>
+                      <locus from="242vb" to="288ra">242vb-288ra</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate>Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54195">
+            <abbr type="siglum">A2/b (Rolin)</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/45612"/>
+            <ref target="https://arlima.net/no/2460"/>
+            <msDesc status="defective">
+              <note>Incomplet du début et de la fin.</note>
+              <msIdentifier>
+                <msName>Historical document of witness A2/b (Rolin)</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45816">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 1449</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52441">
+                    <locusGrp>
+                      <locus from="92r" to="142v">92r-142v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1241-01-01" notAfter="1260-12-31" cert="unknown">Allen</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54273">
+            <abbr type="siglum"></abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/13292"/>
+            <msDesc status="fragmentary">
+              <note>Ensemble de fragments provenant d'un même ms. Voir la note de M. Murjanoff et les planches des fragments des 2 recueils qui l'accompagne. Les fragments de Cambridge ont été retrouvés dans un lot de mss. hébraïques provenant du Caire en 1897 ; les fragments de Saint-Pétersbourg ont aussi été retrouvés dans un fonds oriental.</note>
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49752">
+                  <country corresp="#RU">Russia</country>
+                  <settlement>St Petersburg</settlement>
+                  <repository corresp="#respository_43737">National Library of Russia</repository>
+                  <idno>fr. f° v. XIV. 6</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52530">
+                    <locusGrp>
+                      <locus from="? (Aliscans)" to="">? (Aliscans)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/13292"/>
+                      <ref target="https://arca.irht.cnrs.fr/ark:/63955/md21td96nq96"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1201-01-01" notAfter="1250-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54090">
+            <abbr type="siglum"></abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/13292"/>
+            <ref target="https://arlima.net/no/8018"/>
+            <msDesc status="fragmentary">
+              <note>Ensemble de fragments provenant d'un même ms. Voir la note de M. Murjanoff et les planches des fragments des 2 recueils qui l'accompagne. Les fragments de Cambridge ont été retrouvés dans un lot de mss. hébraïques provenant du Caire en 1897 ; les fragments de Saint-Pétersbourg ont aussi été retrouvés dans un fonds oriental.</note>
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45272">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>Cambridge</settlement>
+                  <repository corresp="#respository_43816">University of Cambridge. Library</repository>
+                  <idno>MS Add. 2751/4</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52341">
+                    <locusGrp>
+                      <locus from="? (Aliscans)" to="">? (Aliscans)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://data.biblissima.fr/w/Item:Q269749"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1201-01-01" notAfter="1250-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54125">
+            <abbr type="siglum"></abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/73182"/>
+            <msDesc status="fragmentary">
+              <note>Fragment de deux feuillets</note>
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_46126">
+                  <country corresp="#PT">Portugal</country>
+                  <settlement>Lisbon</settlement>
+                  <repository corresp="#respository_43950">Biblioteca nacional Portugal</repository>
+                  <idno>258,42</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52374">
+                    <locusGrp>
+                      <locus from="1ra" to="2ra">1ra-2ra</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1201-01-01" notAfter="1300-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54065">
+            <abbr type="siglum"></abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/83877"/>
+            <msDesc status="fragmentary">
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_48578">
+                  <country corresp="#IT">Italy</country>
+                  <settlement>Bologna</settlement>
+                  <repository corresp="#respository_43963">Archivio di stato di Bologna</repository>
+                  <idno>fonds principal mem. Provv. reg. 786</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52319">
+                    <locusGrp>
+                      <locus from="? (Aliscans)" to="">? (Aliscans)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/83877"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1201-01-01" notAfter="1300-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54112">
+            <abbr type="siglum"></abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/78275"/>
+            <msDesc status="fragmentary">
+              <note>Fragment de deux feuillets</note>
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45836">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>Lincoln</settlement>
+                  <repository corresp="#respository_43758">Lincolnshire Archives Office</repository>
+                  <idno>Maddison Deposit, 2/6</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52363">
+                    <locusGrp>
+                      <locus from="? (Aliscans)" to="">? (Aliscans)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1201-01-01" notAfter="1400-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54265">
+            <abbr type="siglum"></abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/48075"/>
+            <ref target="https://arlima.net/no/2335"/>
+            <msDesc status="fragmentary">
+              <note>Quatre fragments.</note>
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_46067">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>NAF 934</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52518">
+                    <locusGrp>
+                      <locus from="4r" to="7v">4r-7v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1301-01-01" notAfter="1400-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54101">
+            <abbr type="siglum"></abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/16878"/>
+            <msDesc status="fragmentary">
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45714">
+                  <country corresp="#FR">France</country>
+                  <settlement>Clermont-Ferrand</settlement>
+                  <repository corresp="#respository_43747">Bibliothèque municipale et interuniversitaire</repository>
+                  <idno>Ms 279</idno>
+                  <altIdentifier>
+                    <idno>206 I</idno>
+                  </altIdentifier>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52352">
+                    <locusGrp>
+                      <locus from="? (Aliscans)" to="">? (Aliscans)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1401-01-01" notAfter="1420-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+        </listWit>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -111,6 +965,12 @@
                 <gloss>Story about Charlemagne and his family.</gloss>
               </catDesc>
             </category>
+            <category xml:id="genre_50182">
+              <catDesc>
+                <name type="main">Lai narratif</name>
+                <gloss>Narrative lai</gloss>
+              </catDesc>
+            </category>
             <category xml:id="genre_47474">
               <catDesc>
                 <name type="main">Other</name>
@@ -135,25 +995,6 @@
                 <gloss>mise en prose de chansons de geste ou romans en vers</gloss>
               </catDesc>
             </category>
-            <category xml:id="genre_46366">
-              <catDesc>
-                <name type="main">riddarasögur</name>
-                <name type="alt">chivalric sagas</name>
-                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
-              </catDesc>
-              <category xml:id="genre_46367">
-                <catDesc>
-                  <name type="main">riddarasögur indigenous</name>
-                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46370">
-                <catDesc>
-                  <name type="main">riddarasögur translated</name>
-                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
-                </catDesc>
-              </category>
-            </category>
             <category xml:id="genre_44128">
               <catDesc>
                 <name type="main">roman</name>
@@ -171,6 +1012,25 @@
                 <catDesc>
                   <name type="main">Artusroman</name>
                   <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
+                </catDesc>
+              </category>
+            </category>
+            <category xml:id="genre_46366">
+              <catDesc>
+                <name type="main">riddarasögur</name>
+                <name type="alt">chivalric sagas</name>
+                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
+              </catDesc>
+              <category xml:id="genre_46370">
+                <catDesc>
+                  <name type="main">riddarasögur translated</name>
+                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46367">
+                <catDesc>
+                  <name type="main">riddarasögur indigenous</name>
+                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
                 </catDesc>
               </category>
             </category>

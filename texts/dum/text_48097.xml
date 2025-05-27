@@ -38,7 +38,7 @@
       <publicationStmt>
         <publisher>LostMa ERC Project</publisher>
         <pubPlace>Paris</pubPlace>
-        <date>2025-05-07</date>
+        <date>2025-05-27</date>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
         </availability>
@@ -58,16 +58,17 @@
                 <msName>Historical document of witness H48</msName>
               </msIdentifier>
               <msPart>
-                <msIdentifier corresp="#document_48100">
+                <msIdentifier corresp="#document_48099">
                   <country corresp="#DE">Germany</country>
-                  <settlement>Mengeringhausen</settlement>
-                  <repository corresp="#respository_48443">Stadtarchiv Mengeringhausen</repository>
+                  <settlement>Münster</settlement>
+                  <repository corresp="#respository_48442">Studien- und Zentralbibliothek der Franziskaner</repository>
                   <idno/>
                 </msIdentifier>
                 <msContents>
-                  <msItem xml:id="part_48106">
+                  <msItem xml:id="part_48105">
                     <locusGrp>
-                      <locus from="6r" to="6v">6r-6v</locus>
+                      <locus from="8r" to="8v">8r-8v</locus>
+                      <locus from="38r" to="38v">38r-38v</locus>
                     </locusGrp>
                     <textLang mainLang="Vlaams" corresp="#scripta_46305">Dialect of Flanders.</textLang>
                   </msItem>
@@ -174,17 +175,16 @@
                 <msName>Historical document of witness H48</msName>
               </msIdentifier>
               <msPart>
-                <msIdentifier corresp="#document_48099">
+                <msIdentifier corresp="#document_48100">
                   <country corresp="#DE">Germany</country>
-                  <settlement>Münster</settlement>
-                  <repository corresp="#respository_48442">Studien- und Zentralbibliothek der Franziskaner</repository>
+                  <settlement>Mengeringhausen</settlement>
+                  <repository corresp="#respository_48443">Stadtarchiv Mengeringhausen</repository>
                   <idno/>
                 </msIdentifier>
                 <msContents>
-                  <msItem xml:id="part_48105">
+                  <msItem xml:id="part_48106">
                     <locusGrp>
-                      <locus from="8r" to="8v">8r-8v</locus>
-                      <locus from="38r" to="38v">38r-38v</locus>
+                      <locus from="6r" to="6v">6r-6v</locus>
                     </locusGrp>
                     <textLang mainLang="Vlaams" corresp="#scripta_46305">Dialect of Flanders.</textLang>
                   </msItem>
@@ -364,6 +364,12 @@
                 <gloss>Story about Charlemagne and his family.</gloss>
               </catDesc>
             </category>
+            <category xml:id="genre_50182">
+              <catDesc>
+                <name type="main">Lai narratif</name>
+                <gloss>Narrative lai</gloss>
+              </catDesc>
+            </category>
             <category xml:id="genre_47474">
               <catDesc>
                 <name type="main">Other</name>
@@ -388,25 +394,6 @@
                 <gloss>mise en prose de chansons de geste ou romans en vers</gloss>
               </catDesc>
             </category>
-            <category xml:id="genre_46366">
-              <catDesc>
-                <name type="main">riddarasögur</name>
-                <name type="alt">chivalric sagas</name>
-                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
-              </catDesc>
-              <category xml:id="genre_46367">
-                <catDesc>
-                  <name type="main">riddarasögur indigenous</name>
-                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46370">
-                <catDesc>
-                  <name type="main">riddarasögur translated</name>
-                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
-                </catDesc>
-              </category>
-            </category>
             <category xml:id="genre_44128">
               <catDesc>
                 <name type="main">roman</name>
@@ -424,6 +411,25 @@
                 <catDesc>
                   <name type="main">Artusroman</name>
                   <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
+                </catDesc>
+              </category>
+            </category>
+            <category xml:id="genre_46366">
+              <catDesc>
+                <name type="main">riddarasögur</name>
+                <name type="alt">chivalric sagas</name>
+                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
+              </catDesc>
+              <category xml:id="genre_46370">
+                <catDesc>
+                  <name type="main">riddarasögur translated</name>
+                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46367">
+                <catDesc>
+                  <name type="main">riddarasögur indigenous</name>
+                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
                 </catDesc>
               </category>
             </category>

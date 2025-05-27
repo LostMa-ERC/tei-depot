@@ -38,7 +38,7 @@
       <publicationStmt>
         <publisher>LostMa ERC Project</publisher>
         <pubPlace>Paris</pubPlace>
-        <date>2025-05-07</date>
+        <date>2025-05-27</date>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
         </availability>
@@ -58,16 +58,16 @@
                 <msName>Historical document of witness H14</msName>
               </msIdentifier>
               <msPart>
-                <msIdentifier corresp="#document_47930">
+                <msIdentifier corresp="#document_47931">
                   <country corresp="#BE">Belgium</country>
-                  <settlement>Brussels</settlement>
-                  <repository corresp="#respository_43904">Bibliothèque royale de Belgique</repository>
-                  <idno>Ms. 19613</idno>
+                  <settlement>Ghent</settlement>
+                  <repository corresp="#respository_43787">Rijksuniversiteit te Gent. Bibliotheek</repository>
+                  <idno>1643</idno>
                 </msIdentifier>
                 <msContents>
-                  <msItem xml:id="part_47934">
+                  <msItem xml:id="part_47936">
                     <locusGrp>
-                      <locus from="1r" to="6v">1r-6v</locus>
+                      <locus from="1r" to="2v">1r-2v</locus>
                     </locusGrp>
                     <textLang mainLang="Brabants" corresp="#scripta_46312">Dialect of Brabant.</textLang>
                   </msItem>
@@ -116,16 +116,16 @@
                 <msName>Historical document of witness H14</msName>
               </msIdentifier>
               <msPart>
-                <msIdentifier corresp="#document_47931">
+                <msIdentifier corresp="#document_47930">
                   <country corresp="#BE">Belgium</country>
-                  <settlement>Ghent</settlement>
-                  <repository corresp="#respository_43787">Rijksuniversiteit te Gent. Bibliotheek</repository>
-                  <idno>1643</idno>
+                  <settlement>Brussels</settlement>
+                  <repository corresp="#respository_43904">Bibliothèque royale de Belgique</repository>
+                  <idno>Ms. 19613</idno>
                 </msIdentifier>
                 <msContents>
-                  <msItem xml:id="part_47936">
+                  <msItem xml:id="part_47934">
                     <locusGrp>
-                      <locus from="1r" to="2v">1r-2v</locus>
+                      <locus from="1r" to="6v">1r-6v</locus>
                     </locusGrp>
                     <textLang mainLang="Brabants" corresp="#scripta_46312">Dialect of Brabant.</textLang>
                   </msItem>
@@ -307,6 +307,12 @@
                 <gloss>Story about Charlemagne and his family.</gloss>
               </catDesc>
             </category>
+            <category xml:id="genre_50182">
+              <catDesc>
+                <name type="main">Lai narratif</name>
+                <gloss>Narrative lai</gloss>
+              </catDesc>
+            </category>
             <category xml:id="genre_47474">
               <catDesc>
                 <name type="main">Other</name>
@@ -331,25 +337,6 @@
                 <gloss>mise en prose de chansons de geste ou romans en vers</gloss>
               </catDesc>
             </category>
-            <category xml:id="genre_46366">
-              <catDesc>
-                <name type="main">riddarasögur</name>
-                <name type="alt">chivalric sagas</name>
-                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
-              </catDesc>
-              <category xml:id="genre_46367">
-                <catDesc>
-                  <name type="main">riddarasögur indigenous</name>
-                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46370">
-                <catDesc>
-                  <name type="main">riddarasögur translated</name>
-                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
-                </catDesc>
-              </category>
-            </category>
             <category xml:id="genre_44128">
               <catDesc>
                 <name type="main">roman</name>
@@ -367,6 +354,25 @@
                 <catDesc>
                   <name type="main">Artusroman</name>
                   <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
+                </catDesc>
+              </category>
+            </category>
+            <category xml:id="genre_46366">
+              <catDesc>
+                <name type="main">riddarasögur</name>
+                <name type="alt">chivalric sagas</name>
+                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
+              </catDesc>
+              <category xml:id="genre_46370">
+                <catDesc>
+                  <name type="main">riddarasögur translated</name>
+                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46367">
+                <catDesc>
+                  <name type="main">riddarasögur indigenous</name>
+                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
                 </catDesc>
               </category>
             </category>

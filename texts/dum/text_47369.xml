@@ -38,7 +38,7 @@
       <publicationStmt>
         <publisher>LostMa ERC Project</publisher>
         <pubPlace>Paris</pubPlace>
-        <date>2025-05-07</date>
+        <date>2025-05-27</date>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
         </availability>
@@ -367,17 +367,17 @@
                 <msName>Historical document of witness H51</msName>
               </msIdentifier>
               <msPart>
-                <msIdentifier corresp="#document_47391">
-                  <country corresp="#BE">Belgium</country>
-                  <settlement>Ghent</settlement>
-                  <repository corresp="#respository_47350">Koninklijke academie voor Nederlandse taal en letteren</repository>
-                  <idno>7 bis b</idno>
+                <msIdentifier corresp="#document_47401">
+                  <country corresp="#DE">Germany</country>
+                  <settlement>Xanten</settlement>
+                  <repository corresp="#respository_47524">Stiftsbibliothek</repository>
+                  <idno>41</idno>
                 </msIdentifier>
                 <msContents>
-                  <msItem xml:id="part_47393">
+                  <msItem xml:id="part_47404">
                     <locusGrp>
-                      <locus from="1r" to="1v">1r-1v</locus>
-                      <locus from="2r" to="2v">2r-2v</locus>
+                      <locus from="1r" to="2v">1r-2v</locus>
+                      <locus from="3r" to="3v">3r-3v</locus>
                     </locusGrp>
                     <textLang mainLang="Brabants" corresp="#scripta_46312">Dialect of Brabant.</textLang>
                   </msItem>
@@ -420,12 +420,9 @@
                 </decoDesc>
               </physDesc>
             </msDesc>
-          </witness>
-          <witness xml:id="witness_47399">
-            <abbr type="siglum">H51B</abbr>
             <msDesc status="fragmentary">
               <msIdentifier>
-                <msName>Historical document of witness H51B</msName>
+                <msName>Historical document of witness H51</msName>
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_47395">
@@ -480,26 +477,22 @@
                 </decoDesc>
               </physDesc>
             </msDesc>
-          </witness>
-          <witness xml:id="witness_47403">
-            <abbr type="siglum">H51C</abbr>
-            <ref target="https://www.handschriftencensus.de/20261"/>
             <msDesc status="fragmentary">
               <msIdentifier>
-                <msName>Historical document of witness H51C</msName>
+                <msName>Historical document of witness H51</msName>
               </msIdentifier>
               <msPart>
-                <msIdentifier corresp="#document_47401">
-                  <country corresp="#DE">Germany</country>
-                  <settlement>Xanten</settlement>
-                  <repository corresp="#respository_47524">Stiftsbibliothek</repository>
-                  <idno>41</idno>
+                <msIdentifier corresp="#document_47391">
+                  <country corresp="#BE">Belgium</country>
+                  <settlement>Ghent</settlement>
+                  <repository corresp="#respository_47350">Koninklijke academie voor Nederlandse taal en letteren</repository>
+                  <idno>7 bis b</idno>
                 </msIdentifier>
                 <msContents>
-                  <msItem xml:id="part_47404">
+                  <msItem xml:id="part_47393">
                     <locusGrp>
-                      <locus from="1r" to="2v">1r-2v</locus>
-                      <locus from="3r" to="3v">3r-3v</locus>
+                      <locus from="1r" to="1v">1r-1v</locus>
+                      <locus from="2r" to="2v">2r-2v</locus>
                     </locusGrp>
                     <textLang mainLang="Brabants" corresp="#scripta_46312">Dialect of Brabant.</textLang>
                   </msItem>
@@ -770,8 +763,8 @@
                   <supportDesc material="perg">
                     <extent>
                       <dimensions unit="millimeters" type="written">
-                        <height>NA</height>
-                        <width>NA</width>
+                        <height/>
+                        <width/>
                       </dimensions>
                     </extent>
                   </supportDesc>
@@ -865,6 +858,12 @@
                 <gloss>Story about Charlemagne and his family.</gloss>
               </catDesc>
             </category>
+            <category xml:id="genre_50182">
+              <catDesc>
+                <name type="main">Lai narratif</name>
+                <gloss>Narrative lai</gloss>
+              </catDesc>
+            </category>
             <category xml:id="genre_47474">
               <catDesc>
                 <name type="main">Other</name>
@@ -889,25 +888,6 @@
                 <gloss>mise en prose de chansons de geste ou romans en vers</gloss>
               </catDesc>
             </category>
-            <category xml:id="genre_46366">
-              <catDesc>
-                <name type="main">riddarasögur</name>
-                <name type="alt">chivalric sagas</name>
-                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
-              </catDesc>
-              <category xml:id="genre_46367">
-                <catDesc>
-                  <name type="main">riddarasögur indigenous</name>
-                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46370">
-                <catDesc>
-                  <name type="main">riddarasögur translated</name>
-                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
-                </catDesc>
-              </category>
-            </category>
             <category xml:id="genre_44128">
               <catDesc>
                 <name type="main">roman</name>
@@ -925,6 +905,25 @@
                 <catDesc>
                   <name type="main">Artusroman</name>
                   <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
+                </catDesc>
+              </category>
+            </category>
+            <category xml:id="genre_46366">
+              <catDesc>
+                <name type="main">riddarasögur</name>
+                <name type="alt">chivalric sagas</name>
+                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
+              </catDesc>
+              <category xml:id="genre_46370">
+                <catDesc>
+                  <name type="main">riddarasögur translated</name>
+                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46367">
+                <catDesc>
+                  <name type="main">riddarasögur indigenous</name>
+                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
                 </catDesc>
               </category>
             </category>

@@ -26,7 +26,7 @@
       <publicationStmt>
         <publisher>LostMa ERC Project</publisher>
         <pubPlace>Paris</pubPlace>
-        <date>2025-05-07</date>
+        <date>2025-05-27</date>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
         </availability>
@@ -37,7 +37,468 @@
             <title type="main">Cleriadus et Meliadice</title>
           </title>
         </bibl>
-        <listWit/>
+        <listWit>
+          <witness xml:id="witness_53657">
+            <abbr type="siglum">Cheltenham</abbr>
+            <msDesc status="">
+              <note>https://books.google.fr/books?id=QFleAAAAcAAJ&amp;hl=fr&amp;pg=PA47#v=onepage&amp;q&amp;f=false</note>
+              <msIdentifier>
+                <msName>Historical document of witness Cheltenham</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49935">
+                  <country/>
+                  <settlement/>
+                  <repository/>
+                  <idno/>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51229">
+                    <locusGrp>
+                      <locus from="? (Cleriadus et Meliadice)" to="">? (Cleriadus et Meliadice)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1401-01-01" notAfter="1500-12-31" cert="unknown">Catalogue</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53653">
+            <abbr type="siglum">B</abbr>
+            <ref target="https://jonas.irht.cnrs.fr/manuscrit/74529"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness B</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45496">
+                  <country corresp="#BE">Belgium</country>
+                  <settlement>Brussels</settlement>
+                  <repository corresp="#respository_43904">Bibliothèque royale de Belgique</repository>
+                  <idno>Ms. IV 1002</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51225">
+                    <locusGrp>
+                      <locus from="? (Cleriadus et Meliadice)" to="">? (Cleriadus et Meliadice)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1441-01-01" notAfter="1500-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53660">
+            <abbr type="siglum">P1</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/74375"/>
+            <ref target="https://arlima.net/no/4492"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness P1</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45833">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 1439</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51231">
+                    <locusGrp>
+                      <locus from="1r" to="378v">1r-378v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1446-01-01" notAfter="1480-12-31" cert="unknown">Arlima</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53662">
+            <abbr type="siglum">P3</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/74377"/>
+            <ref target="https://www.arlima.net/mss/france/paris/bibliotheque_nationale_de_france/francais/1494-1495.html"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness P3</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45842">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 1494</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51233">
+                    <locusGrp>
+                      <locus from="1r" to="113v">1r-113v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1446-01-01" notAfter="1480-12-31" cert="unknown">Arlima</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53663">
+            <abbr type="siglum">P3</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/74377"/>
+            <ref target="https://www.arlima.net/mss/france/paris/bibliotheque_nationale_de_france/francais/1494-1495.html"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness P3</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_46020">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 1495</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51234">
+                    <locusGrp>
+                      <locus from="5r" to="197r">5r-197r</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1446-01-01" notAfter="1480-12-31" cert="unknown">Arlima</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53654">
+            <abbr type="siglum">C</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/14893"/>
+            <ref target="https://arlima.net/no/8730"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness C</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45090">
+                  <country corresp="#FR">France</country>
+                  <settlement>Chantilly</settlement>
+                  <repository corresp="#respository_43840">Musée Condé, Château de Chantilly</repository>
+                  <idno>Ms 650</idno>
+                  <altIdentifier>
+                    <idno>Ms 1437</idno>
+                  </altIdentifier>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51226">
+                    <locusGrp>
+                      <locus from="1r" to="128r">1r-128r</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1446-01-01" notAfter="1500-12-31" cert="unknown">Arlima</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53658">
+            <abbr type="siglum">L</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/31251"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness L</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45599">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository corresp="#respository_43919">British library</repository>
+                  <idno>Royal MS 20 C II</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51230">
+                    <locusGrp>
+                      <locus from="1" to="209">1-209</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/31251"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1451-01-01" notAfter="1475-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53664">
+            <abbr type="siglum">T</abbr>
+            <ref target="https://jonas.irht.cnrs.fr/manuscrit/59026"/>
+            <ref target="https://arlima.net/no/13634"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness T</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49437">
+                  <country corresp="#IT">Italy</country>
+                  <settlement>Turin</settlement>
+                  <repository corresp="#respository_43776">Biblioteca nazionale di Torino</repository>
+                  <idno>L. II. 2</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51235">
+                    <locusGrp>
+                      <locus from="? (Cleriadus et Meliadice)" to="">? (Cleriadus et Meliadice)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://jonas.irht.cnrs.fr/manuscrit/59026"/>
+                      <ref target="https://arlima.net/no/13634"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1451-01-01" notAfter="1500-12-31" cert="unknown">Arlima</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53666">
+            <abbr type="siglum">V</abbr>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness V</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45226">
+                  <country corresp="#AT">Austria</country>
+                  <settlement>Vienna</settlement>
+                  <repository corresp="#respository_43792">Österreichische Nationalbibliothek</repository>
+                  <idno>3427</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51237">
+                    <locusGrp>
+                      <locus from="? (Cleriadus et Meliadice)" to="">? (Cleriadus et Meliadice)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1451-01-01" notAfter="1500-12-31" cert="unknown">Arlima</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53665">
+            <abbr type="siglum">A</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/60326"/>
+            <ref target="https://arlima.net/no/7203"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness A</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45423">
+                  <country corresp="#FR">France</country>
+                  <settlement>Tours</settlement>
+                  <repository corresp="#respository_43883">Bibliothèque municipale</repository>
+                  <idno>952</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51236">
+                    <locusGrp>
+                      <locus from="1r" to="325v">1r-325v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1467-01-01" notAfter="1500-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53655">
+            <abbr type="siglum"></abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/73163"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45234">
+                  <country corresp="#DE">Germany</country>
+                  <settlement>Leipzig</settlement>
+                  <repository corresp="#respository_43796">Universitätsbibliothek Leipzig</repository>
+                  <collection>Bibliotheca Albertina</collection>
+                  <idno>Rep. II 109</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51227">
+                    <locusGrp>
+                      <locus from="? (Cleriadus et Meliadice)" to="">? (Cleriadus et Meliadice)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1476-01-01" notAfter="1505-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53661">
+            <abbr type="siglum">P2</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/74376"/>
+            <ref target="https://arlima.net/no/4493"/>
+            <msDesc status="defective">
+              <note>incomplet au commencement</note>
+              <msIdentifier>
+                <msName>Historical document of witness P2</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45850">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 1440</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51232">
+                    <locusGrp>
+                      <locus from="1r" to="287v">1r-287v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1446-01-01" notAfter="1480-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+        </listWit>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -111,6 +572,12 @@
                 <gloss>Story about Charlemagne and his family.</gloss>
               </catDesc>
             </category>
+            <category xml:id="genre_50182">
+              <catDesc>
+                <name type="main">Lai narratif</name>
+                <gloss>Narrative lai</gloss>
+              </catDesc>
+            </category>
             <category xml:id="genre_47474">
               <catDesc>
                 <name type="main">Other</name>
@@ -135,25 +602,6 @@
                 <gloss>mise en prose de chansons de geste ou romans en vers</gloss>
               </catDesc>
             </category>
-            <category xml:id="genre_46366">
-              <catDesc>
-                <name type="main">riddarasögur</name>
-                <name type="alt">chivalric sagas</name>
-                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
-              </catDesc>
-              <category xml:id="genre_46367">
-                <catDesc>
-                  <name type="main">riddarasögur indigenous</name>
-                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46370">
-                <catDesc>
-                  <name type="main">riddarasögur translated</name>
-                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
-                </catDesc>
-              </category>
-            </category>
             <category xml:id="genre_44128">
               <catDesc>
                 <name type="main">roman</name>
@@ -171,6 +619,25 @@
                 <catDesc>
                   <name type="main">Artusroman</name>
                   <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
+                </catDesc>
+              </category>
+            </category>
+            <category xml:id="genre_46366">
+              <catDesc>
+                <name type="main">riddarasögur</name>
+                <name type="alt">chivalric sagas</name>
+                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
+              </catDesc>
+              <category xml:id="genre_46370">
+                <catDesc>
+                  <name type="main">riddarasögur translated</name>
+                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46367">
+                <catDesc>
+                  <name type="main">riddarasögur indigenous</name>
+                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
                 </catDesc>
               </category>
             </category>

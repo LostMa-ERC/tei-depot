@@ -26,7 +26,7 @@
       <publicationStmt>
         <publisher>LostMa ERC Project</publisher>
         <pubPlace>Paris</pubPlace>
-        <date>2025-05-07</date>
+        <date>2025-05-27</date>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
         </availability>
@@ -37,7 +37,540 @@
             <title type="main">Troie, prose 1</title>
           </title>
         </bibl>
-        <listWit/>
+        <listWit>
+          <witness xml:id="witness_53329">
+            <abbr type="siglum">P1</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/78964"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness P1</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49380">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 1612</idno>
+                  <altIdentifier>
+                    <idno>Anc. 7624(2)</idno>
+                  </altIdentifier>
+                  <altIdentifier>
+                    <idno>Baluze 85</idno>
+                  </altIdentifier>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52933">
+                    <locusGrp>
+                      <locus from="? (Troie, prose 1)" to="">? (Troie, prose 1)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/78964"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1281-01-01" notAfter="1300-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53330">
+            <abbr type="siglum">P2</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/78965"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness P2</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49381">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 1627</idno>
+                  <altIdentifier>
+                    <idno>Anc. 7630(3)</idno>
+                  </altIdentifier>
+                  <altIdentifier>
+                    <idno>Lancelot 172</idno>
+                  </altIdentifier>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52934">
+                    <locusGrp>
+                      <locus from="? (Troie, prose 1)" to="">? (Troie, prose 1)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/78965"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1301-01-01" notAfter="1320-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53324">
+            <abbr type="siglum"></abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/78961"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49698">
+                  <country corresp="#IT">Italy</country>
+                  <settlement>Florence</settlement>
+                  <repository corresp="#respository_43972">Biblioteca Riccardiana</repository>
+                  <idno>2025</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52927">
+                    <locusGrp>
+                      <locus from="? (Troie, prose 1)" to="">? (Troie, prose 1)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/78961"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1301-01-01" notAfter="1400-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53239">
+            <abbr type="siglum"></abbr>
+            <ref target="https://jonas.irht.cnrs.fr/manuscrit/60328"/>
+            <ref target="https://arlima.net/no/4483"/>
+            <msDesc status="">
+              <note>Manuscrit détruit lors des bombardements du 19 juin 1940</note>
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45426">
+                  <country corresp="#FR">France</country>
+                  <settlement>Tours</settlement>
+                  <repository corresp="#respository_43883">Bibliothèque municipale</repository>
+                  <idno>954</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52925">
+                    <locusGrp>
+                      <locus from="1" to="63">1-63</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/60328"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate>Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53327">
+            <abbr type="siglum">L3</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/32439"/>
+            <ref target="https://arlima.net/no/7496"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness L3</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49584">
+                  <country corresp="#FR">France</country>
+                  <settlement>Lyon</settlement>
+                  <repository corresp="#respository_43910">Bibliothèque municipale</repository>
+                  <idno>Ms 878</idno>
+                  <altIdentifier>
+                    <idno>782</idno>
+                  </altIdentifier>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52931">
+                    <locusGrp>
+                      <locus from="? (Troie, prose 1)" to="">? (Troie, prose 1)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/32439"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1401-01-01" notAfter="1500-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53328">
+            <abbr type="siglum"></abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/73991"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49641">
+                  <country corresp="#BE">Belgium</country>
+                  <settlement>Denée</settlement>
+                  <repository corresp="#respository_43731">Abbaye de Maredsous. Bibliothèque</repository>
+                  <idno>ms. F°/26</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52932">
+                    <locusGrp>
+                      <locus from="? (Troie, prose 1)" to="">? (Troie, prose 1)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/73991"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1441-01-01" notAfter="1460-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53325">
+            <abbr type="siglum"></abbr>
+            <ref target="https://arlima.net/no/376"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49931">
+                  <country/>
+                  <settlement/>
+                  <repository/>
+                  <idno/>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52928">
+                    <locusGrp>
+                      <locus from="? (Troie, prose 1)" to="">? (Troie, prose 1)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://arlima.net/no/376"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1456-01-01" notAfter="1465-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53332">
+            <abbr type="siglum">P6</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/78967"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness P6</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49384">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>NAF 10052</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52936">
+                    <locusGrp>
+                      <locus from="? (Troie, prose 1)" to="">? (Troie, prose 1)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/78967"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1481-01-01" notAfter="1500-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53333">
+            <abbr type="siglum">P7</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/78968"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness P7</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49385">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>NAF 11674</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52937">
+                    <locusGrp>
+                      <locus from="? (Troie, prose 1)" to="">? (Troie, prose 1)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/78968"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1481-01-01" notAfter="1500-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53326">
+            <abbr type="siglum">L1</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/78962"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness L1</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49632">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository corresp="#respository_43919">British library</repository>
+                  <idno>Add MS 9785</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52930">
+                    <locusGrp>
+                      <locus from="? (Troie, prose 1)" to="">? (Troie, prose 1)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/78962"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1496-01-01" notAfter="1505-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53321">
+            <abbr type="siglum"></abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/78960"/>
+            <msDesc status="defective">
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49532">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>Aberystwyth</settlement>
+                  <repository corresp="#respository_43900">National library of Wales</repository>
+                  <idno>5008</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52926">
+                    <locusGrp>
+                      <locus from="? (Troie, prose 1)" to="">? (Troie, prose 1)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://data.biblissima.fr/w/Item:Q120907"/>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/78960"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1278-01-01" notAfter="1282-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53331">
+            <abbr type="siglum"></abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/78916"/>
+            <ref target="https://arlima.net/no/4545"/>
+            <msDesc status="defective">
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49382">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 12602</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52935">
+                    <locusGrp>
+                      <locus from="? (Troie, prose 1)" to="">? (Troie, prose 1)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/78916"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1401-01-01" notAfter="1500-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53336">
+            <abbr type="siglum"></abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/78970"/>
+            <msDesc status="fragmentary">
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49781">
+                  <country corresp="#None">United States</country>
+                  <settlement>Washington</settlement>
+                  <repository corresp="#respository_43922">Library of Congress</repository>
+                  <collection>Rosenwald Collection</collection>
+                  <idno>1946.21.9</idno>
+                  <altIdentifier>
+                    <idno>Rosenwald Collection 12</idno>
+                  </altIdentifier>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52938">
+                    <locusGrp>
+                      <locus from="? (Troie, prose 1)" to="">? (Troie, prose 1)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://data.biblissima.fr/w/Item:Q278068"/>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/78970"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1441-01-01" notAfter="1460-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+        </listWit>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -111,6 +644,12 @@
                 <gloss>Story about Charlemagne and his family.</gloss>
               </catDesc>
             </category>
+            <category xml:id="genre_50182">
+              <catDesc>
+                <name type="main">Lai narratif</name>
+                <gloss>Narrative lai</gloss>
+              </catDesc>
+            </category>
             <category xml:id="genre_47474">
               <catDesc>
                 <name type="main">Other</name>
@@ -135,25 +674,6 @@
                 <gloss>mise en prose de chansons de geste ou romans en vers</gloss>
               </catDesc>
             </category>
-            <category xml:id="genre_46366">
-              <catDesc>
-                <name type="main">riddarasögur</name>
-                <name type="alt">chivalric sagas</name>
-                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
-              </catDesc>
-              <category xml:id="genre_46367">
-                <catDesc>
-                  <name type="main">riddarasögur indigenous</name>
-                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46370">
-                <catDesc>
-                  <name type="main">riddarasögur translated</name>
-                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
-                </catDesc>
-              </category>
-            </category>
             <category xml:id="genre_44128">
               <catDesc>
                 <name type="main">roman</name>
@@ -174,6 +694,25 @@
                 </catDesc>
               </category>
             </category>
+            <category xml:id="genre_46366">
+              <catDesc>
+                <name type="main">riddarasögur</name>
+                <name type="alt">chivalric sagas</name>
+                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
+              </catDesc>
+              <category xml:id="genre_46370">
+                <catDesc>
+                  <name type="main">riddarasögur translated</name>
+                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46367">
+                <catDesc>
+                  <name type="main">riddarasögur indigenous</name>
+                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
+                </catDesc>
+              </category>
+            </category>
           </category>
         </taxonomy>
       </classDecl>
@@ -186,7 +725,7 @@
         <language ident="fro" corresp="https://iso639-3.sil.org/code/fro" xml:id="lang_9470">Old French</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#form" target="#verseForm"/>
+        <catRef scheme="#form" target="#proseForm"/>
         <catRef scheme="#traditionStatus" target="#traditionSurviving"/>
         <catRef scheme="#genre" target="#genre_44128"/>
         <keywords>

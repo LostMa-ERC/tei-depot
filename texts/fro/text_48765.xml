@@ -26,7 +26,7 @@
       <publicationStmt>
         <publisher>LostMa ERC Project</publisher>
         <pubPlace>Paris</pubPlace>
-        <date>2025-05-07</date>
+        <date>2025-05-27</date>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
         </availability>
@@ -37,7 +37,552 @@
             <title type="main">Yvain ou le chevalier au lion</title>
           </title>
         </bibl>
-        <listWit/>
+        <listWit>
+          <witness xml:id="witness_53427">
+            <abbr type="siglum"></abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/32408"/>
+            <ref target="https://arlima.net/no/4566"/>
+            <msDesc status="">
+              <note>Extrait de 10 vers</note>
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45539">
+                  <country corresp="#FR">France</country>
+                  <settlement>Lyon</settlement>
+                  <repository corresp="#respository_43910">Bibliothèque municipale</repository>
+                  <idno>Ms 743</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51112">
+                    <locusGrp>
+                      <locus from="1r" to="">1r</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1201-01-01" notAfter="1300-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53435">
+            <abbr type="siglum">H/P/A</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/45556"/>
+            <ref target="https://arlima.net/no/528"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness H/P/A</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45743">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 794</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51120">
+                    <locusGrp>
+                      <locus from="79va" to="105rc">79va-105rc</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1226-01-01" notAfter="1235-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53433">
+            <abbr type="siglum">F [Pierreville], P8 [Uitti]</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/45613"/>
+            <ref target="https://arlima.net/no/529"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness F [Pierreville], P8 [Uitti]</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45757">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 1450</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51119">
+                    <locusGrp>
+                      <locus from="207" to="221">207-221</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1226-01-01" notAfter="1250-12-31" cert="unknown">Jonas (Jung, 1996)</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53430">
+            <abbr type="siglum">G [Foerster, Micha, Pierreville], P11 [Uitti]</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/45800"/>
+            <ref target="https://arlima.net/no/5306"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness G [Foerster, Micha, Pierreville], P11 [Uitti]</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45827">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 12560</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51115">
+                    <locusGrp>
+                      <locus from="1rb" to="41rb">1rb-41rb</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1241-01-01" notAfter="1260-12-31" cert="unknown">BnF AetM</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53424">
+            <abbr type="siglum">A</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/14805"/>
+            <ref target="https://arlima.net/no/510"/>
+            <msDesc status="">
+              <note>Scribe: Colin li fruitiers</note>
+              <msIdentifier>
+                <msName>Historical document of witness A</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45094">
+                  <country corresp="#FR">France</country>
+                  <settlement>Chantilly</settlement>
+                  <repository corresp="#respository_43840">Musée Condé, Château de Chantilly</repository>
+                  <idno>Ms 472</idno>
+                  <altIdentifier>
+                    <idno>Ms 626</idno>
+                  </altIdentifier>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51110">
+                    <locusGrp>
+                      <locus from="174r" to="195v">174r-195v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1251-01-01" notAfter="1300-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53425">
+            <abbr type="siglum">V</abbr>
+            <ref target="https://jonas.irht.cnrs.fr/manuscrit/66134"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness V</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_46024">
+                  <country corresp="#IT">Italy</country>
+                  <settlement>Rome</settlement>
+                  <repository corresp="#respository_43760">Biblioteca apostolica vaticana</repository>
+                  <idno>Reg.lat.1725</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51111">
+                    <locusGrp>
+                      <locus from="? (Yvain ou le chevalier au lion)" to="">? (Yvain ou le chevalier au lion)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/66134"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1281-01-01" notAfter="1320-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53431">
+            <abbr type="siglum">S [Foerster, Micha, Pierreville], P14 [Uitti]</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/45811"/>
+            <ref target="https://arlima.net/no/503"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness S [Foerster, Micha, Pierreville], P14 [Uitti]</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45830">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 12603</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51116">
+                    <locusGrp>
+                      <locus from="72" to="111">72-111</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1301-01-01" notAfter="1320-12-31" cert="unknown">Jonas (Debae 1995)</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53432">
+            <abbr type="siglum">P [Foerster, Micha, Pierreville], P7 [Uitti]</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/45607"/>
+            <ref target="https://arlima.net/no/533"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness P [Foerster, Micha, Pierreville], P7 [Uitti]</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45851">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 1433</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51118">
+                    <locusGrp>
+                      <locus from="61ra" to="118ra">61ra-118ra</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1321-01-01" notAfter="1330-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53436">
+            <abbr type="siglum">An [Pierreville], A [Uitti])</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/83470"/>
+            <ref target="https://arlima.net/no/10482"/>
+            <msDesc status="fragmentary">
+              <note>Annonay fragment</note>
+              <msIdentifier>
+                <msName>Historical document of witness An [Pierreville], A [Uitti])</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49366">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>NAF 29060</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51121">
+                    <locusGrp>
+                      <locus from="? (Yvain ou le chevalier au lion)" to="">? (Yvain ou le chevalier au lion)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/83470"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1181-01-01" notAfter="1220-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53422">
+            <abbr type="siglum"></abbr>
+            <ref target="https://jonas.irht.cnrs.fr/manuscrit/81112"/>
+            <msDesc status="fragmentary">
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45265">
+                  <country corresp="#None">United States</country>
+                  <settlement>Boston</settlement>
+                  <repository corresp="#respository_43810">Massachusetts Historical Society</repository>
+                  <idno>Appleton O.S. Folder 2</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51109">
+                    <locusGrp>
+                      <locus from="? (Yvain ou le chevalier au lion)" to="">? (Yvain ou le chevalier au lion)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1201-01-01" notAfter="1300-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53428">
+            <abbr type="siglum">Mod</abbr>
+            <ref target="https://jonas.irht.cnrs.fr/manuscrit/79278"/>
+            <msDesc status="fragmentary">
+              <msIdentifier>
+                <msName>Historical document of witness Mod</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49716">
+                  <country corresp="#IT">Italy</country>
+                  <settlement>Modena</settlement>
+                  <repository corresp="#respository_43862">Archivio di Stato</repository>
+                  <collection>Atti segreti</collection>
+                  <idno>F. 6 Miscellanea</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51113">
+                    <locusGrp>
+                      <locus from="? (Yvain ou le chevalier au lion)" to="">? (Yvain ou le chevalier au lion)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/79278"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1201-01-01" notAfter="1300-12-31" cert="unknown">DEAF</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53429">
+            <abbr type="siglum">M/M2</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/36279"/>
+            <ref target="https://arlima.net/no/3211"/>
+            <msDesc status="fragmentary">
+              <note>1er fragment : vv. 1531-2158 (éd. Foerster) ; 2nd : vv. 2463-3712 (éd. Foerster).</note>
+              <msIdentifier>
+                <msName>Historical document of witness M/M2</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45305">
+                  <country corresp="#FR">France</country>
+                  <settlement>Montpellier</settlement>
+                  <repository corresp="#respository_43827">Bibliothèque Interuniversitaire Section Médecine</repository>
+                  <idno>H 252</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51114">
+                    <locusGrp>
+                      <locus from="1ra" to="12vb">1ra-12vb</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1201-01-01" notAfter="1400-12-31" cert="unknown">Arlima</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53439">
+            <abbr type="siglum"></abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/83225"/>
+            <msDesc status="fragmentary">
+              <msIdentifier>
+                <msName>Historical document of witness</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49365">
+                  <country corresp="#AT">Austria</country>
+                  <settlement>Vienna</settlement>
+                  <repository corresp="#respository_43792">Österreichische Nationalbibliothek</repository>
+                  <idno>P.Vindob. L 114</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51123">
+                    <locusGrp>
+                      <locus from="? (Yvain ou le chevalier au lion)" to="">? (Yvain ou le chevalier au lion)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/83225"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1241-01-01" notAfter="1260-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53437">
+            <abbr type="siglum">Pri</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/71971"/>
+            <ref target="https://arlima.net/no/6037"/>
+            <msDesc status="fragmentary">
+              <msIdentifier>
+                <msName>Historical document of witness Pri</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45542">
+                  <country corresp="#None">United States</country>
+                  <settlement>Princeton</settlement>
+                  <repository corresp="#respository_43915">Princeton university. Library</repository>
+                  <idno>Garrett MS. 125</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_51122">
+                    <locusGrp>
+                      <locus from="? (Yvain ou le chevalier au lion)" to="">? (Yvain ou le chevalier au lion)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1281-01-01" notAfter="1300-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+        </listWit>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -111,6 +656,12 @@
                 <gloss>Story about Charlemagne and his family.</gloss>
               </catDesc>
             </category>
+            <category xml:id="genre_50182">
+              <catDesc>
+                <name type="main">Lai narratif</name>
+                <gloss>Narrative lai</gloss>
+              </catDesc>
+            </category>
             <category xml:id="genre_47474">
               <catDesc>
                 <name type="main">Other</name>
@@ -135,25 +686,6 @@
                 <gloss>mise en prose de chansons de geste ou romans en vers</gloss>
               </catDesc>
             </category>
-            <category xml:id="genre_46366">
-              <catDesc>
-                <name type="main">riddarasögur</name>
-                <name type="alt">chivalric sagas</name>
-                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
-              </catDesc>
-              <category xml:id="genre_46367">
-                <catDesc>
-                  <name type="main">riddarasögur indigenous</name>
-                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46370">
-                <catDesc>
-                  <name type="main">riddarasögur translated</name>
-                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
-                </catDesc>
-              </category>
-            </category>
             <category xml:id="genre_44128">
               <catDesc>
                 <name type="main">roman</name>
@@ -171,6 +703,25 @@
                 <catDesc>
                   <name type="main">Artusroman</name>
                   <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
+                </catDesc>
+              </category>
+            </category>
+            <category xml:id="genre_46366">
+              <catDesc>
+                <name type="main">riddarasögur</name>
+                <name type="alt">chivalric sagas</name>
+                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
+              </catDesc>
+              <category xml:id="genre_46370">
+                <catDesc>
+                  <name type="main">riddarasögur translated</name>
+                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46367">
+                <catDesc>
+                  <name type="main">riddarasögur indigenous</name>
+                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
                 </catDesc>
               </category>
             </category>

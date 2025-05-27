@@ -26,7 +26,7 @@
       <publicationStmt>
         <publisher>LostMa ERC Project</publisher>
         <pubPlace>Paris</pubPlace>
-        <date>2025-05-07</date>
+        <date>2025-05-27</date>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
         </availability>
@@ -38,7 +38,560 @@
             <title type="alt">Quatre fils Aymon</title>
           </title>
         </bibl>
-        <listWit/>
+        <listWit>
+          <witness xml:id="witness_54962">
+            <abbr type="siglum">B / C new system</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/75468"/>
+            <ref target="https://arlima.net/no/4415"/>
+            <msDesc status="">
+              <note>Current siglum: C</note>
+              <msIdentifier>
+                <msName>Historical document of witness B / C new system</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45896">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 775</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52406">
+                    <locusGrp>
+                      <locus from="1r" to="110r">1r-110r</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1201-01-01" notAfter="1300-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54951">
+            <abbr type="siglum">Mz / Z new system</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/34652"/>
+            <ref target="https://arlima.net/no/9464"/>
+            <msDesc status="">
+              <note>Ms. détruit le 31 août 1944</note>
+              <msIdentifier>
+                <msName>Historical document of witness Mz / Z new system</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45637">
+                  <country corresp="#FR">France</country>
+                  <settlement>Metz</settlement>
+                  <repository corresp="#respository_43927">Bibliothèque-médiathèque</repository>
+                  <idno>192</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52397">
+                    <locusGrp>
+                      <locus from="? (Renaut de Montauban)" to="">? (Renaut de Montauban)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1201-01-01" notAfter="1300-12-31" cert="unknown">Arlima</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54949">
+            <abbr type="siglum">P</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/12297"/>
+            <ref target="https://arlima.net/no/9467"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness P</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45146">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>Cambridge</settlement>
+                  <repository corresp="#respository_43891">Peterhouse Library</repository>
+                  <idno>2. 0. 5</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52394">
+                    <locusGrp>
+                      <locus from="57" to="168">57-168</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1276-01-01" notAfter="1300-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54960">
+            <abbr type="siglum">L</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/73689"/>
+            <ref target="https://arlima.net/no/6947"/>
+            <msDesc status="">
+              <note>Olim La Vallière 39</note>
+              <msIdentifier>
+                <msName>Historical document of witness L</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45989">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 24387</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52404">
+                    <locusGrp>
+                      <locus from="1r" to="50v">1r-50v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1281-01-01" notAfter="1300-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54961">
+            <abbr type="siglum">C / N new system</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/74349"/>
+            <ref target="https://arlima.net/no/5050"/>
+            <msDesc status="">
+              <note>Current siglum: N</note>
+              <msIdentifier>
+                <msName>Historical document of witness C / N new system</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_46000">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 766</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52405">
+                    <locusGrp>
+                      <locus from="55ra" to="172vb">55ra-172vb</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1296-01-01" notAfter="1305-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54956">
+            <abbr type="siglum">O</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/40510"/>
+            <ref target="https://arlima.net/no/9798"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness O</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45362">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <repository corresp="#respository_43847">Bodleian Library</repository>
+                  <idno>MS. Laud Misc. 637</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52401">
+                    <locusGrp>
+                      <locus from="2" to="67">2-67</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://data.biblissima.fr/w/Item:Q274441"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate/>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54958">
+            <abbr type="siglum">A</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/74598"/>
+            <ref target="https://arlima.net/no/6451"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness A</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45660">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <collection>Arsenal</collection>
+                  <idno>Ms-2990</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52403">
+                    <locusGrp>
+                      <locus from="? (Renaut de Montauban)" to="">? (Renaut de Montauban)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/74598"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1396-01-01" notAfter="1405-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54952">
+            <abbr type="siglum">M</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/36274"/>
+            <ref target="https://arlima.net/no/3208"/>
+            <msDesc status="complete">
+              <msIdentifier>
+                <msName>Historical document of witness M</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45299">
+                  <country corresp="#FR">France</country>
+                  <settlement>Montpellier</settlement>
+                  <repository corresp="#respository_43827">Bibliothèque Interuniversitaire Section Médecine</repository>
+                  <idno>H 247</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52398">
+                    <locusGrp>
+                      <locus from="178r" to="225v">178r-225v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1351-01-01" notAfter="1400-12-31" cert="unknown">Arlima</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54953">
+            <abbr type="siglum">D</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/40249"/>
+            <ref target="https://arlima.net/no/9799"/>
+            <msDesc status="defective">
+              <note>Incomplet de la fin</note>
+              <msIdentifier>
+                <msName>Historical document of witness D</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45345">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <repository corresp="#respository_43847">Bodleian Library</repository>
+                  <idno>MS. Douce 121</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52399">
+                    <locusGrp>
+                      <locus from="? (Renaut de Montauban)" to="">? (Renaut de Montauban)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://data.biblissima.fr/w/Item:Q274423"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1226-01-01" notAfter="1250-12-31" cert="unknown"/>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54954">
+            <abbr type="siglum">H</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/40301"/>
+            <ref target="https://arlima.net/no/8310"/>
+            <msDesc status="defective">
+              <note>Trois fragments</note>
+              <msIdentifier>
+                <msName>Historical document of witness H</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45360">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <repository corresp="#respository_43847">Bodleian Library</repository>
+                  <idno>MS. Hatton 59</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52400">
+                    <locusGrp>
+                      <locus from="? (Renaut de Montauban)" to="">? (Renaut de Montauban)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://data.biblissima.fr/w/Item:Q274435"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1241-01-01" notAfter="1260-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54957">
+            <abbr type="siglum">Maz new system</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/44749"/>
+            <ref target="https://arlima.net/no/8099"/>
+            <msDesc status="fragmentary">
+              <note>Deux fragments d’un même feuillet. Current siglum: Maz. Unknown to Korte. Muriel Ott, « Un nouveau fragment de Renaut de Montauban », Uns clers ait dit que chanson en ferait. Mélanges de langue, d'histoire et de littérature offerts à Jean-Charles Herbin, éd. Marie-Geneviève Grossel, Jean-Pierre Martin, Ludovic Nys, Muriel Ott et François Suard, Valenciennes, Presses universitaires de Valenciennes (Textes en contexte, 6), 2019, p. 609-628.</note>
+              <msIdentifier>
+                <msName>Historical document of witness Maz new system</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45802">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43753">Bibliothèque Mazarine</repository>
+                  <idno>4314</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52402">
+                    <locusGrp>
+                      <locus from="2" to="3">2-3</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1201-01-01" notAfter="1300-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54950">
+            <abbr type="siglum">Metz-fragment</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/82153"/>
+            <ref target="https://arlima.net/no/9463"/>
+            <msDesc status="fragmentary">
+              <note>Fragments. Current siglum: Me. «Unauffindbar» in 1914. Rediscovered by Jean-Charles Herbin in 2012: J.-Ch. Herbin, “Renaut de Montauban. Fragments des Archives municipales de Metz (Me)”, MÂ 118 (2012) 301-328. Close to ms. L (pic. end of 13th century).</note>
+              <msIdentifier>
+                <msName>Historical document of witness Metz-fragment</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_46149">
+                  <country corresp="#FR">France</country>
+                  <settlement>Metz</settlement>
+                  <repository corresp="#respository_43723">Archives municipales de Metz</repository>
+                  <idno>II 129 n°1</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52395">
+                    <locusGrp>
+                      <locus from="? (Renaut de Montauban)" to="">? (Renaut de Montauban)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1241-01-01" notAfter="1260-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54963">
+            <abbr type="siglum">fragment</abbr>
+            <msDesc status="fragmentary">
+              <note>In Res. B XVI 81. Found by Herbin, Jean-Claude et Gauthier Grüber, « Fragments inconnus de Renaut de Montauban », La bibliothèque des Dominicains de Toulouse, éd. Émilie Nadal et Magali Vène, Toulouse, Presses universitaires du Midi, 2020, p. 51-57.x</note>
+              <msIdentifier>
+                <msName>Historical document of witness fragment</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49618">
+                  <country corresp="#FR">France</country>
+                  <settlement>Toulouse</settlement>
+                  <repository corresp="#respository_43774">Bibliothèque de Toulouse</repository>
+                  <idno>Ms. 157</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52408">
+                    <locusGrp>
+                      <locus from="? (Renaut de Montauban)" to="">? (Renaut de Montauban)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://initiale.irht.cnrs.fr/codex/4113"/>
+                      <ref target="https://bibale.irht.cnrs.fr/8950"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate>Bibale</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54947">
+            <abbr type="siglum">Brunswick-fragment</abbr>
+            <ref target="https://arlima.net/no/3568"/>
+            <msDesc status="fragmentary">
+              <msIdentifier>
+                <msName>Historical document of witness Brunswick-fragment</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45294">
+                  <country corresp="#None">United States</country>
+                  <settlement>Brunswick</settlement>
+                  <repository corresp="#respository_43824">Bowdoin College. Library</repository>
+                  <idno>M194. R463 folio Vault</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52393">
+                    <locusGrp>
+                      <locus from="? (Renaut de Montauban)" to="">? (Renaut de Montauban)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://arlima.net/no/3568"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1326-01-01" notAfter="1335-12-31" cert="unknown">Arlima, DÉAF</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+        </listWit>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -112,6 +665,12 @@
                 <gloss>Story about Charlemagne and his family.</gloss>
               </catDesc>
             </category>
+            <category xml:id="genre_50182">
+              <catDesc>
+                <name type="main">Lai narratif</name>
+                <gloss>Narrative lai</gloss>
+              </catDesc>
+            </category>
             <category xml:id="genre_47474">
               <catDesc>
                 <name type="main">Other</name>
@@ -136,25 +695,6 @@
                 <gloss>mise en prose de chansons de geste ou romans en vers</gloss>
               </catDesc>
             </category>
-            <category xml:id="genre_46366">
-              <catDesc>
-                <name type="main">riddarasögur</name>
-                <name type="alt">chivalric sagas</name>
-                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
-              </catDesc>
-              <category xml:id="genre_46367">
-                <catDesc>
-                  <name type="main">riddarasögur indigenous</name>
-                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46370">
-                <catDesc>
-                  <name type="main">riddarasögur translated</name>
-                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
-                </catDesc>
-              </category>
-            </category>
             <category xml:id="genre_44128">
               <catDesc>
                 <name type="main">roman</name>
@@ -172,6 +712,25 @@
                 <catDesc>
                   <name type="main">Artusroman</name>
                   <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
+                </catDesc>
+              </category>
+            </category>
+            <category xml:id="genre_46366">
+              <catDesc>
+                <name type="main">riddarasögur</name>
+                <name type="alt">chivalric sagas</name>
+                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
+              </catDesc>
+              <category xml:id="genre_46370">
+                <catDesc>
+                  <name type="main">riddarasögur translated</name>
+                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46367">
+                <catDesc>
+                  <name type="main">riddarasögur indigenous</name>
+                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
                 </catDesc>
               </category>
             </category>

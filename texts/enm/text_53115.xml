@@ -1,0 +1,773 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title>Metadata encoding of "Siege of Jerusalem"</title>
+        </title>
+        <funder>European Research Council</funder>
+        <principal>Jean-Baptiste Camps</principal>
+        <respStmt>
+          <name>Cecile Vermaas</name>
+          <resp>data entry and proof correction</resp>
+        </respStmt>
+        <respStmt>
+          <name>Kelly Christensen</name>
+          <resp>conversion of metadata to TEI markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>Théo Moins</name>
+          <resp>conversion of text to TEI markup</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LostMa ERC Project</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date>2025-05-27</date>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl xml:id="text_53115">
+          <title type="full">
+            <title type="main">Siege of Jerusalem</title>
+          </title>
+        </bibl>
+        <listWit>
+          <witness xml:id="witness_53131">
+            <abbr type="siglum">1583</abbr>
+            <ref target="https://www.middleenglishromance.org.uk/mer/48"/>
+            <ref target="https://marco.ox.ac.uk/ark:29072/x0h702q637g7"/>
+            <msDesc status="complete">
+              <msIdentifier>
+                <msName>Historical document of witness 1583</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_53129">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>Oxford</settlement>
+                  <repository corresp="#respository_43847">Bodleian Library</repository>
+                  <idno>MS Laud Misc. 656</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_53132">
+                    <locusGrp>
+                      <locus from="1v" to="19r">1v-19r</locus>
+                    </locusGrp>
+                    <textLang mainLang="South East England" corresp="#scripta_48870">Dialect spoken in South East part of England, surrounding Canterbury.</textLang>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://marco.ox.ac.uk/ark:29072/x0h702q637g7"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1366-01-01" notAfter="1410-12-31" cert="medium">'Late 14th century'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_53133">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height>NA</height>
+                        <width>NA</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout columns="1" writtenLines="33" topLine="No"/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="unknown"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity=""/>
+                  </decoNote>
+                  <decoNote type="unknown"/>
+                  <decoNote type="rubrication"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53121">
+            <abbr type="siglum">1583</abbr>
+            <ref target="https://www.dhi.ac.uk/mwm/browse?type=ms&amp;id=30"/>
+            <ref target="https://www.middleenglishromance.org.uk/mer/48"/>
+            <msDesc status="complete">
+              <msIdentifier>
+                <msName>Historical document of witness 1583</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_53120">
+                  <country corresp="#None">United States</country>
+                  <settlement>San Marino</settlement>
+                  <repository corresp="#respository_49434">Henry E. Huntington Library</repository>
+                  <idno>MS HM 128</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_53122">
+                    <locusGrp>
+                      <locus from="205r" to="216r">205r-216r</locus>
+                    </locusGrp>
+                    <textLang mainLang="West Midlands" corresp="#scripta_48780">Dialect spaken in the western part of central England (midlands), surrounding present day Birmingham.</textLang>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://www.dhi.ac.uk/mwm/browse?type=ms&amp;id=30"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1391-01-01" notAfter="1435-12-31" cert="medium">'Early 15th century'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_53123">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height quantity="240">240</height>
+                        <width quantity="168">168</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="hybrida" subtype="anglicana"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity="0"/>
+                  </decoNote>
+                  <decoNote type="no decoration"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53134">
+            <abbr type="siglum">1583</abbr>
+            <ref target="https://www.middleenglishromance.org.uk/mer/48"/>
+            <ref target="https://www.medievalscribes.com/index.php?browse=manuscripts&amp;id=191&amp;nav=off"/>
+            <msDesc status="complete">
+              <msIdentifier>
+                <msName>Historical document of witness 1583</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_48922">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository corresp="#respository_43850">Lambeth Palace. Library</repository>
+                  <idno>MS 491</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_53135">
+                    <locusGrp>
+                      <locus from="206r" to="227v">206r-227v</locus>
+                    </locusGrp>
+                    <textLang mainLang="London" corresp="#scripta_48834">Dialect spoken in the south east Brittain region.</textLang>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://www.middleenglishromance.org.uk/mer/69"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1391-01-01" notAfter="1435-12-31" cert="medium">'First quarter of the 15th century'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_53136">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height quantity="222">222</height>
+                        <width quantity="148">148</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="unknown"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity="0"/>
+                  </decoNote>
+                  <decoNote type="rubrication"/>
+                  <decoNote type="initial"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53151">
+            <abbr type="siglum">1583</abbr>
+            <ref target="https://www.middleenglishromance.org.uk/mer/48"/>
+            <msDesc status="complete">
+              <msIdentifier>
+                <msName>Historical document of witness 1583</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_53150">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>Cambridge</settlement>
+                  <repository corresp="#respository_43816">University of Cambridge. Library</repository>
+                  <idno>MS Mm.5.14</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_53152">
+                    <locusGrp>
+                      <locus from="186r" to="205v">186r-205v</locus>
+                    </locusGrp>
+                    <textLang mainLang="London" corresp="#scripta_48834">Dialect spoken in the south east Brittain region.</textLang>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://www.middleenglishromance.org.uk/mer/48"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1391-01-01" notAfter="1435-12-31" cert="medium">'Early 15th century'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_53153">
+                <objectDesc form="codex">
+                  <supportDesc material="unknown">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height>NA</height>
+                        <width>NA</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="unknown"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity=""/>
+                  </decoNote>
+                  <decoNote type="unknown"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53144">
+            <abbr type="siglum">1583</abbr>
+            <ref target="https://www.middleenglishromance.org.uk/mer/48"/>
+            <msDesc status="defective">
+              <msIdentifier>
+                <msName>Historical document of witness 1583</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49015">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository corresp="#respository_43919">British library</repository>
+                  <idno>Add MS 31042</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_53145">
+                    <locusGrp>
+                      <locus from="50r-53v, 55r-66r" to="">50r-53v, 55r-66r</locus>
+                    </locusGrp>
+                    <textLang mainLang="Yorkshire" corresp="#scripta_49014">Dialect spoken in the northern East of England, surrounding York.</textLang>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://www.middleenglishromance.org.uk/mer/15"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1416-01-01" notAfter="1485-12-31" cert="medium">'Mid 15th century'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_49018">
+                <objectDesc form="codex">
+                  <supportDesc material="unknown">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height/>
+                        <width/>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="unknown"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity=""/>
+                  </decoNote>
+                  <decoNote type="unknown"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53142">
+            <abbr type="siglum">1583</abbr>
+            <ref target="https://www.middleenglishromance.org.uk/mer/48"/>
+            <msDesc status="defective">
+              <msIdentifier>
+                <msName>Historical document of witness 1583</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49008">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository corresp="#respository_43919">British library</repository>
+                  <idno>Cotton MS Caligula A.ii</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_53143">
+                    <locusGrp>
+                      <locus from="111r-112v, 113r-125v" to="">111r-112v, 113r-125v</locus>
+                    </locusGrp>
+                    <textLang mainLang="East Midlands" corresp="#scripta_48797">Dialect spoken in the middle Eastern part of England (East Midlands).</textLang>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://www.middleenglishromance.org.uk/mer/14"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1437-01-01" notAfter="1470-12-31" cert="medium">'1446-1460'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_49011">
+                <objectDesc form="codex">
+                  <supportDesc material="unknown">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height/>
+                        <width/>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="unknown"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity=""/>
+                  </decoNote>
+                  <decoNote type="unknown"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53126">
+            <abbr type="siglum">1583</abbr>
+            <ref target="https://www.middleenglishromance.org.uk/mer/48"/>
+            <ref target="https://catalog.princeton.edu/catalog/99111942213506421"/>
+            <msDesc status="fragmentary">
+              <msIdentifier>
+                <msName>Historical document of witness 1583</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_53124">
+                  <country corresp="#None">United States</country>
+                  <settlement>Princeton</settlement>
+                  <repository corresp="#respository_43915">Princeton university. Library</repository>
+                  <idno>MS Taylor Medieval 11</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_53127">
+                    <locusGrp>
+                      <locus from="104v" to="110v">104v-110v</locus>
+                    </locusGrp>
+                    <textLang mainLang="Yorkshire" corresp="#scripta_49014">Dialect spoken in the northern East of England, surrounding York.</textLang>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1366-01-01" notAfter="1410-12-31" cert="medium">'Late 14th century'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_53128">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height>NA</height>
+                        <width>NA</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout columns="2" writtenLines="42" topLine="No"/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="hybrida" subtype="anglicana"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity="0"/>
+                  </decoNote>
+                  <decoNote type="initial"/>
+                  <decoNote type="rubrication"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53147">
+            <abbr type="siglum">1583</abbr>
+            <ref target="https://www.middleenglishromance.org.uk/mer/48"/>
+            <msDesc status="fragmentary">
+              <msIdentifier>
+                <msName>Historical document of witness 1583</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_53146">
+                  <country/>
+                  <settlement/>
+                  <repository/>
+                  <idno>MS 2507</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_53148">
+                    <locusGrp>
+                      <locus from="1r" to="1v">1r-1v</locus>
+                    </locusGrp>
+                    <textLang mainLang="North Midlands" corresp="#scripta_48802">The North Midlands is a loosely defined area covering the northern parts of the Midlands in England.</textLang>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1416-01-01" notAfter="1460-12-31" cert="medium">'c. 1425-50'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_53149">
+                <objectDesc form="codex">
+                  <supportDesc material="unknown">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height>NA</height>
+                        <width>NA</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="unknown"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity=""/>
+                  </decoNote>
+                  <decoNote type="unknown"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_53139">
+            <abbr type="siglum">1583</abbr>
+            <ref target="https://www.middleenglishromance.org.uk/mer/48"/>
+            <msDesc status="fragmentary">
+              <msIdentifier>
+                <msName>Historical document of witness 1583</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_53138">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository corresp="#respository_43919">British library</repository>
+                  <idno>MS Cotton Vespasian E.xvi</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_53140">
+                    <locusGrp>
+                      <locus from="70r" to="75v">70r-75v</locus>
+                    </locusGrp>
+                    <textLang mainLang="East Midlands" corresp="#scripta_48797">Dialect spoken in the middle Eastern part of England (East Midlands).</textLang>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="https://www.middleenglishromance.org.uk/mer/48"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1416-01-01" notAfter="1485-12-31" cert="medium">'Mid 15th century'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_53141">
+                <objectDesc form="codex">
+                  <supportDesc material="unknown">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height>NA</height>
+                        <width>NA</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="unknown"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity=""/>
+                  </decoNote>
+                  <decoNote type="unknown"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy>
+          <category xml:id="form" corresp="https://www.wikidata.org/wiki/Q4263830">
+            <catDesc>Form</catDesc>
+            <category xml:id="verseForm">
+              <catDesc>verse</catDesc>
+            </category>
+            <category xml:id="proseForm">
+              <catDesc>prose</catDesc>
+            </category>
+            <category xml:id="mixedForm">
+              <catDesc>mixed</catDesc>
+            </category>
+            <category xml:id="unknownForm">
+              <catDesc>unknown</catDesc>
+            </category>
+          </category>
+          <category xml:id="traditionStatus">
+            <catDesc>Tradition status</catDesc>
+            <category xml:id="traditionFragmentary">
+              <catDesc>
+                <name type="main">fragmentary</name>
+                <gloss>Surviving in only fragments. No complete witnesses survive.</gloss>
+              </catDesc>
+            </category>
+            <category xml:id="traditionLost">
+              <catDesc>
+                <name type="main">lost</name>
+                <gloss>No witnesses of this text survive. It is a completely lost tradition.</gloss>
+              </catDesc>
+            </category>
+            <category xml:id="traditionSurviving">
+              <catDesc>
+                <name type="main">surviving</name>
+                <gloss>Surviving in at least one (more or less) complete manuscript</gloss>
+              </catDesc>
+            </category>
+            <category xml:id="traditionUnknown">
+              <catDesc>
+                <name type="main">unknown</name>
+                <gloss>The information is not ready to be input.</gloss>
+              </catDesc>
+            </category>
+          </category>
+          <category xml:id="genre" corresp="https://www.wikidata.org/wiki/Q483394">
+            <catDesc>Genre</catDesc>
+            <category xml:id="genre_48800">
+              <catDesc>
+                <name type="main">Arthurian romance</name>
+                <gloss>Arthurian romance grew out of chronicles purporting to record the history of King Arthur, his knights, and their martial or amatory adventures.</gloss>
+              </catDesc>
+            </category>
+            <category xml:id="genre_47768">
+              <catDesc>
+                <name type="main">Arthurroman</name>
+                <gloss>'Arthurroman is een verzamelnaam voor ridderromans ontstaan in de tweede helft van de twaalfde eeuw aan Noord-Franse adellijke hoven. Centraal, zij het op de achtergrond, staat koning Arthur. De mode begon met vijf Arthurromans in de volkstaal (ca. 1160-1190) van Chrétien de Troyes.'</gloss>
+              </catDesc>
+            </category>
+            <category xml:id="genre_49013">
+              <catDesc>
+                <name type="main">Carolingian romance</name>
+                <gloss>Middle English romance surrounding characters related to Charlemagne or people at his court.</gloss>
+              </catDesc>
+            </category>
+            <category xml:id="genre_46304">
+              <catDesc>
+                <name type="main">Karelepiek</name>
+                <gloss>Story about Charlemagne and his family.</gloss>
+              </catDesc>
+            </category>
+            <category xml:id="genre_50182">
+              <catDesc>
+                <name type="main">Lai narratif</name>
+                <gloss>Narrative lai</gloss>
+              </catDesc>
+            </category>
+            <category xml:id="genre_47474">
+              <catDesc>
+                <name type="main">Other</name>
+                <gloss>Any text that does not fit in with the main genres of Arthurian and Charlemagnian literature.</gloss>
+              </catDesc>
+            </category>
+            <category xml:id="genre_44167">
+              <catDesc>
+                <name type="main">chanson de geste</name>
+                <gloss>Long epic poem from the Middle Ages.</gloss>
+              </catDesc>
+            </category>
+            <category xml:id="genre_47609">
+              <catDesc>
+                <name type="main">chronique</name>
+                <gloss>'Chroniques' autodésignées, en prose, dérivées de chansons de geste et romans</gloss>
+              </catDesc>
+            </category>
+            <category xml:id="genre_47612">
+              <catDesc>
+                <name type="main">mise en prose</name>
+                <gloss>mise en prose de chansons de geste ou romans en vers</gloss>
+              </catDesc>
+            </category>
+            <category xml:id="genre_44128">
+              <catDesc>
+                <name type="main">roman</name>
+                <name type="alt">chivalric romance</name>
+                <name type="alt">chivalric novel</name>
+                <gloss>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)</gloss>
+              </catDesc>
+              <category xml:id="genre_44130">
+                <catDesc>
+                  <name type="main">roman lignager</name>
+                  <gloss>Family history</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46894">
+                <catDesc>
+                  <name type="main">Artusroman</name>
+                  <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
+                </catDesc>
+              </category>
+            </category>
+            <category xml:id="genre_46366">
+              <catDesc>
+                <name type="main">riddarasögur</name>
+                <name type="alt">chivalric sagas</name>
+                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
+              </catDesc>
+              <category xml:id="genre_46370">
+                <catDesc>
+                  <name type="main">riddarasögur translated</name>
+                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46367">
+                <catDesc>
+                  <name type="main">riddarasögur indigenous</name>
+                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
+                </catDesc>
+              </category>
+            </category>
+          </category>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date notBefore="1351-01-01" notAfter="1425-12-31" cert="medium">'Late 14th century'</date>
+      </creation>
+      <langUsage>
+        <language ident="enm" corresp="https://iso639-3.sil.org/code/enm" xml:id="lang_9729">Middle English</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#form" target="#verseForm"/>
+        <catRef scheme="#traditionStatus" target="#traditionSurviving"/>
+        <catRef scheme="#genre" target="#genre_47474"/>
+        <keywords>
+          <term>Other</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <!-- Allignment of a text as a prep for an edition. -->
+      </p>
+    </body>
+  </text>
+</TEI>

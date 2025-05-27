@@ -38,7 +38,7 @@
       <publicationStmt>
         <publisher>LostMa ERC Project</publisher>
         <pubPlace>Paris</pubPlace>
-        <date>2025-05-07</date>
+        <date>2025-05-27</date>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
         </availability>
@@ -358,68 +358,11 @@
             </msDesc>
           </witness>
           <witness xml:id="witness_47662">
-            <abbr type="siglum">H07</abbr>
+            <abbr type="siglum">H107</abbr>
             <ref target="https://www.handschriftencensus.de/24256"/>
             <msDesc status="fragmentary">
               <msIdentifier>
-                <msName>Historical document of witness H07</msName>
-              </msIdentifier>
-              <msPart>
-                <msIdentifier corresp="#document_47660">
-                  <country corresp="#DE">Germany</country>
-                  <settlement>Berlin</settlement>
-                  <repository corresp="#respository_43889">Staatsbibliothek zu Berlin Preußischer Kulturbesitz</repository>
-                  <idno>Fragm. 18</idno>
-                </msIdentifier>
-                <msContents>
-                  <msItem xml:id="part_47666">
-                    <locusGrp>
-                      <locus from="1r" to="1v">1r-1v</locus>
-                    </locusGrp>
-                    <textLang mainLang="Vlaams" corresp="#scripta_46305">Dialect of Flanders.</textLang>
-                  </msItem>
-                </msContents>
-                <additional>
-                  <surrogates/>
-                  <listBibl>
-                    <bibl/>
-                  </listBibl>
-                </additional>
-              </msPart>
-              <history>
-                <origin>
-                  <origDate notBefore="1316-01-01" notAfter="1360-12-31" cert="medium">'XIVb'</origDate>
-                </origin>
-              </history>
-              <physDesc corresp="#physDesc_47664">
-                <objectDesc form="codex">
-                  <supportDesc material="perg">
-                    <extent>
-                      <dimensions unit="millimeters" type="written">
-                        <height>335-340</height>
-                        <width quantity="240">240</width>
-                      </dimensions>
-                    </extent>
-                  </supportDesc>
-                  <layoutDesc>
-                    <layout columns="3" writtenLines="62"/>
-                  </layoutDesc>
-                </objectDesc>
-                <handDesc>
-                  <handNote script="textualis"/>
-                </handDesc>
-                <decoDesc>
-                  <decoNote type="illustration">
-                    <measure quantity="0"/>
-                  </decoNote>
-                  <decoNote type="rubrication"/>
-                  <decoNote type="initial"/>
-                </decoDesc>
-              </physDesc>
-            </msDesc>
-            <msDesc status="fragmentary">
-              <msIdentifier>
-                <msName>Historical document of witness H07</msName>
+                <msName>Historical document of witness H107</msName>
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_47658">
@@ -502,7 +445,64 @@
             </msDesc>
             <msDesc status="fragmentary">
               <msIdentifier>
-                <msName>Historical document of witness H07</msName>
+                <msName>Historical document of witness H107</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_47660">
+                  <country corresp="#DE">Germany</country>
+                  <settlement>Berlin</settlement>
+                  <repository corresp="#respository_43889">Staatsbibliothek zu Berlin Preußischer Kulturbesitz</repository>
+                  <idno>Fragm. 18</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_47666">
+                    <locusGrp>
+                      <locus from="1r" to="1v">1r-1v</locus>
+                    </locusGrp>
+                    <textLang mainLang="Vlaams" corresp="#scripta_46305">Dialect of Flanders.</textLang>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1316-01-01" notAfter="1360-12-31" cert="medium">'XIVb'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_47664">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height>335-340</height>
+                        <width quantity="240">240</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout columns="3" writtenLines="62"/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="textualis"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity="0"/>
+                  </decoNote>
+                  <decoNote type="rubrication"/>
+                  <decoNote type="initial"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+            <msDesc status="fragmentary">
+              <msIdentifier>
+                <msName>Historical document of witness H107</msName>
               </msIdentifier>
               <msPart>
                 <msIdentifier corresp="#document_47661">
@@ -939,7 +939,7 @@
                       <locus from="1r" to="1v">1r-1v</locus>
                       <locus from="2r" to="2v">2r-2v</locus>
                     </locusGrp>
-                    <textLang/>
+                    <textLang mainLang="Vlaams" corresp="#scripta_46305">Dialect of Flanders.</textLang>
                   </msItem>
                 </msContents>
                 <additional>
@@ -959,8 +959,8 @@
                   <supportDesc material="perg">
                     <extent>
                       <dimensions unit="millimeters" type="written">
-                        <height>NA</height>
-                        <width>NA</width>
+                        <height/>
+                        <width/>
                       </dimensions>
                     </extent>
                   </supportDesc>
@@ -1192,7 +1192,64 @@
               </msPart>
               <history>
                 <origin>
-                  <origDate notBefore="1366-01-01" notAfter="1410-12-31" cert="medium">'&gt; 1350'</origDate>
+                  <origDate notBefore="1366-01-01" notAfter="1385-12-31" cert="medium">'&gt; 1350'</origDate>
+                </origin>
+              </history>
+              <physDesc corresp="#physDesc_47695">
+                <objectDesc form="codex">
+                  <supportDesc material="perg">
+                    <extent>
+                      <dimensions unit="millimeters" type="written">
+                        <height quantity="260">260</height>
+                        <width quantity="180">180</width>
+                      </dimensions>
+                    </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout columns="2" writtenLines="50"/>
+                  </layoutDesc>
+                </objectDesc>
+                <handDesc>
+                  <handNote script="textualis"/>
+                </handDesc>
+                <decoDesc>
+                  <decoNote type="illustration">
+                    <measure quantity="0"/>
+                  </decoNote>
+                  <decoNote type="initial"/>
+                  <decoNote type="rubrication"/>
+                </decoDesc>
+              </physDesc>
+            </msDesc>
+            <msDesc status="fragmentary">
+              <msIdentifier>
+                <msName>Historical document of witness H112</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_47689">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Néerlandais 126</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_47694">
+                    <locusGrp>
+                      <locus from="1r" to="1v">1r-1v</locus>
+                    </locusGrp>
+                    <textLang mainLang="Brabants" corresp="#scripta_46312">Dialect of Brabant.</textLang>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1366-01-01" notAfter="1385-12-31" cert="medium">'&gt; 1350'</origDate>
                 </origin>
               </history>
               <physDesc corresp="#physDesc_47695">
@@ -1253,64 +1310,7 @@
               </msPart>
               <history>
                 <origin>
-                  <origDate notBefore="1366-01-01" notAfter="1410-12-31" cert="medium">'&gt; 1350'</origDate>
-                </origin>
-              </history>
-              <physDesc corresp="#physDesc_47695">
-                <objectDesc form="codex">
-                  <supportDesc material="perg">
-                    <extent>
-                      <dimensions unit="millimeters" type="written">
-                        <height quantity="260">260</height>
-                        <width quantity="180">180</width>
-                      </dimensions>
-                    </extent>
-                  </supportDesc>
-                  <layoutDesc>
-                    <layout columns="2" writtenLines="50"/>
-                  </layoutDesc>
-                </objectDesc>
-                <handDesc>
-                  <handNote script="textualis"/>
-                </handDesc>
-                <decoDesc>
-                  <decoNote type="illustration">
-                    <measure quantity="0"/>
-                  </decoNote>
-                  <decoNote type="initial"/>
-                  <decoNote type="rubrication"/>
-                </decoDesc>
-              </physDesc>
-            </msDesc>
-            <msDesc status="fragmentary">
-              <msIdentifier>
-                <msName>Historical document of witness H112</msName>
-              </msIdentifier>
-              <msPart>
-                <msIdentifier corresp="#document_47689">
-                  <country corresp="#FR">France</country>
-                  <settlement>Paris</settlement>
-                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
-                  <idno>Néerlandais 126</idno>
-                </msIdentifier>
-                <msContents>
-                  <msItem xml:id="part_47694">
-                    <locusGrp>
-                      <locus from="1r" to="1v">1r-1v</locus>
-                    </locusGrp>
-                    <textLang mainLang="Brabants" corresp="#scripta_46312">Dialect of Brabant.</textLang>
-                  </msItem>
-                </msContents>
-                <additional>
-                  <surrogates/>
-                  <listBibl>
-                    <bibl/>
-                  </listBibl>
-                </additional>
-              </msPart>
-              <history>
-                <origin>
-                  <origDate notBefore="1366-01-01" notAfter="1410-12-31" cert="medium">'&gt; 1350'</origDate>
+                  <origDate notBefore="1366-01-01" notAfter="1385-12-31" cert="medium">'&gt; 1350'</origDate>
                 </origin>
               </history>
               <physDesc corresp="#physDesc_47695">
@@ -1501,6 +1501,12 @@
                 <gloss>Story about Charlemagne and his family.</gloss>
               </catDesc>
             </category>
+            <category xml:id="genre_50182">
+              <catDesc>
+                <name type="main">Lai narratif</name>
+                <gloss>Narrative lai</gloss>
+              </catDesc>
+            </category>
             <category xml:id="genre_47474">
               <catDesc>
                 <name type="main">Other</name>
@@ -1525,25 +1531,6 @@
                 <gloss>mise en prose de chansons de geste ou romans en vers</gloss>
               </catDesc>
             </category>
-            <category xml:id="genre_46366">
-              <catDesc>
-                <name type="main">riddarasögur</name>
-                <name type="alt">chivalric sagas</name>
-                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
-              </catDesc>
-              <category xml:id="genre_46367">
-                <catDesc>
-                  <name type="main">riddarasögur indigenous</name>
-                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
-                </catDesc>
-              </category>
-              <category xml:id="genre_46370">
-                <catDesc>
-                  <name type="main">riddarasögur translated</name>
-                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
-                </catDesc>
-              </category>
-            </category>
             <category xml:id="genre_44128">
               <catDesc>
                 <name type="main">roman</name>
@@ -1561,6 +1548,25 @@
                 <catDesc>
                   <name type="main">Artusroman</name>
                   <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
+                </catDesc>
+              </category>
+            </category>
+            <category xml:id="genre_46366">
+              <catDesc>
+                <name type="main">riddarasögur</name>
+                <name type="alt">chivalric sagas</name>
+                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
+              </catDesc>
+              <category xml:id="genre_46370">
+                <catDesc>
+                  <name type="main">riddarasögur translated</name>
+                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46367">
+                <catDesc>
+                  <name type="main">riddarasögur indigenous</name>
+                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
                 </catDesc>
               </category>
             </category>

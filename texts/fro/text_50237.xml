@@ -1,0 +1,526 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title>Metadata encoding of "Guiron le courtois, Continuation"</title>
+        </title>
+        <funder>European Research Council</funder>
+        <principal>Jean-Baptiste Camps</principal>
+        <respStmt>
+          <name>Jean-Baptiste Camps</name>
+          <resp>data entry and proof correction</resp>
+        </respStmt>
+        <respStmt>
+          <name>Kelly Christensen</name>
+          <resp>conversion of metadata to TEI markup</resp>
+        </respStmt>
+        <respStmt>
+          <name>Théo Moins</name>
+          <resp>conversion of text to TEI markup</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LostMa ERC Project</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date>2025-05-27</date>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a Creative Commons Attribution 4.0 International License</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl xml:id="text_50237">
+          <title type="full">
+            <title type="main">Guiron le courtois, Continuation</title>
+          </title>
+        </bibl>
+        <listWit>
+          <witness xml:id="witness_54241">
+            <abbr type="siglum">L4</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/30103"/>
+            <ref target="https://arlima.net/no/9511"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness L4</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45555">
+                  <country corresp="#UK">United Kingdom</country>
+                  <settlement>London</settlement>
+                  <repository corresp="#respository_43919">British library</repository>
+                  <idno>Add MS 36880</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52190">
+                    <locusGrp>
+                      <locus from="161r" to="263v">161r-263v</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1281-01-01" notAfter="1300-12-31" cert="unknown"/>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54247">
+            <abbr type="siglum">Fr 350</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/45517"/>
+            <ref target="https://arlima.net/no/5360"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness Fr 350</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45788">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 350</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52196">
+                    <locusGrp>
+                      <locus from="? (Guiron le courtois, Continuation)" to="">? (Guiron le courtois, Continuation)</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/45517"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1281-01-01" notAfter="1320-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54240">
+            <abbr type="siglum">X</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/82093"/>
+            <msDesc status="">
+              <note>Manuscrit spolié pendant la guerre</note>
+              <msIdentifier>
+                <msName>Historical document of witness X</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49939">
+                  <country/>
+                  <settlement/>
+                  <repository/>
+                  <idno/>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52189">
+                    <locusGrp>
+                      <locus from="1" to="76r">1-76r</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/82093"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1341-01-01" notAfter="1360-12-31" cert="unknown"/>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54246">
+            <abbr type="siglum">Fr 338</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/71984"/>
+            <ref target="https://arlima.net/no/3979"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness Fr 338</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45995">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 338</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52193">
+                    <locusGrp>
+                      <locus from="475" to="481">475-481</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1376-01-01" notAfter="1395-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54243">
+            <abbr type="siglum">A2/A2*</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/71982"/>
+            <ref target="https://arlima.net/no/9506"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness A2/A2*</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45670">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <collection>Arsenal</collection>
+                  <idno>Ms-3478</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52192">
+                    <locusGrp>
+                      <locus from="510a" to="521a">510a-521a</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1401-01-01" notAfter="1420-12-31" cert="unknown"/>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54248">
+            <abbr type="siglum">Fr 357</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/45519"/>
+            <ref target="https://arlima.net/no/3988"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness Fr 357</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45928">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 357</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52197">
+                    <locusGrp>
+                      <locus from="232va" to="240vb">232va-240vb</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1416-01-01" notAfter="1455-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54249">
+            <abbr type="siglum">Fr 362</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/74422"/>
+            <ref target="https://arlima.net/no/3989"/>
+            <msDesc status="">
+              <msIdentifier>
+                <msName>Historical document of witness Fr 362</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_45959">
+                  <country corresp="#FR">France</country>
+                  <settlement>Paris</settlement>
+                  <repository corresp="#respository_43932">Bibliothèque nationale de France</repository>
+                  <idno>Français 362</idno>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52198">
+                    <locusGrp>
+                      <locus from="206vb" to="219vb">206vb-219vb</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl/>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1466-01-01" notAfter="1475-12-31" cert="unknown">Jonas</origDate>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+          <witness xml:id="witness_54242">
+            <abbr type="siglum">Mn</abbr>
+            <ref target="http://jonas.irht.cnrs.fr/manuscrit/82413"/>
+            <msDesc status="fragmentary">
+              <note>Fragment</note>
+              <msIdentifier>
+                <msName>Historical document of witness Mn</msName>
+              </msIdentifier>
+              <msPart>
+                <msIdentifier corresp="#document_49493">
+                  <country corresp="#IT">Italy</country>
+                  <settlement>Mantova</settlement>
+                  <repository corresp="#respository_43937">Archivio di stato di Mantova</repository>
+                  <idno>Cimeli 143ter</idno>
+                  <altIdentifier>
+                    <idno>L 4?</idno>
+                  </altIdentifier>
+                </msIdentifier>
+                <msContents>
+                  <msItem xml:id="part_52191">
+                    <locusGrp>
+                      <locus from="5" to="8">5-8</locus>
+                    </locusGrp>
+                    <textLang/>
+                  </msItem>
+                </msContents>
+                <additional>
+                  <surrogates/>
+                  <listBibl>
+                    <bibl>
+                      <ref target="http://jonas.irht.cnrs.fr/manuscrit/82413"/>
+                    </bibl>
+                  </listBibl>
+                </additional>
+              </msPart>
+              <history>
+                <origin>
+                  <origDate notBefore="1301-01-01" notAfter="1320-12-31" cert="unknown"/>
+                </origin>
+              </history>
+              <physDesc/>
+            </msDesc>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy>
+          <category xml:id="form" corresp="https://www.wikidata.org/wiki/Q4263830">
+            <catDesc>Form</catDesc>
+            <category xml:id="verseForm">
+              <catDesc>verse</catDesc>
+            </category>
+            <category xml:id="proseForm">
+              <catDesc>prose</catDesc>
+            </category>
+            <category xml:id="mixedForm">
+              <catDesc>mixed</catDesc>
+            </category>
+            <category xml:id="unknownForm">
+              <catDesc>unknown</catDesc>
+            </category>
+          </category>
+          <category xml:id="traditionStatus">
+            <catDesc>Tradition status</catDesc>
+            <category xml:id="traditionFragmentary">
+              <catDesc>
+                <name type="main">fragmentary</name>
+                <gloss>Surviving in only fragments. No complete witnesses survive.</gloss>
+              </catDesc>
+            </category>
+            <category xml:id="traditionLost">
+              <catDesc>
+                <name type="main">lost</name>
+                <gloss>No witnesses of this text survive. It is a completely lost tradition.</gloss>
+              </catDesc>
+            </category>
+            <category xml:id="traditionSurviving">
+              <catDesc>
+                <name type="main">surviving</name>
+                <gloss>Surviving in at least one (more or less) complete manuscript</gloss>
+              </catDesc>
+            </category>
+            <category xml:id="traditionUnknown">
+              <catDesc>
+                <name type="main">unknown</name>
+                <gloss>The information is not ready to be input.</gloss>
+              </catDesc>
+            </category>
+          </category>
+          <category xml:id="genre" corresp="https://www.wikidata.org/wiki/Q483394">
+            <catDesc>Genre</catDesc>
+            <category xml:id="genre_48800">
+              <catDesc>
+                <name type="main">Arthurian romance</name>
+                <gloss>Arthurian romance grew out of chronicles purporting to record the history of King Arthur, his knights, and their martial or amatory adventures.</gloss>
+              </catDesc>
+            </category>
+            <category xml:id="genre_47768">
+              <catDesc>
+                <name type="main">Arthurroman</name>
+                <gloss>'Arthurroman is een verzamelnaam voor ridderromans ontstaan in de tweede helft van de twaalfde eeuw aan Noord-Franse adellijke hoven. Centraal, zij het op de achtergrond, staat koning Arthur. De mode begon met vijf Arthurromans in de volkstaal (ca. 1160-1190) van Chrétien de Troyes.'</gloss>
+              </catDesc>
+            </category>
+            <category xml:id="genre_49013">
+              <catDesc>
+                <name type="main">Carolingian romance</name>
+                <gloss>Middle English romance surrounding characters related to Charlemagne or people at his court.</gloss>
+              </catDesc>
+            </category>
+            <category xml:id="genre_46304">
+              <catDesc>
+                <name type="main">Karelepiek</name>
+                <gloss>Story about Charlemagne and his family.</gloss>
+              </catDesc>
+            </category>
+            <category xml:id="genre_50182">
+              <catDesc>
+                <name type="main">Lai narratif</name>
+                <gloss>Narrative lai</gloss>
+              </catDesc>
+            </category>
+            <category xml:id="genre_47474">
+              <catDesc>
+                <name type="main">Other</name>
+                <gloss>Any text that does not fit in with the main genres of Arthurian and Charlemagnian literature.</gloss>
+              </catDesc>
+            </category>
+            <category xml:id="genre_44167">
+              <catDesc>
+                <name type="main">chanson de geste</name>
+                <gloss>Long epic poem from the Middle Ages.</gloss>
+              </catDesc>
+            </category>
+            <category xml:id="genre_47609">
+              <catDesc>
+                <name type="main">chronique</name>
+                <gloss>'Chroniques' autodésignées, en prose, dérivées de chansons de geste et romans</gloss>
+              </catDesc>
+            </category>
+            <category xml:id="genre_47612">
+              <catDesc>
+                <name type="main">mise en prose</name>
+                <gloss>mise en prose de chansons de geste ou romans en vers</gloss>
+              </catDesc>
+            </category>
+            <category xml:id="genre_44128">
+              <catDesc>
+                <name type="main">roman</name>
+                <name type="alt">chivalric romance</name>
+                <name type="alt">chivalric novel</name>
+                <gloss>"Un roman de chevalerie est une œuvre romanesque, le plus souvent en prose, inspirée ou adaptée des romans courtois et des chansons de geste en vers des XIe et XIIIe siècles." (DBpedia)</gloss>
+              </catDesc>
+              <category xml:id="genre_44130">
+                <catDesc>
+                  <name type="main">roman lignager</name>
+                  <gloss>Family history</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46894">
+                <catDesc>
+                  <name type="main">Artusroman</name>
+                  <gloss>Middle High German form of romance  or epic based on the Matière de Bretagne</gloss>
+                </catDesc>
+              </category>
+            </category>
+            <category xml:id="genre_46366">
+              <catDesc>
+                <name type="main">riddarasögur</name>
+                <name type="alt">chivalric sagas</name>
+                <gloss>The riddarasögur are Norse prose sagas of the romance genre. Starting in the thirteenth century with Norse translations of French chansons de geste and Latin romances and histories, the genre expanded in Iceland to indigenous creations in a similar style.</gloss>
+              </catDesc>
+              <category xml:id="genre_46370">
+                <catDesc>
+                  <name type="main">riddarasögur translated</name>
+                  <gloss>Norse translations of French chansons de geste and Latin romances and histories,</gloss>
+                </catDesc>
+              </category>
+              <category xml:id="genre_46367">
+                <catDesc>
+                  <name type="main">riddarasögur indigenous</name>
+                  <gloss>Icelandic indigenous creations in a style of riddarasögur</gloss>
+                </catDesc>
+              </category>
+            </category>
+          </category>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date notBefore="1241-01-01" notAfter="1280-12-31" cert="unknown">"sicuramente anteriore all'ultimo quarto del XIII secolo" (Il Ciclo…); Après 1240, avant 1280 (Arlima)</date>
+      </creation>
+      <langUsage>
+        <language ident="fro" corresp="https://iso639-3.sil.org/code/fro" xml:id="lang_9470">Old French</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#form" target="#proseForm"/>
+        <catRef scheme="#traditionStatus" target="#traditionSurviving"/>
+        <catRef scheme="#genre" target="#genre_44128"/>
+        <keywords>
+          <term>roman</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <!-- Allignment of a text as a prep for an edition. -->
+      </p>
+    </body>
+  </text>
+</TEI>
