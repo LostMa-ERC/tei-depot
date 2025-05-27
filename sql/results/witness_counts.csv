@@ -1,0 +1,707 @@
+story_id,story,text_id,text_name,text_earliest,text_latest,text_lang,wit_count,earliest_wit,latest_wit
+61,Aigar et Maurin,585,Aigar et Maurin,1150-01-01,1200-12-31,pro (Occitan),2,1241-01-01,1400-12-31
+62,Ami et Amile,778,Ami et Amile perdu,1001-01-01,1114-12-31,fro (Old French),1,,
+62,Ami et Amile,588,Ami et Amile,1196-01-01,1220-12-31,fro (Old French),1,1256-01-01,1295-12-31
+62,Ami et Amile,587,Amis et Amiloun,1200-01-01,1220-12-31,fro_ENG (Anglo-Norman),3,1251-01-01,1400-12-31
+62,Ami et Amile,48824,Amis and Amiloun,1251-01-01,1325-12-31,enm (Middle English),2,1321-01-01,1410-12-31
+62,Ami et Amile,48639,Amícus saga ok Amilíus,1300-01-01,1319-12-31,non (Old Norse),1,1401-01-01,1425-12-31
+62,Ami et Amile,48581,Ami et Amile,1301-01-01,1400-12-31,fro (Old French),1,1301-01-01,1400-12-31
+62,Ami et Amile,48582,Ami et Amile,1381-01-01,1400-12-31,frm (Middle French),1,,
+62,Ami et Amile,589,Ami et Amile,1381-01-01,1500-12-31,frm (Middle French),5,1381-01-01,1500-12-31
+63,Geoffroi Grisegonelle??,554,Geoffroi Grisegonelle??,1001-01-01,1200-12-31,,1,,
+64,Geste de Liege,655,Geste de Liege,1300-01-01,1399-12-31,,1,,
+65,Guerra d'Attila,660,Guerra d'Attila,1358-01-01,1372-12-31,fro_ITA (Franco-Italian),1,1366-01-01,1400-12-31
+66,Gui de Tournant,763,Gui de Tournant,1300-01-01,1400-12-31,,1,,
+67,Hugues Capet,740,Hugues Capet,1354-01-01,1365-12-31,frm (Middle French),1,1451-01-01,1500-12-31
+68,Huon d'Auvergne,562,Huon d'Auvergne,1200-01-01,1299-12-31,,1,,
+68,Huon d'Auvergne,612,Huon d'Auvergne,1326-01-01,1340-12-31,fro_ITA (Franco-Italian),5,1376-01-01,1500-12-31
+69,Gormont et Isembart,711,Gormont et Isembart,1068-01-01,1130-12-31,fro (Old French),1,1201-01-01,1225-12-31
+70,Raoul de Cambrai,48671,Raoul de Cambrai,0901-05-27,1100-12-31,fro (Old French),1,,
+70,Raoul de Cambrai,646,Raoul de Cambrai,1176-01-01,1220-12-31,fro (Old French),2,1201-01-01,1300-12-31
+71,Lion de Bourges,741,Lion de Bourges en alexandrins,1301-01-01,1400-12-31,fro (Old French),1,1401-01-01,1500-12-31
+71,Lion de Bourges,624,Lion de Bourges en octosyllabes,1351-01-01,1400-12-31,frm (Middle French),1,1481-01-01,1520-12-31
+71,Lion de Bourges,48109,Lion van Bourges,1351-01-01,1425-12-31,dum (Middle Dutch),1,1291-01-01,1510-12-31
+72,Lohier et Malart,46316,Loyhier en Malaert,1276-01-01,1375-12-31,dum (Middle Dutch),1,1316-01-01,1360-12-31
+72,Lohier et Malart,766,Lohier et Malart,1301-01-01,1350-12-31,fro (Old French),1,1401-01-01,1420-12-31
+72,Lohier et Malart,564,Lohier / conflits des fils de Charlemagne,,,,1,,
+73,Jourdain de Blaye,672,Jourdain de Blaye ou Blaive,1181-01-01,1220-12-31,fro (Old French),1,1256-01-01,1295-12-31
+73,Jourdain de Blaye,48072,Jourdain de Blaye,1276-01-01,1350-12-31,dum (Middle Dutch),1,1316-01-01,1360-12-31
+73,Jourdain de Blaye,673,Jourdain de Blaye ou Blaive,1401-01-01,1455-12-31,frm (Middle French),2,,
+73,Jourdain de Blaye,48707,Jourdain de Blaye,,,frm (Middle French),1,1457-01-01,1500-12-31
+74,Floovant,647,Floovant,1181-01-01,1200-12-31,fro (Old French),2,1301-01-01,1400-12-31
+74,Floovant,46303,Floovent,1191-01-01,1240-12-31,dum (Middle Dutch),1,1341-01-01,1360-12-31
+74,Floovant,48612,Flóvents saga,1201-01-01,1250-12-31,non (Old Norse),5,1301-01-01,1525-12-31
+75,Valentin et Orson,541,Valentin et Orson / Sansnom,1300-01-01,1350-12-31,,1,,
+75,Valentin et Orson,47745,Valentijn en Nameloos,1301-01-01,1400-12-31,dum (Middle Dutch),2,1316-01-01,1385-12-31
+76,Vengeance Rioul,542,Vengeance Rioul,1100-01-01,1120-12-31,,1,,
+77,Venjance Nostre Seigneur,695,Venjance Nostre Seigneur,1181-01-01,1220-12-31,fro (Old French),9,1201-01-01,1500-12-31
+78,Anseïs de Metz,592,Anseïs de Metz,1121-01-01,1250-12-31,fro (Old French),5,1201-01-01,1320-12-31
+78,Anseïs de Metz,50225,Histoires de Charles Martel,1448-01-01,1465-12-31,frm (Middle French),1,,
+78,Anseïs de Metz,47611,Anséis de Metz,1467-01-01,1500-12-31,frm (Middle French),1,1467-01-01,1500-12-31
+79,Garin le Lorrain,48114,Lorreinen I,1176-01-01,1275-12-31,dum (Middle Dutch),2,1291-01-01,1360-12-31
+79,Garin le Lorrain,652,Garin le Lorrain,1181-01-01,1200-12-31,fro (Old French),39,1196-01-01,1400-12-31
+79,Garin le Lorrain,48126,Lorreinen II,1226-01-01,1325-12-31,dum (Middle Dutch),1,1316-01-01,1360-12-31
+79,Garin le Lorrain,759,Garin le Lorrain,1301-01-01,1400-12-31,fro (Old French),1,,
+79,Garin le Lorrain,50225,Histoires de Charles Martel,1448-01-01,1465-12-31,frm (Middle French),1,,
+79,Garin le Lorrain,48678,Garin le lorrain,1467-01-01,1500-12-31,frm (Middle French),1,1467-01-01,1500-12-31
+80,Gerbert de Metz,760,"Gerbert de Metz, rédaction (?) perdue",1100-01-01,1199-12-31,,1,,
+80,Gerbert de Metz,654,Girbert de Metz,1181-01-01,1200-12-31,fro (Old French),32,1181-01-01,1500-12-31
+80,Gerbert de Metz,49882,Gerbert de Metz,1401-01-01,1500-12-31,frm (Middle French),1,1467-01-01,1500-12-31
+81,Hervis de Metz,664,Hervis de Metz,1201-01-01,1225-12-31,fro (Old French),5,1201-01-01,1320-12-31
+82,Yon de Metz,577,Yon de Metz perdu,1200-01-01,1250-12-31,,1,,
+82,Yon de Metz,582,Yonnet perdu,1225-01-01,1250-12-31,,1,,
+82,Yon de Metz,698,Yon de Metz ou la Venjance Fromondin,1254-01-01,1260-12-31,fro (Old French),1,1251-01-01,1276-12-31
+82,Yon de Metz,699,Yonnet abrégé,1301-01-01,1333-12-31,fro (Old French),1,1301-01-01,1320-12-31
+83,Aliscans,586,Aliscans,1151-01-01,1200-12-31,fro (Old French),22,1191-01-01,1470-12-31
+83,Aliscans,47641,Guillaume d'Orange en prose,1454-01-01,1456-12-31,frm (Middle French),2,1461-01-01,1471-12-31
+84,Agolant,544,Agolant perdu,1100-01-01,1200-12-31,,1,,
+84,Agolant,707,Agolant,1180-01-01,1220-12-31,fro (Old French),1,1281-01-01,1300-12-31
+85,Guillaume,738,Guillaume,1101-01-01,1200-12-31,fro_ENG (Anglo-Norman),1,1241-01-01,1260-12-31
+85,Guillaume,47780,Walewein ende Keye,1201-01-01,1300-12-31,dum (Middle Dutch),1,1316-01-01,1360-12-31
+85,Guillaume,47641,Guillaume d'Orange en prose,1454-01-01,1456-12-31,frm (Middle French),2,1461-01-01,1471-12-31
+86,Enfances Garin de Monglane,632,Enfances Garin de Monglane,1280-01-01,1320-12-31,fro (Old French),1,1441-01-01,1460-12-31
+87,Garin de Monglane,47341,Garijn van Montglavie,1101-01-01,1335-12-31,dum (Middle Dutch),1,1315-01-01,1335-12-31
+87,Garin de Monglane,651,Garin de Monglane,1201-01-01,1300-12-31,fro (Old French),6,1201-01-01,1460-12-31
+88,Charroi de Nimes,613,Charroi de Nimes,1101-01-01,1160-12-31,fro (Old French),9,1201-01-01,1600-12-31
+88,Charroi de Nimes,47641,Guillaume d'Orange en prose,1454-01-01,1456-12-31,frm (Middle French),2,1461-01-01,1471-12-31
+89,Couronnement de Louis,724,Couronnement de Louis,1101-01-01,1166-12-31,fro (Old French),9,1241-01-01,1350-12-31
+89,Couronnement de Louis,50323,"Couronnement de Louis, rédaction D (courte / archaïque)",1101-01-01,1250-12-31,fro (Old French),1,1241-01-01,1300-12-31
+89,Couronnement de Louis,47641,Guillaume d'Orange en prose,1454-01-01,1456-12-31,frm (Middle French),2,1461-01-01,1471-12-31
+89,Couronnement de Louis,48700,Garin de Monglane,1459-01-01,1520-12-31,frm (Middle French),1,1481-01-01,1500-12-31
+90,Enfances Guillaume,634,Enfances Guillaume,1201-01-01,1250-12-31,fro (Old French),7,1241-01-01,1350-12-31
+91,Moniage Guillaume,46225,Moniage Guillaume perdu,1101-01-01,1133-12-31,fro (Old French),1,,
+91,Moniage Guillaume,743,"Moniage Guillaume, 1re rédaction (courte)",1134-01-01,1170-12-31,fro (Old French),2,1201-01-01,1230-12-31
+91,Moniage Guillaume,744,"Moniage Guillaume, 2e rédaction (longue)",1171-01-01,1190-12-31,fro (Old French),7,1251-01-01,1350-12-31
+91,Moniage Guillaume,767,Moniage Guillaume fragm.,1181-01-01,1220-12-31,fro (Old French),1,1281-01-01,1300-12-31
+91,Moniage Guillaume,47788,Willem van Oringen I,1201-01-01,1325-12-31,dum (Middle Dutch),1,1311-01-01,1335-12-31
+91,Moniage Guillaume,47795,Willem van Oringen II,1201-01-01,1400-12-31,dum (Middle Dutch),1,1291-01-01,1410-12-31
+91,Moniage Guillaume,47641,Guillaume d'Orange en prose,1454-01-01,1456-12-31,frm (Middle French),2,1461-01-01,1471-12-31
+92,Prise d' Orange,530,Siege d'Orange primitif,1100-01-01,1180-12-31,fro (Old French),1,,
+92,Prise d' Orange,529,Prise d'Orange primitive,1100-01-01,1199-12-31,fro (Old French),1,,
+92,Prise d' Orange,48386,Siege d'Orange,1161-01-01,1180-12-31,fro (Old French),1,1281-01-01,1300-12-31
+92,Prise d' Orange,749,Prise d' Orange,1161-01-01,1220-12-31,fro (Old French),9,1241-01-01,1350-12-31
+92,Prise d' Orange,47641,Guillaume d'Orange en prose,1454-01-01,1456-12-31,frm (Middle French),2,1461-01-01,1471-12-31
+94,Hernaut de Beaulande,765,Hernaut de Beaulande,1351-01-01,1400-12-31,frm (Middle French),1,1481-01-01,1500-12-31
+94,Hernaut de Beaulande,48700,Garin de Monglane,1459-01-01,1520-12-31,frm (Middle French),1,1481-01-01,1500-12-31
+95,Aspremont,48337,Aspremont,1101-01-01,1310-12-31,dum (Middle Dutch),1,1291-01-01,1310-12-31
+95,Aspremont,596,Aspremont,1184-01-01,1192-12-31,fro (Old French),18,1181-01-01,1445-12-31
+95,Aspremont,595,Aspramonte,1200-01-01,1400-12-31,fro_ITA (Franco-Italian),6,1201-01-01,1360-12-31
+95,Aspremont,48620,Karlamagnús saga,1201-01-01,1300-12-31,non (Old Norse),6,1266-01-01,1500-12-31
+96,Fouque de Candie,733,Fouque de Candie,1166-01-01,1220-12-31,fro (Old French),18,1201-01-01,1400-12-31
+97,Aimeri de Narbonne,777,Aimeri de Narbonne perdu,1100-01-01,1187-12-31,,1,,
+97,Aimeri de Narbonne,764,Aimeri de Narbonne,1181-01-01,1225-12-31,fro (Old French),6,1241-01-01,1350-12-31
+97,Aimeri de Narbonne,47641,Guillaume d'Orange en prose,1454-01-01,1456-12-31,frm (Middle French),2,1461-01-01,1471-12-31
+97,Aimeri de Narbonne,48700,Garin de Monglane,1459-01-01,1520-12-31,frm (Middle French),1,1481-01-01,1500-12-31
+98,Aïmer le chétif,776,Aïmer le chétif,1101-01-01,1220-12-31,,1,,
+99,Girart de Vienne,558,Girart de Vienne,0901-05-27,1100-12-31,fro (Old French),1,,
+99,Girart de Vienne,736,Girart de Vienne,1181-01-01,1220-12-31,fro (Old French),7,1201-01-01,1350-12-31
+99,Girart de Vienne,48025,Geraert van Viane,1201-01-01,1325-12-31,dum (Middle Dutch),1,1291-01-01,1335-12-31
+99,Girart de Vienne,590,Girart de Vienne,1351-01-01,1400-12-31,frm (Middle French),1,1481-01-01,1500-12-31
+99,Girart de Vienne,48700,Garin de Monglane,1459-01-01,1520-12-31,frm (Middle French),1,1481-01-01,1500-12-31
+100,Guibert d'Andrenas,737,Guibert d'Andrenas,1181-01-01,1224-12-31,fro (Old French),5,1201-01-01,1350-12-31
+101,Mort Aimeri de Narbonne,747,Mort Aimeri de Narbonne,1176-01-01,1225-12-31,fro (Old French),6,1221-01-01,1350-12-31
+102,Narbonnais / Siege de Narbonne,49850,Narbonnais / Siege de Narbonne,1196-01-01,1205-12-31,fro (Old French),1,1201-01-01,1300-12-31
+102,Narbonnais / Siege de Narbonne,635,Narbonnais,1201-01-01,1220-12-31,fro (Old French),6,1201-01-01,1400-12-31
+102,Narbonnais / Siege de Narbonne,47641,Guillaume d'Orange en prose,1454-01-01,1456-12-31,frm (Middle French),2,1461-01-01,1471-12-31
+103,Prise de Cordres et de Sebille,750,Prise de Cordres et de Sebille,1191-01-01,1225-12-31,fro (Old French),1,1241-01-01,1260-12-31
+104,Siege de Barbastre,691,Siege de Barbastre,1150-01-01,1220-12-31,fro (Old French),6,1201-01-01,1350-12-31
+104,Siege de Barbastre,689,Bueve de Commarchis,1272-01-01,1300-12-31,fro (Old French),1,1281-01-01,1300-12-31
+104,Siege de Barbastre,47641,Guillaume d'Orange en prose,1454-01-01,1456-12-31,frm (Middle French),2,1461-01-01,1471-12-31
+105,Siege de Narbonne,770,Siège de Narbonne assonancé,1000-01-01,1099-12-31,fro (Old French),1,,
+106,Roi Vivien,533,Roi Vivien ou Iwen,1001-01-01,1100-12-31,,1,,
+107,Simon de Pouille,692,Simon de Pouille,1201-01-01,1250-12-31,fro (Old French),3,1281-01-01,1445-12-31
+108,Bataille Loquifer,709,Bataille Loquifer,1166-01-01,1220-12-31,fro (Old French),12,1201-01-01,1350-12-31
+108,Bataille Loquifer,47641,Guillaume d'Orange en prose,1454-01-01,1456-12-31,frm (Middle French),2,1461-01-01,1471-12-31
+109,Enfances Rainouart,772,Enfances Rainouart,,,,1,,
+110,Enfances Renier,637,Enfances Renier,1251-01-01,1300-12-31,fro (Old French),1,1301-01-01,1340-12-31
+112,Maillefer,525,Maillefer,1200-01-01,1250-12-31,,1,,
+113,Moniage Rainouart,745,Moniage Rainouart,1171-01-01,1300-12-31,fro (Old French),9,1221-01-01,1350-12-31
+113,Moniage Rainouart,47641,Guillaume d'Orange en prose,1454-01-01,1456-12-31,frm (Middle French),2,1461-01-01,1471-12-31
+114,Rainouart,580,Rainouart primitif,1100-01-01,1199-12-31,,1,,
+115,Rainouart et Aelis?,570,Rainouart et Aelis,1180-01-01,1200-12-31,,1,,
+116,Chevalerie Vivien,617,Chevalerie Vivien,1181-01-01,1220-12-31,fro (Old French),11,1191-01-01,1350-12-31
+117,Entrée d’Espagne,553,Entrée d’Espagne perdue,1051-01-01,1120-12-31,fro (Old French),1,,
+117,Entrée d’Espagne,641,Entrée d’Espagne,1301-01-01,1350-12-31,fro_ITA (Franco-Italian),3,1301-01-01,1400-12-31
+118,Enfances Vivien,551,Garin d'Anseüne,1200-01-01,1300-12-31,,1,,
+118,Enfances Vivien,640,Enfances Vivien,1201-01-01,1300-12-31,fro (Old French),9,1241-01-01,1350-12-31
+118,Enfances Vivien,47641,Guillaume d'Orange en prose,1454-01-01,1456-12-31,frm (Middle French),2,1461-01-01,1471-12-31
+119,Vivien?,581,Viven primitif,1100-01-01,1199-12-31,,1,,
+120,Aie d'Avignon,584,Aie d'Avignon,1167-01-01,1205-12-31,fro (Old French),2,1241-01-01,1400-12-31
+120,Aie d'Avignon,583,Aie d'Avignon,1300-01-01,1320-12-31,fro_ITA (Franco-Italian),2,1201-01-01,1300-12-31
+121,Doon de Nanteuil,48549,Doon de Nanteuil,1151-01-01,1200-12-31,fro (Old French),1,,
+121,Doon de Nanteuil,512,Doon de Nanteuil,1181-01-01,1250-12-31,fro (Old French),1,,
+122,Gui de Nanteuil,662,Gui de Nanteuil,1180-01-01,1220-12-31,fro (Old French),4,1201-01-01,1400-12-31
+123,Parise la Duchesse,681,Parise la Duchesse,1196-01-01,1250-12-31,fro (Old French),1,1201-01-01,1250-12-31
+124,Tristan de Nanteuil,694,Tristan de Nanteuil,1301-01-01,1380-12-31,fro (Old French),1,1401-01-01,1500-12-31
+125,Unidentified epic,768,Unknown chanson de geste (Fragment de Saint-Marin),1101-01-01,1200-12-31,fro_ENG (Anglo-Norman),1,1101-01-01,1200-12-31
+126,Chevalerie Ogier,516,Chevalerie Ogier perdue,1050-01-01,1130-12-31,,1,,
+126,Chevalerie Ogier,721,Chevalerie Ogier de Danemarche,1151-01-01,1225-12-31,fro (Old French),6,1281-01-01,1500-12-31
+126,Chevalerie Ogier,47283,Ogier van Denemarken,1235-01-01,1375-12-31,dum (Middle Dutch),3,1316-01-01,1385-12-31
+126,Chevalerie Ogier,756,Ogier le Danois,1300-01-01,1399-12-31,,1,,
+126,Chevalerie Ogier,614,Chevalerie Ogier le Danois [Geste Francor],1301-01-01,1350-12-31,fro_ITA (Franco-Italian),1,,
+126,Chevalerie Ogier,616,Chevalerie Ogier – Continuation,1306-01-01,1315-12-31,fro (Old French),2,1301-01-01,1500-12-31
+126,Chevalerie Ogier,615,Chevalerie Ogier en alexandrins,1328-01-01,1360-12-31,fro (Old French),4,1351-01-01,1500-12-31
+128,Ferragu de Nazze,521,Ferragu de Nazze,1001-01-01,1110-12-31,,1,,
+129,Enfances Ogier,520,Enfances Ogier perdue,1101-01-01,1200-12-31,fro (Old French),1,,
+129,Enfances Ogier,721,Chevalerie Ogier de Danemarche,1151-01-01,1225-12-31,fro (Old French),6,1281-01-01,1500-12-31
+129,Enfances Ogier,729,Enfances Ogier,1269-01-01,1285-12-31,fro (Old French),7,1276-01-01,1500-12-31
+129,Enfances Ogier,636,Enfances Ogier le Danois [Geste Francor],1301-01-01,1350-12-31,fro_ITA (Franco-Italian),1,1301-01-01,1350-12-31
+130,Meurvin,526,Meurvin,1200-01-01,1400-12-31,,1,,
+131,Moniage Ogier,566,Moniage Ogier,1100-01-01,1199-12-31,,1,,
+132,Bueve d'Aigremont,548,La mort de Beuvon d'Aigremont,1151-01-01,1175-12-31,fro (Old French),1,,
+132,Bueve d'Aigremont,717,Bueve d'Aigremont,1201-01-01,1300-12-31,fro (Old French),5,1201-01-01,1405-12-31
+133,Fin de Maugis,644,Mort de Maugis,1201-01-01,1300-12-31,fro (Old French),2,1296-01-01,1460-12-31
+134,Mabrien,543,Mabrien,1300-01-01,1399-12-31,,1,,
+134,Mabrien,49820,"Renaut de Montauban, 2e version ('bourguignonne')",,,frm (Middle French),1,,
+135,Maugis d'Aigremont,48483,Malagis,1201-01-01,1600-12-31,gmh (Middle High German),1,,
+135,Maugis d'Aigremont,675,Maugis d'Aigremont,1201-01-01,1266-12-31,fro (Old French),6,1251-01-01,1400-12-31
+135,Maugis d'Aigremont,47562,Madelgijs,1276-01-01,1375-12-31,dum (Middle Dutch),10,1316-01-01,1410-12-31
+135,Maugis d'Aigremont,48482,Maugis d'Aigremont,1501-01-01,1520-12-31,frm (Middle French),1,,
+135,Maugis d'Aigremont,49820,"Renaut de Montauban, 2e version ('bourguignonne')",,,frm (Middle French),1,,
+136,Renaut de Montauban,47293,Renout van Montalbaen,1176-01-01,1255-12-31,dum (Middle Dutch),5,1191-01-01,1610-12-31
+136,Renaut de Montauban,668,Renaut de Montauban,1181-01-01,1200-12-31,fro (Old French),14,1201-01-01,1405-12-31
+136,Renaut de Montauban,48624,Mágus saga jarls,1291-01-01,1360-12-31,non (Old Norse),1,,
+136,Renaut de Montauban,684,Renaut de Montauban,1301-01-01,1350-12-31,fro_ITA (Franco-Italian),1,1341-01-01,1400-12-31
+136,Renaut de Montauban,49815,"Renaut de Montauban, abrégé",1401-01-01,1500-12-31,frm (Middle French),1,1451-01-01,1500-12-31
+136,Renaut de Montauban,49807,"Renaut de Montauban, 1re version, 'Vulgate'",1401-01-01,1450-12-31,frm (Middle French),6,1401-01-01,1500-12-31
+136,Renaut de Montauban,685,Renaut de Montauban,1401-01-01,1445-12-31,frm (Middle French),1,,
+136,Renaut de Montauban,49820,"Renaut de Montauban, 2e version ('bourguignonne')",,,frm (Middle French),1,,
+137,Vivien de Monbranc,696,Vivien de Monbranc,1200-01-01,1320-12-31,fro (Old French),1,1351-01-01,1400-12-31
+138,Aiol,46352,Aiol primitif,1151-01-01,1173-12-31,fro (Old French),1,,
+138,Aiol,46333,Limburgse Aiol,1171-01-01,1220-12-31,dum (Middle Dutch),1,1181-01-01,1200-12-31
+138,Aiol,623,Aiol,1201-01-01,1220-12-31,fro (Old French),1,1251-01-01,1300-12-31
+138,Aiol,46392,Vlaamse Aiol,1201-01-01,1275-12-31,dum (Middle Dutch),1,1341-01-01,1360-12-31
+139,Gui de Bourgogne,661,Gui de Bourgogne,1211-01-01,1240-12-31,fro (Old French),3,1201-01-01,1400-12-31
+140,Elie de Saint Gille,728,Elie de Saint Gille,1181-01-01,1200-12-31,fro (Old French),1,1251-01-01,1300-12-31
+140,Elie de Saint Gille,48608,Elís saga ok Rósamundu,1217-01-01,1263-12-31,non (Old Norse),9,1261-01-01,1500-12-31
+141,Siege de Gerone?,539,Siege de Gerone / Hernaut de Gerone,0901-05-27,1200-12-31,,1,,
+142,Siege de Milan?,53154,Siege of Milan,1326-01-01,1425-12-31,enm (Middle English),1,1416-01-01,1485-12-31
+142,Siege de Milan?,573,Siege de Milan,,,,1,,
+143,Synagon?,540,Synagon,,,,1,,
+144,Syracon,771,Syracon,1180-01-01,1200-12-31,fro (Old French),1,1201-01-01,1220-12-31
+145,Taillefer de Leon?,574,Taillefer de Leon,,,,1,,
+146,Otinel / Otuel,731,Otinel,1151-01-01,1250-12-31,fro (Old French),3,1176-01-01,1320-12-31
+146,Otinel / Otuel,48620,Karlamagnús saga,1201-01-01,1300-12-31,non (Old Norse),6,1266-01-01,1500-12-31
+146,Otinel / Otuel,49747,Otuel a Knight,1281-01-01,1355-12-31,enm (Middle English),1,1321-01-01,1340-12-31
+146,Otinel / Otuel,49756,Otuel and Roland,1306-01-01,1355-12-31,enm (Middle English),1,1441-01-01,1510-12-31
+146,Otinel / Otuel,49012,Duke Roland and Sir Otuel of Spain,1376-01-01,1425-12-31,enm (Middle English),1,1416-01-01,1485-12-31
+147,Prise de Nobles,569,Prise de Nobles,,,,1,,
+148,Bueve de Hanstonne,785,Bueve de Hanstonne perdu,1100-01-01,1187-12-31,,1,,
+148,Bueve de Hanstonne,608,Bueve de Hanstonne AN,1190-01-01,1230-12-31,fro_ENG (Anglo-Norman),4,1201-01-01,1400-12-31
+148,Bueve de Hanstonne,605,Bueve de Hanstonne cont. 1,1200-01-01,1225-12-31,fro (Old French),1,1251-01-01,1300-12-31
+148,Bueve de Hanstonne,48650,Bevis saga,1201-01-01,1300-12-31,non (Old Norse),4,1341-01-01,1475-12-31
+148,Bueve de Hanstonne,609,Bueve de Hanstonne cont. 4,1201-01-01,1300-12-31,fro (Old French),1,1301-01-01,1400-12-31
+148,Bueve de Hanstonne,47924,Boeve van Hamtone,1201-01-01,1275-12-31,dum (Middle Dutch),1,1241-01-01,1310-12-31
+148,Bueve de Hanstonne,607,Bueve de Hanstonne cont. 3,1221-01-01,1300-12-31,fro (Old French),5,1201-01-01,1400-12-31
+148,Bueve de Hanstonne,606,Bueve de Hanstonne cont. 2,1221-01-01,1230-12-31,fro (Old French),3,1201-01-01,1485-12-31
+148,Bueve de Hanstonne,48923,Bevis of Hampton,1276-01-01,1325-12-31,enm (Middle English),8,1276-01-01,1510-12-31
+148,Bueve de Hanstonne,611,Bovo d'Antona [Geste Francor],1301-01-01,1350-12-31,fro_ITA (Franco-Italian),1,1301-01-01,1350-12-31
+148,Bueve de Hanstonne,48468,Bovo d'Antona,1381-01-01,1400-12-31,fro_ITA (Franco-Italian),1,,
+148,Bueve de Hanstonne,48462,Bueve de Hanstonne,1460-01-01,1469-12-31,frm (Middle French),2,1401-01-01,1500-12-31
+149,Prise de Pampelune,751,Prise de Pampelune,1301-01-01,1350-12-31,fro_ITA (Franco-Italian),2,1341-01-01,1400-12-31
+151,Mon Melian,565,Mon Melian,1100-01-01,1160-12-31,pro (Occitan),1,,
+153,Ospinel et Magdalie,528,Ospinel et Magdalie,1100-01-01,1199-12-31,,1,,
+154,Raimbaud et Hamon,531,Raimbaud et Hamon,1080-01-01,1100-12-31,,1,,
+155,Pélerinage de Charlemagne,53097,Historia Caroli Magni,1131-01-01,1330-12-31,lat (Latin),1,,
+155,Pélerinage de Charlemagne,682,Pélerinage de Charlemagne,1150-01-01,1200-12-31,fro (Old French),1,1281-01-01,1320-12-31
+155,Pélerinage de Charlemagne,48620,Karlamagnús saga,1201-01-01,1300-12-31,non (Old Norse),6,1266-01-01,1500-12-31
+156,Balan,782,Balan,1100-01-01,1170-12-31,,1,,
+157,Destruction de Rome,725,Destruction de Rome,1201-01-01,1250-12-31,fro_ENG (Anglo-Norman),2,1338-01-01,1500-12-31
+157,Destruction de Rome,710,Destruction de Rome,,,fro (Old French),1,1281-01-01,1320-12-31
+158,Fierabras,522,Fierabras,1101-01-01,1200-12-31,fro (Old French),1,,
+158,Fierabras,730,Fierabras,1171-01-01,1200-12-31,fro (Old French),14,1201-01-01,1500-12-31
+158,Fierabras,546,Fierabras occitan,1180-01-01,1240-12-31,pro (Occitan),1,1216-01-01,1235-12-31
+158,Fierabras,47980,Fierabras,1276-01-01,1325-12-31,dum (Middle Dutch),1,1316-01-01,1385-12-31
+158,Fierabras,55240,Sultan of Babylon,1351-01-01,1450-12-31,enm (Middle English),1,,
+158,Fierabras,49039,Firumbras (Fillingham),1351-01-01,1425-12-31,enm (Middle English),1,1441-01-01,1510-12-31
+158,Fierabras,49033,Firumbras (Ashmole),1356-01-01,1405-12-31,enm (Middle English),1,1371-01-01,1390-12-31
+158,Fierabras,48716,Fierabras,1381-01-01,1400-12-31,frm (Middle French),2,1406-01-01,1465-12-31
+158,Fierabras,48717,Fierabras,1461-01-01,1470-12-31,frm (Middle French),2,1401-01-01,1500-12-31
+159,Daurel et Beton,630,Daurel et Beton,1171-01-01,1200-12-31,fro_PRO (Franco-Occitan),1,1301-01-01,1400-12-31
+160,Richier,532,Richier,,,,1,,
+162,Galien,650,Galien,1150-01-01,1200-12-31,fro (Old French),1,,
+162,Galien,579,Galien (li Restorés),1201-01-01,1300-12-31,fro (Old French),1,1481-01-01,1500-12-31
+162,Galien,48699,Galien le restoré,1401-01-01,1500-12-31,frm (Middle French),1,1446-01-01,1455-12-31
+162,Galien,48700,Garin de Monglane,1459-01-01,1520-12-31,frm (Middle French),1,1481-01-01,1500-12-31
+164,Anseïs de Carthage,545,Anseïs de Carthage perdu,1100-01-01,1199-12-31,,1,,
+164,Anseïs de Carthage,713,Anseïs de Carthage,1200-01-01,1250-12-31,fro (Old French),5,1201-01-01,1400-12-31
+164,Anseïs de Carthage,591,Anseïs de Carthage,1201-01-01,1400-12-31,fro_ITA (Franco-Italian),2,1281-01-01,1400-12-31
+164,Anseïs de Carthage,47608,Charlemagne et Anseïs,1401-01-01,1500-12-31,frm (Middle French),1,1451-01-01,1500-12-31
+165,Gaidon,734,Gaidon,1218-01-01,1240-12-31,fro (Old French),2,1201-01-01,1295-12-31
+166,Saxons,47349,Gwidekijn van Sassen,1101-01-01,1380-12-31,dum (Middle Dutch),1,1316-01-01,1385-12-31
+166,Saxons,537,Guitaclin,1101-01-01,1200-12-31,fro (Old French),1,,
+166,Saxons,752,Saisnes,1181-01-01,1202-12-31,fro (Old French),4,1281-01-01,1320-12-31
+167,Saxons?-Justamont?,538,Justamont ?,1100-01-01,1199-12-31,,1,,
+168,Trahison de Pépin le Bossu ??,576,Trahison de Pépin le Bossu ??,,,,1,,
+169,Landri le Timonnier,523,Landri le Timonnier,1100-01-01,1160-12-31,,1,,
+170,Horn,560,Horn,1101-01-01,1200-12-31,fro_ENG (Anglo-Norman),1,,
+170,Horn,739,Horn,1166-01-01,1250-12-31,fro_ENG (Anglo-Norman),5,1201-01-01,1320-12-31
+170,Horn,49272,King Horn,1251-01-01,1325-12-31,enm (Middle English),3,1291-01-01,1350-12-31
+170,Horn,49240,Horn Childe & Maiden Rimnild,1296-01-01,1345-12-31,enm (Middle English),1,1321-01-01,1340-12-31
+171,Aquin,715,Aquin,1101-01-01,1300-12-31,fro (Old French),1,1401-01-01,1500-12-31
+172,Jehan de Lanson,671,Jehan de Lanson,1201-01-01,1233-12-31,fro (Old French),3,1281-01-01,1500-12-31
+173,Aquilon de Bavière,714,Aquilon de Bavière,1379-01-01,1407-12-31,fro_ITA (Franco-Italian),1,,
+174,Berte au grand pied,784,Berte,1101-01-01,1225-12-31,fro (Old French),1,,
+174,Berte au grand pied,602,Berte au grand pied,1273-01-01,1285-12-31,fro (Old French),11,1281-01-01,1400-12-31
+174,Berte au grand pied,47909,Beerte metten breden voeten,1276-01-01,1375-12-31,dum (Middle Dutch),1,1291-01-01,1510-12-31
+174,Berte au grand pied,600,Berta de li gran pié,1301-01-01,1350-12-31,fro_ITA (Franco-Italian),1,1301-01-01,1350-12-31
+174,Berte au grand pied,48676,histoire de la reine Berthe et du roy Pepin,1401-01-01,1500-12-31,frm (Middle French),1,1467-01-01,1500-12-31
+177,Mainet,742,Mainet,1151-01-01,1200-12-31,fro (Old French),1,1201-01-01,1400-12-31
+177,Mainet,48703,Mainet,1201-01-01,1220-12-31,fro (Old French),1,1281-01-01,1300-12-31
+177,Mainet,718,Charlemagne,1296-01-01,1314-12-31,fro (Old French),3,1301-01-01,1400-12-31
+177,Mainet,674,Karleto [Geste Francor],1301-01-01,1350-12-31,fro_ITA (Franco-Italian),1,1301-01-01,1375-12-31
+177,Mainet,50224,"Conquêtes et Chroniques de Charlemagne, remaniement abrégé",1481-01-01,1492-12-31,frm (Middle French),1,1475-01-01,1488-12-31
+177,Mainet,50222,Conquêtes et Chroniques de Charlemagne,,,frm (Middle French),1,1458-01-01,1460-12-31
+178,Morant et Galienne,527,Morant et Galienne,1100-01-01,1200-12-31,,1,,
+179,Mort Charlemagne,567,Mort (ou Testament) Charlemagne,1100-01-01,1199-12-31,,1,,
+179,Mort Charlemagne,748,Mort Charlemagne,1341-01-01,1360-12-31,fro_ITA (Franco-Italian),1,1301-01-01,1350-12-31
+180,Reine Sébile,571,Reine Sébile (ou Macaire) perdue,1181-01-01,1200-12-31,fro (Old French),1,,
+180,Reine Sébile,753,Reine Sébile,1246-01-01,1255-12-31,fro (Old French),3,1201-01-01,1300-12-31
+180,Reine Sébile,657,Macario [Geste Francor],1301-01-01,1350-12-31,fro_ITA (Franco-Italian),1,1301-01-01,1350-12-31
+180,Reine Sébile,48700,Garin de Monglane,1459-01-01,1520-12-31,frm (Middle French),1,1481-01-01,1500-12-31
+181,Gui de Warwick,663,Gui de Warwick,1201-01-01,1250-12-31,fro_ENG (Anglo-Norman),16,1201-01-01,1400-12-31
+181,Gui de Warwick,49199,Guy of Warwick (couplet),1276-01-01,1325-12-31,enm (Middle English),5,1291-01-01,1510-12-31
+181,Gui de Warwick,49208,Guy of Warwick (later couplet),1376-01-01,1450-12-31,enm (Middle English),1,1411-01-01,1460-12-31
+181,Gui de Warwick,48693,Gui de Warwick,1441-01-01,1445-12-31,frm (Middle French),2,1401-01-01,1500-12-31
+182,Charles Martel,50225,Histoires de Charles Martel,1448-01-01,1465-12-31,frm (Middle French),1,,
+182,Charles Martel,514,Charles Martel,,,,1,,
+183,Orson de Beauvais,680,Orson de Beauvais,1176-01-01,1225-12-31,fro (Old French),1,1281-01-01,1300-12-31
+183,Orson de Beauvais,50225,Histoires de Charles Martel,1448-01-01,1465-12-31,frm (Middle French),1,,
+184,Antioche,774,Antiocha perdu,1100-01-01,1199-12-31,pro (Occitan),1,,
+184,Antioche,754,Antioche,1100-01-01,1150-12-31,fro (Old French),1,,
+184,Antioche,594,Antiocha,1111-01-01,1149-12-31,pro (Occitan),1,1111-01-01,1149-12-31
+184,Antioche,775,Antioche,1181-01-01,1200-12-31,fro (Old French),12,1201-01-01,1350-12-31
+184,Antioche,50320,Chevalier au cygne,1281-01-01,1305-12-31,fro (Old French),1,1295-01-01,1305-12-31
+184,Antioche,593,Antioche,1300-01-01,1400-12-31,fro (Old French),1,,
+184,Antioche,722,Chevalier au Cygne et Godefroi de Bouillon,,,frm (Middle French),2,1446-01-01,1460-12-31
+185,Chetifs,524,Chetifs,1181-01-01,1220-12-31,fro (Old French),8,1241-01-01,1350-12-31
+185,Chetifs,50320,Chevalier au cygne,1281-01-01,1305-12-31,fro (Old French),1,1295-01-01,1305-12-31
+185,Chetifs,515,Chetifs perdus,,,,1,,
+185,Chetifs,722,Chevalier au Cygne et Godefroi de Bouillon,,,frm (Middle French),2,1446-01-01,1460-12-31
+189,Chevalier au Cygne,517,Chevalier au Cygne perdu,1001-01-01,1300-12-31,fro (Old French),1,,
+189,Chevalier au Cygne,618,Chevalier au Cygne (Beatrix),1181-01-01,1200-12-31,fro (Old French),12,1241-01-01,1350-12-31
+189,Chevalier au Cygne,50320,Chevalier au cygne,1281-01-01,1305-12-31,fro (Old French),1,1295-01-01,1305-12-31
+189,Chevalier au Cygne,49007,Cheuelere Assigne,1326-01-01,1425-12-31,enm (Middle English),1,1437-01-01,1470-12-31
+189,Chevalier au Cygne,50319,Chevalier au cygne,1401-01-01,1500-12-31,frm (Middle French),1,,
+189,Chevalier au Cygne,50317,Chevalier au Cygne,1466-01-01,1475-12-31,frm (Middle French),1,,
+189,Chevalier au Cygne,722,Chevalier au Cygne et Godefroi de Bouillon,,,frm (Middle French),2,1446-01-01,1460-12-31
+190,Enfances Godefroi,48353,Bastaard-Godevaert,1101-01-01,1385-12-31,dum (Middle Dutch),1,1316-01-01,1385-12-31
+190,Enfances Godefroi,633,Enfances Godefroi,1151-01-01,1200-12-31,fro (Old French),11,1241-01-01,1445-12-31
+190,Enfances Godefroi,48031,Godevaerts kinsthede - Roman van Antiochië,1276-01-01,1350-12-31,dum (Middle Dutch),1,1316-01-01,1335-12-31
+190,Enfances Godefroi,50320,Chevalier au cygne,1281-01-01,1305-12-31,fro (Old French),1,1295-01-01,1305-12-31
+190,Enfances Godefroi,722,Chevalier au Cygne et Godefroi de Bouillon,,,frm (Middle French),2,1446-01-01,1460-12-31
+191,Enfants Cygnes?,552,Enfants Cygnes,,,,1,,
+192,Arnaïs d'Orléans,780,"Arnaïs d'Orléans, roi de Hongrie",1100-01-01,1130-12-31,,1,,
+194,Naissance chevalier au cygne,677,Naissance du chevalier au cygne Beatrix,1181-01-01,1220-12-31,fro (Old French),7,1201-01-01,1445-12-31
+194,Naissance chevalier au cygne,50316,Naissance du chevalier au cygne Elioxe-Beatrix (version hybride),1181-01-01,1220-12-31,fro (Old French),2,1296-01-01,1350-12-31
+194,Naissance chevalier au cygne,676,Naissance du chevalier au cygne Elioxe,1181-01-01,1220-12-31,fro (Old French),1,1241-01-01,1320-12-31
+194,Naissance chevalier au cygne,50320,Chevalier au cygne,1281-01-01,1305-12-31,fro (Old French),1,1295-01-01,1305-12-31
+195,Bâtard de Bouillon,720,Bâtard de Bouillon,1301-01-01,1355-12-31,fro (Old French),1,1346-01-01,1355-12-31
+196,Baudouin de Flandres,755,Baudouin de Flandres,,,,1,,
+197,Baudouin de Sebourc,47642,Baudouin de Sebourc,1201-01-01,1314-12-31,fro (Old French),1,,
+197,Baudouin de Sebourc,47539,Boudewijn van Seborch,1276-01-01,1375-12-31,dum (Middle Dutch),2,1341-01-01,1410-12-31
+197,Baudouin de Sebourc,599,Baudouin de Sebourc,1314-01-01,1350-12-31,fro (Old French),2,1346-01-01,1455-12-31
+198,Hugues de Tabarie,561,Hugues de Tabarie,1300-01-01,1399-12-31,,1,,
+199,Saladin,48277,Saladijn-continuatie,1276-01-01,1375-12-31,dum (Middle Dutch),1,1366-01-01,1410-12-31
+199,Saladin,572,Saladin,1300-01-01,1400-12-31,,1,,
+200,Crosada,628,Crosada / Croisade albigeoise,1201-01-01,1220-12-31,pro (Occitan),2,1271-01-01,1400-12-31
+200,Crosada,629,Crosada / Croisade albigeoise – continuation,,,pro (Occitan),1,,
+202,Las Navas,563,Las Navas,,,pro (Occitan),1,,
+203,Sansonnet,536,Sansonnet (del orfanin Sansunnet),1100-01-01,1199-12-31,,1,,
+204,San Gili,769,San Gili,1101-01-01,1200-12-31,pro (Occitan),1,,
+205,Siege d'Antioche et de Jerusalem,687,Siege d'Antioche et de Jerusalem,1181-01-01,1220-12-31,fro_ENG (Anglo-Norman),4,1201-01-01,1405-12-31
+205,Siege d'Antioche et de Jerusalem,688,Continuation du Siege d'Antioche,1200-01-01,1220-12-31,fro_ENG (Anglo-Norman),1,,
+205,Siege d'Antioche et de Jerusalem,53115,Siege of Jerusalem,1351-01-01,1425-12-31,enm (Middle English),9,1366-01-01,1485-12-31
+206,Charles le Chauve,719,Charles le Chauve,1355-01-01,1380-12-31,frm (Middle French),1,1301-01-01,1400-12-31
+207,Ciperis de Vignevaux,723,Ciperis de Vignevaux,1341-01-01,1415-12-31,frm (Middle French),1,1401-01-01,1500-12-31
+207,Ciperis de Vignevaux,48677,Ciperis de Vignevaux,1451-01-01,1468-12-31,frm (Middle French),1,1446-01-01,1466-12-31
+208,Florence de Rome,732,Florence de Rome,1180-01-01,1225-12-31,fro (Old French),5,1251-01-01,1400-12-31
+208,Florence de Rome,557,Florence de Rome,1301-01-01,1400-12-31,frm (Middle French),1,,
+208,Florence de Rome,49687,Le Bone Florence of Rome,1351-01-01,1425-12-31,enm (Middle English),1,1411-01-01,1460-12-31
+209,Florent et Octavian,911,Florent et Octavien,1101-01-01,1200-12-31,fro (Old French),1,,
+209,Florent et Octavian,648,Octavian,1281-01-01,1320-12-31,fro (Old French),1,1281-01-01,1320-12-31
+209,Florent et Octavian,47994,Florent ende Durant,1301-01-01,1375-12-31,dum (Middle Dutch),1,1316-01-01,1360-12-31
+209,Florent et Octavian,913,Florent et Octavien,1301-01-01,1400-12-31,frm (Middle French),2,1401-01-01,1500-12-31
+209,Florent et Octavian,49730,Octavian,1326-01-01,1375-12-31,enm (Middle English),3,1411-01-01,1470-12-31
+209,Florent et Octavian,914,Florent et Octavien,1352-01-01,1361-12-31,frm (Middle French),2,,
+209,Florent et Octavian,48674,Florent et Lyon,1481-01-01,1500-12-31,frm (Middle French),1,,
+209,Florent et Octavian,48673,Othovien,,,frm (Middle French),4,1451-01-01,1500-12-31
+210,Theseus de Cologne,693,Theseus de Cologne – Continuation,1361-01-01,1399-12-31,frm (Middle French),1,,
+210,Theseus de Cologne,701,Theseus de Cologne,1361-01-01,1378-12-31,frm (Middle French),3,1401-01-01,1500-12-31
+210,Theseus de Cologne,48541,"Theseus de Cologne, version abrégée",1401-01-01,1500-12-31,frm (Middle French),1,1401-01-01,1500-12-31
+210,Theseus de Cologne,48540,Theseus de Cologne,1401-01-01,1500-12-31,frm (Middle French),1,,
+210,Theseus de Cologne,575,Theseus de Cologne perdu,,,,1,,
+211,Doon de Mayence,519,Doon de Mayence perdu,1101-01-01,1200-12-31,fro (Old French),1,,
+211,Doon de Mayence,727,Doon de Mayence,1251-01-01,1320-12-31,fro (Old French),5,1301-01-01,1500-12-31
+212,Enfances Doon de Maience,631,Enfances Doon de Maience ou Jennesces Doolin,1200-01-01,1320-12-31,frm (Middle French),1,,
+213,Gaufrey,653,Gaufrey,1201-01-01,1300-12-31,fro (Old French),1,1351-01-01,1400-12-31
+214,Auberi le Bourgoing,597,Auberi le Bourgoing,1100-01-01,1250-12-31,fro (Old French),7,1201-01-01,1400-12-31
+214,Auberi le Bourgoing,47903,Aubri de Borgengoen,1276-01-01,1425-12-31,dum (Middle Dutch),1,1316-01-01,1385-12-31
+215,Geste d'Aquitaine?,555,Geste d'Aquitaine,,,,1,,
+216,Enfances Girart de Roussillon,549,Enfances Girart de Roussillon,1100-01-01,1199-12-31,,1,,
+217,Girart de Fraite,761,Girart de Fraite,,,,1,,
+218,Girart de Roussillon,556,Girart de Roussillon perdu,0901-05-27,1100-12-31,pro (Occitan),1,,
+218,Girart de Roussillon,49884,Vita nobilissimi comitis de Rosseloni,1081-01-01,1220-12-31,lat (Latin),1,,
+218,Girart de Roussillon,735,Girart de Roussillon,1136-01-01,1180-12-31,fro_PRO (Franco-Occitan),5,1201-01-01,1305-12-31
+218,Girart de Roussillon,658,Girart de Roussillon,1326-01-01,1348-12-31,fro (Old French),4,1341-01-01,1500-12-31
+218,Girart de Roussillon,50225,Histoires de Charles Martel,1448-01-01,1465-12-31,frm (Middle French),1,,
+218,Girart de Roussillon,49888,Girart de Roussillon,,,frm (Middle French),5,1451-01-01,1520-12-31
+219,Girbert...,559,Girbert…,1180-01-01,1220-12-31,,1,,
+220,Auberon,598,Auberon,1261-01-01,1311-12-31,fro (Old French),1,,
+221,Clarisse et Florent,619,Clarisse et Florent,1276-01-01,1300-12-31,fro (Old French),1,,
+221,Clarisse et Florent,620,Clarisse et Florent,1276-01-01,1300-12-31,fro (Old French),1,1401-01-01,1500-12-31
+221,Clarisse et Florent,48666,Huon de Bordeaux,,,frm (Middle French),1,,
+222,Croissant,773,Croissant,1280-01-01,1320-12-31,fro (Old French),1,,
+222,Croissant,757,Croissant,1350-01-01,1400-12-31,frm (Middle French),1,1401-01-01,1500-12-31
+222,Croissant,48666,Huon de Bordeaux,,,frm (Middle French),1,,
+223,Huon de Bordeaux,666,Huon de Bordeaux,1181-01-01,1268-12-31,fro (Old French),4,1201-01-01,1500-12-31
+223,Huon de Bordeaux,48705,Huon de Bordeaux,1201-01-01,1300-12-31,fro (Old French),1,1281-01-01,1320-12-31
+223,Huon de Bordeaux,665,Huon de Bordeaux,1216-01-01,1420-12-31,frm (Middle French),1,1401-01-01,1500-12-31
+223,Huon de Bordeaux,667,Continuation P de Huon de Bordeaux (Huon roi de feerie…),1250-01-01,1500-12-31,,1,,
+223,Huon de Bordeaux,48049,Huge van Bordeeus,1276-01-01,1375-12-31,dum (Middle Dutch),4,1291-01-01,1510-12-31
+223,Huon de Bordeaux,669,Huon et Calisse,1280-01-01,1320-12-31,,1,,
+223,Huon de Bordeaux,48666,Huon de Bordeaux,,,frm (Middle French),1,,
+224,Esclarmonde,642,Esclarmonde,1276-01-01,1300-12-31,fro (Old French),2,1331-01-01,1340-12-31
+224,Esclarmonde,643,Esclarmonde,1351-01-01,1400-12-31,frm (Middle French),1,1451-01-01,1475-12-31
+224,Esclarmonde,48666,Huon de Bordeaux,,,frm (Middle French),1,,
+225,Basin,783,Basin,1100-01-01,1230-12-31,fro (Old French),1,,
+225,Basin,46323,Karel ende Elegast,1216-01-01,1260-12-31,dum (Middle Dutch),7,1316-01-01,1435-12-31
+226,Godin,762,Godin 1,1200-01-01,1250-12-31,,1,,
+226,Godin,601,Godin 2,1280-01-01,1320-12-31,,1,,
+227,Huon et les geants,670,Huon et les géants (continuation HB),,,,1,,
+228,Yde et Olive,697,Yde et Olive,1276-01-01,1320-12-31,fro (Old French),1,,
+228,Yde et Olive,48665,"Yde et Olive, court résumé",1276-01-01,1500-12-31,frm (Middle French),1,1401-01-01,1500-12-31
+228,Yde et Olive,48666,Huon de Bordeaux,,,frm (Middle French),1,,
+229,Geste des Ducs Phelipe et Jehan de Bourgoigne,656,Geste des Ducs Phelipe et Jehan de Bourgoigne,1412-01-01,1500-12-31,,1,,
+230,Arles,779,Tersin,1200-01-01,1300-12-31,pro (Occitan),1,,
+230,Arles,547,Arles,,,,1,,
+231,Audigier,781,Audigier perdu,1101-01-01,1200-12-31,,1,,
+231,Audigier,513,Audigier,1181-01-01,1220-12-31,fro (Old French),1,1301-01-01,1320-12-31
+232,Belle Hélène de Constantinople,716,Belle Hélène de Constantinople,1341-01-01,1360-12-31,frm (Middle French),4,1401-01-01,1500-12-31
+232,Belle Hélène de Constantinople,49019,Emaré,1351-01-01,1425-12-31,enm (Middle English),1,1437-01-01,1470-12-31
+232,Belle Hélène de Constantinople,47643,Belle Hélène de Constantinople,1401-01-01,1500-12-31,frm (Middle French),3,1451-01-01,1500-12-31
+232,Belle Hélène de Constantinople,47644,Belle Hélène de Constantinople,,,frm (Middle French),1,1458-01-01,1467-12-31
+233,Bertrand Du Guesclin,603,Bertrand Du Guesclin,1376-01-01,1390-12-31,frm (Middle French),11,1376-01-01,1500-12-31
+234,Brun de la Montagne,604,Brun de la Montagne,1351-01-01,1400-12-31,frm (Middle French),1,1351-01-01,1400-12-31
+235,Doon de la Roche,726,Doon de la Roche,1181-01-01,1200-12-31,fro (Old French),2,1301-01-01,1500-12-31
+939,Enfances Roland,638,Berta e Milone [Geste Francor],1301-01-01,1350-12-31,fro_ITA (Franco-Italian),1,1301-01-01,1350-12-31
+939,Enfances Roland,639,Orlandino [Geste Francor],1301-01-01,1350-12-31,fro_ITA (Franco-Italian),1,1301-01-01,1350-12-31
+939,Enfances Roland,550,Enfances Roland,,,,1,,
+940,Conquete de Jerusalem,518,Conquete de Jerusalem,1130-01-01,1135-12-31,,1,,
+940,Conquete de Jerusalem,535,Conquete de Jerusalem,1181-01-01,1200-12-31,fro (Old French),12,1241-01-01,1350-12-31
+940,Conquete de Jerusalem,621,Chrétienté Corbaran,1201-01-01,1300-12-31,fro (Old French),1,1276-01-01,1285-12-31
+940,Conquete de Jerusalem,50320,Chevalier au cygne,1281-01-01,1305-12-31,fro (Old French),1,1295-01-01,1305-12-31
+940,Conquete de Jerusalem,622,Mort Godefroi,1300-01-01,1399-12-31,,1,,
+940,Conquete de Jerusalem,625,Prise d'Acre,,,,1,,
+940,Conquete de Jerusalem,626,Rois Baudouin,,,,1,,
+941,Roland,534,Roland perdu(s),0901-05-27,1050-12-31,,1,,
+941,Roland,690,Roland,1086-01-01,1105-12-31,fro (Old French),1,1126-01-01,1150-12-31
+941,Roland,679,Ronsasvals,1101-01-01,1150-12-31,pro (Occitan),1,1373-01-01,1403-12-31
+941,Roland,46322,Roelantslied,1191-01-01,1240-12-31,dum (Middle Dutch),5,1291-01-01,1510-12-31
+941,Roland,48783,Roland,1196-01-01,1205-12-31,fro (Old French),8,1201-01-01,1400-12-31
+941,Roland,53096,Roland and Vernagu,1200-01-01,1355-12-31,enm (Middle English),1,1321-01-01,1340-12-31
+941,Roland,48620,Karlamagnús saga,1201-01-01,1300-12-31,non (Old Norse),6,1266-01-01,1500-12-31
+941,Roland,48782,Roland,1296-01-01,1305-12-31,fro_ITA (Franco-Italian),1,1341-01-01,1360-12-31
+941,Roland,48787,Roland,1401-01-01,1433-12-31,frm (Middle French),1,1431-01-01,1500-12-31
+942,Roland à Saragosse,686,Rollan a Saragossa,1101-01-01,1185-12-31,pro (Occitan),1,1373-01-01,1403-12-31
+2347,Troie,53104,Excidium Troiae,0401-05-27,0800-12-31,lat (Latin),1,,
+2347,Troie,53102,De excedio Tojae historia,0401-05-27,0600-12-31,lat (Latin),1,,
+2347,Troie,48516,Troie,1161-01-01,1170-12-31,fro (Old French),66,1181-01-01,1400-12-31
+2347,Troie,48296,Seghers Trojeroman,1176-01-01,1260-12-31,dum (Middle Dutch),2,1391-01-01,1490-12-31
+2347,Troie,47635,Historie van Troyen,1259-01-01,1325-12-31,dum (Middle Dutch),17,1291-01-01,1490-12-31
+2347,Troie,48518,"Troie, prose 1",1274-01-01,1287-12-31,fro (Old French),13,1278-01-01,1505-12-31
+2347,Troie,53101,Seege or Batayle of Troye,1276-01-01,1350-12-31,enm (Middle English),4,1316-01-01,1510-12-31
+2347,Troie,48522,"Troie, prose 4",1281-01-01,1300-12-31,fro (Old French),1,1296-01-01,1305-12-31
+2347,Troie,48520,"Troie, prose 2",1281-01-01,1297-12-31,fro (Old French),3,1201-01-01,1400-12-31
+2347,Troie,48521,"Troie, prose 3",1281-01-01,1300-12-31,fro (Old French),4,1281-01-01,1500-12-31
+2347,Troie,49652,Historia Destructionis Troiae,1287-01-01,1287-01-01,lat (Latin),1,,
+2347,Troie,48523,"Troie, prose 5",1301-01-01,1320-12-31,fro (Old French),22,1301-01-01,1505-12-31
+2347,Troie,49651,Laud Troy Book,1376-01-01,1450-12-31,enm (Middle English),1,1391-01-01,1435-12-31
+2347,Troie,48519,"Troise, prose 1 remaniée",1401-01-01,1500-12-31,frm (Middle French),6,1401-01-01,1500-12-31
+44017,Fouke Fitz Warin,578,Fouke Fitz Warin,1256-01-01,1264-12-31,fro_ENG (Anglo-Norman),1,,
+44017,Fouke Fitz Warin,49903,Fouke Fitz Warin,1301-01-01,1320-12-31,fro_ENG (Anglo-Norman),1,1326-01-01,1350-12-31
+44133,Waldef,702,Waldef,1196-01-01,1220-12-31,fro_ENG (Anglo-Norman),1,1281-01-01,1320-12-31
+44133,Waldef,48767,Historia regis Waldei,1301-01-01,1400-12-31,lat (Latin),1,,
+46382,Þjalar-Jóns saga,46337,Þjalar-Jóns saga,1301-01-01,1400-12-31,non (Old Norse),1,1391-01-01,1410-12-31
+46393,Vilmundar saga viðutan,46394,Vilmundar saga viðutan,1301-01-01,1400-12-31,non (Old Norse),2,1401-01-01,1500-12-31
+48380,Tristan,47517,Tristan,1101-01-01,1200-12-31,dum (Middle Dutch),1,1241-01-01,1310-12-31
+48380,Tristan,48389,Tristan primitif,1141-01-01,1160-12-31,fro (Old French),1,,
+48380,Tristan,48381,Tristan et Iseut,1148-01-01,1200-12-31,fro (Old French),2,1201-01-01,1300-12-31
+48380,Tristan,48387,Marc et Iseut,1151-01-01,1170-12-31,fro (Old French),1,,
+48380,Tristan,48390,Tristan,1171-01-01,1180-12-31,fro_ENG (Anglo-Norman),5,1201-01-01,1300-12-31
+48380,Tristan,48392,Folie Tristan de Berne,1181-01-01,1200-12-31,fro_ENG (Anglo-Norman),2,1251-01-01,1300-12-31
+48380,Tristan,48394,Folie Tristan d'Oxford,1181-01-01,1200-12-31,fro_ENG (Anglo-Norman),1,1261-01-01,1270-12-31
+48380,Tristan,48396,Tristan,1231-01-01,1235-12-31,fro (Old French),1,,
+48380,Tristan,55237,Sir Tristrem,1251-01-01,1325-12-31,enm (Middle English),1,,
+48380,Tristan,48642,Tristrams saga ok Ísoddar,1301-01-01,1400-12-31,non (Old Norse),1,,
+48380,Tristan,48643,Tristrams saga ok Ísöndar,,,non (Old Norse),2,1451-01-01,1500-12-31
+48463,Blancandin,48464,Blancandin,1201-01-01,1233-12-31,fro (Old French),6,1251-01-01,1350-12-31
+48463,Blancandin,48465,Blanschandin,1201-01-01,1233-12-31,gmh (Middle High German),1,,
+48463,Blancandin,48466,Blancandin,1460-01-01,1469-12-31,frm (Middle French),1,1446-01-01,1466-12-31
+48463,Blancandin,48467,Blancandin,1463-01-01,1472-12-31,frm (Middle French),2,1401-01-01,1500-12-31
+48470,Châtelain de Coucy,47960,Borchgrave van Couchi,1276-01-01,1375-12-31,dum (Middle Dutch),3,1276-01-01,1500-12-31
+48470,Châtelain de Coucy,48471,Chastelain de Coucy,1281-01-01,1300-12-31,fro (Old French),2,1340-01-01,1400-12-31
+48470,Châtelain de Coucy,48473,Chastelain de Coucy,1459-01-01,1468-12-31,frm (Middle French),1,,
+48476,Parthonopeus de Blois,48477,Parthonopeus de Blois,1176-01-01,1188-12-31,fro (Old French),11,1181-01-01,1400-12-31
+48476,Parthonopeus de Blois,48197,Parthonopeus van Bloys,1176-01-01,1275-12-31,dum (Middle Dutch),6,1266-01-01,1510-12-31
+48476,Parthonopeus de Blois,48631,Partalopa saga,1201-01-01,1300-12-31,non (Old Norse),2,1451-01-01,1500-12-31
+48476,Parthonopeus de Blois,50837,Partonope of Blois,1396-01-01,1445-12-31,enm (Middle English),5,1391-01-01,1510-12-31
+48484,Florimont,48485,Florimont,1188-01-01,1188-01-01,fro (Old French),18,1201-01-01,1500-12-31
+48484,Florimont,48008,Roman van Florimont,1301-01-01,1375-12-31,dum (Middle Dutch),1,1316-01-01,1360-12-31
+48484,Florimont,48487,La storia di Fioramonte di Durazzo e di Alessandro,1401-01-01,1500-12-31,ita (Italian),1,,
+48484,Florimont,48490,Florimont,1401-01-01,1450-12-31,frm (Middle French),2,1470-01-01,1475-12-31
+48484,Florimont,48488,Florimont,1419-01-01,1428-12-31,frm (Middle French),1,1441-01-01,1453-12-31
+48484,Florimont,48489,Florimont,1451-01-01,1500-12-31,frm (Middle French),2,1451-01-01,1500-12-31
+48491,Alexandre - enfances (branch I),48497,Alexandre,1001-01-01,1120-12-31,frp (Franco-Provençal),1,1001-01-01,1125-12-31
+48491,Alexandre - enfances (branch I),48499,Alexanderlied,1151-01-01,1160-12-31,gmh (Middle High German),1,,
+48491,Alexandre - enfances (branch I),50164,Alexandreis,1154-01-01,1207-12-31,lat (Latin),1,,
+48491,Alexandre - enfances (branch I),48500,Alexandre,1156-01-01,1165-12-31,fro (Old French),2,1201-01-01,1300-12-31
+48491,Alexandre - enfances (branch I),48506,Alexandre,1176-01-01,1190-12-31,fro (Old French),30,1180-01-01,1500-12-31
+48491,Alexandre - enfances (branch I),47473,Alexanders geesten,1257-01-01,1261-12-31,dum (Middle Dutch),5,1266-01-01,1510-12-31
+48491,Alexandre - enfances (branch I),49247,King Alisaunder,1276-01-01,1350-12-31,enm (Middle English),3,1321-01-01,1510-12-31
+48493,Alexandre: Fuerre de Gadres (branch II),48504,Fuerre de Gadres,1101-01-01,1180-12-31,fro (Old French),1,,
+48493,Alexandre: Fuerre de Gadres (branch II),50164,Alexandreis,1154-01-01,1207-12-31,lat (Latin),1,,
+48493,Alexandre: Fuerre de Gadres (branch II),48506,Alexandre,1176-01-01,1190-12-31,fro (Old French),30,1180-01-01,1500-12-31
+48493,Alexandre: Fuerre de Gadres (branch II),47473,Alexanders geesten,1257-01-01,1261-12-31,dum (Middle Dutch),5,1266-01-01,1510-12-31
+48493,Alexandre: Fuerre de Gadres (branch II),48791,Alexander-Cassamus,1376-01-01,1525-12-31,enm (Middle English),1,1437-01-01,1560-12-31
+48494,Alexandre en Orient (branch III),48778,Historia de preliis,0951-05-27,1025-12-31,lat (Latin),1,,
+48494,Alexandre en Orient (branch III),50164,Alexandreis,1154-01-01,1207-12-31,lat (Latin),1,,
+48494,Alexandre en Orient (branch III),48501,Alexandre en Orient,1165-01-01,1200-12-31,fro (Old French),2,1201-01-01,1225-12-31
+48494,Alexandre en Orient (branch III),48506,Alexandre,1176-01-01,1190-12-31,fro (Old French),30,1180-01-01,1500-12-31
+48494,Alexandre en Orient (branch III),47473,Alexanders geesten,1257-01-01,1261-12-31,dum (Middle Dutch),5,1266-01-01,1510-12-31
+48494,Alexandre en Orient (branch III),48789,Alexander Fragment A,1316-01-01,1365-12-31,enm (Middle English),1,,
+48494,Alexandre en Orient (branch III),48776,Alexander and Dindimus (Alexander Fragment B),1326-01-01,1375-12-31,enm (Middle English),1,1391-01-01,1420-12-31
+48494,Alexandre en Orient (branch III),55245,Wars of Alexander (Alexander Fragment C),1426-01-01,1475-12-31,enm (Middle English),1,,
+48495,Mort d'Alexandre (branch IV),50164,Alexandreis,1154-01-01,1207-12-31,lat (Latin),1,,
+48495,Mort d'Alexandre (branch IV),48506,Alexandre,1176-01-01,1190-12-31,fro (Old French),30,1180-01-01,1500-12-31
+48495,Mort d'Alexandre (branch IV),47473,Alexanders geesten,1257-01-01,1261-12-31,dum (Middle Dutch),5,1266-01-01,1510-12-31
+48510,Floire et Blancheflor,48013,Floyris ende Blantseflur,1126-01-01,1225-12-31,dum (Middle Dutch),1,1191-01-01,1201-12-31
+48510,Floire et Blancheflor,48511,"Floire et Blancheflor, version aristocratique",1146-01-01,1155-12-31,fro (Old French),4,1201-01-01,1500-12-31
+48510,Floire et Blancheflor,48513,"Floire et Blancheflor, version dite populaire",1181-01-01,1200-12-31,fro (Old French),1,1301-01-01,1320-12-31
+48510,Floire et Blancheflor,48610,Flóres saga ok Blankiflur,1201-01-01,1300-12-31,non (Old Norse),3,1301-01-01,1460-12-31
+48510,Floire et Blancheflor,47548,Floris ende Blancefloer,1226-01-01,1325-12-31,dum (Middle Dutch),2,1266-01-01,1335-12-31
+48510,Floire et Blancheflor,49044,Floris and Blancheflour,1226-01-01,1275-12-31,enm (Middle English),4,1251-01-01,1410-12-31
+48515,Eneas,48528,Eneas,1156-01-01,1165-12-31,fro (Old French),9,1181-01-01,1405-12-31
+48515,Eneas,48529,Eneas,1201-01-01,1300-12-31,fro (Old French),1,,
+48524,Landomata,48525,Landomata,1101-01-01,1300-12-31,fro (Old French),1,,
+48524,Landomata,48518,"Troie, prose 1",1274-01-01,1287-12-31,fro (Old French),13,1278-01-01,1505-12-31
+48524,Landomata,48521,"Troie, prose 3",1281-01-01,1300-12-31,fro (Old French),4,1281-01-01,1500-12-31
+48524,Landomata,48523,"Troie, prose 5",1301-01-01,1320-12-31,fro (Old French),22,1301-01-01,1505-12-31
+48531,Torrec,48532,Torrec,1151-01-01,1392-12-31,fro (Old French),1,,
+48531,Torrec,48293,Roman van Torec,1226-01-01,1325-12-31,dum (Middle Dutch),1,1311-01-01,1335-12-31
+48534,Perceval,48550,Perceval,1101-01-01,1163-12-31,fro (Old French),1,,
+48534,Perceval,48237,Roman van Perchevael,1176-01-01,1275-12-31,dum (Middle Dutch),5,1266-01-01,1360-12-31
+48534,Perceval,48551,Perceval ou le Conte du Graal,1182-01-01,1189-12-31,fro (Old French),18,1181-01-01,1335-12-31
+48534,Perceval,48572,Perceval,1196-01-01,1210-12-31,fro (Old French),3,1211-01-01,1475-12-31
+48534,Perceval,48570,Perceval,1196-01-01,1205-12-31,fro (Old French),1,,
+48534,Perceval,48569,Elucidation,1201-01-01,1250-12-31,fro (Old French),1,1281-01-01,1290-12-31
+48534,Perceval,48573,Perlesvaus,1201-01-01,1240-12-31,fro (Old French),9,1201-01-01,1404-12-31
+48534,Perceval,48646,Valvens þáttr,1217-01-01,1263-12-31,non (Old Norse),2,1331-01-01,1425-12-31
+48534,Perceval,48630,Parcevals saga,1217-01-01,1263-12-31,non (Old Norse),2,1341-01-01,1425-12-31
+48534,Perceval,55236,Sir Percevale of Galles,1276-01-01,1375-12-31,enm (Middle English),1,,
+48535,Moriaen,48179,Roman van Moriaen,1226-01-01,1325-12-31,dum (Middle Dutch),2,1311-01-01,1335-12-31
+48536,Thèbes,48537,Thèbes,1146-01-01,1162-12-31,fro (Old French),6,1181-01-01,1405-12-31
+48536,Thèbes,48538,Edipus,1401-01-01,1500-12-31,frm (Middle French),1,,
+48542,Amadas et Ydoine,48543,Amadas et Ydoine,1191-01-01,1225-12-31,fro_ENG (Anglo-Norman),3,1201-01-01,1260-12-31
+48542,Amadas et Ydoine,53157,Sir Amadace,1351-01-01,1425-12-31,enm (Middle English),1,1441-01-01,1470-12-31
+48545,Richard le beau,48546,Richars li biaus,1251-01-01,1300-12-31,fro (Old French),1,1301-01-01,1360-12-31
+48545,Richard le beau,48268,Roman van den riddere metter mouwen,1251-01-01,1325-12-31,dum (Middle Dutch),2,1311-01-01,1360-12-31
+48555,Continuation Gauvain,48554,"Première continuation, dite Continuation Gauvain",1181-01-01,1205-12-31,fro (Old French),15,1201-01-01,1400-12-31
+48555,Continuation Gauvain,48814,L'âtre périlleux,1251-01-01,1300-12-31,fro (Old French),2,1251-01-01,1300-12-31
+48558,Deuxième continuation,48559,Deuxième continuation,1196-01-01,1215-12-31,fro (Old French),10,1201-01-01,1335-12-31
+48561,Troisième continuation,48562,Troisième continuation,1201-01-01,1237-12-31,fro (Old French),11,1201-01-01,1335-12-31
+48564,Quatrième continuation,48565,Quatrième continuation,1226-01-01,1230-12-31,fro (Old French),2,1251-01-01,1300-12-31
+48567,Bliocadran,48568,Bliocadran,1201-01-01,1300-12-31,fro (Old French),2,1201-01-01,1290-12-31
+48591,Erec et Enide,48741,Erec et Enide,1166-01-01,1175-12-31,fro (Old French),13,1181-01-01,1500-12-31
+48591,Erec et Enide,48609,Erex saga,1201-01-01,1300-12-31,non (Old Norse),1,1476-01-01,1500-12-31
+48591,Erec et Enide,48743,Erec et Enide,1281-01-01,1300-12-31,fro (Old French),2,1276-01-01,1300-12-31
+48591,Erec et Enide,48744,Erec et Enide,1441-01-01,1465-12-31,frm (Middle French),2,1446-01-01,1505-12-31
+48592,Yvain,48765,Yvain ou le chevalier au lion,1173-01-01,1186-12-31,fro (Old French),14,1181-01-01,1400-12-31
+48592,Yvain,48619,Ívens saga,1217-01-01,1263-12-31,non (Old Norse),2,1401-01-01,1460-12-31
+48592,Yvain,55248,Ywain and Gawain,1276-01-01,1375-12-31,enm (Middle English),1,,
+48592,Yvain,48766,Yvain,1281-01-01,1400-12-31,frm (Middle French),1,1301-01-01,1400-12-31
+48592,Yvain,55222,Sir Gawain and the Green Knight,1351-01-01,1425-12-31,enm (Middle English),1,,
+48592,Yvain,55221,Sir Gawain and the Carle of Carlisle,1376-01-01,1425-12-31,enm (Middle English),1,,
+48596,Speculum historiale,48598,Speculum historiale,1241-01-01,1260-12-31,lat (Latin),1,,
+48600,Le cort mantel,48626,Möttuls saga,1217-01-01,1263-12-31,non (Old Norse),2,1301-01-01,1425-12-31
+48602,Pamphille,48629,Pamphilus saga ok Galatheu,1201-01-01,1300-12-31,non (Old Norse),1,1261-01-01,1280-12-31
+48602,Pamphille,48604,Pamphille,1300-01-01,1315-12-31,fro (Old French),1,,
+48660,Barlaam en Josaphat,47529,Barlaam en Josaphat,1276-01-01,1325-12-31,dum (Middle Dutch),2,1316-01-01,1410-12-31
+48662,Flandrijs,47985,Flandrijs,1216-01-01,1325-12-31,dum (Middle Dutch),2,1291-01-01,1510-12-31
+48664,Florigout,47999,Florigout,1276-01-01,1375-12-31,dum (Middle Dutch),1,1366-01-01,1410-12-31
+48669,Ysaïe le triste,48670,Ysaïe le triste,1381-01-01,1448-12-31,frm (Middle French),1,,
+48690,Vengeance Raguidel,48691,Vengeance Raguidel,1196-01-01,1225-12-31,fro (Old French),4,1201-01-01,1300-12-31
+48690,Vengeance Raguidel,48302,Wrake van Ragisel,1251-01-01,1325-12-31,dum (Middle Dutch),3,1266-01-01,1385-12-31
+48701,Renier de Gennes,758,Renier de Gennes,1351-01-01,1400-12-31,frm (Middle French),1,1486-01-01,1495-12-31
+48701,Renier de Gennes,48700,Garin de Monglane,1459-01-01,1520-12-31,frm (Middle French),1,1481-01-01,1500-12-31
+48720,Floriant et Florete,48721,Floriant et Florete,1226-01-01,1300-12-31,fro (Old French),1,1281-01-01,1325-12-31
+48720,Floriant et Florete,48722,Floriant et Florete,1476-01-01,1485-12-31,frm (Middle French),2,1476-01-01,1495-12-31
+48723,Floris et Lyriopé,48726,Floris et Lyriopé,1234-01-01,1266-12-31,fro (Old French),2,1251-01-01,1305-12-31
+48734,Cardenois et Passebeauté,48735,Cardenois et Passebeauté,1376-01-01,1400-12-31,frm (Middle French),1,1376-01-01,1400-12-31
+48745,Cligès,48747,Cligès,1172-01-01,1181-12-31,fro (Old French),12,1181-01-01,1360-12-31
+48745,Cligès,53160,Sir Cleges,1351-01-01,1425-12-31,enm (Middle English),1,1441-01-01,1510-12-31
+48745,Cligès,48748,Cligès,,,frm (Middle French),1,,
+48749,Eracle,48750,Eracle,1150-01-01,1186-12-31,fro (Old French),4,1201-01-01,1500-12-31
+48754,Ille et Galeron,48755,Ille et Galeron,1151-01-01,1180-12-31,fro (Old French),2,1281-01-01,1317-12-31
+48758,Aälof,48760,Aälof,1101-01-01,1200-12-31,fro_ENG (Anglo-Norman),1,,
+48759,Hadermod,48761,Hadermod,1101-01-01,1200-12-31,fro_ENG (Anglo-Norman),1,,
+48763,Pontus et Sidoine,48764,Pontus et Sidoine,1381-01-01,1450-12-31,frm (Middle French),30,1301-01-01,1500-12-31
+48769,Wistasse le moine,48770,Wistasse le moine,1201-01-01,1284-12-31,fro (Old French),1,,
+48772,Sone de Nansay,48773,Sone de Nansay,1251-01-01,1300-12-31,fro (Old French),1,1301-01-01,1360-12-31
+48799,Morte Arthure,47896,Arturs doet,1256-01-01,1305-12-31,dum (Middle Dutch),2,1311-01-01,1360-12-31
+48799,Morte Arthure,48798,Alliterative Morte Arthure,1376-01-01,1425-12-31,enm (Middle English),1,1421-01-01,1460-12-31
+48804,Paris et Vienne,48805,Paris et Vienne,1401-01-01,1500-12-31,pro (Occitan),1,,
+48804,Paris et Vienne,48806,Paris et Vienne,,,frm (Middle French),10,1401-01-01,1500-12-31
+48810,Melusine,48808,Mélusine,1392-01-01,1393-12-31,frm (Middle French),14,1381-01-01,1500-12-31
+48810,Melusine,48811,Melusine,1396-01-01,1410-12-31,frm (Middle French),20,1401-01-01,1500-12-31
+48816,Berinus,48817,Berinus,1241-01-01,1260-12-31,fro (Old French),2,1267-01-01,1300-12-31
+48816,Berinus,48822,Berinus,1346-01-01,1375-12-31,frm (Middle French),5,1351-01-01,1500-12-31
+48825,Claris et Laris,48826,Claris et Laris,1268-01-01,1291-12-31,fro (Old French),1,1286-01-01,1351-12-31
+48828,Cleomadés,48829,Cleomadés,1274-01-01,1284-12-31,fro (Old French),15,1251-01-01,1500-12-31
+48828,Cleomadés,48838,Cleomadés,1401-01-01,1500-12-31,frm (Middle French),2,1451-01-01,1500-12-31
+48828,Cleomadés,48835,Cleomadés,1459-01-01,1468-12-31,frm (Middle French),1,1450-01-01,1460-12-31
+48839,Olivier de Castille et Artus d'Algarbe,48840,Olivier de Castille et Artus d'Algarbe,1431-01-01,1466-12-31,frm (Middle French),6,1401-01-01,1500-12-31
+48847,Cleriadus et Meliadice,48848,Cleriadus et Meliadice,1431-01-01,1450-12-31,frm (Middle French),12,1401-01-01,1505-12-31
+48850,Amoryus and Cleopes,48849,Amoryus and Cleopes,1449-01-01,1449-01-01,enm (Middle English),1,1449-01-01,1470-12-31
+48858,Comte d'Anjou,48859,Comte d'Anjou,1314-01-01,1316-12-31,fro (Old French),3,1301-01-01,1500-12-31
+48863,Cristal et Clarie,48864,Cristal et Clarie,1201-01-01,1267-12-31,fro (Old French),1,1262-01-01,1300-12-31
+48866,Apollonius of Tyre,48865,Apollonius of Tyre,1351-01-01,1406-12-31,enm (Middle English),1,1391-01-01,1435-12-31
+48883,Athelston,48882,Athelston,1351-01-01,1425-12-31,enm (Middle English),1,1391-01-01,1435-12-31
+48889,Avowing of King Arthur,48888,Avowing of King Arthur,1351-01-01,1450-12-31,enm (Middle English),1,1441-01-01,1470-12-31
+48896,Awntyrs off Arthure,48895,Awntyrs off Arthure,1351-01-01,1425-12-31,enm (Middle English),3,1431-01-01,1485-12-31
+48905,Dame a la licorne et beau chevalier,48906,Dame a la licorne et beau chevalier,1301-01-01,1350-12-31,fro (Old French),1,1349-01-01,1350-12-31
+48935,Chevalier a l'espee,48936,Chevalier a l'espee,1181-01-01,1220-12-31,fro (Old French),1,1301-01-01,1320-12-31
+48937,Meriadeuc,48938,Mériadeuc ou le chevalier aux deux épées,1201-01-01,1250-12-31,fro (Old French),1,1301-01-01,1320-12-31
+48939,Durmart le Galois,48940,Durmart le Galois,1201-01-01,1260-12-31,fro (Old French),2,1251-01-01,1300-12-31
+48941,Eledus et Serene,48943,Eledus et Serene,1101-01-01,1288-12-31,pro (Occitan),1,,
+48941,Eledus et Serene,48942,Eledus et Serene,1251-01-01,1288-12-31,fro (Old French),1,1401-01-01,1455-12-31
+48944,Escanor,48945,Escanor,1276-01-01,1285-12-31,fro (Old French),3,1201-01-01,1400-12-31
+48946,Cheval de fust,48947,Meliacin,1276-01-01,1294-12-31,fro (Old French),6,1281-01-01,1350-12-31
+48951,Meraugis de Portlesguez,48952,Meraugis de Portlesguez,1201-01-01,1235-12-31,fro (Old French),5,1281-01-01,1420-12-31
+48953,Mule sans frein,48954,Mule sans frein,1181-01-01,1220-12-31,fro (Old French),1,1301-01-01,1320-12-31
+48957,Hunbaut,48958,Hunbaut,1226-01-01,1300-12-31,fro (Old French),1,1251-01-01,1300-12-31
+48959,Merveilles de Rigomer,48960,Merveilles de Rigomer,1241-01-01,1260-12-31,fro (Old French),2,1251-01-01,1420-12-31
+48963,Gliglois,48964,Gliglois,1201-01-01,1250-12-31,fro (Old French),1,1381-01-01,1420-12-31
+48968,Jaufré,48969,Jaufré,1152-01-01,1276-12-31,pro (Occitan),7,1201-01-01,1400-12-31
+48975,Fergus,47977,Ferguut,1176-01-01,1275-12-31,dum (Middle Dutch),1,1316-01-01,1335-12-31
+48975,Fergus,48976,Fergus,1201-01-01,1233-12-31,fro (Old French),2,1251-01-01,1300-12-31
+48978,Yder,48979,Yder,1201-01-01,1233-12-31,fro (Old French),1,1251-01-01,1300-12-31
+48981,Merlin emprisonné,48982,Silence,1251-01-01,1300-12-31,fro (Old French),1,1281-01-01,1290-12-31
+48986,Joseph d'Arimathie,48987,Joseph d'Arimathie ou Estoire del saint Graal,1191-01-01,1201-12-31,fro (Old French),1,1281-01-01,1300-12-31
+48986,Joseph d'Arimathie,48992,Joseph d'Arimathie,1201-01-01,1300-12-31,fro (Old French),19,1211-01-01,1500-12-31
+48986,Joseph d'Arimathie,49006,Joseph d'Arimathie Vulgate ou Estoire del Saint Graal,1215-01-01,1235-12-31,fro (Old French),65,1201-01-01,1500-12-31
+48990,Merlin,48989,Merlin,1191-01-01,1205-12-31,fro (Old French),1,1281-01-01,1300-12-31
+48990,Merlin,48991,Merlin,1201-01-01,1300-12-31,pro (Occitan),1,1201-01-01,1300-12-31
+48990,Merlin,49027,Merlin,1201-01-01,1225-12-31,fro (Old French),65,1200-01-01,1600-12-31
+48990,Merlin,48043,Historie van den Grale - Merlijns boec,1259-01-01,1266-12-31,dum (Middle Dutch),1,1413-01-01,1432-12-31
+48990,Merlin,48161,Merlijn-continuatie,1327-01-01,1327-01-01,dum (Middle Dutch),4,1291-01-01,1432-12-31
+48990,Merlin,49725,Merlin,1396-01-01,1455-12-31,enm (Middle English),1,1391-01-01,1510-12-31
+49024,Erle of Tolous,49023,Erle of Tolous,1326-01-01,1425-12-31,enm (Middle English),2,1411-01-01,1460-12-31
+49059,Gamelyn,49058,Gamelyn,1326-01-01,1395-12-31,enm (Middle English),22,1391-01-01,1510-12-31
+49085,Suite de Merlin et premiers faits d'Arthur,49088,Suite Vulgate du Merlin,1231-01-01,1235-12-31,fro (Old French),37,1201-01-01,1600-12-31
+49085,Suite de Merlin et premiers faits d'Arthur,49086,Suite Post-Vulgate du Merlin,1236-01-01,1245-12-31,fro (Old French),5,1281-01-01,1360-12-31
+49092,Uterpendragon et Arthur,49093,Livre d'Artus,1226-01-01,1250-12-31,fro (Old French),1,1231-01-01,1275-12-31
+49096,Folie Lancelot,49097,Folie Lancelot,1236-01-01,1240-12-31,fro (Old French),2,1201-01-01,1300-12-31
+49098,Lancelot,49099,Lancelot,1167-01-01,1176-12-31,fro_ENG (Anglo-Norman),1,,
+49098,Lancelot,49102,Lancelot,1173-01-01,1182-12-31,fro (Old French),8,1201-01-01,1320-12-31
+49098,Lancelot,48082,Lanceloet en het hert met de witte voet,1176-01-01,1291-12-31,dum (Middle Dutch),1,1311-01-01,1335-12-31
+49098,Lancelot,49106,Lancelot,1211-01-01,1240-12-31,fro (Old French),112,1201-01-01,1500-12-31
+49098,Lancelot,48097,Lantsloot van der Haghedochte,1226-01-01,1275-12-31,dum (Middle Dutch),1,1316-01-01,1360-12-31
+49098,Lancelot,48085,Roman van Lancelot,1256-01-01,1305-12-31,dum (Middle Dutch),3,1311-01-01,1335-12-31
+49098,Lancelot,48364,Proza-Lancelot,1276-01-01,1360-12-31,dum (Middle Dutch),1,1316-01-01,1360-12-31
+49098,Lancelot,49125,Conte de la charrette,1301-01-01,1320-12-31,fro (Old French),3,1395-01-01,1405-12-31
+49098,Lancelot,49100,Lanzelet,,,gmh (Middle High German),1,,
+49126,queste del Saint Graal,49127,queste del Saint Graal,1215-01-01,1235-12-31,fro (Old French),56,1201-01-01,1500-12-31
+49126,queste del Saint Graal,48258,Queeste van den Grale,1256-01-01,1305-12-31,dum (Middle Dutch),2,1311-01-01,1410-12-31
+49126,queste del Saint Graal,48043,Historie van den Grale - Merlijns boec,1259-01-01,1266-12-31,dum (Middle Dutch),1,1413-01-01,1432-12-31
+49126,queste del Saint Graal,49235,History of the Holy Grail,1396-01-01,1455-12-31,enm (Middle English),1,1391-01-01,1510-12-31
+49132,Mort Artu,49134,Mort Artu,1201-01-01,1235-12-31,fro (Old French),58,1201-01-01,1500-12-31
+49138,Tristan - Graal,49139,Tristan,1226-01-01,1235-12-31,fro (Old French),87,1201-01-01,1500-12-31
+49140,Propheties,49141,Propheties de Merlin,1267-01-01,1300-12-31,fro (Old French),26,1201-01-01,1475-12-31
+49187,Generides,49194,Generides (stanzaic),1351-01-01,1425-12-31,enm (Middle English),1,1461-01-01,1480-12-31
+49187,Generides,49186,Generides (couplet),1351-01-01,1425-12-31,enm (Middle English),1,1421-01-01,1460-12-31
+49222,Havelok,49221,Havelok the Dane,1251-01-01,1325-12-31,enm (Middle English),2,1291-01-01,1410-12-31
+49250,Perceforest,49251,Perceforest,1313-01-01,1344-12-31,fro (Old French),1,,
+49250,Perceforest,49252,Perceforest,1441-01-01,1460-12-31,frm (Middle French),5,1401-01-01,1500-12-31
+49254,Fils du roi Constant,49255,Fils du roi Constant,1290-01-01,1298-12-31,fro (Old French),1,,
+49257,Meliador,49258,Meliador,1362-01-01,1387-12-31,frm (Middle French),2,1381-01-01,1420-12-31
+49260,Chevalier du papegau ('Enfances' Arthur),49261,Chevalier du papegau,1381-01-01,1420-12-31,frm (Middle French),1,1401-01-01,1450-12-31
+49262,Artus de Bretagne,48733,Artus de Bretagne,1276-01-01,1320-12-31,fro (Old French),14,1301-01-01,1520-12-31
+49282,King of Tars,49281,King of Tars,1276-01-01,1350-12-31,enm (Middle English),3,1321-01-01,1435-12-31
+49283,"Laurin, fils de Marques le Sénéchal",49284,"Laurin, fils de Marques le Sénéchal",1256-01-01,1300-12-31,fro (Old French),9,1281-01-01,1400-12-31
+49287,Sept Sages de Rome,49288,"Sept Sages de Rome, version V",1101-01-01,1200-12-31,fro (Old French),1,,
+49287,Sept Sages de Rome,49289,"Sept Sages de Rome, version K",1155-01-01,1200-12-31,fro (Old French),1,,
+49287,Sept Sages de Rome,49290,"Sept Sages de Rome, version C",1167-01-01,1250-12-31,fro (Old French),1,1281-01-01,1300-12-31
+49287,Sept Sages de Rome,49486,Dolopathos sive Rege et Septem Sapientibus,1184-01-01,1212-12-31,lat (Latin),1,,
+49287,Sept Sages de Rome,49419,"Sept Sages de Rome, Version L",1201-01-01,1233-12-31,fro (Old French),8,1251-01-01,1500-12-31
+49287,Sept Sages de Rome,49420,"Sept Sages de Rome, Version A/L",1201-01-01,1300-12-31,fro (Old French),5,1261-01-01,1500-12-31
+49287,Sept Sages de Rome,49292,"Sept Sages de Rome, version A",1201-01-01,1278-12-31,fro (Old French),26,1241-01-01,1500-12-31
+49287,Sept Sages de Rome,49489,Dolopathos,1201-01-01,1228-12-31,fro (Old French),4,1226-01-01,1300-12-31
+49287,Sept Sages de Rome,49483,"Sept Sages de Rome, Version M",1281-01-01,1320-12-31,fro (Old French),4,1301-01-01,1500-12-31
+49287,Sept Sages de Rome,49291,"Sept Sages, version D",1401-01-01,1500-12-31,frm (Middle French),1,1451-01-01,1500-12-31
+49512,Marques de Rome,49513,Marques de Rome,1251-01-01,1277-12-31,fro (Old French),26,1267-01-01,1500-12-31
+49514,Cassidorus,49515,Cassidorus,1271-01-01,1280-12-31,fro (Old French),5,1301-01-01,1400-12-31
+49516,Helcanus,49517,Helcanus,1281-01-01,1290-12-31,fro (Old French),6,1281-01-01,1400-12-31
+49518,Pelyarmenus,49519,Pelyarmenus,1279-01-01,1288-12-31,fro (Old French),6,1281-01-01,1400-12-31
+49520,Kanor,49521,Kanor,1271-01-01,1290-12-31,fro (Old French),5,1281-01-01,1355-12-31
+49684,Le fresne,49683,Lay le Freine,1276-01-01,1350-12-31,enm (Middle English),1,1321-01-01,1340-12-31
+49705,Gingelayne,49701,Libeaus Desconus,1301-01-01,1375-12-31,enm (Middle English),4,1366-01-01,1510-12-31
+49751,Gérard de Nevers et Euriaut,49753,Roman de la Violette ou Gérard de Nevers,1223-01-01,1232-12-31,fro (Old French),3,1401-01-01,1474-12-31
+49751,Gérard de Nevers et Euriaut,49761,Gérard de Nevers,1451-01-01,1464-12-31,frm (Middle French),2,1451-01-01,1467-12-31
+49767,Escoufle,49768,Escoufle,1196-01-01,1209-12-31,fro (Old French),2,1251-01-01,1300-12-31
+49776,Guillaume de Dole et Lienor,49777,Roman de la Rose ou Guillaume de Dole,1201-01-01,1232-12-31,fro (Old French),1,1281-01-01,1320-12-31
+49784,Abladane,49785,Abladane,1256-01-01,1293-12-31,fro (Old French),1,1401-01-01,1500-12-31
+49826,Reinbert,49827,Reinbert,1201-01-01,1267-12-31,fro (Old French),1,1261-01-01,1300-12-31
+49831,Ipomedon,49834,Ipomedon,1181-01-01,1200-12-31,fro_ENG (Anglo-Norman),5,1241-01-01,1360-12-31
+49831,Ipomedon,49243,Ipomadon,1351-01-01,1475-12-31,enm (Middle English),1,1466-01-01,1510-12-31
+49833,Protheselaus,49849,Protheselaus,1181-01-01,1190-12-31,fro_ENG (Anglo-Norman),3,1201-01-01,1320-12-31
+49851,Departement des Enfans Aimeri,49485,Departement des enfans Aimeri,1176-01-01,1225-12-31,fro (Old French),2,1241-01-01,1300-12-31
+49851,Departement des Enfans Aimeri,678,Departement des fils d'Aimeri,1180-01-01,1200-12-31,fro (Old French),1,,
+49851,Departement des Enfans Aimeri,49852,Departement des fils Aimeri,1196-01-01,1205-12-31,fro (Old French),1,1241-01-01,1260-12-31
+49851,Departement des Enfans Aimeri,634,Enfances Guillaume,1201-01-01,1250-12-31,fro (Old French),7,1241-01-01,1350-12-31
+49851,Departement des Enfans Aimeri,49488,Departement des enfans Aimeri,1201-01-01,1300-12-31,fro (Old French),3,1201-01-01,1350-12-31
+49851,Departement des Enfans Aimeri,47641,Guillaume d'Orange en prose,1454-01-01,1456-12-31,frm (Middle French),2,1461-01-01,1471-12-31
+49862,Manekine,49863,Manekine,1231-01-01,1265-12-31,fro (Old French),1,1281-01-01,1320-12-31
+49862,Manekine,49865,Manekine,1441-01-01,1452-12-31,frm (Middle French),1,1481-01-01,1500-12-31
+49867,Jehan et Blonde,49866,Jehan et Blonde,1226-01-01,1245-12-31,fro (Old French),1,1281-01-01,1320-12-31
+49904,Galeran de Bretagne,49905,Galeran de Bretagne,1181-01-01,1220-12-31,fro (Old French),1,1401-01-01,1500-12-31
+50145,Guillaume d'Angleterre,50146,Guillaume d'Angleterre,1181-01-01,1220-12-31,fro (Old French),2,1288-01-01,1350-12-31
+50148,Guillaume de Palerne,55247,William of Palerne,1326-01-01,1386-12-31,enm (Middle English),1,,
+50163,Limborch,47369,Roman van Limborch,1276-01-01,1375-12-31,dum (Middle Dutch),10,1101-01-01,1500-12-31
+50165,Seghelijn,48282,Seghelijn van Jherusalem,1301-01-01,1389-12-31,dum (Middle Dutch),1,1403-01-01,1425-12-31
+50167,Henric ende Claredamie,48316,Henric ende Claredamie,1151-01-01,1250-12-31,dum (Middle Dutch),1,1191-01-01,1250-12-31
+50168,Nibelungen,48186,Nevelingenlied,1151-01-01,1225-12-31,dum (Middle Dutch),1,1291-01-01,1310-12-31
+50168,Nibelungen,50169,Nibelungenlied,1176-01-01,1225-12-31,gmh (Middle High German),1,,
+50171,Caesar,47929,Roman van Caesar,1176-01-01,1325-12-31,dum (Middle Dutch),2,1191-01-01,1410-12-31
+50173,Iechemias,48067,Roman van Iechemias,1176-01-01,1325-12-31,dum (Middle Dutch),1,1316-01-01,1360-12-31
+50174,Sibeli,48288,Sibeli,1101-01-01,1400-12-31,dum (Middle Dutch),1,1316-01-01,1360-12-31
+50176,Wisselau,47334,Van den bere Wisselau,1101-01-01,1280-12-31,dum (Middle Dutch),1,1321-01-01,1380-12-31
+50180,Tyolet,50181,Tyolet,1201-01-01,1250-12-31,fro (Old French),1,,
+50183,Chastelaine de Vergi,50184,Chastelaine de Vergi,1236-01-01,1287-12-31,fro (Old French),1,,
+50183,Chastelaine de Vergi,50192,Istoire de la Chastelaine du Vergier et de Tristan le Chevalier,1401-01-01,1500-12-31,frm (Middle French),1,1401-01-01,1500-12-31
+50185,Jules Cesar,50186,Jules Cesar,1233-01-01,1266-12-31,fro (Old French),1,,
+50185,Jules Cesar,50190,Histoire de Jules César,1233-01-01,1270-12-31,fro (Old French),1,,
+50185,Jules Cesar,50187,Pharsalia,2061-05-27,2065-12-31,lat (Latin),1,,
+50193,Joufroi de Poitiers,50194,Joufroi de Poitiers,1241-01-01,1260-12-31,fro (Old French),1,1301-01-01,1320-12-31
+50226,Unidentified epic (Lorrains cycle?),50227,Chanson de geste non identifiée (Lorrains?; fragment d'Oxford),1101-01-01,1260-12-31,fro (Old French),1,1241-01-01,1260-12-31
+50229,Meliadus,50230,Meliadus,1226-01-01,1250-12-31,fro (Old French),22,1231-01-01,1525-12-31
+50229,Meliadus,50241,"Meliadus, Continuation",1251-01-01,1300-12-31,fro (Old French),3,1301-01-01,1362-12-31
+50232,Guiron le courtois,50233,Guiron le courtois,1236-01-01,1240-12-31,fro (Old French),17,1276-01-01,1500-12-31
+50232,Guiron le courtois,50237,"Guiron le courtois, Continuation",1241-01-01,1280-12-31,fro (Old French),8,1281-01-01,1475-12-31
+50239,Suite Guiron,50238,Suite Guiron,1241-01-01,1270-12-31,fro (Old French),4,1251-01-01,1500-12-31
+50321,Retour de Cornumarant,703,Retour de Cornumaran,1151-01-01,1200-12-31,fro (Old French),9,1241-01-01,1445-12-31
+50321,Retour de Cornumarant,50320,Chevalier au cygne,1281-01-01,1305-12-31,fro (Old French),1,1295-01-01,1305-12-31
+50321,Retour de Cornumarant,722,Chevalier au Cygne et Godefroi de Bouillon,,,frm (Middle French),2,1446-01-01,1460-12-31
+50857,Richard Coeur de Lion,50856,Richard Coeur de Lion,1276-01-01,1325-12-31,enm (Middle English),7,1321-01-01,1510-12-31
+50882,Robert of Cisyle,50881,Robert of Cisyle,1351-01-01,1425-12-31,enm (Middle English),9,1366-01-01,1485-12-31
+55216,Sir Degare,55215,Sir Degare,1276-01-01,1450-12-31,enm (Middle English),1,,
+55218,Sir Degrevant,55217,Sir Degrevant,1361-01-01,1435-12-31,enm (Middle English),1,,
+55220,Sir Eglamour of Artois,55219,Sir Eglamour of Artois,1326-01-01,1375-12-31,enm (Middle English),1,,
+55226,Sir Gowther,55225,Sir Gowther,1376-01-01,1425-12-31,enm (Middle English),1,,
+55229,Sir Isumbras,55228,Sir Isumbras,1271-01-01,1345-12-31,enm (Middle English),1,,
+55231,Sir Launfal,55232,Sir Landevale,1276-01-01,1375-12-31,enm (Middle English),1,,
+55231,Sir Launfal,55230,Sir Launfal,1351-01-01,1425-12-31,enm (Middle English),1,,
+55234,Orpheus and Euridyce,55233,Sir Orfeo,1251-01-01,1350-12-31,enm (Middle English),1,,
+55239,Sir Tryamour,55238,Sir Tryamour,1351-01-01,1425-12-31,enm (Middle English),1,,
+55242,Titus and Vespasian,55241,Titus and Vespasian,1351-01-01,1425-12-31,enm (Middle English),1,,
+55244,Torrent of Portyngale,55243,Torrent of Portyngale,1376-01-01,1425-12-31,enm (Middle English),1,,
