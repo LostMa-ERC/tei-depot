@@ -1,4 +1,4 @@
-story,story_id,text_id,text_name,text_status,text_form,text_lang,text_earliest,text_latest,wit_count_complete,wit_count_defective,wit_count_fragmentary,wit_count_lost,wits_total,earliest_wit,latest_wit
+story_name,story_id,text_id,text_name,text_status,text_form,text_lang,text_earliest,text_latest,wit_count_complete,wit_count_defective,wit_count_fragmentary,wit_count_lost,wits_total,earliest_wit,latest_wit
 Ami et Amile,62,587,Amis et Amiloun,surviving,verse,fro_ENG (Anglo-Norman),1200-01-01,1220-12-31,3,0,0,0,3,1251-01-01,1400-12-31
 Ami et Amile,62,48824,Amis and Amiloun,surviving,verse,enm (Middle English),1251-01-01,1325-12-31,0,1,1,0,2,1321-01-01,1410-12-31
 Ami et Amile,62,48639,Amícus saga ok Amilíus,unknown,prose,non (Old Norse),1300-01-01,1319-12-31,0,0,1,0,1,1401-01-01,1425-12-31
@@ -11,7 +11,6 @@ Huon d'Auvergne,68,612,Huon d'Auvergne,surviving,verse,fro_ITA (Franco-Italian),
 Gormont et Isembart,69,711,Gormont et Isembart,fragmentary,verse,fro (Old French),1068-01-01,1130-12-31,0,0,1,0,1,1201-01-01,1225-12-31
 Raoul de Cambrai,70,646,Raoul de Cambrai,surviving,verse,fro (Old French),1176-01-01,1220-12-31,1,0,1,0,2,1201-01-01,1300-12-31
 Lion de Bourges,71,741,Lion de Bourges en alexandrins,surviving,verse,fro (Old French),1301-01-01,1400-12-31,1,0,0,0,1,1401-01-01,1500-12-31
-Lion de Bourges,71,48109,Lion van Bourges,fragmentary,verse,dum (Middle Dutch),1351-01-01,1425-12-31,0,0,1,0,1,1291-01-01,1510-12-31
 Lion de Bourges,71,624,Lion de Bourges en octosyllabes,surviving,verse,frm (Middle French),1351-01-01,1400-12-31,1,0,0,0,1,1481-01-01,1520-12-31
 Lohier et Malart,72,46316,Loyhier en Malaert,fragmentary,verse,dum (Middle Dutch),1276-01-01,1375-12-31,0,0,1,0,1,1316-01-01,1360-12-31
 Lohier et Malart,72,766,Lohier et Malart,fragmentary,verse,fro (Old French),1301-01-01,1350-12-31,0,0,1,0,1,1401-01-01,1420-12-31
@@ -29,9 +28,7 @@ Anseïs de Metz,78,50225,Histoires de Charles Martel,surviving,prose,frm (Middle
 Anseïs de Metz,78,47611,Anséis de Metz,surviving,prose,frm (Middle French),1467-01-01,1500-12-31,1,0,0,0,1,1467-01-01,1500-12-31
 Garin le Lorrain,79,48114,Lorreinen I,fragmentary,verse,dum (Middle Dutch),1176-01-01,1275-12-31,0,0,2,0,2,1291-01-01,1360-12-31
 Garin le Lorrain,79,652,Garin le Lorrain,surviving,verse,fro (Old French),1181-01-01,1200-12-31,19,2,18,0,39,1196-01-01,1400-12-31
-Garin le Lorrain,79,48126,Lorreinen II,fragmentary,verse,dum (Middle Dutch),1226-01-01,1325-12-31,0,0,1,0,1,1316-01-01,1360-12-31
 Garin le Lorrain,79,759,Garin le Lorrain,fragmentary,verse,fro (Old French),1301-01-01,1400-12-31,0,0,0,0,0,,
-Garin le Lorrain,79,50225,Histoires de Charles Martel,surviving,prose,frm (Middle French),1448-01-01,1465-12-31,0,0,0,0,0,,
 Garin le Lorrain,79,48678,Garin le lorrain,surviving,prose,frm (Middle French),1467-01-01,1500-12-31,1,0,0,0,1,1467-01-01,1500-12-31
 Gerbert de Metz,80,654,Girbert de Metz,surviving,verse,fro (Old French),1181-01-01,1200-12-31,18,1,13,0,32,1181-01-01,1500-12-31
 Gerbert de Metz,80,49882,Gerbert de Metz,surviving,prose,frm (Middle French),1401-01-01,1500-12-31,1,0,0,0,1,1467-01-01,1500-12-31
@@ -39,62 +36,44 @@ Hervis de Metz,81,664,Hervis de Metz,surviving,verse,fro (Old French),1201-01-01
 Yon de Metz,82,698,Yon de Metz ou la Venjance Fromondin,surviving,verse,fro (Old French),1254-01-01,1260-12-31,1,0,0,0,1,1251-01-01,1276-12-31
 Yon de Metz,82,699,Yonnet abrégé,surviving,verse,fro (Old French),1301-01-01,1333-12-31,1,0,0,0,1,1301-01-01,1320-12-31
 Aliscans,83,586,Aliscans,surviving,verse,fro (Old French),1151-01-01,1200-12-31,13,1,7,0,21,1191-01-01,1470-12-31
-Aliscans,83,47641,Guillaume d'Orange en prose,surviving,prose,frm (Middle French),1454-01-01,1456-12-31,2,0,0,0,2,1461-01-01,1471-12-31
 Guillaume,85,738,Guillaume,surviving,verse,fro_ENG (Anglo-Norman),1101-01-01,1200-12-31,1,0,0,0,1,1241-01-01,1260-12-31
-Guillaume,85,47780,Walewein ende Keye,surviving,verse,dum (Middle Dutch),1201-01-01,1300-12-31,1,0,0,0,1,1316-01-01,1360-12-31
-Guillaume,85,47641,Guillaume d'Orange en prose,surviving,prose,frm (Middle French),1454-01-01,1456-12-31,2,0,0,0,2,1461-01-01,1471-12-31
 Enfances Garin de Monglane,86,632,Enfances Garin de Monglane,surviving,verse,fro (Old French),1280-01-01,1320-12-31,1,0,0,0,1,1441-01-01,1460-12-31
 Garin de Monglane,87,47341,Garijn van Montglavie,fragmentary,verse,dum (Middle Dutch),1101-01-01,1335-12-31,0,0,1,0,1,1315-01-01,1335-12-31
 Garin de Monglane,87,651,Garin de Monglane,surviving,verse,fro (Old French),1201-01-01,1300-12-31,3,0,3,0,6,1201-01-01,1460-12-31
 Charroi de Nimes,88,613,Charroi de Nimes,surviving,verse,fro (Old French),1101-01-01,1160-12-31,6,2,1,0,9,1201-01-01,1600-12-31
-Charroi de Nimes,88,47641,Guillaume d'Orange en prose,surviving,prose,frm (Middle French),1454-01-01,1456-12-31,2,0,0,0,2,1461-01-01,1471-12-31
 Couronnement de Louis,89,724,Couronnement de Louis,surviving,verse,fro (Old French),1101-01-01,1166-12-31,6,0,3,0,9,1241-01-01,1350-12-31
 Couronnement de Louis,89,50323,"Couronnement de Louis, rédaction D (courte / archaïque)",surviving,verse,fro (Old French),1101-01-01,1250-12-31,1,0,0,0,1,1241-01-01,1300-12-31
-Couronnement de Louis,89,47641,Guillaume d'Orange en prose,surviving,prose,frm (Middle French),1454-01-01,1456-12-31,2,0,0,0,2,1461-01-01,1471-12-31
-Couronnement de Louis,89,48700,Garin de Monglane,surviving,prose,frm (Middle French),1459-01-01,1520-12-31,1,0,0,0,1,1481-01-01,1500-12-31
-Enfances Guillaume,90,634,Enfances Guillaume,surviving,verse,fro (Old French),1201-01-01,1250-12-31,7,0,0,0,7,1241-01-01,1350-12-31
 Moniage Guillaume,91,743,"Moniage Guillaume, 1re rédaction (courte)",surviving,verse,fro (Old French),1134-01-01,1170-12-31,2,0,0,0,2,1201-01-01,1230-12-31
 Moniage Guillaume,91,744,"Moniage Guillaume, 2e rédaction (longue)",surviving,verse,fro (Old French),1171-01-01,1190-12-31,6,1,0,0,7,1251-01-01,1350-12-31
 Moniage Guillaume,91,767,Moniage Guillaume fragm.,fragmentary,verse,fro (Old French),1181-01-01,1220-12-31,0,0,1,0,1,1281-01-01,1300-12-31
-Moniage Guillaume,91,47795,Willem van Oringen II,fragmentary,verse,dum (Middle Dutch),1201-01-01,1400-12-31,0,0,1,0,1,1291-01-01,1410-12-31
 Moniage Guillaume,91,47788,Willem van Oringen I,fragmentary,verse,dum (Middle Dutch),1201-01-01,1325-12-31,0,0,1,0,1,1311-01-01,1335-12-31
-Moniage Guillaume,91,47641,Guillaume d'Orange en prose,surviving,prose,frm (Middle French),1454-01-01,1456-12-31,2,0,0,0,2,1461-01-01,1471-12-31
+Moniage Guillaume,91,47795,Willem van Oringen II,fragmentary,verse,dum (Middle Dutch),1201-01-01,1400-12-31,0,0,1,0,1,1291-01-01,1410-12-31
 Prise d' Orange,92,749,Prise d' Orange,surviving,verse,fro (Old French),1161-01-01,1220-12-31,8,1,0,0,9,1241-01-01,1350-12-31
 Prise d' Orange,92,48386,Siege d'Orange,fragmentary,verse,fro (Old French),1161-01-01,1180-12-31,0,0,1,0,1,1281-01-01,1300-12-31
-Prise d' Orange,92,47641,Guillaume d'Orange en prose,surviving,prose,frm (Middle French),1454-01-01,1456-12-31,2,0,0,0,2,1461-01-01,1471-12-31
 Hernaut de Beaulande,94,765,Hernaut de Beaulande,fragmentary,verse,frm (Middle French),1351-01-01,1400-12-31,1,0,0,0,1,1481-01-01,1500-12-31
-Hernaut de Beaulande,94,48700,Garin de Monglane,surviving,prose,frm (Middle French),1459-01-01,1520-12-31,1,0,0,0,1,1481-01-01,1500-12-31
 Aspremont,95,48337,Aspremont,fragmentary,verse,dum (Middle Dutch),1101-01-01,1310-12-31,0,0,1,0,1,1291-01-01,1310-12-31
 Aspremont,95,596,Aspremont,surviving,verse,fro (Old French),1184-01-01,1192-12-31,9,2,7,0,18,1181-01-01,1445-12-31
 Aspremont,95,595,Aspramonte,surviving,verse,fro_ITA (Franco-Italian),1200-01-01,1400-12-31,3,0,3,0,6,1201-01-01,1360-12-31
-Aspremont,95,48620,Karlamagnús saga,unknown,prose,non (Old Norse),1201-01-01,1300-12-31,0,2,4,0,6,1266-01-01,1500-12-31
+Aspremont,95,48620,Karlamagnús saga,unknown,prose,non (Old Norse),1201-01-01,1300-12-31,0,8,16,0,24,1266-01-01,1500-12-31
 Fouque de Candie,96,733,Fouque de Candie,surviving,verse,fro (Old French),1166-01-01,1220-12-31,11,0,7,0,18,1201-01-01,1400-12-31
 Aimeri de Narbonne,97,764,Aimeri de Narbonne,surviving,verse,fro (Old French),1181-01-01,1225-12-31,5,0,1,0,6,1241-01-01,1350-12-31
-Aimeri de Narbonne,97,47641,Guillaume d'Orange en prose,surviving,prose,frm (Middle French),1454-01-01,1456-12-31,2,0,0,0,2,1461-01-01,1471-12-31
-Aimeri de Narbonne,97,48700,Garin de Monglane,surviving,prose,frm (Middle French),1459-01-01,1520-12-31,1,0,0,0,1,1481-01-01,1500-12-31
 Girart de Vienne,99,736,Girart de Vienne,surviving,verse,fro (Old French),1181-01-01,1220-12-31,5,0,2,0,7,1201-01-01,1350-12-31
 Girart de Vienne,99,48025,Geraert van Viane,fragmentary,verse,dum (Middle Dutch),1201-01-01,1325-12-31,0,0,1,0,1,1291-01-01,1335-12-31
 Girart de Vienne,99,590,Girart de Vienne,surviving,verse,frm (Middle French),1351-01-01,1400-12-31,1,0,0,0,1,1481-01-01,1500-12-31
-Girart de Vienne,99,48700,Garin de Monglane,surviving,prose,frm (Middle French),1459-01-01,1520-12-31,1,0,0,0,1,1481-01-01,1500-12-31
 Guibert d'Andrenas,100,737,Guibert d'Andrenas,surviving,verse,fro (Old French),1181-01-01,1224-12-31,5,0,0,0,5,1201-01-01,1350-12-31
 Mort Aimeri de Narbonne,101,747,Mort Aimeri de Narbonne,surviving,verse,fro (Old French),1176-01-01,1225-12-31,5,0,1,0,6,1221-01-01,1350-12-31
 Narbonnais / Siege de Narbonne,102,49850,Narbonnais / Siege de Narbonne,fragmentary,verse,fro (Old French),1196-01-01,1205-12-31,0,0,1,0,1,1201-01-01,1300-12-31
 Narbonnais / Siege de Narbonne,102,635,Narbonnais,surviving,verse,fro (Old French),1201-01-01,1220-12-31,4,0,2,0,6,1201-01-01,1400-12-31
-Narbonnais / Siege de Narbonne,102,47641,Guillaume d'Orange en prose,surviving,prose,frm (Middle French),1454-01-01,1456-12-31,2,0,0,0,2,1461-01-01,1471-12-31
 Prise de Cordres et de Sebille,103,750,Prise de Cordres et de Sebille,surviving,verse,fro (Old French),1191-01-01,1225-12-31,0,1,0,0,1,1241-01-01,1260-12-31
 Siege de Barbastre,104,691,Siege de Barbastre,surviving,verse,fro (Old French),1150-01-01,1220-12-31,5,0,1,0,6,1201-01-01,1350-12-31
 Siege de Barbastre,104,689,Bueve de Commarchis,surviving,verse,fro (Old French),1272-01-01,1300-12-31,1,0,0,0,1,1281-01-01,1300-12-31
-Siege de Barbastre,104,47641,Guillaume d'Orange en prose,surviving,prose,frm (Middle French),1454-01-01,1456-12-31,2,0,0,0,2,1461-01-01,1471-12-31
 Simon de Pouille,107,692,Simon de Pouille,surviving,verse,fro (Old French),1201-01-01,1250-12-31,2,1,0,0,3,1281-01-01,1445-12-31
 Bataille Loquifer,108,709,Bataille Loquifer,surviving,verse,fro (Old French),1166-01-01,1220-12-31,11,1,0,0,12,1201-01-01,1350-12-31
-Bataille Loquifer,108,47641,Guillaume d'Orange en prose,surviving,prose,frm (Middle French),1454-01-01,1456-12-31,2,0,0,0,2,1461-01-01,1471-12-31
 Enfances Renier,110,637,Enfances Renier,surviving,verse,fro (Old French),1251-01-01,1300-12-31,0,1,0,0,1,1301-01-01,1340-12-31
 Moniage Rainouart,113,745,Moniage Rainouart,surviving,verse,fro (Old French),1171-01-01,1300-12-31,9,0,0,0,9,1221-01-01,1350-12-31
-Moniage Rainouart,113,47641,Guillaume d'Orange en prose,surviving,prose,frm (Middle French),1454-01-01,1456-12-31,2,0,0,0,2,1461-01-01,1471-12-31
 Chevalerie Vivien,116,617,Chevalerie Vivien,surviving,verse,fro (Old French),1181-01-01,1220-12-31,9,1,1,0,11,1191-01-01,1350-12-31
 Entrée d’Espagne,117,641,Entrée d’Espagne,surviving,verse,fro_ITA (Franco-Italian),1301-01-01,1350-12-31,1,0,2,0,3,1301-01-01,1400-12-31
 Enfances Vivien,118,640,Enfances Vivien,surviving,verse,fro (Old French),1201-01-01,1300-12-31,8,1,0,0,9,1241-01-01,1350-12-31
-Enfances Vivien,118,47641,Guillaume d'Orange en prose,surviving,prose,frm (Middle French),1454-01-01,1456-12-31,2,0,0,0,2,1461-01-01,1471-12-31
 Aie d'Avignon,120,584,Aie d'Avignon,surviving,verse,fro (Old French),1167-01-01,1205-12-31,1,0,1,0,2,1241-01-01,1400-12-31
 Aie d'Avignon,120,583,Aie d'Avignon,surviving,verse,fro_ITA (Franco-Italian),1300-01-01,1320-12-31,0,0,2,0,2,1201-01-01,1300-12-31
 Doon de Nanteuil,121,512,Doon de Nanteuil,fragmentary,verse,fro (Old French),1181-01-01,1250-12-31,0,0,0,0,0,,
@@ -102,47 +81,43 @@ Gui de Nanteuil,122,662,Gui de Nanteuil,surviving,verse,fro (Old French),1180-01
 Parise la Duchesse,123,681,Parise la Duchesse,surviving,verse,fro (Old French),1196-01-01,1250-12-31,1,0,0,0,1,1201-01-01,1250-12-31
 Tristan de Nanteuil,124,694,Tristan de Nanteuil,surviving,verse,fro (Old French),1301-01-01,1380-12-31,1,0,0,0,1,1401-01-01,1500-12-31
 Unidentified epic,125,768,Unknown chanson de geste (Fragment de Saint-Marin),fragmentary,verse,fro_ENG (Anglo-Norman),1101-01-01,1200-12-31,0,0,1,0,1,1101-01-01,1200-12-31
-Chevalerie Ogier,126,721,Chevalerie Ogier de Danemarche,surviving,verse,fro (Old French),1151-01-01,1225-12-31,5,0,1,0,6,1281-01-01,1500-12-31
 Chevalerie Ogier,126,47283,Ogier van Denemarken,fragmentary,verse,dum (Middle Dutch),1235-01-01,1375-12-31,0,0,3,0,3,1316-01-01,1385-12-31
 Chevalerie Ogier,126,614,Chevalerie Ogier le Danois [Geste Francor],surviving,verse,fro_ITA (Franco-Italian),1301-01-01,1350-12-31,0,0,0,0,0,,
 Chevalerie Ogier,126,616,Chevalerie Ogier – Continuation,surviving,verse,fro (Old French),1306-01-01,1315-12-31,1,0,1,0,2,1301-01-01,1500-12-31
 Chevalerie Ogier,126,615,Chevalerie Ogier en alexandrins,surviving,verse,fro (Old French),1328-01-01,1360-12-31,4,0,0,0,4,1351-01-01,1500-12-31
-Enfances Ogier,129,721,Chevalerie Ogier de Danemarche,surviving,verse,fro (Old French),1151-01-01,1225-12-31,5,0,1,0,6,1281-01-01,1500-12-31
+Enfances Ogier,129,721,Chevalerie Ogier de Danemarche,surviving,verse,fro (Old French),1151-01-01,1225-12-31,10,0,2,0,12,1281-01-01,1500-12-31
 Enfances Ogier,129,729,Enfances Ogier,surviving,verse,fro (Old French),1269-01-01,1285-12-31,6,1,0,0,7,1276-01-01,1500-12-31
 Enfances Ogier,129,636,Enfances Ogier le Danois [Geste Francor],surviving,verse,fro_ITA (Franco-Italian),1301-01-01,1350-12-31,1,0,0,0,1,1301-01-01,1350-12-31
 Bueve d'Aigremont,132,717,Bueve d'Aigremont,surviving,verse,fro (Old French),1201-01-01,1300-12-31,4,0,1,0,5,1201-01-01,1405-12-31
 Fin de Maugis,133,644,Mort de Maugis,surviving,verse,fro (Old French),1201-01-01,1300-12-31,2,0,0,0,2,1296-01-01,1460-12-31
-Mabrien,134,49820,"Renaut de Montauban, 2e version ('bourguignonne')",surviving,prose,frm (Middle French),,,1,0,0,0,1,,
+Mabrien,134,49820,"Renaut de Montauban, 2e version ('bourguignonne')",surviving,prose,frm (Middle French),,,3,0,0,0,3,,
 Maugis d'Aigremont,135,48483,Malagis,surviving,unknown,gmh (Middle High German),1201-01-01,1600-12-31,0,0,0,0,0,,
 Maugis d'Aigremont,135,675,Maugis d'Aigremont,surviving,verse,fro (Old French),1201-01-01,1266-12-31,3,0,3,0,6,1251-01-01,1400-12-31
 Maugis d'Aigremont,135,47562,Madelgijs,fragmentary,verse,dum (Middle Dutch),1276-01-01,1375-12-31,0,0,10,0,10,1316-01-01,1410-12-31
-Maugis d'Aigremont,135,49820,"Renaut de Montauban, 2e version ('bourguignonne')",surviving,prose,frm (Middle French),,,1,0,0,0,1,,
 Renaut de Montauban,136,47293,Renout van Montalbaen,fragmentary,verse,dum (Middle Dutch),1176-01-01,1255-12-31,0,0,3,2,5,1191-01-01,1610-12-31
 Renaut de Montauban,136,668,Renaut de Montauban,surviving,verse,fro (Old French),1181-01-01,1200-12-31,8,2,4,0,14,1201-01-01,1405-12-31
 Renaut de Montauban,136,48624,Mágus saga jarls,unknown,prose,non (Old Norse),1291-01-01,1360-12-31,0,0,0,0,0,,
 Renaut de Montauban,136,684,Renaut de Montauban,surviving,verse,fro_ITA (Franco-Italian),1301-01-01,1350-12-31,1,0,0,0,1,1341-01-01,1400-12-31
-Renaut de Montauban,136,49815,"Renaut de Montauban, abrégé",surviving,prose,frm (Middle French),1401-01-01,1500-12-31,1,0,0,0,1,1451-01-01,1500-12-31
 Renaut de Montauban,136,49807,"Renaut de Montauban, 1re version, 'Vulgate'",surviving,prose,frm (Middle French),1401-01-01,1450-12-31,6,0,0,0,6,1401-01-01,1500-12-31
+Renaut de Montauban,136,49815,"Renaut de Montauban, abrégé",surviving,prose,frm (Middle French),1401-01-01,1500-12-31,1,0,0,0,1,1451-01-01,1500-12-31
 Renaut de Montauban,136,685,Renaut de Montauban,surviving,verse,frm (Middle French),1401-01-01,1445-12-31,1,0,0,0,1,,
-Renaut de Montauban,136,49820,"Renaut de Montauban, 2e version ('bourguignonne')",surviving,prose,frm (Middle French),,,1,0,0,0,1,,
 Vivien de Monbranc,137,696,Vivien de Monbranc,surviving,verse,fro (Old French),1200-01-01,1320-12-31,1,0,0,0,1,1351-01-01,1400-12-31
 Aiol,138,46333,Limburgse Aiol,fragmentary,verse,dum (Middle Dutch),1171-01-01,1220-12-31,0,0,1,0,1,1181-01-01,1200-12-31
-Aiol,138,46392,Vlaamse Aiol,fragmentary,verse,dum (Middle Dutch),1201-01-01,1275-12-31,0,0,1,0,1,1341-01-01,1360-12-31
 Aiol,138,623,Aiol,surviving,verse,fro (Old French),1201-01-01,1220-12-31,1,0,0,0,1,1251-01-01,1300-12-31
+Aiol,138,46392,Vlaamse Aiol,fragmentary,verse,dum (Middle Dutch),1201-01-01,1275-12-31,0,0,1,0,1,1341-01-01,1360-12-31
 Gui de Bourgogne,139,661,Gui de Bourgogne,surviving,verse,fro (Old French),1211-01-01,1240-12-31,2,0,1,0,3,1201-01-01,1400-12-31
 Elie de Saint Gille,140,728,Elie de Saint Gille,surviving,verse,fro (Old French),1181-01-01,1200-12-31,1,0,0,0,1,1251-01-01,1300-12-31
 Elie de Saint Gille,140,48608,Elís saga ok Rósamundu,unknown,prose,non (Old Norse),1217-01-01,1263-12-31,1,3,5,0,9,1261-01-01,1500-12-31
 Siege de Milan?,142,53154,Siege of Milan,fragmentary,verse,enm (Middle English),1326-01-01,1425-12-31,0,0,1,0,1,1416-01-01,1485-12-31
 Syracon,144,771,Syracon,fragmentary,verse,fro (Old French),1180-01-01,1200-12-31,0,0,1,0,1,1201-01-01,1220-12-31
-Otinel / Otuel,146,48620,Karlamagnús saga,unknown,prose,non (Old Norse),1201-01-01,1300-12-31,0,2,4,0,6,1266-01-01,1500-12-31
 Otinel / Otuel,146,49747,Otuel a Knight,fragmentary,verse,enm (Middle English),1281-01-01,1355-12-31,0,0,1,0,1,1321-01-01,1340-12-31
 Otinel / Otuel,146,49756,Otuel and Roland,fragmentary,verse,enm (Middle English),1306-01-01,1355-12-31,0,0,1,0,1,1441-01-01,1510-12-31
 Otinel / Otuel,146,49012,Duke Roland and Sir Otuel of Spain,surviving,verse,enm (Middle English),1376-01-01,1425-12-31,1,0,0,0,1,1416-01-01,1485-12-31
 Bueve de Hanstonne,148,608,Bueve de Hanstonne AN,surviving,verse,fro_ENG (Anglo-Norman),1190-01-01,1230-12-31,2,0,2,0,4,1201-01-01,1400-12-31
 Bueve de Hanstonne,148,605,Bueve de Hanstonne cont. 1,surviving,verse,fro (Old French),1200-01-01,1225-12-31,1,0,0,0,1,1251-01-01,1300-12-31
+Bueve de Hanstonne,148,47924,Boeve van Hamtone,fragmentary,verse,dum (Middle Dutch),1201-01-01,1275-12-31,0,0,1,0,1,1241-01-01,1310-12-31
 Bueve de Hanstonne,148,48650,Bevis saga,unknown,prose,non (Old Norse),1201-01-01,1300-12-31,0,2,2,0,4,1341-01-01,1475-12-31
 Bueve de Hanstonne,148,609,Bueve de Hanstonne cont. 4,fragmentary,verse,fro (Old French),1201-01-01,1300-12-31,0,1,0,0,1,1301-01-01,1400-12-31
-Bueve de Hanstonne,148,47924,Boeve van Hamtone,fragmentary,verse,dum (Middle Dutch),1201-01-01,1275-12-31,0,0,1,0,1,1241-01-01,1310-12-31
 Bueve de Hanstonne,148,606,Bueve de Hanstonne cont. 2,surviving,verse,fro (Old French),1221-01-01,1230-12-31,2,1,0,0,3,1201-01-01,1485-12-31
 Bueve de Hanstonne,148,607,Bueve de Hanstonne cont. 3,surviving,verse,fro (Old French),1221-01-01,1300-12-31,3,0,2,0,5,1201-01-01,1400-12-31
 Bueve de Hanstonne,148,48923,Bevis of Hampton,surviving,verse,enm (Middle English),1276-01-01,1325-12-31,2,2,4,0,8,1276-01-01,1510-12-31
@@ -150,7 +125,6 @@ Bueve de Hanstonne,148,611,Bovo d'Antona [Geste Francor],surviving,verse,fro_ITA
 Bueve de Hanstonne,148,48468,Bovo d'Antona,fragmentary,verse,fro_ITA (Franco-Italian),1381-01-01,1400-12-31,0,0,0,0,0,,
 Bueve de Hanstonne,148,48462,Bueve de Hanstonne,surviving,prose,frm (Middle French),1460-01-01,1469-12-31,2,0,0,0,2,1401-01-01,1500-12-31
 Pélerinage de Charlemagne,155,682,Pélerinage de Charlemagne,surviving,verse,fro (Old French),1150-01-01,1200-12-31,1,0,0,0,1,1281-01-01,1320-12-31
-Pélerinage de Charlemagne,155,48620,Karlamagnús saga,unknown,prose,non (Old Norse),1201-01-01,1300-12-31,0,2,4,0,6,1266-01-01,1500-12-31
 Destruction de Rome,157,725,Destruction de Rome,surviving,verse,fro_ENG (Anglo-Norman),1201-01-01,1250-12-31,2,0,0,0,2,1338-01-01,1500-12-31
 Destruction de Rome,157,710,Destruction de Rome,fragmentary,verse,fro (Old French),,,0,0,1,0,1,1281-01-01,1320-12-31
 Fierabras,158,730,Fierabras,surviving,verse,fro (Old French),1171-01-01,1200-12-31,8,0,6,0,14,1201-01-01,1500-12-31
@@ -164,7 +138,6 @@ Fierabras,158,48717,Fierabras,surviving,prose,frm (Middle French),1461-01-01,147
 Daurel et Beton,159,630,Daurel et Beton,surviving,verse,fro_PRO (Franco-Occitan),1171-01-01,1200-12-31,0,1,0,0,1,1301-01-01,1400-12-31
 Galien,162,579,Galien (li Restorés),surviving,verse,fro (Old French),1201-01-01,1300-12-31,1,0,0,0,1,1481-01-01,1500-12-31
 Galien,162,48699,Galien le restoré,surviving,prose,frm (Middle French),1401-01-01,1500-12-31,1,0,0,0,1,1446-01-01,1455-12-31
-Galien,162,48700,Garin de Monglane,surviving,prose,frm (Middle French),1459-01-01,1520-12-31,1,0,0,0,1,1481-01-01,1500-12-31
 Anseïs de Carthage,164,713,Anseïs de Carthage,surviving,verse,fro (Old French),1200-01-01,1250-12-31,3,0,2,0,5,1201-01-01,1400-12-31
 Anseïs de Carthage,164,591,Anseïs de Carthage,surviving,verse,fro_ITA (Franco-Italian),1201-01-01,1400-12-31,1,0,1,0,2,1281-01-01,1400-12-31
 Anseïs de Carthage,164,47608,Charlemagne et Anseïs,surviving,prose,frm (Middle French),1401-01-01,1500-12-31,1,0,0,0,1,1451-01-01,1500-12-31
@@ -189,35 +162,23 @@ Mainet,177,50222,Conquêtes et Chroniques de Charlemagne,surviving,prose,frm (Mi
 Mort Charlemagne,179,748,Mort Charlemagne,surviving,verse,fro_ITA (Franco-Italian),1341-01-01,1360-12-31,1,0,0,0,1,1301-01-01,1350-12-31
 Reine Sébile,180,753,Reine Sébile,fragmentary,verse,fro (Old French),1246-01-01,1255-12-31,0,0,3,0,3,1201-01-01,1300-12-31
 Reine Sébile,180,657,Macario [Geste Francor],surviving,verse,fro_ITA (Franco-Italian),1301-01-01,1350-12-31,1,0,0,0,1,1301-01-01,1350-12-31
-Reine Sébile,180,48700,Garin de Monglane,surviving,prose,frm (Middle French),1459-01-01,1520-12-31,1,0,0,0,1,1481-01-01,1500-12-31
 Gui de Warwick,181,663,Gui de Warwick,surviving,verse,fro_ENG (Anglo-Norman),1201-01-01,1250-12-31,9,1,6,0,16,1201-01-01,1400-12-31
 Gui de Warwick,181,49199,Guy of Warwick (couplet),surviving,verse,enm (Middle English),1276-01-01,1325-12-31,1,1,3,0,5,1291-01-01,1510-12-31
 Gui de Warwick,181,49208,Guy of Warwick (later couplet),surviving,verse,enm (Middle English),1376-01-01,1450-12-31,1,0,0,0,1,1411-01-01,1460-12-31
 Gui de Warwick,181,48693,Gui de Warwick,surviving,prose,frm (Middle French),1441-01-01,1445-12-31,2,0,0,0,2,1401-01-01,1500-12-31
-Charles Martel,182,50225,Histoires de Charles Martel,surviving,prose,frm (Middle French),1448-01-01,1465-12-31,0,0,0,0,0,,
 Orson de Beauvais,183,680,Orson de Beauvais,surviving,verse,fro (Old French),1176-01-01,1225-12-31,1,0,0,0,1,1281-01-01,1300-12-31
-Orson de Beauvais,183,50225,Histoires de Charles Martel,surviving,prose,frm (Middle French),1448-01-01,1465-12-31,0,0,0,0,0,,
 Antioche,184,594,Antiocha,fragmentary,verse,pro (Occitan),1111-01-01,1149-12-31,0,1,0,0,1,1111-01-01,1149-12-31
 Antioche,184,775,Antioche,surviving,verse,fro (Old French),1181-01-01,1200-12-31,9,0,3,0,12,1201-01-01,1350-12-31
-Antioche,184,50320,Chevalier au cygne,surviving,prose,fro (Old French),1281-01-01,1305-12-31,1,0,0,0,1,1295-01-01,1305-12-31
-Antioche,184,722,Chevalier au Cygne et Godefroi de Bouillon,surviving,verse,frm (Middle French),,,1,1,0,0,2,1446-01-01,1460-12-31
 Chetifs,185,524,Chetifs,surviving,verse,fro (Old French),1181-01-01,1220-12-31,7,0,1,0,8,1241-01-01,1350-12-31
-Chetifs,185,50320,Chevalier au cygne,surviving,prose,fro (Old French),1281-01-01,1305-12-31,1,0,0,0,1,1295-01-01,1305-12-31
-Chetifs,185,722,Chevalier au Cygne et Godefroi de Bouillon,surviving,verse,frm (Middle French),,,1,1,0,0,2,1446-01-01,1460-12-31
 Chevalier au Cygne,189,618,Chevalier au Cygne (Beatrix),surviving,verse,fro (Old French),1181-01-01,1200-12-31,8,0,4,0,12,1241-01-01,1350-12-31
-Chevalier au Cygne,189,50320,Chevalier au cygne,surviving,prose,fro (Old French),1281-01-01,1305-12-31,1,0,0,0,1,1295-01-01,1305-12-31
 Chevalier au Cygne,189,49007,Cheuelere Assigne,surviving,verse,enm (Middle English),1326-01-01,1425-12-31,1,0,0,0,1,1437-01-01,1470-12-31
 Chevalier au Cygne,189,50317,Chevalier au Cygne,surviving,prose,frm (Middle French),1466-01-01,1475-12-31,0,0,0,0,0,,
-Chevalier au Cygne,189,722,Chevalier au Cygne et Godefroi de Bouillon,surviving,verse,frm (Middle French),,,1,1,0,0,2,1446-01-01,1460-12-31
 Enfances Godefroi,190,48353,Bastaard-Godevaert,fragmentary,verse,dum (Middle Dutch),1101-01-01,1385-12-31,0,0,1,0,1,1316-01-01,1385-12-31
 Enfances Godefroi,190,633,Enfances Godefroi,surviving,verse,fro (Old French),1151-01-01,1200-12-31,11,0,0,0,11,1241-01-01,1445-12-31
 Enfances Godefroi,190,48031,Godevaerts kinsthede - Roman van Antiochië,fragmentary,verse,dum (Middle Dutch),1276-01-01,1350-12-31,0,0,1,0,1,1316-01-01,1335-12-31
-Enfances Godefroi,190,50320,Chevalier au cygne,surviving,prose,fro (Old French),1281-01-01,1305-12-31,1,0,0,0,1,1295-01-01,1305-12-31
-Enfances Godefroi,190,722,Chevalier au Cygne et Godefroi de Bouillon,surviving,verse,frm (Middle French),,,1,1,0,0,2,1446-01-01,1460-12-31
+Naissance chevalier au cygne,194,677,Naissance du chevalier au cygne Beatrix,surviving,verse,fro (Old French),1181-01-01,1220-12-31,4,2,1,0,7,1201-01-01,1445-12-31
 Naissance chevalier au cygne,194,676,Naissance du chevalier au cygne Elioxe,surviving,verse,fro (Old French),1181-01-01,1220-12-31,1,0,0,0,1,1241-01-01,1320-12-31
 Naissance chevalier au cygne,194,50316,Naissance du chevalier au cygne Elioxe-Beatrix (version hybride),surviving,verse,fro (Old French),1181-01-01,1220-12-31,1,0,0,0,1,1296-01-01,1350-12-31
-Naissance chevalier au cygne,194,677,Naissance du chevalier au cygne Beatrix,surviving,verse,fro (Old French),1181-01-01,1220-12-31,4,2,1,0,7,1201-01-01,1445-12-31
-Naissance chevalier au cygne,194,50320,Chevalier au cygne,surviving,prose,fro (Old French),1281-01-01,1305-12-31,1,0,0,0,1,1295-01-01,1305-12-31
 Bâtard de Bouillon,195,720,Bâtard de Bouillon,surviving,verse,fro (Old French),1301-01-01,1355-12-31,1,0,0,0,1,1346-01-01,1355-12-31
 Baudouin de Sebourc,197,47539,Boudewijn van Seborch,fragmentary,verse,dum (Middle Dutch),1276-01-01,1375-12-31,0,0,2,0,2,1341-01-01,1410-12-31
 Baudouin de Sebourc,197,599,Baudouin de Sebourc,surviving,verse,fro (Old French),1314-01-01,1350-12-31,2,0,0,0,2,1346-01-01,1455-12-31
@@ -232,41 +193,35 @@ Florence de Rome,208,557,Florence de Rome,surviving,verse,frm (Middle French),13
 Florence de Rome,208,49687,Le Bone Florence of Rome,surviving,verse,enm (Middle English),1351-01-01,1425-12-31,1,0,0,0,1,1411-01-01,1460-12-31
 Florent et Octavian,209,648,Octavian,surviving,verse,fro (Old French),1281-01-01,1320-12-31,1,0,0,0,1,1281-01-01,1320-12-31
 Florent et Octavian,209,913,Florent et Octavien,surviving,prose,frm (Middle French),1301-01-01,1400-12-31,2,0,0,0,2,1401-01-01,1500-12-31
-Florent et Octavian,209,47994,Florent ende Durant,fragmentary,verse,dum (Middle Dutch),1301-01-01,1375-12-31,0,0,1,0,1,1316-01-01,1360-12-31
 Florent et Octavian,209,49730,Octavian,surviving,verse,enm (Middle English),1326-01-01,1375-12-31,3,0,0,0,3,1411-01-01,1470-12-31
 Florent et Octavian,209,914,Florent et Octavien,surviving,verse,frm (Middle French),1352-01-01,1361-12-31,2,0,0,0,2,,
 Florent et Octavian,209,48674,Florent et Lyon,unknown,prose,frm (Middle French),1481-01-01,1500-12-31,0,0,0,0,0,,
 Florent et Octavian,209,48673,Othovien,surviving,prose,frm (Middle French),,,4,0,0,0,4,1451-01-01,1500-12-31
-Theseus de Cologne,210,693,Theseus de Cologne – Continuation,surviving,unknown,frm (Middle French),1361-01-01,1399-12-31,0,0,0,0,0,,
 Theseus de Cologne,210,701,Theseus de Cologne,surviving,verse,frm (Middle French),1361-01-01,1378-12-31,3,0,0,0,3,1401-01-01,1500-12-31
-Theseus de Cologne,210,48540,Theseus de Cologne,surviving,prose,frm (Middle French),1401-01-01,1500-12-31,0,0,0,0,0,,
+Theseus de Cologne,210,693,Theseus de Cologne – Continuation,surviving,unknown,frm (Middle French),1361-01-01,1399-12-31,0,0,0,0,0,,
 Theseus de Cologne,210,48541,"Theseus de Cologne, version abrégée",surviving,prose,frm (Middle French),1401-01-01,1500-12-31,1,0,0,0,1,1401-01-01,1500-12-31
+Theseus de Cologne,210,48540,Theseus de Cologne,surviving,prose,frm (Middle French),1401-01-01,1500-12-31,0,0,0,0,0,,
 Doon de Mayence,211,727,Doon de Mayence,surviving,verse,fro (Old French),1251-01-01,1320-12-31,2,1,2,0,5,1301-01-01,1500-12-31
 Gaufrey,213,653,Gaufrey,surviving,verse,fro (Old French),1201-01-01,1300-12-31,1,0,0,0,1,1351-01-01,1400-12-31
 Auberi le Bourgoing,214,597,Auberi le Bourgoing,surviving,verse,fro (Old French),1100-01-01,1250-12-31,3,2,2,0,7,1201-01-01,1400-12-31
 Auberi le Bourgoing,214,47903,Aubri de Borgengoen,fragmentary,verse,dum (Middle Dutch),1276-01-01,1425-12-31,0,0,1,0,1,1316-01-01,1385-12-31
 Girart de Roussillon,218,735,Girart de Roussillon,surviving,verse,fro_PRO (Franco-Occitan),1136-01-01,1180-12-31,3,0,2,0,5,1201-01-01,1305-12-31
 Girart de Roussillon,218,658,Girart de Roussillon,surviving,verse,fro (Old French),1326-01-01,1348-12-31,4,0,0,0,4,1341-01-01,1500-12-31
-Girart de Roussillon,218,50225,Histoires de Charles Martel,surviving,prose,frm (Middle French),1448-01-01,1465-12-31,0,0,0,0,0,,
 Girart de Roussillon,218,49888,Girart de Roussillon,surviving,prose,frm (Middle French),,,5,0,0,0,5,1451-01-01,1520-12-31
 Auberon,220,598,Auberon,surviving,verse,fro (Old French),1261-01-01,1311-12-31,1,0,0,0,1,,
-Clarisse et Florent,221,620,Clarisse et Florent,surviving,verse,fro (Old French),1276-01-01,1300-12-31,1,0,0,0,1,1401-01-01,1500-12-31
 Clarisse et Florent,221,619,Clarisse et Florent,surviving,verse,fro (Old French),1276-01-01,1300-12-31,1,0,0,0,1,,
-Clarisse et Florent,221,48666,Huon de Bordeaux,surviving,prose,frm (Middle French),,,1,0,0,0,1,,
+Clarisse et Florent,221,620,Clarisse et Florent,surviving,verse,fro (Old French),1276-01-01,1300-12-31,1,0,0,0,1,1401-01-01,1500-12-31
 Croissant,222,757,Croissant,fragmentary,verse,frm (Middle French),1350-01-01,1400-12-31,1,0,0,0,1,1401-01-01,1500-12-31
-Croissant,222,48666,Huon de Bordeaux,surviving,prose,frm (Middle French),,,1,0,0,0,1,,
+Croissant,222,48666,Huon de Bordeaux,surviving,prose,frm (Middle French),,,5,0,0,0,5,,
 Huon de Bordeaux,223,666,Huon de Bordeaux,surviving,verse,fro (Old French),1181-01-01,1268-12-31,3,0,1,0,4,1201-01-01,1500-12-31
 Huon de Bordeaux,223,48705,Huon de Bordeaux,fragmentary,verse,fro (Old French),1201-01-01,1300-12-31,0,0,1,0,1,1281-01-01,1320-12-31
 Huon de Bordeaux,223,665,Huon de Bordeaux,surviving,verse,frm (Middle French),1216-01-01,1420-12-31,1,0,0,0,1,1401-01-01,1500-12-31
 Huon de Bordeaux,223,48049,Huge van Bordeeus,fragmentary,verse,dum (Middle Dutch),1276-01-01,1375-12-31,0,0,3,1,4,1291-01-01,1510-12-31
-Huon de Bordeaux,223,48666,Huon de Bordeaux,surviving,prose,frm (Middle French),,,1,0,0,0,1,,
 Esclarmonde,224,642,Esclarmonde,surviving,verse,fro (Old French),1276-01-01,1300-12-31,1,0,1,0,2,1331-01-01,1340-12-31
 Esclarmonde,224,643,Esclarmonde,surviving,verse,frm (Middle French),1351-01-01,1400-12-31,1,0,0,0,1,1451-01-01,1475-12-31
-Esclarmonde,224,48666,Huon de Bordeaux,surviving,prose,frm (Middle French),,,1,0,0,0,1,,
 Basin,225,46323,Karel ende Elegast,fragmentary,verse,dum (Middle Dutch),1216-01-01,1260-12-31,0,0,7,0,7,1316-01-01,1435-12-31
 Yde et Olive,228,697,Yde et Olive,surviving,verse,fro (Old French),1276-01-01,1320-12-31,0,0,0,0,0,,
 Yde et Olive,228,48665,"Yde et Olive, court résumé",surviving,verse,frm (Middle French),1276-01-01,1500-12-31,1,0,0,0,1,1401-01-01,1500-12-31
-Yde et Olive,228,48666,Huon de Bordeaux,surviving,prose,frm (Middle French),,,1,0,0,0,1,,
 Audigier,231,513,Audigier,surviving,verse,fro (Old French),1181-01-01,1220-12-31,1,0,0,0,1,1301-01-01,1320-12-31
 Belle Hélène de Constantinople,232,716,Belle Hélène de Constantinople,surviving,verse,frm (Middle French),1341-01-01,1360-12-31,3,0,1,0,4,1401-01-01,1500-12-31
 Belle Hélène de Constantinople,232,49019,Emaré,surviving,verse,enm (Middle English),1351-01-01,1425-12-31,1,0,0,0,1,1437-01-01,1470-12-31
@@ -279,25 +234,21 @@ Enfances Roland,939,638,Berta e Milone [Geste Francor],surviving,verse,fro_ITA (
 Enfances Roland,939,639,Orlandino [Geste Francor],surviving,verse,fro_ITA (Franco-Italian),1301-01-01,1350-12-31,1,0,0,0,1,1301-01-01,1350-12-31
 Conquete de Jerusalem,940,535,Conquete de Jerusalem,surviving,verse,fro (Old French),1181-01-01,1200-12-31,8,1,3,0,12,1241-01-01,1350-12-31
 Conquete de Jerusalem,940,621,Chrétienté Corbaran,surviving,verse,fro (Old French),1201-01-01,1300-12-31,1,0,0,0,1,1276-01-01,1285-12-31
-Conquete de Jerusalem,940,50320,Chevalier au cygne,surviving,prose,fro (Old French),1281-01-01,1305-12-31,1,0,0,0,1,1295-01-01,1305-12-31
+Conquete de Jerusalem,940,50320,Chevalier au cygne,surviving,prose,fro (Old French),1281-01-01,1305-12-31,7,0,0,0,7,1295-01-01,1305-12-31
 Roland,941,690,Roland,surviving,verse,fro (Old French),1086-01-01,1105-12-31,1,0,0,0,1,1126-01-01,1150-12-31
 Roland,941,679,Ronsasvals,surviving,verse,pro (Occitan),1101-01-01,1150-12-31,0,1,0,0,1,1373-01-01,1403-12-31
 Roland,941,46322,Roelantslied,fragmentary,verse,dum (Middle Dutch),1191-01-01,1240-12-31,0,0,4,1,5,1291-01-01,1510-12-31
 Roland,941,48783,Roland,surviving,verse,fro (Old French),1196-01-01,1205-12-31,3,1,4,0,8,1201-01-01,1400-12-31
 Roland,941,53096,Roland and Vernagu,surviving,verse,enm (Middle English),1200-01-01,1355-12-31,0,1,0,0,1,1321-01-01,1340-12-31
-Roland,941,48620,Karlamagnús saga,unknown,prose,non (Old Norse),1201-01-01,1300-12-31,0,2,4,0,6,1266-01-01,1500-12-31
 Roland,941,48782,Roland,fragmentary,verse,fro_ITA (Franco-Italian),1296-01-01,1305-12-31,1,0,0,0,1,1341-01-01,1360-12-31
 Roland,941,48787,Roland,surviving,verse,frm (Middle French),1401-01-01,1433-12-31,0,1,0,0,1,1431-01-01,1500-12-31
 Roland à Saragosse,942,686,Rollan a Saragossa,surviving,verse,pro (Occitan),1101-01-01,1185-12-31,0,1,0,0,1,1373-01-01,1403-12-31
 Troie,2347,48516,Troie,surviving,verse,fro (Old French),1161-01-01,1170-12-31,28,6,32,0,66,1181-01-01,1400-12-31
 Troie,2347,48296,Seghers Trojeroman,surviving,verse,dum (Middle Dutch),1176-01-01,1260-12-31,2,0,0,0,2,1391-01-01,1490-12-31
 Troie,2347,47635,Historie van Troyen,surviving,verse,dum (Middle Dutch),1259-01-01,1325-12-31,1,0,16,0,17,1291-01-01,1490-12-31
-Troie,2347,48518,"Troie, prose 1",surviving,prose,fro (Old French),1274-01-01,1287-12-31,10,2,1,0,13,1278-01-01,1505-12-31
 Troie,2347,53101,Seege or Batayle of Troye,surviving,verse,enm (Middle English),1276-01-01,1350-12-31,4,0,0,0,4,1316-01-01,1510-12-31
-Troie,2347,48521,"Troie, prose 3",surviving,prose,fro (Old French),1281-01-01,1300-12-31,1,0,3,0,4,1281-01-01,1500-12-31
 Troie,2347,48522,"Troie, prose 4",surviving,prose,fro (Old French),1281-01-01,1300-12-31,1,0,0,0,1,1296-01-01,1305-12-31
 Troie,2347,48520,"Troie, prose 2",surviving,prose,fro (Old French),1281-01-01,1297-12-31,3,0,0,0,3,1201-01-01,1400-12-31
-Troie,2347,48523,"Troie, prose 5",surviving,prose,fro (Old French),1301-01-01,1320-12-31,16,2,4,0,22,1301-01-01,1505-12-31
 Troie,2347,49651,Laud Troy Book,surviving,verse,enm (Middle English),1376-01-01,1450-12-31,1,0,0,0,1,1391-01-01,1435-12-31
 Troie,2347,48519,"Troise, prose 1 remaniée",surviving,prose,frm (Middle French),1401-01-01,1500-12-31,6,0,0,0,6,1401-01-01,1500-12-31
 Fouke Fitz Warin,44017,49903,Fouke Fitz Warin,surviving,prose,fro_ENG (Anglo-Norman),1301-01-01,1320-12-31,1,0,0,0,1,1326-01-01,1350-12-31
@@ -308,8 +259,8 @@ Vilmundar saga viðutan,46393,46394,Vilmundar saga viðutan,surviving,prose,non 
 Tristan,48380,47517,Tristan,fragmentary,verse,dum (Middle Dutch),1101-01-01,1200-12-31,0,0,1,0,1,1241-01-01,1310-12-31
 Tristan,48380,48381,Tristan et Iseut,fragmentary,verse,fro (Old French),1148-01-01,1200-12-31,0,1,1,0,2,1201-01-01,1300-12-31
 Tristan,48380,48390,Tristan,fragmentary,verse,fro_ENG (Anglo-Norman),1171-01-01,1180-12-31,0,0,5,0,5,1201-01-01,1300-12-31
-Tristan,48380,48392,Folie Tristan de Berne,surviving,verse,fro_ENG (Anglo-Norman),1181-01-01,1200-12-31,1,0,1,0,2,1251-01-01,1300-12-31
 Tristan,48380,48394,Folie Tristan d'Oxford,surviving,verse,fro_ENG (Anglo-Norman),1181-01-01,1200-12-31,1,0,0,0,1,1261-01-01,1270-12-31
+Tristan,48380,48392,Folie Tristan de Berne,surviving,verse,fro_ENG (Anglo-Norman),1181-01-01,1200-12-31,1,0,1,0,2,1251-01-01,1300-12-31
 Tristan,48380,55237,Sir Tristrem,surviving,verse,enm (Middle English),1251-01-01,1325-12-31,0,0,0,0,0,,
 Tristan,48380,48642,Tristrams saga ok Ísoddar,unknown,prose,non (Old Norse),1301-01-01,1400-12-31,0,0,0,0,0,,
 Tristan,48380,48643,Tristrams saga ok Ísöndar,unknown,prose,non (Old Norse),,,0,0,2,0,2,1451-01-01,1500-12-31
@@ -320,8 +271,8 @@ Blancandin,48463,48467,Blancandin,surviving,prose,frm (Middle French),1463-01-01
 Châtelain de Coucy,48470,47960,Borchgrave van Couchi,fragmentary,verse,dum (Middle Dutch),1276-01-01,1375-12-31,0,0,3,0,3,1276-01-01,1500-12-31
 Châtelain de Coucy,48470,48471,Chastelain de Coucy,surviving,verse,fro (Old French),1281-01-01,1300-12-31,2,0,0,0,2,1340-01-01,1400-12-31
 Châtelain de Coucy,48470,48473,Chastelain de Coucy,surviving,prose,frm (Middle French),1459-01-01,1468-12-31,1,0,0,0,1,,
-Parthonopeus de Blois,48476,48197,Parthonopeus van Bloys,fragmentary,verse,dum (Middle Dutch),1176-01-01,1275-12-31,0,0,6,0,6,1266-01-01,1510-12-31
 Parthonopeus de Blois,48476,48477,Parthonopeus de Blois,surviving,verse,fro (Old French),1176-01-01,1188-12-31,5,1,5,0,11,1181-01-01,1400-12-31
+Parthonopeus de Blois,48476,48197,Parthonopeus van Bloys,fragmentary,verse,dum (Middle Dutch),1176-01-01,1275-12-31,0,0,6,0,6,1266-01-01,1510-12-31
 Parthonopeus de Blois,48476,48631,Partalopa saga,unknown,prose,non (Old Norse),1201-01-01,1300-12-31,1,1,0,0,2,1451-01-01,1500-12-31
 Parthonopeus de Blois,48476,50837,Partonope of Blois,surviving,verse,enm (Middle English),1396-01-01,1445-12-31,0,1,4,0,5,1391-01-01,1510-12-31
 Florimont,48484,48485,Florimont,surviving,verse,fro (Old French),1188-01-01,1188-01-01,14,0,4,0,18,1201-01-01,1500-12-31
@@ -333,37 +284,31 @@ Florimont,48484,48489,Florimont,surviving,prose,frm (Middle French),1451-01-01,1
 Alexandre - enfances (branch I),48491,48497,Alexandre,fragmentary,verse,frp (Franco-Provençal),1001-01-01,1120-12-31,1,0,0,0,1,1001-01-01,1125-12-31
 Alexandre - enfances (branch I),48491,48499,Alexanderlied,surviving,unknown,gmh (Middle High German),1151-01-01,1160-12-31,0,0,0,0,0,,
 Alexandre - enfances (branch I),48491,48500,Alexandre,surviving,verse,fro (Old French),1156-01-01,1165-12-31,2,0,0,0,2,1201-01-01,1300-12-31
-Alexandre - enfances (branch I),48491,48506,Alexandre,surviving,verse,fro (Old French),1176-01-01,1190-12-31,20,3,7,0,30,1180-01-01,1500-12-31
-Alexandre - enfances (branch I),48491,47473,Alexanders geesten,surviving,verse,dum (Middle Dutch),1257-01-01,1261-12-31,1,0,4,0,5,1266-01-01,1510-12-31
 Alexandre - enfances (branch I),48491,49247,King Alisaunder,fragmentary,verse,enm (Middle English),1276-01-01,1350-12-31,0,1,2,0,3,1321-01-01,1510-12-31
-Alexandre: Fuerre de Gadres (branch II),48493,48506,Alexandre,surviving,verse,fro (Old French),1176-01-01,1190-12-31,20,3,7,0,30,1180-01-01,1500-12-31
-Alexandre: Fuerre de Gadres (branch II),48493,47473,Alexanders geesten,surviving,verse,dum (Middle Dutch),1257-01-01,1261-12-31,1,0,4,0,5,1266-01-01,1510-12-31
 Alexandre: Fuerre de Gadres (branch II),48493,48791,Alexander-Cassamus,fragmentary,verse,enm (Middle English),1376-01-01,1525-12-31,1,0,0,0,1,1437-01-01,1560-12-31
 Alexandre en Orient (branch III),48494,48501,Alexandre en Orient,fragmentary,verse,fro (Old French),1165-01-01,1200-12-31,2,0,0,0,2,1201-01-01,1225-12-31
-Alexandre en Orient (branch III),48494,48506,Alexandre,surviving,verse,fro (Old French),1176-01-01,1190-12-31,20,3,7,0,30,1180-01-01,1500-12-31
-Alexandre en Orient (branch III),48494,47473,Alexanders geesten,surviving,verse,dum (Middle Dutch),1257-01-01,1261-12-31,1,0,4,0,5,1266-01-01,1510-12-31
 Alexandre en Orient (branch III),48494,48789,Alexander Fragment A,fragmentary,verse,enm (Middle English),1316-01-01,1365-12-31,0,0,0,0,0,,
 Alexandre en Orient (branch III),48494,48776,Alexander and Dindimus (Alexander Fragment B),fragmentary,verse,enm (Middle English),1326-01-01,1375-12-31,0,0,1,0,1,1391-01-01,1420-12-31
 Alexandre en Orient (branch III),48494,55245,Wars of Alexander (Alexander Fragment C),surviving,verse,enm (Middle English),1426-01-01,1475-12-31,0,0,0,0,0,,
-Mort d'Alexandre (branch IV),48495,48506,Alexandre,surviving,verse,fro (Old French),1176-01-01,1190-12-31,20,3,7,0,30,1180-01-01,1500-12-31
-Mort d'Alexandre (branch IV),48495,47473,Alexanders geesten,surviving,verse,dum (Middle Dutch),1257-01-01,1261-12-31,1,0,4,0,5,1266-01-01,1510-12-31
+Mort d'Alexandre (branch IV),48495,48506,Alexandre,surviving,verse,fro (Old French),1176-01-01,1190-12-31,80,12,28,0,120,1180-01-01,1500-12-31
+Mort d'Alexandre (branch IV),48495,47473,Alexanders geesten,surviving,verse,dum (Middle Dutch),1257-01-01,1261-12-31,4,0,16,0,20,1266-01-01,1510-12-31
 Floire et Blancheflor,48510,48013,Floyris ende Blantseflur,fragmentary,verse,dum (Middle Dutch),1126-01-01,1225-12-31,0,0,1,0,1,1191-01-01,1201-12-31
 Floire et Blancheflor,48510,48511,"Floire et Blancheflor, version aristocratique",surviving,verse,fro (Old French),1146-01-01,1155-12-31,3,0,1,0,4,1201-01-01,1500-12-31
 Floire et Blancheflor,48510,48513,"Floire et Blancheflor, version dite populaire",surviving,verse,fro (Old French),1181-01-01,1200-12-31,1,0,0,0,1,1301-01-01,1320-12-31
 Floire et Blancheflor,48510,48610,Flóres saga ok Blankiflur,unknown,prose,non (Old Norse),1201-01-01,1300-12-31,1,1,1,0,3,1301-01-01,1460-12-31
-Floire et Blancheflor,48510,47548,Floris ende Blancefloer,surviving,verse,dum (Middle Dutch),1226-01-01,1325-12-31,1,0,1,0,2,1266-01-01,1335-12-31
 Floire et Blancheflor,48510,49044,Floris and Blancheflour,surviving,verse,enm (Middle English),1226-01-01,1275-12-31,0,3,1,0,4,1251-01-01,1410-12-31
+Floire et Blancheflor,48510,47548,Floris ende Blancefloer,surviving,verse,dum (Middle Dutch),1226-01-01,1325-12-31,1,0,1,0,2,1266-01-01,1335-12-31
 Eneas,48515,48528,Eneas,surviving,verse,fro (Old French),1156-01-01,1165-12-31,6,3,0,0,9,1181-01-01,1405-12-31
 Eneas,48515,48529,Eneas,unknown,prose,fro (Old French),1201-01-01,1300-12-31,0,0,0,0,0,,
-Landomata,48524,48518,"Troie, prose 1",surviving,prose,fro (Old French),1274-01-01,1287-12-31,10,2,1,0,13,1278-01-01,1505-12-31
-Landomata,48524,48521,"Troie, prose 3",surviving,prose,fro (Old French),1281-01-01,1300-12-31,1,0,3,0,4,1281-01-01,1500-12-31
-Landomata,48524,48523,"Troie, prose 5",surviving,prose,fro (Old French),1301-01-01,1320-12-31,16,2,4,0,22,1301-01-01,1505-12-31
+Landomata,48524,48518,"Troie, prose 1",surviving,prose,fro (Old French),1274-01-01,1287-12-31,20,4,2,0,26,1278-01-01,1505-12-31
+Landomata,48524,48521,"Troie, prose 3",surviving,prose,fro (Old French),1281-01-01,1300-12-31,2,0,6,0,8,1281-01-01,1500-12-31
+Landomata,48524,48523,"Troie, prose 5",surviving,prose,fro (Old French),1301-01-01,1320-12-31,32,4,8,0,44,1301-01-01,1505-12-31
 Torrec,48531,48293,Roman van Torec,surviving,verse,dum (Middle Dutch),1226-01-01,1325-12-31,1,0,0,0,1,1311-01-01,1335-12-31
 Perceval,48534,48237,Roman van Perchevael,surviving,verse,dum (Middle Dutch),1176-01-01,1275-12-31,1,0,4,0,5,1266-01-01,1360-12-31
 Perceval,48534,48551,Perceval ou le Conte du Graal,surviving,verse,fro (Old French),1182-01-01,1189-12-31,17,0,1,0,18,1181-01-01,1335-12-31
 Perceval,48534,48572,Perceval,surviving,prose,fro (Old French),1196-01-01,1210-12-31,2,0,0,0,2,1211-01-01,1475-12-31
-Perceval,48534,48573,Perlesvaus,surviving,prose,fro (Old French),1201-01-01,1240-12-31,4,1,2,0,7,1201-01-01,1404-12-31
 Perceval,48534,48569,Elucidation,surviving,verse,fro (Old French),1201-01-01,1250-12-31,1,0,0,0,1,1281-01-01,1290-12-31
+Perceval,48534,48573,Perlesvaus,surviving,prose,fro (Old French),1201-01-01,1240-12-31,4,1,2,0,7,1201-01-01,1404-12-31
 Perceval,48534,48630,Parcevals saga,unknown,prose,non (Old Norse),1217-01-01,1263-12-31,0,1,1,0,2,1341-01-01,1425-12-31
 Perceval,48534,48646,Valvens þáttr,unknown,prose,non (Old Norse),1217-01-01,1263-12-31,1,0,1,0,2,1331-01-01,1425-12-31
 Perceval,48534,55236,Sir Percevale of Galles,surviving,verse,enm (Middle English),1276-01-01,1375-12-31,0,0,0,0,0,,
@@ -398,7 +343,7 @@ Ysaïe le triste,48669,48670,Ysaïe le triste,surviving,prose,frm (Middle French
 Vengeance Raguidel,48690,48691,Vengeance Raguidel,surviving,verse,fro (Old French),1196-01-01,1225-12-31,3,0,1,0,4,1201-01-01,1300-12-31
 Vengeance Raguidel,48690,48302,Wrake van Ragisel,surviving,verse,dum (Middle Dutch),1251-01-01,1325-12-31,1,0,2,0,3,1266-01-01,1385-12-31
 Renier de Gennes,48701,758,Renier de Gennes,fragmentary,verse,frm (Middle French),1351-01-01,1400-12-31,1,0,0,0,1,1486-01-01,1495-12-31
-Renier de Gennes,48701,48700,Garin de Monglane,surviving,prose,frm (Middle French),1459-01-01,1520-12-31,1,0,0,0,1,1481-01-01,1500-12-31
+Renier de Gennes,48701,48700,Garin de Monglane,surviving,prose,frm (Middle French),1459-01-01,1520-12-31,7,0,0,0,7,1481-01-01,1500-12-31
 Floriant et Florete,48720,48721,Floriant et Florete,surviving,verse,fro (Old French),1226-01-01,1300-12-31,1,0,0,0,1,1281-01-01,1325-12-31
 Floriant et Florete,48720,48722,Floriant et Florete,surviving,prose,frm (Middle French),1476-01-01,1485-12-31,2,0,0,0,2,1476-01-01,1495-12-31
 Floris et Lyriopé,48723,48726,Floris et Lyriopé,surviving,verse,fro (Old French),1234-01-01,1266-12-31,2,0,0,0,2,1251-01-01,1305-12-31
@@ -408,7 +353,7 @@ Cligès,48745,53160,Sir Cleges,surviving,verse,enm (Middle English),1351-01-01,1
 Cligès,48745,48748,Cligès,surviving,prose,frm (Middle French),,,1,0,0,0,1,,
 Eracle,48749,48750,Eracle,surviving,verse,fro (Old French),1150-01-01,1186-12-31,2,1,1,0,4,1201-01-01,1500-12-31
 Ille et Galeron,48754,48755,Ille et Galeron,surviving,verse,fro (Old French),1151-01-01,1180-12-31,2,0,0,0,2,1281-01-01,1317-12-31
-Pontus et Sidoine,48763,48764,Pontus et Sidoine,surviving,prose,frm (Middle French),1381-01-01,1450-12-31,27,0,2,0,29,1301-01-01,1500-12-31
+Pontus et Sidoine,48763,48764,Pontus et Sidoine,surviving,prose,frm (Middle French),1381-01-01,1450-12-31,28,0,2,0,30,1301-01-01,1500-12-31
 Wistasse le moine,48769,48770,Wistasse le moine,surviving,verse,fro (Old French),1201-01-01,1284-12-31,1,0,0,0,1,,
 Sone de Nansay,48772,48773,Sone de Nansay,surviving,verse,fro (Old French),1251-01-01,1300-12-31,0,1,0,0,1,1301-01-01,1360-12-31
 Morte Arthure,48799,47896,Arturs doet,surviving,verse,dum (Middle Dutch),1256-01-01,1305-12-31,1,0,1,0,2,1311-01-01,1360-12-31
@@ -454,7 +399,7 @@ Joseph d'Arimathie,48986,49006,Joseph d'Arimathie Vulgate ou Estoire del Saint G
 Merlin,48990,48989,Merlin,fragmentary,verse,fro (Old French),1191-01-01,1205-12-31,0,0,1,0,1,1281-01-01,1300-12-31
 Merlin,48990,49027,Merlin,surviving,prose,fro (Old French),1201-01-01,1225-12-31,47,4,13,0,64,1200-01-01,1600-12-31
 Merlin,48990,48991,Merlin,fragmentary,prose,pro (Occitan),1201-01-01,1300-12-31,0,0,1,0,1,1201-01-01,1300-12-31
-Merlin,48990,48043,Historie van den Grale - Merlijns boec,surviving,verse,dum (Middle Dutch),1259-01-01,1266-12-31,1,0,0,0,1,1413-01-01,1432-12-31
+Merlin,48990,48043,Historie van den Grale - Merlijns boec,surviving,verse,dum (Middle Dutch),1259-01-01,1266-12-31,2,0,0,0,2,1413-01-01,1432-12-31
 Merlin,48990,48161,Merlijn-continuatie,surviving,verse,dum (Middle Dutch),1327-01-01,1327-01-01,1,0,3,0,4,1291-01-01,1432-12-31
 Merlin,48990,49725,Merlin,surviving,verse,enm (Middle English),1396-01-01,1455-12-31,1,0,0,0,1,1391-01-01,1510-12-31
 Erle of Tolous,49024,49023,Erle of Tolous,surviving,verse,enm (Middle English),1326-01-01,1425-12-31,2,0,0,0,2,1411-01-01,1460-12-31
@@ -464,7 +409,6 @@ Suite de Merlin et premiers faits d'Arthur,49085,49086,Suite Post-Vulgate du Mer
 Uterpendragon et Arthur,49092,49093,Livre d'Artus,surviving,prose,fro (Old French),1226-01-01,1250-12-31,1,0,0,0,1,1231-01-01,1275-12-31
 Folie Lancelot,49096,49097,Folie Lancelot,surviving,prose,fro (Old French),1236-01-01,1240-12-31,1,0,1,0,2,1201-01-01,1300-12-31
 Lancelot,49098,49102,Lancelot,surviving,verse,fro (Old French),1173-01-01,1182-12-31,4,2,2,0,8,1201-01-01,1320-12-31
-Lancelot,49098,48082,Lanceloet en het hert met de witte voet,surviving,verse,dum (Middle Dutch),1176-01-01,1291-12-31,1,0,0,0,1,1311-01-01,1335-12-31
 Lancelot,49098,49106,Lancelot,surviving,prose,fro (Old French),1211-01-01,1240-12-31,56,16,37,0,109,1201-01-01,1500-12-31
 Lancelot,49098,48097,Lantsloot van der Haghedochte,fragmentary,verse,dum (Middle Dutch),1226-01-01,1275-12-31,0,0,1,0,1,1316-01-01,1360-12-31
 Lancelot,49098,48085,Roman van Lancelot,fragmentary,verse,dum (Middle Dutch),1256-01-01,1305-12-31,0,1,2,0,3,1311-01-01,1335-12-31
@@ -473,13 +417,13 @@ Lancelot,49098,49125,Conte de la charrette,surviving,prose,fro (Old French),1301
 Lancelot,49098,49100,Lanzelet,surviving,unknown,gmh (Middle High German),,,0,0,0,0,0,,
 queste del Saint Graal,49126,49127,queste del Saint Graal,surviving,prose,fro (Old French),1215-01-01,1235-12-31,47,3,5,0,55,1201-01-01,1500-12-31
 queste del Saint Graal,49126,48258,Queeste van den Grale,surviving,verse,dum (Middle Dutch),1256-01-01,1305-12-31,1,0,1,0,2,1311-01-01,1410-12-31
-queste del Saint Graal,49126,48043,Historie van den Grale - Merlijns boec,surviving,verse,dum (Middle Dutch),1259-01-01,1266-12-31,1,0,0,0,1,1413-01-01,1432-12-31
 queste del Saint Graal,49126,49235,History of the Holy Grail,surviving,verse,enm (Middle English),1396-01-01,1455-12-31,1,0,0,0,1,1391-01-01,1510-12-31
 Mort Artu,49132,49134,Mort Artu,surviving,prose,fro (Old French),1201-01-01,1235-12-31,42,7,7,0,56,1201-01-01,1500-12-31
+Mort Artu,49132,55270,Lancelot-compilatie,surviving,verse,dum (Middle Dutch),1296-01-01,1355-12-31,0,10,0,0,10,1311-01-01,1340-12-31
 Tristan - Graal,49138,49139,Tristan,surviving,prose,fro (Old French),1226-01-01,1235-12-31,48,6,29,0,83,1201-01-01,1500-12-31
 Propheties,49140,49141,Propheties de Merlin,surviving,prose,fro (Old French),1267-01-01,1300-12-31,20,1,5,0,26,1201-01-01,1475-12-31
-Generides,49187,49186,Generides (couplet),surviving,verse,enm (Middle English),1351-01-01,1425-12-31,1,0,0,0,1,1421-01-01,1460-12-31
 Generides,49187,49194,Generides (stanzaic),surviving,verse,enm (Middle English),1351-01-01,1425-12-31,0,1,0,0,1,1461-01-01,1480-12-31
+Generides,49187,49186,Generides (couplet),surviving,verse,enm (Middle English),1351-01-01,1425-12-31,1,0,0,0,1,1421-01-01,1460-12-31
 Havelok,49222,49221,Havelok the Dane,fragmentary,verse,enm (Middle English),1251-01-01,1325-12-31,1,0,1,0,2,1291-01-01,1410-12-31
 Perceforest,49250,49252,Perceforest,surviving,prose,frm (Middle French),1441-01-01,1460-12-31,4,0,1,0,5,1401-01-01,1500-12-31
 Fils du roi Constant,49254,49255,Fils du roi Constant,fragmentary,prose,fro (Old French),1290-01-01,1298-12-31,1,0,0,0,1,,
@@ -515,9 +459,9 @@ Ipomedon,49831,49243,Ipomadon,surviving,verse,enm (Middle English),1351-01-01,14
 Protheselaus,49833,49849,Protheselaus,surviving,verse,fro_ENG (Anglo-Norman),1181-01-01,1190-12-31,2,0,1,0,3,1201-01-01,1320-12-31
 Departement des Enfans Aimeri,49851,49485,Departement des enfans Aimeri,surviving,verse,fro (Old French),1176-01-01,1225-12-31,2,0,0,0,2,1241-01-01,1300-12-31
 Departement des Enfans Aimeri,49851,49852,Departement des fils Aimeri,surviving,verse,fro (Old French),1196-01-01,1205-12-31,1,0,0,0,1,1241-01-01,1260-12-31
-Departement des Enfans Aimeri,49851,634,Enfances Guillaume,surviving,verse,fro (Old French),1201-01-01,1250-12-31,7,0,0,0,7,1241-01-01,1350-12-31
+Departement des Enfans Aimeri,49851,634,Enfances Guillaume,surviving,verse,fro (Old French),1201-01-01,1250-12-31,14,0,0,0,14,1241-01-01,1350-12-31
 Departement des Enfans Aimeri,49851,49488,Departement des enfans Aimeri,unknown,verse,fro (Old French),1201-01-01,1300-12-31,2,0,1,0,3,1201-01-01,1350-12-31
-Departement des Enfans Aimeri,49851,47641,Guillaume d'Orange en prose,surviving,prose,frm (Middle French),1454-01-01,1456-12-31,2,0,0,0,2,1461-01-01,1471-12-31
+Departement des Enfans Aimeri,49851,47641,Guillaume d'Orange en prose,surviving,prose,frm (Middle French),1454-01-01,1456-12-31,26,0,0,0,26,1461-01-01,1471-12-31
 Manekine,49862,49863,Manekine,surviving,verse,fro (Old French),1231-01-01,1265-12-31,1,0,0,0,1,1281-01-01,1320-12-31
 Manekine,49862,49865,Manekine,surviving,prose,frm (Middle French),1441-01-01,1452-12-31,1,0,0,0,1,1481-01-01,1500-12-31
 Jehan et Blonde,49867,49866,Jehan et Blonde,surviving,verse,fro (Old French),1226-01-01,1245-12-31,1,0,0,0,1,1281-01-01,1320-12-31
@@ -536,16 +480,16 @@ Wisselau,50176,47334,Van den bere Wisselau,fragmentary,verse,dum (Middle Dutch),
 Chastelaine de Vergi,50183,50192,Istoire de la Chastelaine du Vergier et de Tristan le Chevalier,surviving,prose,frm (Middle French),1401-01-01,1500-12-31,1,0,0,0,1,1401-01-01,1500-12-31
 Jules Cesar,50185,50190,Histoire de Jules César,surviving,prose,fro (Old French),1233-01-01,1270-12-31,0,0,0,0,0,,
 Jules Cesar,50185,50186,Jules Cesar,surviving,verse,fro (Old French),1233-01-01,1266-12-31,0,0,0,0,0,,
-Jules Cesar,50185,50187,Pharsalia,surviving,verse,lat (Latin),2061-05-27,2065-12-31,0,0,0,0,0,,
+Jules Cesar,50185,50187,Pharsalia,surviving,verse,lat (Latin),2061-06-13,2065-12-31,0,0,0,0,0,,
 Joufroi de Poitiers,50193,50194,Joufroi de Poitiers,surviving,verse,fro (Old French),1241-01-01,1260-12-31,0,1,0,0,1,1301-01-01,1320-12-31
 Unidentified epic (Lorrains cycle?),50226,50227,Chanson de geste non identifiée (Lorrains?; fragment d'Oxford),fragmentary,verse,fro (Old French),1101-01-01,1260-12-31,0,0,1,0,1,1241-01-01,1260-12-31
+Unidentified epic (Lorrains cycle?),50226,48077,Laidoen,unknown,verse,dum (Middle Dutch),1226-01-01,1325-12-31,0,0,1,0,1,1341-01-01,1385-12-31
 Meliadus,50229,50230,Meliadus,surviving,mixed,fro (Old French),1226-01-01,1250-12-31,15,2,3,0,20,1231-01-01,1525-12-31
 Meliadus,50229,50241,"Meliadus, Continuation",surviving,mixed,fro (Old French),1251-01-01,1300-12-31,3,0,0,0,3,1301-01-01,1362-12-31
 Guiron le courtois,50232,50233,Guiron le courtois,surviving,mixed,fro (Old French),1236-01-01,1240-12-31,9,3,5,0,17,1276-01-01,1500-12-31
 Guiron le courtois,50232,50237,"Guiron le courtois, Continuation",surviving,prose,fro (Old French),1241-01-01,1280-12-31,2,0,1,0,3,1281-01-01,1475-12-31
 Suite Guiron,50239,50238,Suite Guiron,surviving,prose,fro (Old French),1241-01-01,1270-12-31,1,0,2,0,3,1251-01-01,1500-12-31
-Retour de Cornumarant,50321,50320,Chevalier au cygne,surviving,prose,fro (Old French),1281-01-01,1305-12-31,1,0,0,0,1,1295-01-01,1305-12-31
-Retour de Cornumarant,50321,722,Chevalier au Cygne et Godefroi de Bouillon,surviving,verse,frm (Middle French),,,1,1,0,0,2,1446-01-01,1460-12-31
+Retour de Cornumarant,50321,722,Chevalier au Cygne et Godefroi de Bouillon,surviving,verse,frm (Middle French),,,5,5,0,0,10,1446-01-01,1460-12-31
 Robert of Cisyle,50882,50881,Robert of Cisyle,surviving,verse,enm (Middle English),1351-01-01,1425-12-31,7,0,2,0,9,1366-01-01,1485-12-31
 Sir Degare,55216,55215,Sir Degare,surviving,verse,enm (Middle English),1276-01-01,1450-12-31,0,0,0,0,0,,
 Sir Degrevant,55218,55217,Sir Degrevant,surviving,verse,enm (Middle English),1361-01-01,1435-12-31,0,0,0,0,0,,
@@ -557,3 +501,70 @@ Orpheus and Euridyce,55234,55233,Sir Orfeo,surviving,verse,enm (Middle English),
 Sir Tryamour,55239,55238,Sir Tryamour,surviving,verse,enm (Middle English),1351-01-01,1425-12-31,0,0,0,0,0,,
 Titus and Vespasian,55242,55241,Titus and Vespasian,surviving,verse,enm (Middle English),1351-01-01,1425-12-31,0,0,0,0,0,,
 Torrent of Portyngale,55244,55243,Torrent of Portyngale,surviving,verse,enm (Middle English),1376-01-01,1425-12-31,0,0,0,0,0,,
+Walewein ende Keye,55266,47780,Walewein ende Keye,surviving,verse,dum (Middle Dutch),1201-01-01,1300-12-31,1,0,0,0,1,1316-01-01,1360-12-31
+Lanceloet en het hert met de witte voet,55267,48082,Lanceloet en het hert met de witte voet,surviving,verse,dum (Middle Dutch),1176-01-01,1291-12-31,1,0,0,0,1,1311-01-01,1335-12-31
+Lorreinen II,55273,48126,Lorreinen II,fragmentary,verse,dum (Middle Dutch),1226-01-01,1325-12-31,0,0,1,0,1,1316-01-01,1360-12-31
+,,48359,Alexanderroman,fragmentary,verse,dum (Middle Dutch),1101-01-01,1500-12-31,0,0,1,0,1,1101-01-01,1500-12-31
+,,48342,Ongeïdentificeerd (6),fragmentary,verse,dum (Middle Dutch),1101-01-01,1385-12-31,0,0,1,0,1,1341-01-01,1385-12-31
+,,48321,Ongeïdentificeerd (2),fragmentary,verse,dum (Middle Dutch),1101-01-01,1510-12-31,0,0,1,0,1,1366-01-01,1410-12-31
+,,48347,Ongeïdentificeerd (7),fragmentary,verse,dum (Middle Dutch),1101-01-01,1385-12-31,0,0,1,0,1,1341-01-01,1385-12-31
+,,48332,Ongeïdentificeerd (4),fragmentary,verse,dum (Middle Dutch),1101-01-01,1410-12-31,0,0,1,0,1,1341-01-01,1410-12-31
+,,48327,Ongeïdentificeerd (3),fragmentary,verse,dum (Middle Dutch),1101-01-01,1385-12-31,0,0,1,0,1,1316-01-01,1385-12-31
+,,49522,Roman de toute chevalerie,surviving,verse,fro_ENG (Anglo-Norman),1151-01-01,1200-12-31,2,1,2,0,5,1201-01-01,1400-12-31
+,,50149,Guillaume de Palerne,surviving,verse,fro (Old French),1188-01-01,1220-12-31,1,0,0,0,1,1276-01-01,1300-12-31
+,,46893,Iwein,surviving,verse,gmh (Middle High German),1191-01-01,1210-12-31,0,0,0,0,0,,
+,,48644,Trójumanna saga,unknown,prose,non (Old Norse),1200-01-01,1263-12-31,1,1,2,0,4,1301-01-01,1510-12-31
+,,48912,Le roman de Balain,unknown,prose,fro (Old French),1201-01-01,1300-12-31,2,0,0,0,2,1281-01-01,1320-12-31
+,,48907,Athis et Prophilias,surviving,verse,fro (Old French),1201-01-01,1300-12-31,6,1,4,0,11,1201-01-01,1500-12-31
+,,48708,Apollonius de Tyr,surviving,prose,fro (Old French),1201-01-01,1300-12-31,0,0,0,0,0,,
+,,50175,Alexandre,surviving,prose,fro_ENG (Anglo-Norman),1201-01-01,1251-12-31,1,0,0,0,1,1351-01-01,1500-12-31
+,,48652,Breta sögur,unknown,prose,non (Old Norse),1201-01-01,1300-12-31,1,1,1,0,3,1302-01-01,1375-12-31
+,,47767,Roman van Walewein,surviving,verse,dum (Middle Dutch),1201-01-01,1300-12-31,1,0,1,0,2,1341-01-01,1385-12-31
+,,50170,"Alexandre, 1re et 2e rédactions en prose",surviving,prose,fro (Old French),1201-01-01,1300-12-31,15,0,3,0,18,1251-01-01,1500-12-31
+,,48641,Strengleikar,unknown,prose,non (Old Norse),1217-01-01,1263-12-31,0,1,0,0,1,1261-01-01,1280-12-31
+,,48869,Arthour and Merline,surviving,verse,enm (Middle English),1226-01-01,1325-12-31,0,1,1,0,2,1321-01-01,1510-12-31
+,,48729,Beaudous,fragmentary,verse,fro (Old French),1234-01-01,1266-12-31,1,0,0,0,1,1267-01-01,1300-12-31
+,,48628,Alexanders saga,unknown,prose,non (Old Norse),1247-01-01,1264-12-31,2,2,1,0,5,1271-01-01,1560-12-31
+,,47759,Borchgravinne van Vergi (2),fragmentary,verse,dum (Middle Dutch),1276-01-01,1375-12-31,0,0,1,0,1,1341-01-01,1385-12-31
+,,47941,Roman van Cassamus,surviving,verse,dum (Middle Dutch),1276-01-01,1375-12-31,1,0,2,0,3,1311-01-01,1360-12-31
+,,48913,Le Bel Inconnu,surviving,verse,frp (Franco-Provençal),1281-01-01,1300-12-31,1,0,0,0,1,1251-01-01,1300-12-31
+,,48908,Aventures des bruns,unknown,prose,fro (Old French),1281-01-01,1300-12-31,4,0,1,0,5,1281-01-01,1500-12-31
+,,48714,Apollonius de Tyr,unknown,prose,fro (Old French),1301-01-01,1400-12-31,1,0,0,0,1,1446-01-01,1455-12-31
+,,48614,Grega saga,unknown,prose,non (Old Norse),1301-01-01,1400-12-31,0,0,0,0,0,,
+,,48648,Vilhjálms saga sjóðs,unknown,prose,non (Old Norse),1301-01-01,1400-12-31,0,0,0,0,0,,
+,,48653,Bærings saga,unknown,prose,non (Old Norse),1301-01-01,1400-12-31,0,0,0,0,0,,
+,,48632,Rémundar saga keisarasonar,unknown,prose,non (Old Norse),1301-01-01,1400-12-31,0,0,0,0,0,,
+,,48635,Sigrgarðs saga frœkna,unknown,prose,non (Old Norse),1301-01-01,1400-12-31,0,0,0,0,0,,
+,,48651,Þjalar Jóns saga,unknown,prose,non (Old Norse),1301-01-01,1400-12-31,0,0,0,0,0,,
+,,48711,Apollonius de Tyr,unknown,prose,fro (Old French),1301-01-01,1400-12-31,5,0,0,0,5,1301-01-01,1500-12-31
+,,48649,Vilmundar saga viðutan,unknown,prose,non (Old Norse),1301-01-01,1400-12-31,0,0,0,0,0,,
+,,48616,Hermanns saga ok Jarlmanns,unknown,prose,non (Old Norse),1301-01-01,1400-12-31,0,0,0,0,0,,
+,,48606,Adónías saga,unknown,prose,non (Old Norse),1301-01-01,1400-12-31,0,0,0,0,0,,
+,,48618,Hrings saga ok Tryggva,unknown,prose,non (Old Norse),1301-01-01,1400-12-31,0,0,0,0,0,,
+,,48636,Sigrgarðs saga ok Valbrands,unknown,prose,non (Old Norse),1301-01-01,1400-12-31,0,0,0,0,0,,
+,,48607,Drauma-Jóns saga,unknown,prose,non (Old Norse),1301-01-01,1350-12-31,0,0,0,0,0,,
+,,48655,Dínus saga drambláta,unknown,prose,non (Old Norse),1301-01-01,1400-12-31,0,0,0,0,0,,
+,,48627,Nitida saga,unknown,prose,non (Old Norse),1301-01-01,1400-12-31,0,0,0,0,0,,
+,,48640,Sigurðar saga þögla,unknown,prose,non (Old Norse),1301-01-01,1400-12-31,0,0,0,0,0,,
+,,48621,Kirjalax saga,unknown,prose,non (Old Norse),1301-01-01,1400-12-31,0,0,0,0,0,,
+,,48613,Gibbons saga,unknown,prose,non (Old Norse),1301-01-01,1400-12-31,0,0,0,0,0,,
+,,48638,Sigurðar saga turnara,unknown,prose,non (Old Norse),1301-01-01,1400-12-31,0,0,0,0,0,,
+,,48654,Dámusta saga ok Jons,unknown,prose,non (Old Norse),1301-01-01,1400-12-31,0,0,0,0,0,,
+,,48637,Sigurðar saga fots,unknown,prose,non (Old Norse),1301-01-01,1400-12-31,0,0,0,0,0,,
+,,48625,Mírmanns saga,unknown,prose,non (Old Norse),1301-01-01,1400-12-31,0,0,0,0,0,,
+,,47994,Florent ende Durant,fragmentary,verse,dum (Middle Dutch),1301-01-01,1375-12-31,0,0,1,0,1,1316-01-01,1360-12-31
+,,48633,Sálus saga ok Nikanórs,unknown,prose,non (Old Norse),1310-01-01,1400-12-31,0,0,0,0,0,,
+,,48623,Konráðs saga keisarasonar,unknown,prose,non (Old Norse),1310-01-01,1400-12-31,0,0,0,0,0,,
+,,47755,Borchgravinne van Vergi (1),surviving,verse,dum (Middle Dutch),1315-01-01,1315-01-01,1,0,0,0,1,1391-01-01,1420-12-31
+,,48634,Samsons saga fagra,unknown,prose,non (Old Norse),1326-01-01,1375-12-31,0,0,0,0,0,,
+,,48877,Arthur,surviving,verse,enm (Middle English),1326-01-01,1425-12-31,1,0,0,0,1,1403-01-01,1438-12-31
+,,48622,Klári saga,unknown,prose,non (Old Norse),1326-01-01,1375-12-31,0,0,0,0,0,,
+,,48615,Hectors saga,unknown,prose,non (Old Norse),1351-01-01,1450-12-31,0,0,0,0,0,,
+,,48611,Flóres saga konungs og sona hans,unknown,prose,non (Old Norse),1351-01-01,1400-12-31,0,0,0,0,0,,
+,,48109,Lion van Bourges,fragmentary,verse,dum (Middle Dutch),1351-01-01,1425-12-31,0,0,1,0,1,1291-01-01,1510-12-31
+,,48647,Viktors saga ok Blavus,unknown,prose,non (Old Norse),1351-01-01,1400-12-31,0,0,0,0,0,,
+,,48645,Valdimars saga,unknown,prose,non (Old Norse),1351-01-01,1400-12-31,0,0,0,0,0,,
+,,48617,Ála flekks saga,unknown,prose,non (Old Norse),1376-01-01,1425-12-31,0,0,0,0,0,,
+,,48715,Apollonius de Tyr,unknown,prose,frm (Middle French),1401-01-01,1500-12-31,1,0,0,0,1,1401-01-01,1500-12-31
+,,49895,"Girart de Roussillon, abrégé",surviving,prose,frm (Middle French),1443-01-01,1452-12-31,1,0,0,0,1,1451-01-01,1475-12-31
+,,50177,"Alexandre, 3e rédaction en prose",surviving,prose,frm (Middle French),,,1,0,0,0,1,,

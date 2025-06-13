@@ -1,10 +1,10 @@
+with text_story as (
+	select "H-ID" as tid, unnest("is_expression_of H-ID") as sid
+	from TextTable
+)
 select
-  s.preferred_name AS story,
-  t.*
-from
-  (
-  select
-    UNNEST(t."is_expression_of H-ID") as story_id,
+	any_value(s.preferred_name) as story_name,
+	any_value(text_story.sid) as story_id,
     t."H-ID" text_id,
     any_value(t.preferred_name) text_name,
     any_value(t.tradition_status) text_status,
@@ -21,10 +21,11 @@ from
     date_trunc('day', max(w.date_of_creation.estMaxDate)) latest_wit
   from TextTable t
   left join Witness w on t."H-ID" = w."is_manifestation_of H-ID"
+  left join text_story on text_story.tid = t."H-ID"
+  left join Story s on text_story.sid = s."H-ID"
   where t.is_hypothetical like 'No'
   and t.peripheral like 'No'
   and t.tradition_status not like 'lost'
-  group by (t."H-ID", t."is_expression_of H-ID")
-) t
-left join Story s on s."H-ID" = t.story_id
-order by (t.story_id, t.text_earliest);
+  group by (t."H-ID")
+  order by (story_id, text_earliest)
+;
